@@ -1,13 +1,14 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="./name/welcome/w_index.html" alt="Welcome Animation" width="700">
+  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700" height="530"></iframe>
 </p>
 
 ## 🚀 About Me
 
 <p align="center">
-  <img src="./name/index.html" alt="name Animation" width="700">
+  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/name/index.html" width="700" height="400"></iframe>
+</p>
 
 - 🎓 I’m currently a student, always eager to learn and grow.
 - 🌱 I’m currently learning **Blockchain, DevOps, and AI**.
@@ -41,7 +42,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="./snake-animation/index.html">
+  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/snake-animation/index.html" width="700" height="300"></iframe>
 </p>
 
 ## 📅 Commit Breakdown
@@ -84,7 +85,7 @@
 ## 🎭 Fun Animation
 
 <p align="center">
-  <img src="assets/flamingo.gif" alt="Flamingo Animation" width="300">
+  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/flamingo/index.html" width="700" height="300"></iframe>
 </p>
 
 ---
