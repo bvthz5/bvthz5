@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700" height="530"></iframe>
+  <img src="https://github.com/bvthz5/bvthz5/blob/main/name/welcome/w_index.html" width="700">
 </p>
 
 ## 🚀 About Me
