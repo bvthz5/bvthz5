@@ -1,0 +1,70 @@
+/* Import Nexa Round Font */
+@import url('https://fonts.cdnfonts.com/css/nexa-round');
+
+/* General Page Styling */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #121212; /* Deep Charcoal Black */
+    font-family: 'Nexa Round', sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Centered Main Container */
+.container {
+    padding: 30px;
+    border-radius: 15px;
+    background: rgba(20, 20, 20, 0.95);
+    box-shadow: 0 0 10px rgba(0, 174, 239, 0.2);
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+}
+
+/* Static Text */
+.static-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffffff; /* Cool Blue */
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.523);
+}
+
+/* Name Display */
+.name {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #00AEEF; /* Vibrant Neon Blue */
+    text-shadow: 0 0 10px rgba(0, 174, 239, 0.5);
+    margin-top: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Passion Statement */
+.statement {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #5EEAD4; /* Soft Aqua Green */
+    text-shadow: 0 0 8px rgba(94, 234, 212, 0.4);
+    border-right: 3px solid rgba(94, 234, 212, 0.6);
+    animation: blink-caret 0.75s step-end infinite;
+    margin-top: 15px;
+}
+
+/* Blinking Cursor Effect */
+@keyframes blink-caret {
+    50% { border-color: transparent; }
+}
+
+/* Curtain Effect */
+.curtain {
+    animation: curtain 1.5s ease-in-out;
+}
+
+@keyframes curtain {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
