@@ -1,13 +1,13 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://github.com/bvthz5/bvthz5/blob/main/name/welcome/w_index.html" alt="Welcome Animation" width="700">
+  <img src="./name/welcome/w_index.html" alt="Welcome Animation" width="700">
 </p>
 
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://github.com/bvthz5/bvthz5/blob/d7d8213b6d58efdf5156d4c171ac70f3e16d6cc7/name/index.html" alt="Welcome Animation" width="700">
+  <img src="./name/index.html" alt="name Animation" width="700">
 
 - 🎓 I’m currently a student, always eager to learn and grow.
 - 🌱 I’m currently learning **Blockchain, DevOps, and AI**.
@@ -19,11 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
 
-## 🔥 GitHub Contribution Grid Animation
+<!-- ## 🔥 GitHub Contribution Grid Animation
 
 <p align="center">
   <img src="assets/animation.svg" alt="GitHub Contribution Animation" width="700">
-</p>
+</p> -->
 
 ## 📈 GitHub Stats & Contributions
 
@@ -41,7 +41,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/bvthz5/bvthz5/blob/output/github-contribution-grid-snake.svg">
+  <img src="./snake-animation/index.html">
 </p>
 
 ## 📅 Commit Breakdown
