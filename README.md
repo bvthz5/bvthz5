@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://github.com/bvthz5/bvthz5/blob/main/name/welcome/w_index.html" width="700">
+  <img src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700">
 </p>
 
 ## 🚀 About Me
