@@ -1,20 +1,29 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <a href="https://bvthz5.github.io/name/welcome/w_index.html">
-    <img src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700">
-  </a>
+ <img src="./gif/intro.gif" width="500" height="300">
 </p>
 
 ## 🚀 About Me
 
 <p align="center">
-  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/name/index.html" width="700" height="400"></iframe>
+  <img src="./gif/name.gif" width="500" height="300">
 </p>
 
-- 🎓 I’m currently a student, always eager to learn and grow.
-- 🌱 I’m currently learning **Blockchain, DevOps, and AI**.
-- ⚡ Fun fact: I love designing futuristic worlds and storytelling through animation.
+<table>
+  <tr>
+    <td>
+      - 🎓 I’m currently a student, always eager to learn and grow.!<br>
+      - 🌱 I’m currently learning <b>Blockchain, DevOps, and AI</b>.<br>
+      - 💡 I enjoy solving real-world problems through technology.<br>
+      - ⚡ Fun fact: I love designing futuristic worlds and storytelling through animation.
+    </td>
+    <td>
+      <img height="150" width="250" alt="image" src="./gif/coder.gif" />
+    </td>
+  </tr>
+</table>
+
 
 ## 👀 Profile Views
 
