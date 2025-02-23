@@ -1,8 +1,11 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700">
+  <a href="https://bvthz5.github.io/name/welcome/w_index.html">
+    <img src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/name/welcome/w_index.html" width="700">
+  </a>
 </p>
+
 
 ## 🚀 About Me
 
@@ -30,7 +33,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150"><br><br>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ### 📊 Languages Used
@@ -47,10 +51,12 @@
 
 ## 📅 Commit Breakdown
 
-🌞 **Morning** (6 AM - 12 PM):  
-🌤 **Daytime** (12 PM - 6 PM):  
-🌙 **Evening** (6 PM - 12 AM):  
-🌑 **Night** (12 AM - 6 AM):  
+```text
+🌞 Morning                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌤 Daytime                1865 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌙 Evening                1375 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌑 Night                  634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+```
 
 ## 📦 My GitHub Data
 
@@ -78,9 +84,8 @@
 
 ## 🎵 Spotify Now Playing
 
-<p align="center">
-  <img src="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true">
-</p>
+<p align="center"> <a href="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true"> <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /> </a> </p>
+
 
 ## 🎭 Fun Animation
 
