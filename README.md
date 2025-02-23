@@ -1,6 +1,33 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
+  <!-- Profile Views -->
+ <img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/bvthz5?label=Followers&style=flat&color=green" alt="GitHub Followers">
+
+  <!-- GitHub Contributions -->
+  <img src="https://img.shields.io/github/contributors/bvthz5/bvthz5?label=Contributors&style=flat&color=red" alt="GitHub Contributors">
+
+ <!-- GitHub Watchers -->
+<img src="https://img.shields.io/github/watchers/bvthz5/bvthz5?label=Watchers&style=flat&color=purple" alt="GitHub Watchers">
+
+<!-- GitHub Issues -->
+<img src="https://img.shields.io/github/issues/bvthz5/bvthz5?label=Issues&style=flat&color=blueviolet" alt="GitHub Issues">
+
+<!-- GitHub Pull Requests -->
+<img src="https://img.shields.io/github/issues-pr/bvthz5/bvthz5?label=Pull%20Requests&style=flat&color=lightgrey" alt="GitHub Pull Requests">
+
+<!-- GitHub Stars -->
+<img src="https://img.shields.io/github/stars/bvthz5/bvthz5?label=Total%20Stars&style=flat&color=gold" alt="Total GitHub Stars">
+
+<!-- GitHub Forks -->
+<img src="https://img.shields.io/github/forks/bvthz5/bvthz5?label=Forks&style=flat&color=orange" alt="GitHub Forks">
+
+</p>
+
+<p align="center">
  <img src="./gif/intro.gif" width="500" height="300">
 </p>
 
@@ -10,26 +37,19 @@
   <img src="./gif/name.gif" width="500" height="300">
 </p>
 
-<table>
+<table style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: white; text-align: left; border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
-      - 🎓 I’m currently a student, always eager to learn and grow.!<br>
-      - 🌱 I’m currently learning <b>Blockchain, DevOps, and AI</b>.<br>
-      - 💡 I enjoy solving real-world problems through technology.<br>
-      - ⚡ Fun fact: I love designing futuristic worlds and storytelling through animation.
+    <td style="padding: 10px; vertical-align: middle; color: white;">
+      <p style="margin: 5px 0;">🎓 <span style="color: white;">I’m currently a</span> <span style="color: #FFD700;">student</span>, <span style="color: white;">always eager to learn and grow!</span></p>
+      <p style="margin: 5px 0;">🌱 <span style="color: white;">I’m currently learning</span> <span style="color: #00FF7F;">Blockchain, DevOps, and AI</span>.</p>
+      <p style="margin: 5px 0;">💡 <span style="color: white;">I enjoy</span> <span style="color: #1E90FF;">solving real-world problems</span> <span style="color: white;">through technology.</span></p>
+      <p style="margin: 5px 0;">⚡ <span style="color: white;">Fun fact: I love designing</span> <span style="color: #FF4500;">futuristic worlds</span> <span style="color: white;">and storytelling through animation.</span></p>
     </td>
-    <td>
-      <img height="150" width="250" alt="image" src="./gif/coder.gif" />
+    <td style="padding: 10px; text-align: center; vertical-align: middle;">
+      <img height="150" width="250" alt="image" src="./gif/coder.gif" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);" />
     </td>
   </tr>
 </table>
-
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
 
 <!-- ## 🔥 GitHub Contribution Grid Animation
 
