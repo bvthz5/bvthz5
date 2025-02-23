@@ -83,12 +83,40 @@
 
 ## 📅 Commit Breakdown
 
-```
-🌞 Morning                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-🌤 Daytime                1865 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
-🌙 Evening                1375 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌑 Night                  634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-```
+<table>
+  <tr>
+    <th>Time of Day</th>
+    <th>Commits</th>
+    <th>Percentage</th>
+    <th>Progress</th>
+  </tr>
+  <tr>
+    <td>🌞 <b>Morning</b></td>
+    <td><b>766</b></td>
+    <td><b>16.51%</b></td>
+    <td><progress value="16.51" max="100"></progress></td>
+  </tr>
+  <tr>
+    <td>🌤 <b>Daytime</b></td>
+    <td><b>1,865</b></td>
+    <td><b>40.19%</b></td>
+    <td><progress value="40.19" max="100"></progress></td>
+  </tr>
+  <tr>
+    <td>🌙 <b>Evening</b></td>
+    <td><b>1,375</b></td>
+    <td><b>29.63%</b></td>
+    <td><progress value="29.63" max="100"></progress></td>
+  </tr>
+  <tr>
+    <td>🌑 <b>Night</b></td>
+    <td><b>634</b></td>
+    <td><b>13.66%</b></td>
+    <td><progress value="13.66" max="100"></progress></td>
+  </tr>
+</table>
+
+<h3>🔥 Total Commits: <b>4,640</b> 🚀</h3>
 
 ---
 
@@ -159,6 +187,7 @@
 ---
 
 ## 🏆 GitHub Trophies  
+
 ![](https://github-profile-trophy.vercel.app/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
@@ -179,8 +208,8 @@
 ### 🚀 Extras
 
 <p align="center">
-  <strong>🔹 Interests:</strong> AI | Blockchain | Cybersecurity | Animation | Storytelling <br>
-  <strong>🎯 Hobbies:</strong> Coding | Writing | Exploring New Tech Trends | Gaming
+  <strong>🔹 Interests : </strong> AI | Blockchain | Cybersecurity | Animation | Storytelling <br>
+  <strong>🎯 Hobbies : </strong> Coding | Writing | Exploring New Tech Trends | Gaming
 </p>
 
 <p align="center">
@@ -188,5 +217,11 @@
   <img src="https://img.shields.io/badge/Happy%20Coding!-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/🚀%20Keep%20Exploring!-0077B5?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
+
+---
+
+### ☕- Support 💸✨
+
+<a href="https://www.buymeacoffee.com/binilvincent5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=binilvincent5&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
