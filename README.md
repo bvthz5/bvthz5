@@ -46,12 +46,12 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/snake-animation/index.html" width="700" height="300"></iframe>
+  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/assets/snake.svg" width="700" height="300"></iframe>
 </p>
 
 ## 📅 Commit Breakdown
 
-```text
+```
 🌞 Morning                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 🌤 Daytime                1865 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
 🌙 Evening                1375 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
