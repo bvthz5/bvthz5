@@ -29,7 +29,7 @@ scene.add(dirLight);
 const loader = new GLTFLoader();
 let flamingo;
 
-loader.load("assets/Flamingo.glb", (gltf) => {
+loader.load("../assets/Flamingo.glb", (gltf) => {
     flamingo = gltf.scene;
     flamingo.scale.set(0.02, 0.02, 0.02);
     flamingo.position.set(0, 1, 0);
