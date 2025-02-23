@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 ## 🚀 About Me
 
 <p align="center">
@@ -46,7 +45,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <iframe src="https://raw.githack.com/bvthz5/bvthz5/main/assets/snake.svg" width="700" height="300"></iframe>
+  <img src="https://raw.githack.com/bvthz5/bvthz5/main/assets/snake.svg" width="700" height="300">
 </p>
 
 ## 📅 Commit Breakdown
@@ -85,7 +84,6 @@
 ## 🎵 Spotify Now Playing
 
 <p align="center"> <a href="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true"> <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /> </a> </p>
-
 
 ## 🎭 Fun Animation
 
