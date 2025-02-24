@@ -170,7 +170,18 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <img src="./assets/badges.svg" width="500"/>
+  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
+  </a>
+  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
+  </a>
+  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
+  </a>
+  <a href="https://discord.gg/rVdFFxfG" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
+  </a>
 </p>
 
 ---
