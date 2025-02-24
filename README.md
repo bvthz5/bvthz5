@@ -94,25 +94,25 @@
     <td>🌞 <b>Morning</b></td>
     <td><b>766</b></td>
     <td><b>16.51%</b></td>
-    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 16%, rgba(0, 255, 255, 0.2) 16%);"></div></td>
+    <td>█████░░░░░░░░ (16%)</td>
   </tr>
   <tr>
     <td>🌤 <b>Daytime</b></td>
     <td><b>1,865</b></td>
     <td><b>40.19%</b></td>
-    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 40%, rgba(0, 255, 255, 0.2) 40%);"></div></td>
+    <td>███████████░░░░ (40%)</td>
   </tr>
   <tr>
     <td>🌙 <b>Evening</b></td>
     <td><b>1,375</b></td>
     <td><b>29.63%</b></td>
-    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 30%, rgba(0, 255, 255, 0.2) 30%);"></div></td>
+    <td>█████████░░░░░░ (30%)</td>
   </tr>
   <tr>
     <td>🌑 <b>Night</b></td>
     <td><b>634</b></td>
     <td><b>13.66%</b></td>
-    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 14%, rgba(0, 255, 255, 0.2) 14%);"></div></td>
+    <td>███░░░░░░░░░░░ (14%)</td>
   </tr>
 </table>
 
@@ -170,95 +170,8 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
-  </a>
-  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
-  </a>
-  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
-  </a>
-  <a href="https://discord.gg/rVdFFxfG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
-  </a>
+  <img src="./assets/badges.svg" width="500"/>
 </p>
-
-<style>
-  .holo-badge {
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    border-radius: 8px;
-  }
-
-  .holo-badge:hover {
-    transform: scale(1.1);
-    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);
-  }
-
-  .holo-badge:active {
-    transform: scale(1.2);
-    box-shadow: 0px 0px 20px rgba(0, 255, 255, 1);
-  }
-</style>
-
-<script>
-  document.querySelectorAll(".holo-badge").forEach(badge => {
-    badge.addEventListener("click", (event) => {
-      event.preventDefault();
-      const url = event.currentTarget.parentNode.href;
-
-      const popup = document.createElement("div");
-      popup.innerHTML = `
-        <div class="holo-popup">
-          <p>Opening in a new universe...</p>
-          <a href="${url}" target="_blank">Continue</a>
-        </div>
-      `;
-      document.body.appendChild(popup);
-
-      setTimeout(() => {
-        window.open(url, "_blank");
-        popup.remove();
-      }, 2000);
-    });
-  });
-
-  const style = document.createElement("style");
-  style.innerHTML = `
-    .holo-popup {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(0, 0, 0, 0.8);
-      padding: 20px;
-      border-radius: 10px;
-      text-align: center;
-      color: cyan;
-      font-family: 'Orbitron', sans-serif;
-      font-size: 18px;
-      box-shadow: 0 0 15px cyan;
-      animation: fadeIn 0.3s ease-in-out;
-    }
-
-    .holo-popup a {
-      display: inline-block;
-      margin-top: 10px;
-      padding: 8px 12px;
-      background: cyan;
-      color: black;
-      border-radius: 5px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-  `;
-  document.head.appendChild(style);
-</script>
 
 ---
 
