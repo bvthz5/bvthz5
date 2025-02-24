@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150"><br><br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
 </p>
 
 ---
@@ -94,25 +94,25 @@
     <td>🌞 <b>Morning</b></td>
     <td><b>766</b></td>
     <td><b>16.51%</b></td>
-    <td><progress value="16.51" max="100"></progress></td>
+    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 16%, rgba(0, 255, 255, 0.2) 16%);"></div></td>
   </tr>
   <tr>
     <td>🌤 <b>Daytime</b></td>
     <td><b>1,865</b></td>
     <td><b>40.19%</b></td>
-    <td><progress value="40.19" max="100"></progress></td>
+    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 40%, rgba(0, 255, 255, 0.2) 40%);"></div></td>
   </tr>
   <tr>
     <td>🌙 <b>Evening</b></td>
     <td><b>1,375</b></td>
     <td><b>29.63%</b></td>
-    <td><progress value="29.63" max="100"></progress></td>
+    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 30%, rgba(0, 255, 255, 0.2) 30%);"></div></td>
   </tr>
   <tr>
     <td>🌑 <b>Night</b></td>
     <td><b>634</b></td>
     <td><b>13.66%</b></td>
-    <td><progress value="13.66" max="100"></progress></td>
+    <td><div style="width: 100px; height: 10px; background: linear-gradient(to right, cyan 14%, rgba(0, 255, 255, 0.2) 14%);"></div></td>
   </tr>
 </table>
 
@@ -170,19 +170,95 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
   </a>
-  <a href="https://www.instagram.com/b__nil___thaz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
   </a>
-  <a href="https://youtube.com/@treasuretoons-5">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
   </a>
-  <a href="https://discord.gg/rVdFFxfG">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" />
+  <a href="https://discord.gg/rVdFFxfG" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
   </a>
 </p>
+
+<style>
+  .holo-badge {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border-radius: 8px;
+  }
+
+  .holo-badge:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);
+  }
+
+  .holo-badge:active {
+    transform: scale(1.2);
+    box-shadow: 0px 0px 20px rgba(0, 255, 255, 1);
+  }
+</style>
+
+<script>
+  document.querySelectorAll(".holo-badge").forEach(badge => {
+    badge.addEventListener("click", (event) => {
+      event.preventDefault();
+      const url = event.currentTarget.parentNode.href;
+
+      const popup = document.createElement("div");
+      popup.innerHTML = `
+        <div class="holo-popup">
+          <p>Opening in a new universe...</p>
+          <a href="${url}" target="_blank">Continue</a>
+        </div>
+      `;
+      document.body.appendChild(popup);
+
+      setTimeout(() => {
+        window.open(url, "_blank");
+        popup.remove();
+      }, 2000);
+    });
+  });
+
+  const style = document.createElement("style");
+  style.innerHTML = `
+    .holo-popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      color: cyan;
+      font-family: 'Orbitron', sans-serif;
+      font-size: 18px;
+      box-shadow: 0 0 15px cyan;
+      animation: fadeIn 0.3s ease-in-out;
+    }
+
+    .holo-popup a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 12px;
+      background: cyan;
+      color: black;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  `;
+  document.head.appendChild(style);
+</script>
 
 ---
 
@@ -202,6 +278,33 @@
 
 <p align="center">
   <img src="./gif/bird.gif" width="500" height="300">
+
+---
+
+## 🚀 WakaTime Stats  
+
+<p align="center">
+  <a href="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc"
+     style="
+     display: inline-block;
+     padding: 12px 24px;
+     background: rgba(0, 255, 255, 0.15);
+     border: 2px solid cyan;
+     border-radius: 12px;
+     box-shadow: 0px 0px 20px cyan;
+     text-align: center;
+     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+     animation: glow 1.5s infinite alternate;">
+    <img src="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc.svg"
+         style="filter: drop-shadow(0px 0px 10px cyan);" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bvthaz&theme=radical"
+       alt="WakaTime Stats"
+       style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
+</p>
 
 ---
 
