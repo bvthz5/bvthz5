@@ -255,6 +255,7 @@
 
 ### ☕- Support 💸✨
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="binilvincent5" data-color="#FFDD00" data-emoji="🦖"  data-font="Bree" data-text="Buy me a Dino" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[![Buy Me a Dino](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+Dino&emoji=🦖&slug=binilvincent5&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/binilvincent5)
+
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
