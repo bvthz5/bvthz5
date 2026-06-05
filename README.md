@@ -192,42 +192,9 @@
 
 ## 🧬 R&D Lifecycle & Architecture
 
-<table width="100%">
-  <tr align="center">
-    <th width="22%">🧠 1. Research & Signal Capture</th>
-    <th width="4%"></th>
-    <th width="22%">⚙️ 2. Cognitive Logic</th>
-    <th width="4%"></th>
-    <th width="22%">📊 3. Neural Training</th>
-    <th width="4%"></th>
-    <th width="22%">🛸 4. Swarm Execution</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://img.shields.io/badge/EEG_Signals-0d1117?style=flat-square&logo=activity&logoColor=00FFFF" alt="EEG Signals Badge" /><br>
-      <img src="https://img.shields.io/badge/Artifact_Removal-0d1117?style=flat-square&logo=dependabot&logoColor=00FFFF" alt="Artifact Removal Badge" /><br>
-      <img src="https://img.shields.io/badge/Feature_Extraction-0d1117?style=flat-square&logo=python&logoColor=00FFFF" alt="Feature Extraction Badge" />
-    </td>
-    <td><h2>➔</h2></td>
-    <td>
-      <img src="https://img.shields.io/badge/RAG_Systems-0d1117?style=flat-square&logo=databricks&logoColor=bd93f9" alt="RAG Systems Badge" /><br>
-      <img src="https://img.shields.io/badge/Agent_Frameworks-0d1117?style=flat-square&logo=probot&logoColor=bd93f9" alt="Agent Frameworks Badge" /><br>
-      <img src="https://img.shields.io/badge/Semantic_Memory-0d1117?style=flat-square&logo=semanticrelease&logoColor=bd93f9" alt="Semantic Memory Badge" />
-    </td>
-    <td><h2>➔</h2></td>
-    <td>
-      <img src="https://img.shields.io/badge/Time--Series_ML-0d1117?style=flat-square&logo=pytorch&logoColor=ff79c6" alt="Time-Series ML Badge" /><br>
-      <img src="https://img.shields.io/badge/Transformer_Models-0d1117?style=flat-square&logo=huggingface&logoColor=ff79c6" alt="Transformer Models Badge" /><br>
-      <img src="https://img.shields.io/badge/Neural_Classification-0d1117?style=flat-square&logo=tensorflow&logoColor=ff79c6" alt="Neural Classification Badge" />
-    </td>
-    <td><h2>➔</h2></td>
-    <td>
-      <img src="https://img.shields.io/badge/UAV_Flight_API-0d1117?style=flat-square&logo=aircanada&logoColor=50fa7b" alt="UAV Flight API Badge" /><br>
-      <img src="https://img.shields.io/badge/Realtime_Telemetry-0d1117?style=flat-square&logo=statuspage&logoColor=50fa7b" alt="Realtime Telemetry Badge" /><br>
-      <img src="https://img.shields.io/badge/Swarm_Control-0d1117?style=flat-square&logo=kubernetes&logoColor=50fa7b" alt="Swarm Control Badge" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/rd_lifecycle.svg" alt="R&D Lifecycle & Architecture" width="900" />
+</p>
 
 ---
 
