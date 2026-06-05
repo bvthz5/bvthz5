@@ -190,14 +190,6 @@
 
 ---
 
-## 🧬 R&D Lifecycle & Architecture
-
-<p align="center">
-  <img src="assets/rd_lifecycle.svg" alt="R&D Lifecycle & Architecture" width="900" />
-</p>
-
----
-
 ## 📜 Certifications & Hackathons
 
 <table width="100%">
