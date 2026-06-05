@@ -8,22 +8,22 @@
   <img src="https://img.shields.io/github/followers/bvthz5?label=Followers&style=flat&color=green" alt="GitHub Followers">
 
   <!-- GitHub Contributions -->
-  <img src="https://img.shields.io/github/contributors/bvthz5/bvthz5?label=Contributors&style=flat&color=red" alt="GitHub Contributors">
+  <img src="https://badgen.net/github/contributors/bvthz5/bvthz5?color=red&label=Contributors" alt="GitHub Contributors">
 
- <!-- GitHub Watchers -->
-<img src="https://img.shields.io/github/watchers/bvthz5/bvthz5?label=Watchers&style=flat&color=purple" alt="GitHub Watchers">
+  <!-- GitHub Watchers -->
+  <img src="https://badgen.net/github/watchers/bvthz5/bvthz5?color=purple&label=Watchers" alt="GitHub Watchers">
 
-<!-- GitHub Issues -->
-<img src="https://img.shields.io/github/issues/bvthz5/bvthz5?label=Issues&style=flat&color=blueviolet" alt="GitHub Issues">
+  <!-- GitHub Issues -->
+  <img src="https://badgen.net/github/open-issues/bvthz5/bvthz5?color=blueviolet&label=Issues" alt="GitHub Issues">
 
-<!-- GitHub Pull Requests -->
-<img src="https://img.shields.io/github/issues-pr/bvthz5/bvthz5?label=Pull%20Requests&style=flat&color=lightgrey" alt="GitHub Pull Requests">
+  <!-- GitHub Pull Requests -->
+  <img src="https://badgen.net/github/prs/bvthz5/bvthz5?color=grey&label=Pull%20Requests" alt="GitHub Pull Requests">
 
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/bvthz5/bvthz5?label=Total%20Stars&style=flat&color=gold" alt="Total GitHub Stars">
+  <!-- GitHub Stars -->
+  <img src="https://badgen.net/github/stars/bvthz5/bvthz5?color=gold&label=Total%20Stars" alt="Total GitHub Stars">
 
-<!-- GitHub Forks -->
-<img src="https://img.shields.io/github/forks/bvthz5/bvthz5?label=Forks&style=flat&color=orange" alt="GitHub Forks">
+  <!-- GitHub Forks -->
+  <img src="https://badgen.net/github/forks/bvthz5/bvthz5?color=orange&label=Forks" alt="GitHub Forks">
 
 </p>
 
@@ -72,8 +72,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150">
 </p>
 
 ---
