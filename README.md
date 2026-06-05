@@ -27,6 +27,13 @@
 
 </p>
 
+<!-- Portfolio Badge -->
+<p align="center">
+  <a href="https://bvthz5.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=26&center=true&vCenter=true&width=900&lines=🚀+Intergalactic+Neural+Networks+Online...;🛸+Decoding+Alien+Signals+from+Deep+Space...;🌊+Harnessing+Bioluminescent+Tech+from+Oceanic+Depths...;⚛️+Quantum+Linking+with+Future+Civilizations...;🔮+Rewriting+Reality+at+Lightspeed...;">
 </p>
