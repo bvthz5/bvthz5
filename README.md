@@ -314,24 +314,45 @@
 ## 🎯 Current Focus & Learning Path
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="justify">
-      <h4>🚀 Active Research & Updates</h4>
-      <ul>
-        <li><b>Retrieval-Augmented Generation (RAG):</b> Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</li>
-        <li><b>Autonomous AI Agents:</b> Investigating multi-agent collaboration frameworks using the ReAct paradigm, dynamic tool-use coordination, and contextual memory models.</li>
-        <li><b>BCI Navigation Systems:</b> Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="justify">
-      <h4>📚 Advanced Tech Updates & Roadmap</h4>
-      <ul>
-        <li><b>Neural Signal Processing & Deep Learning:</b> Training sequential time-series model architectures for classification of neural features.</li>
-        <li><b>Vector Databases & LLM Integration:</b> Exploring advanced indexing in databases like PgVector/Pinecone for high-fidelity agent tools.</li>
-        <li><b>System Orchestration:</b> Mastering Kubernetes clusters, multi-tier Docker environments, and modern CI/CD deployment pipelines.</li>
-      </ul>
-    </td>
-  </tr>
+  <thead>
+    <tr align="left">
+      <th width="30%">🔍 Focus & Topic</th>
+      <th width="20%">🏷️ Domain</th>
+      <th width="50%">🎯 Objectives & R&D</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Retrieval-Augmented Gen</b></td>
+      <td><img src="https://img.shields.io/badge/AI%20%7C%20LLM%20Ops-blueviolet?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</td>
+    </tr>
+    <tr>
+      <td><b>Autonomous AI Agents</b></td>
+      <td><img src="https://img.shields.io/badge/Agentic%20AI-blue?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Investigating multi-agent collaboration frameworks using the ReAct paradigm, dynamic tool-use coordination, and contextual memory models.</td>
+    </tr>
+    <tr>
+      <td><b>BCI Navigation Systems</b></td>
+      <td><img src="https://img.shields.io/badge/Neurotechnology-success?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</td>
+    </tr>
+    <tr>
+      <td><b>Neural Signal Processing</b></td>
+      <td><img src="https://img.shields.io/badge/Deep%20Learning-orange?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Training sequential time-series model architectures for classification of neural features.</td>
+    </tr>
+    <tr>
+      <td><b>Vector Databases</b></td>
+      <td><img src="https://img.shields.io/badge/Data%20Eng-yellow?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Exploring advanced indexing in databases like PgVector/Pinecone for high-fidelity agent tools.</td>
+    </tr>
+    <tr>
+      <td><b>System Orchestration</b></td>
+      <td><img src="https://img.shields.io/badge/DevOps%20%7C%20MLOps-grey?style=flat-square" alt="Domain Badge" /></td>
+      <td align="justify">Mastering Kubernetes clusters, multi-tier Docker environments, and modern CI/CD deployment pipelines.</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
