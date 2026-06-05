@@ -34,6 +34,13 @@
   </a>
 </p>
 
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node%20Status-Online-39FF14?style=flat-square&logo=statuspage&logoColor=black&labelColor=0d1117" alt="Node Status">
+  <img src="https://img.shields.io/badge/Research%20Focus-BCI%20%26%20AI%20Agents-bd93f9?style=flat-square&logo=databricks&logoColor=white&labelColor=0d1117" alt="Research Focus">
+  <img src="https://img.shields.io/badge/Latest%20Paper-EEG%20UAV%20Control-ffb86c?style=flat-square&logo=academia&logoColor=white&labelColor=0d1117" alt="Latest Paper">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=26&center=true&vCenter=true&width=900&lines=🚀+Intergalactic+Neural+Networks+Online...;🛸+Decoding+Alien+Signals+from+Deep+Space...;🌊+Harnessing+Bioluminescent+Tech+from+Oceanic+Depths...;⚛️+Quantum+Linking+with+Future+Civilizations...;🔮+Rewriting+Reality+at+Lightspeed...;">
 </p>
@@ -62,6 +69,42 @@
     </td>
     <td style="padding: 10px; text-align: center; vertical-align: middle;">
       <img height="150" width="250" alt="image" src="./gif/coder.gif" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Thazio Neural Labs — Research Console
+
+<table width="100%">
+  <tr>
+    <td>
+      <pre align="left" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; font-family: monospace; color: #58a6ff; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+<span style="color: #79c0ff;">$ systemctl status thazio-research-node</span>
+● thazio-research-node.service - BCI & AI Agents Cognitive Orchestration
+     Loaded: loaded (/etc/systemd/system/thazio-research-node.service; enabled; vendor preset: enabled)
+     Active: <span style="color: #56d364;">active (running)</span> since Fri 2026-06-05; 7h ago
+   Main PID: 8847 (neurolink-agent)
+      Tasks: 42 (limit: 4915)
+     Memory: 4.8G (shared neural buffer)
+        CPU: 12.4% (optimized execution)
+
+<span style="color: #79c0ff;">$ cat /etc/thazio-labs/focus.json</span>
+{
+  <span style="color: #ff7b72;">"node_status"</span>: <span style="color: #a5d6ff;">"Active R&D"</span>,
+  <span style="color: #ff7b72;">"current_experiment"</span>: <span style="color: #a5d6ff;">"EEG-based BCI low-latency UAV control mapping"</span>,
+  <span style="color: #ff7b72;">"ai_agent_subsystems"</span>: [
+    <span style="color: #a5d6ff;">"RAG Semantic Memory Indexer (v2.1-stable)"</span>,
+    <span style="color: #a5d6ff;">"Autonomous Multi-Agent Swarm Orchestration"</span>
+  ],
+  <span style="color: #ff7b72;">"core_philosophy"</span>: [
+    <span style="color: #a5d6ff;">"Clean Code Architecture"</span>,
+    <span style="color: #a5d6ff;">"Continuous Cognitive Optimization"</span>,
+    <span style="color: #a5d6ff;">"Neuro-Symbiotic Interface Design"</span>
+  ]
+}
+      </pre>
     </td>
   </tr>
 </table>
