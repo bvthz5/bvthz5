@@ -68,6 +68,72 @@
 
 ---
 
+## 🛠 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪑 <a href="https://github.com/bvthz5/Seat-Sync">Seat-Sync</a></h3>
+      <p><i>Smart seating plan visualization and real-time synchronization system. Features dynamic drag-and-drop grids and automated exam seating allocations.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-90%25-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20WS-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/bvthz5/thazio-labs">Thazio Labs</a></h3>
+      <p><i>Experimental playground and sandbox for advanced web technologies. Explores high-fidelity voice pipelines and interactive micro-animations.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active%20R%26D-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20AI%20Pipelines-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/bvthz5/Smart-Blood-Connect">Smart Blood Connect</a></h3>
+      <p><i>Real-time donor matchmaking and alert platform. Streamlines emergency donation queries, location mapping, and donor availability status.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node%20%7C%20MySQL-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/bvthz5/realestate">Real Estate Marketplace</a></h3>
+      <p><i>Full-scale digital real estate portal. Enables property listings, spatial searches, client booking interfaces, and secure agent dashboards.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Express%20%7C%20SQL-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Current Focus & Learning Path
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Working On</h4>
+      <ul>
+        <li>Optimizing core real-time websocket synchronization for <b>Seat-Sync</b>.</li>
+        <li>Refining frontend responsiveness and asset load times on <b>Portfolio</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Currently Learning</h4>
+      <ul>
+        <li>Advanced Docker orchestration and deployment pipelines.</li>
+        <li>Exploring Web3 smart contracts & blockchain-based state syncing.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
