@@ -180,9 +180,6 @@
           <img src="https://img.shields.io/badge/Topic-EEG--based%20BCI%20for%20UAV%20Control-blue?style=flat-square" alt="Topic Badge">
           <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
         </p>
-        <p align="justify">
-          <i>An advanced research paper exploring the integration of Electroencephalography (EEG) signals with deep learning classification models to establish direct Brain-Computer Interfaces (BCI) for real-time control of Unmanned Aerial Vehicles (UAVs). The work addresses artifact removal, neural signal feature extraction, and low-latency navigation mapping under sustainable development paradigms.</i>
-        </p>
       </div>
     </td>
   </tr>
