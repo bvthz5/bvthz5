@@ -15,6 +15,85 @@
         </div>
     </div>
 
+    <!-- Floating Music Toggle Button -->
+    <button class="music-toggle-btn" id="musicToggleBtn" aria-label="Toggle music player">
+        <span class="music-icon">🎵</span>
+    </button>
+
+    <!-- Floating Glassmorphic Music Player -->
+    <div class="music-player-panel" id="musicPlayerPanel">
+        <div class="player-header">
+            <span class="player-title">📻 BV-TAHZ Player</span>
+            <button class="player-close-btn" id="playerCloseBtn">&times;</button>
+        </div>
+
+        <div class="player-body">
+            <!-- CD Rotating Cover Art -->
+            <div class="cover-art-container">
+                <div class="vinyl-disc" id="vinylDisc">
+                    <div class="vinyl-center"></div>
+                </div>
+            </div>
+
+            <!-- Track Metadata -->
+            <div class="track-info">
+                <div class="track-title" id="trackTitle">Malare</div>
+                <div class="track-artist" id="trackArtist">From "Premam"</div>
+                <span class="track-lang-badge" id="trackLangBadge">Malayalam</span>
+            </div>
+
+            <!-- Audio Element -->
+            <audio id="audioElement" preload="auto"></audio>
+
+            <!-- Progress Bar -->
+            <div class="progress-container" id="progressContainer">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+            <div class="time-container">
+                <span class="time-text" id="currentTime">0:00</span>
+                <span class="time-text" id="totalDuration">0:00</span>
+            </div>
+
+            <!-- Playback Controls -->
+            <div class="player-controls">
+                <button class="control-btn" id="prevBtn" title="Previous Track">⏮</button>
+                <button class="control-btn play-btn" id="playBtn" title="Play">▶</button>
+                <button class="control-btn" id="nextBtn" title="Next Track">⏭</button>
+            </div>
+
+            <!-- Volume Control -->
+            <div class="volume-container">
+                <button class="volume-btn" id="volumeBtn" title="Mute/Unmute">🔊</button>
+                <input type="range" class="volume-slider" id="volumeSlider" min="0" max="1" step="0.05" value="0.7">
+            </div>
+
+            <!-- Playlist Selector Tabs -->
+            <div class="playlist-tabs">
+                <button class="tab-btn active" data-lang="ml">Malayalam</button>
+                <button class="tab-btn" data-lang="ta">Tamil</button>
+                <button class="tab-btn" data-lang="en">English</button>
+            </div>
+
+            <!-- Song List -->
+            <div class="song-list-container">
+                <ul class="song-list" id="songList">
+                    <!-- Populated dynamically via JS -->
+                </ul>
+            </div>
+        </div>
+
+        <!-- Animated Audio Visualizer Bars -->
+        <div class="visualizer-container" id="visualizerContainer">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
