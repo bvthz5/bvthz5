@@ -87,6 +87,14 @@
 
 ---
 
+## 🦖 Contribution Dino Grid
+
+<p align="center">
+  <img src="assets/dino.svg" width="700" height="300">
+</p>
+
+---
+
 ## 📅 Commit Breakdown
 
 <table>
