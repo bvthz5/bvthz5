@@ -90,9 +90,9 @@ async function main() {
         svg_content.push('  </defs>');
         
         svg_content.push('  <style>');
-        // Running cycle for legs
-        svg_content.push('    .leg-1 { animation: run-legs-1 0.2s steps(1) infinite; }');
-        svg_content.push('    .leg-2 { animation: run-legs-2 0.2s steps(1) infinite; }');
+        // Running cycle for legs - math synchronized to 0.2135s (leg switches every 0.1068s)
+        svg_content.push('    .leg-1 { animation: run-legs-1 0.2135s steps(1) infinite; }');
+        svg_content.push('    .leg-2 { animation: run-legs-2 0.2135s steps(1) infinite; }');
         svg_content.push('    @keyframes run-legs-1 { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }');
         svg_content.push('    @keyframes run-legs-2 { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }');
         
@@ -104,8 +104,8 @@ async function main() {
         svg_content.push('    .eye-blink { animation: eye-blink-anim 3.5s steps(1) infinite; }');
         svg_content.push('    @keyframes eye-blink-anim { 0%, 93%, 100% { opacity: 0; } 95% { opacity: 1; } }');
 
-        // Heavy bipedal Dino bobbing step animation
-        svg_content.push('    .dino-bob { animation: bobbing-anim 0.3s ease-in-out infinite alternate; }');
+        // Heavy bipedal Dino bobbing step animation - math synchronized to 0.1068s (bob with every step)
+        svg_content.push('    .dino-bob { animation: bobbing-anim 0.1068s ease-in-out infinite alternate; }');
         svg_content.push('    @keyframes bobbing-anim { 0% { transform: translateY(0px); } 100% { transform: translateY(-4px); } }');
 
         // Generate individual cell keyframes: reveal footprints after Dino has walked past
@@ -117,30 +117,20 @@ async function main() {
                 const d_reveal = startPadding + stepIdx * 15 + 12;
                 const t = d_reveal / totalLength;
                 
-                const tStart = Math.max(0, t - 0.001);
-                const tEnd = Math.min(1.0, t + 0.001);
-                const realColor = grid_colors[grid[row][col]];
+                // 0.2 seconds fade-in (0.005 fraction of 40s loop duration)
+                const tStart = Math.max(0, t - 0.0025);
+                const tEnd = Math.min(1.0, t + 0.0025);
                 
-                if (grid[row][col] === 0) {
-                    // Level 0 cells stay gray
-                    svg_content.push(`    @keyframes c${stepIdx} {`);
-                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { fill: #161b22; }`);
-                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { fill: #161b22; }`);
-                    svg_content.push(`    }`);
-                    svg_content.push(`    .cell-${stepIdx} { animation: c${stepIdx} ${duration}s linear infinite; }`);
-                } else {
-                    // Level > 0 cells fade from gray square to green T-Rex footprint
-                    svg_content.push(`    @keyframes bg-c${stepIdx} {`);
-                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 1; }`);
-                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 0; }`);
-                    svg_content.push(`    }`);
-                    svg_content.push(`    @keyframes fp-c${stepIdx} {`);
-                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 0; }`);
-                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 1; }`);
-                    svg_content.push(`    }`);
-                    svg_content.push(`    .cell-bg-${stepIdx} { animation: bg-c${stepIdx} ${duration}s linear infinite; }`);
-                    svg_content.push(`    .cell-footprint-${stepIdx} { animation: fp-c${stepIdx} ${duration}s linear infinite; }`);
-                }
+                svg_content.push(`    @keyframes bg-c${stepIdx} {`);
+                svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 1; }`);
+                svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 0; }`);
+                svg_content.push(`    }`);
+                svg_content.push(`    @keyframes fp-c${stepIdx} {`);
+                svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 0; }`);
+                svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 1; }`);
+                svg_content.push(`    }`);
+                svg_content.push(`    .cell-bg-${stepIdx} { animation: bg-c${stepIdx} ${duration}s linear infinite; }`);
+                svg_content.push(`    .cell-footprint-${stepIdx} { animation: fp-c${stepIdx} ${duration}s linear infinite; }`);
             }
         }
         svg_content.push('  </style>');
@@ -153,20 +143,26 @@ async function main() {
                 const stepIdx = col % 2 === 0 ? (col * 7 + row) : (col * 7 + (6 - row));
                 const realColor = grid_colors[grid[row][col]];
                 
-                if (grid[row][col] === 0) {
-                    svg_content.push(`  <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-${stepIdx}" fill="#161b22" />`);
+                // Determine footprint path (staggered left/right based on stepIdx)
+                let footprintPath;
+                if (stepIdx % 2 === 0) {
+                    // Left foot (shifted left by 1.5px)
+                    footprintPath = `M ${x + 3.5} ${y + 1.5} L ${x + 5.5} ${y + 1.5} L ${x + 5.5} ${y + 5} L ${x + 3.5} ${y + 5} Z ` +
+                                    `M ${x} ${y + 4} L ${x + 2} ${y + 3} L ${x + 3} ${y + 5.5} L ${x + 1} ${y + 6.5} Z ` +
+                                    `M ${x + 7} ${y + 3} L ${x + 9} ${y + 4} L ${x + 8} ${y + 6.5} L ${x + 6} ${y + 5.5} Z ` +
+                                    `M ${x + 2.5} ${y + 7} L ${x + 6.5} ${y + 7} L ${x + 6} ${y + 10.5} L ${x + 3} ${y + 10.5} Z`;
                 } else {
-                    svg_content.push(`  <g class="cell-group-${stepIdx}">`);
-                    // Gray square background
-                    svg_content.push(`    <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-bg-${stepIdx}" fill="#161b22" />`);
-                    // Green T-Rex footprint shape (offset by 12x12 cell boundaries)
-                    const footprintPath = `M ${x + 5} ${y + 1.5} L ${x + 7} ${y + 1.5} L ${x + 7} ${y + 5} L ${x + 5} ${y + 5} Z ` +
-                                          `M ${x + 1.5} ${y + 4} L ${x + 3.5} ${y + 3} L ${x + 4.5} ${y + 5.5} L ${x + 2.5} ${y + 6.5} Z ` +
-                                          `M ${x + 8.5} ${y + 3} L ${x + 10.5} ${y + 4} L ${x + 9.5} ${y + 6.5} L ${x + 7.5} ${y + 5.5} Z ` +
-                                          `M ${x + 4} ${y + 7} L ${x + 8} ${y + 7} L ${x + 7.5} ${y + 10.5} L ${x + 4.5} ${y + 10.5} Z`;
-                    svg_content.push(`    <path d="${footprintPath}" class="cell-footprint-${stepIdx}" fill="${realColor}" />`);
-                    svg_content.push(`  </g>`);
+                    // Right foot (shifted right by 1.5px)
+                    footprintPath = `M ${x + 6.5} ${y + 1.5} L ${x + 8.5} ${y + 1.5} L ${x + 8.5} ${y + 5} L ${x + 6.5} ${y + 5} Z ` +
+                                    `M ${x + 3} ${y + 4} L ${x + 5} ${y + 3} L ${x + 6} ${y + 5.5} L ${x + 4} ${y + 6.5} Z ` +
+                                    `M ${x + 10} ${y + 3} L ${x + 12} ${y + 4} L ${x + 11} ${y + 6.5} L ${x + 9} ${y + 5.5} Z ` +
+                                    `M ${x + 5.5} ${y + 7} L ${x + 9.5} ${y + 7} L ${x + 9} ${y + 10.5} L ${x + 6} ${y + 10.5} Z`;
                 }
+
+                svg_content.push(`  <g class="cell-group-${stepIdx}">`);
+                svg_content.push(`    <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-bg-${stepIdx}" fill="#161b22" />`);
+                svg_content.push(`    <path d="${footprintPath}" class="cell-footprint-${stepIdx}" fill="${realColor}" />`);
+                svg_content.push(`  </g>`);
             }
         }
 
