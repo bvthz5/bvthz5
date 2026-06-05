@@ -10,388 +10,2241 @@
     </filter>
   </defs>
   <style>
-    .leg-1 { animation: run-legs-1 0.3s steps(1) infinite; }
-    .leg-2 { animation: run-legs-2 0.3s steps(1) infinite; }
-    @keyframes run-legs-1 {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
+    .leg-1 { animation: run-legs-1 0.2s steps(1) infinite; }
+    .leg-2 { animation: run-legs-2 0.2s steps(1) infinite; }
+    @keyframes run-legs-1 { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes run-legs-2 { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    .mouth-closed { animation: toggle-mouth 0.4s steps(1) infinite; }
+    @keyframes toggle-mouth { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    .eye-blink { animation: eye-blink-anim 3.5s steps(1) infinite; }
+    @keyframes eye-blink-anim { 0%, 93%, 100% { opacity: 0; } 95% { opacity: 1; } }
+    @keyframes c0 {
+      0%, 0.3% { fill: #161b22; }
+      0.5%, 100% { fill: #161b22; }
     }
-    @keyframes run-legs-2 {
-      0%, 100% { opacity: 0; }
-      50% { opacity: 1; }
+    .cell-0 { animation: c0 40s linear infinite; }
+    @keyframes c1 {
+      0%, 0.5% { fill: #161b22; }
+      0.7%, 100% { fill: #161b22; }
     }
+    .cell-1 { animation: c1 40s linear infinite; }
+    @keyframes c2 {
+      0%, 0.8% { fill: #161b22; }
+      1%, 100% { fill: #161b22; }
+    }
+    .cell-2 { animation: c2 40s linear infinite; }
+    @keyframes c3 {
+      0%, 1.1% { fill: #161b22; }
+      1.3%, 100% { fill: #161b22; }
+    }
+    .cell-3 { animation: c3 40s linear infinite; }
+    @keyframes c4 {
+      0%, 1.3% { fill: #161b22; }
+      1.5%, 100% { fill: #161b22; }
+    }
+    .cell-4 { animation: c4 40s linear infinite; }
+    @keyframes c5 {
+      0%, 1.6% { fill: #161b22; }
+      1.8%, 100% { fill: #161b22; }
+    }
+    .cell-5 { animation: c5 40s linear infinite; }
+    @keyframes c6 {
+      0%, 1.9% { fill: #161b22; }
+      2.1%, 100% { fill: #161b22; }
+    }
+    .cell-6 { animation: c6 40s linear infinite; }
+    @keyframes c13 {
+      0%, 3.8% { fill: #161b22; }
+      4%, 100% { fill: #161b22; }
+    }
+    .cell-13 { animation: c13 40s linear infinite; }
+    @keyframes c12 {
+      0%, 3.5% { fill: #161b22; }
+      3.7%, 100% { fill: #161b22; }
+    }
+    .cell-12 { animation: c12 40s linear infinite; }
+    @keyframes c11 {
+      0%, 3.2% { fill: #161b22; }
+      3.4%, 100% { fill: #161b22; }
+    }
+    .cell-11 { animation: c11 40s linear infinite; }
+    @keyframes c10 {
+      0%, 2.9% { fill: #161b22; }
+      3.1%, 100% { fill: #161b22; }
+    }
+    .cell-10 { animation: c10 40s linear infinite; }
+    @keyframes c9 {
+      0%, 2.7% { fill: #161b22; }
+      2.9%, 100% { fill: #161b22; }
+    }
+    .cell-9 { animation: c9 40s linear infinite; }
+    @keyframes c8 {
+      0%, 2.4% { fill: #161b22; }
+      2.6%, 100% { fill: #161b22; }
+    }
+    .cell-8 { animation: c8 40s linear infinite; }
+    @keyframes c7 {
+      0%, 2.1% { fill: #161b22; }
+      2.3%, 100% { fill: #161b22; }
+    }
+    .cell-7 { animation: c7 40s linear infinite; }
+    @keyframes c14 {
+      0%, 4% { fill: #161b22; }
+      4.2%, 100% { fill: #161b22; }
+    }
+    .cell-14 { animation: c14 40s linear infinite; }
+    @keyframes c15 {
+      0%, 4.3% { fill: #161b22; }
+      4.5%, 100% { fill: #161b22; }
+    }
+    .cell-15 { animation: c15 40s linear infinite; }
+    @keyframes c16 {
+      0%, 4.6% { fill: #161b22; }
+      4.8%, 100% { fill: #161b22; }
+    }
+    .cell-16 { animation: c16 40s linear infinite; }
+    @keyframes c17 {
+      0%, 4.8% { fill: #161b22; }
+      5%, 100% { fill: #161b22; }
+    }
+    .cell-17 { animation: c17 40s linear infinite; }
+    @keyframes c18 {
+      0%, 5.1% { fill: #161b22; }
+      5.3%, 100% { fill: #161b22; }
+    }
+    .cell-18 { animation: c18 40s linear infinite; }
+    @keyframes c19 {
+      0%, 5.4% { fill: #161b22; }
+      5.6%, 100% { fill: #161b22; }
+    }
+    .cell-19 { animation: c19 40s linear infinite; }
+    @keyframes c20 {
+      0%, 5.6% { fill: #161b22; }
+      5.8%, 100% { fill: #161b22; }
+    }
+    .cell-20 { animation: c20 40s linear infinite; }
+    @keyframes c27 {
+      0%, 7.5% { fill: #161b22; }
+      7.7%, 100% { fill: #161b22; }
+    }
+    .cell-27 { animation: c27 40s linear infinite; }
+    @keyframes c26 {
+      0%, 7.2% { fill: #161b22; }
+      7.4%, 100% { fill: #161b22; }
+    }
+    .cell-26 { animation: c26 40s linear infinite; }
+    @keyframes c25 {
+      0%, 7% { fill: #161b22; }
+      7.2%, 100% { fill: #161b22; }
+    }
+    .cell-25 { animation: c25 40s linear infinite; }
+    @keyframes c24 {
+      0%, 6.7% { fill: #161b22; }
+      6.9%, 100% { fill: #161b22; }
+    }
+    .cell-24 { animation: c24 40s linear infinite; }
+    @keyframes c23 {
+      0%, 6.4% { fill: #161b22; }
+      6.6%, 100% { fill: #161b22; }
+    }
+    .cell-23 { animation: c23 40s linear infinite; }
+    @keyframes c22 {
+      0%, 6.2% { fill: #161b22; }
+      6.4%, 100% { fill: #161b22; }
+    }
+    .cell-22 { animation: c22 40s linear infinite; }
+    @keyframes c21 {
+      0%, 5.9% { fill: #161b22; }
+      6.1%, 100% { fill: #161b22; }
+    }
+    .cell-21 { animation: c21 40s linear infinite; }
+    @keyframes c28 {
+      0%, 7.8% { fill: #161b22; }
+      8%, 100% { fill: #161b22; }
+    }
+    .cell-28 { animation: c28 40s linear infinite; }
+    @keyframes c29 {
+      0%, 8% { fill: #161b22; }
+      8.2%, 100% { fill: #161b22; }
+    }
+    .cell-29 { animation: c29 40s linear infinite; }
+    @keyframes c30 {
+      0%, 8.3% { fill: #161b22; }
+      8.5%, 100% { fill: #161b22; }
+    }
+    .cell-30 { animation: c30 40s linear infinite; }
+    @keyframes c31 {
+      0%, 8.6% { fill: #161b22; }
+      8.8%, 100% { fill: #161b22; }
+    }
+    .cell-31 { animation: c31 40s linear infinite; }
+    @keyframes c32 {
+      0%, 8.8% { fill: #161b22; }
+      9%, 100% { fill: #161b22; }
+    }
+    .cell-32 { animation: c32 40s linear infinite; }
+    @keyframes c33 {
+      0%, 9.1% { fill: #161b22; }
+      9.3%, 100% { fill: #161b22; }
+    }
+    .cell-33 { animation: c33 40s linear infinite; }
+    @keyframes c34 {
+      0%, 9.4% { fill: #161b22; }
+      9.6%, 100% { fill: #161b22; }
+    }
+    .cell-34 { animation: c34 40s linear infinite; }
+    @keyframes c41 {
+      0%, 11.2% { fill: #161b22; }
+      11.4%, 100% { fill: #161b22; }
+    }
+    .cell-41 { animation: c41 40s linear infinite; }
+    @keyframes c40 {
+      0%, 11% { fill: #161b22; }
+      11.2%, 100% { fill: #161b22; }
+    }
+    .cell-40 { animation: c40 40s linear infinite; }
+    @keyframes c39 {
+      0%, 10.7% { fill: #161b22; }
+      10.9%, 100% { fill: #161b22; }
+    }
+    .cell-39 { animation: c39 40s linear infinite; }
+    @keyframes c38 {
+      0%, 10.4% { fill: #161b22; }
+      10.6%, 100% { fill: #161b22; }
+    }
+    .cell-38 { animation: c38 40s linear infinite; }
+    @keyframes c37 {
+      0%, 10.2% { fill: #161b22; }
+      10.4%, 100% { fill: #161b22; }
+    }
+    .cell-37 { animation: c37 40s linear infinite; }
+    @keyframes c36 {
+      0%, 9.9% { fill: #161b22; }
+      10.1%, 100% { fill: #161b22; }
+    }
+    .cell-36 { animation: c36 40s linear infinite; }
+    @keyframes c35 {
+      0%, 9.6% { fill: #161b22; }
+      9.8%, 100% { fill: #161b22; }
+    }
+    .cell-35 { animation: c35 40s linear infinite; }
+    @keyframes c42 {
+      0%, 11.5% { fill: #161b22; }
+      11.7%, 100% { fill: #161b22; }
+    }
+    .cell-42 { animation: c42 40s linear infinite; }
+    @keyframes c43 {
+      0%, 11.8% { fill: #161b22; }
+      12%, 100% { fill: #161b22; }
+    }
+    .cell-43 { animation: c43 40s linear infinite; }
+    @keyframes c44 {
+      0%, 12% { fill: #161b22; }
+      12.2%, 100% { fill: #161b22; }
+    }
+    .cell-44 { animation: c44 40s linear infinite; }
+    @keyframes c45 {
+      0%, 12.3% { fill: #161b22; }
+      12.5%, 100% { fill: #161b22; }
+    }
+    .cell-45 { animation: c45 40s linear infinite; }
+    @keyframes c46 {
+      0%, 12.6% { fill: #161b22; }
+      12.8%, 100% { fill: #161b22; }
+    }
+    .cell-46 { animation: c46 40s linear infinite; }
+    @keyframes c47 {
+      0%, 12.8% { fill: #161b22; }
+      13%, 100% { fill: #161b22; }
+    }
+    .cell-47 { animation: c47 40s linear infinite; }
+    @keyframes c48 {
+      0%, 13.1% { fill: #161b22; }
+      13.3%, 100% { fill: #161b22; }
+    }
+    .cell-48 { animation: c48 40s linear infinite; }
+    @keyframes c55 {
+      0%, 15% { fill: #161b22; }
+      15.2%, 100% { fill: #161b22; }
+    }
+    .cell-55 { animation: c55 40s linear infinite; }
+    @keyframes c54 {
+      0%, 14.7% { fill: #161b22; }
+      14.9%, 100% { fill: #161b22; }
+    }
+    .cell-54 { animation: c54 40s linear infinite; }
+    @keyframes c53 {
+      0%, 14.4% { fill: #161b22; }
+      14.6%, 100% { fill: #161b22; }
+    }
+    .cell-53 { animation: c53 40s linear infinite; }
+    @keyframes c52 {
+      0%, 14.2% { fill: #161b22; }
+      14.4%, 100% { fill: #161b22; }
+    }
+    .cell-52 { animation: c52 40s linear infinite; }
+    @keyframes c51 {
+      0%, 13.9% { fill: #161b22; }
+      14.1%, 100% { fill: #161b22; }
+    }
+    .cell-51 { animation: c51 40s linear infinite; }
+    @keyframes c50 {
+      0%, 13.6% { fill: #161b22; }
+      13.8%, 100% { fill: #161b22; }
+    }
+    .cell-50 { animation: c50 40s linear infinite; }
+    @keyframes c49 {
+      0%, 13.4% { fill: #161b22; }
+      13.6%, 100% { fill: #161b22; }
+    }
+    .cell-49 { animation: c49 40s linear infinite; }
+    @keyframes c56 {
+      0%, 15.2% { fill: #161b22; }
+      15.4%, 100% { fill: #161b22; }
+    }
+    .cell-56 { animation: c56 40s linear infinite; }
+    @keyframes c57 {
+      0%, 15.5% { fill: #161b22; }
+      15.7%, 100% { fill: #161b22; }
+    }
+    .cell-57 { animation: c57 40s linear infinite; }
+    @keyframes c58 {
+      0%, 15.8% { fill: #161b22; }
+      16%, 100% { fill: #161b22; }
+    }
+    .cell-58 { animation: c58 40s linear infinite; }
+    @keyframes c59 {
+      0%, 16% { fill: #161b22; }
+      16.2%, 100% { fill: #161b22; }
+    }
+    .cell-59 { animation: c59 40s linear infinite; }
+    @keyframes c60 {
+      0%, 16.3% { fill: #161b22; }
+      16.5%, 100% { fill: #161b22; }
+    }
+    .cell-60 { animation: c60 40s linear infinite; }
+    @keyframes c61 {
+      0%, 16.6% { fill: #161b22; }
+      16.8%, 100% { fill: #161b22; }
+    }
+    .cell-61 { animation: c61 40s linear infinite; }
+    @keyframes c62 {
+      0%, 16.8% { fill: #161b22; }
+      17%, 100% { fill: #161b22; }
+    }
+    .cell-62 { animation: c62 40s linear infinite; }
+    @keyframes c69 {
+      0%, 18.7% { fill: #161b22; }
+      18.9%, 100% { fill: #161b22; }
+    }
+    .cell-69 { animation: c69 40s linear infinite; }
+    @keyframes c68 {
+      0%, 18.4% { fill: #161b22; }
+      18.6%, 100% { fill: #161b22; }
+    }
+    .cell-68 { animation: c68 40s linear infinite; }
+    @keyframes c67 {
+      0%, 18.2% { fill: #161b22; }
+      18.4%, 100% { fill: #161b22; }
+    }
+    .cell-67 { animation: c67 40s linear infinite; }
+    @keyframes c66 {
+      0%, 17.9% { fill: #161b22; }
+      18.1%, 100% { fill: #161b22; }
+    }
+    .cell-66 { animation: c66 40s linear infinite; }
+    @keyframes c65 {
+      0%, 17.6% { fill: #161b22; }
+      17.8%, 100% { fill: #161b22; }
+    }
+    .cell-65 { animation: c65 40s linear infinite; }
+    @keyframes c64 {
+      0%, 17.4% { fill: #161b22; }
+      17.6%, 100% { fill: #161b22; }
+    }
+    .cell-64 { animation: c64 40s linear infinite; }
+    @keyframes c63 {
+      0%, 17.1% { fill: #161b22; }
+      17.3%, 100% { fill: #161b22; }
+    }
+    .cell-63 { animation: c63 40s linear infinite; }
+    @keyframes c70 {
+      0%, 19% { fill: #161b22; }
+      19.2%, 100% { fill: #161b22; }
+    }
+    .cell-70 { animation: c70 40s linear infinite; }
+    @keyframes c71 {
+      0%, 19.2% { fill: #161b22; }
+      19.4%, 100% { fill: #161b22; }
+    }
+    .cell-71 { animation: c71 40s linear infinite; }
+    @keyframes c72 {
+      0%, 19.5% { fill: #161b22; }
+      19.7%, 100% { fill: #161b22; }
+    }
+    .cell-72 { animation: c72 40s linear infinite; }
+    @keyframes c73 {
+      0%, 19.8% { fill: #161b22; }
+      20%, 100% { fill: #161b22; }
+    }
+    .cell-73 { animation: c73 40s linear infinite; }
+    @keyframes c74 {
+      0%, 20% { fill: #161b22; }
+      20.2%, 100% { fill: #161b22; }
+    }
+    .cell-74 { animation: c74 40s linear infinite; }
+    @keyframes c75 {
+      0%, 20.3% { fill: #161b22; }
+      20.5%, 100% { fill: #161b22; }
+    }
+    .cell-75 { animation: c75 40s linear infinite; }
+    @keyframes c76 {
+      0%, 20.6% { fill: #161b22; }
+      20.8%, 100% { fill: #161b22; }
+    }
+    .cell-76 { animation: c76 40s linear infinite; }
+    @keyframes c83 {
+      0%, 22.4% { fill: #161b22; }
+      22.6%, 100% { fill: #161b22; }
+    }
+    .cell-83 { animation: c83 40s linear infinite; }
+    @keyframes c82 {
+      0%, 22.2% { fill: #161b22; }
+      22.4%, 100% { fill: #161b22; }
+    }
+    .cell-82 { animation: c82 40s linear infinite; }
+    @keyframes c81 {
+      0%, 21.9% { fill: #161b22; }
+      22.1%, 100% { fill: #161b22; }
+    }
+    .cell-81 { animation: c81 40s linear infinite; }
+    @keyframes c80 {
+      0%, 21.6% { fill: #161b22; }
+      21.8%, 100% { fill: #161b22; }
+    }
+    .cell-80 { animation: c80 40s linear infinite; }
+    @keyframes c79 {
+      0%, 21.4% { fill: #161b22; }
+      21.6%, 100% { fill: #161b22; }
+    }
+    .cell-79 { animation: c79 40s linear infinite; }
+    @keyframes c78 {
+      0%, 21.1% { fill: #161b22; }
+      21.3%, 100% { fill: #161b22; }
+    }
+    .cell-78 { animation: c78 40s linear infinite; }
+    @keyframes c77 {
+      0%, 20.8% { fill: #161b22; }
+      21%, 100% { fill: #161b22; }
+    }
+    .cell-77 { animation: c77 40s linear infinite; }
+    @keyframes c84 {
+      0%, 22.7% { fill: #161b22; }
+      22.9%, 100% { fill: #161b22; }
+    }
+    .cell-84 { animation: c84 40s linear infinite; }
+    @keyframes c85 {
+      0%, 23% { fill: #161b22; }
+      23.2%, 100% { fill: #161b22; }
+    }
+    .cell-85 { animation: c85 40s linear infinite; }
+    @keyframes c86 {
+      0%, 23.2% { fill: #161b22; }
+      23.4%, 100% { fill: #161b22; }
+    }
+    .cell-86 { animation: c86 40s linear infinite; }
+    @keyframes c87 {
+      0%, 23.5% { fill: #161b22; }
+      23.7%, 100% { fill: #161b22; }
+    }
+    .cell-87 { animation: c87 40s linear infinite; }
+    @keyframes c88 {
+      0%, 23.8% { fill: #161b22; }
+      24%, 100% { fill: #161b22; }
+    }
+    .cell-88 { animation: c88 40s linear infinite; }
+    @keyframes c89 {
+      0%, 24% { fill: #161b22; }
+      24.2%, 100% { fill: #161b22; }
+    }
+    .cell-89 { animation: c89 40s linear infinite; }
+    @keyframes c90 {
+      0%, 24.3% { fill: #161b22; }
+      24.5%, 100% { fill: #161b22; }
+    }
+    .cell-90 { animation: c90 40s linear infinite; }
+    @keyframes c97 {
+      0%, 26.2% { fill: #161b22; }
+      26.4%, 100% { fill: #161b22; }
+    }
+    .cell-97 { animation: c97 40s linear infinite; }
+    @keyframes c96 {
+      0%, 25.9% { fill: #161b22; }
+      26.1%, 100% { fill: #161b22; }
+    }
+    .cell-96 { animation: c96 40s linear infinite; }
+    @keyframes c95 {
+      0%, 25.6% { fill: #161b22; }
+      25.8%, 100% { fill: #161b22; }
+    }
+    .cell-95 { animation: c95 40s linear infinite; }
+    @keyframes c94 {
+      0%, 25.4% { fill: #161b22; }
+      25.6%, 100% { fill: #161b22; }
+    }
+    .cell-94 { animation: c94 40s linear infinite; }
+    @keyframes c93 {
+      0%, 25.1% { fill: #161b22; }
+      25.3%, 100% { fill: #161b22; }
+    }
+    .cell-93 { animation: c93 40s linear infinite; }
+    @keyframes c92 {
+      0%, 24.8% { fill: #161b22; }
+      25%, 100% { fill: #161b22; }
+    }
+    .cell-92 { animation: c92 40s linear infinite; }
+    @keyframes c91 {
+      0%, 24.6% { fill: #161b22; }
+      24.8%, 100% { fill: #161b22; }
+    }
+    .cell-91 { animation: c91 40s linear infinite; }
+    @keyframes c98 {
+      0%, 26.4% { fill: #161b22; }
+      26.6%, 100% { fill: #161b22; }
+    }
+    .cell-98 { animation: c98 40s linear infinite; }
+    @keyframes c99 {
+      0%, 26.7% { fill: #161b22; }
+      26.9%, 100% { fill: #161b22; }
+    }
+    .cell-99 { animation: c99 40s linear infinite; }
+    @keyframes c100 {
+      0%, 27% { fill: #161b22; }
+      27.2%, 100% { fill: #161b22; }
+    }
+    .cell-100 { animation: c100 40s linear infinite; }
+    @keyframes c101 {
+      0%, 27.2% { fill: #161b22; }
+      27.4%, 100% { fill: #161b22; }
+    }
+    .cell-101 { animation: c101 40s linear infinite; }
+    @keyframes c102 {
+      0%, 27.5% { fill: #161b22; }
+      27.7%, 100% { fill: #161b22; }
+    }
+    .cell-102 { animation: c102 40s linear infinite; }
+    @keyframes c103 {
+      0%, 27.8% { fill: #161b22; }
+      28%, 100% { fill: #161b22; }
+    }
+    .cell-103 { animation: c103 40s linear infinite; }
+    @keyframes c104 {
+      0%, 28% { fill: #161b22; }
+      28.2%, 100% { fill: #161b22; }
+    }
+    .cell-104 { animation: c104 40s linear infinite; }
+    @keyframes c111 {
+      0%, 29.9% { fill: #161b22; }
+      30.1%, 100% { fill: #0e4429; }
+    }
+    .cell-111 { animation: c111 40s linear infinite; }
+    @keyframes c110 {
+      0%, 29.6% { fill: #161b22; }
+      29.8%, 100% { fill: #161b22; }
+    }
+    .cell-110 { animation: c110 40s linear infinite; }
+    @keyframes c109 {
+      0%, 29.4% { fill: #161b22; }
+      29.6%, 100% { fill: #161b22; }
+    }
+    .cell-109 { animation: c109 40s linear infinite; }
+    @keyframes c108 {
+      0%, 29.1% { fill: #161b22; }
+      29.3%, 100% { fill: #161b22; }
+    }
+    .cell-108 { animation: c108 40s linear infinite; }
+    @keyframes c107 {
+      0%, 28.8% { fill: #161b22; }
+      29%, 100% { fill: #161b22; }
+    }
+    .cell-107 { animation: c107 40s linear infinite; }
+    @keyframes c106 {
+      0%, 28.6% { fill: #161b22; }
+      28.8%, 100% { fill: #161b22; }
+    }
+    .cell-106 { animation: c106 40s linear infinite; }
+    @keyframes c105 {
+      0%, 28.3% { fill: #161b22; }
+      28.5%, 100% { fill: #161b22; }
+    }
+    .cell-105 { animation: c105 40s linear infinite; }
+    @keyframes c112 {
+      0%, 30.2% { fill: #161b22; }
+      30.4%, 100% { fill: #161b22; }
+    }
+    .cell-112 { animation: c112 40s linear infinite; }
+    @keyframes c113 {
+      0%, 30.4% { fill: #161b22; }
+      30.6%, 100% { fill: #161b22; }
+    }
+    .cell-113 { animation: c113 40s linear infinite; }
+    @keyframes c114 {
+      0%, 30.7% { fill: #161b22; }
+      30.9%, 100% { fill: #161b22; }
+    }
+    .cell-114 { animation: c114 40s linear infinite; }
+    @keyframes c115 {
+      0%, 31% { fill: #161b22; }
+      31.2%, 100% { fill: #161b22; }
+    }
+    .cell-115 { animation: c115 40s linear infinite; }
+    @keyframes c116 {
+      0%, 31.2% { fill: #161b22; }
+      31.4%, 100% { fill: #0e4429; }
+    }
+    .cell-116 { animation: c116 40s linear infinite; }
+    @keyframes c117 {
+      0%, 31.5% { fill: #161b22; }
+      31.7%, 100% { fill: #161b22; }
+    }
+    .cell-117 { animation: c117 40s linear infinite; }
+    @keyframes c118 {
+      0%, 31.8% { fill: #161b22; }
+      32%, 100% { fill: #006d32; }
+    }
+    .cell-118 { animation: c118 40s linear infinite; }
+    @keyframes c125 {
+      0%, 33.6% { fill: #161b22; }
+      33.8%, 100% { fill: #161b22; }
+    }
+    .cell-125 { animation: c125 40s linear infinite; }
+    @keyframes c124 {
+      0%, 33.4% { fill: #161b22; }
+      33.6%, 100% { fill: #0e4429; }
+    }
+    .cell-124 { animation: c124 40s linear infinite; }
+    @keyframes c123 {
+      0%, 33.1% { fill: #161b22; }
+      33.3%, 100% { fill: #0e4429; }
+    }
+    .cell-123 { animation: c123 40s linear infinite; }
+    @keyframes c122 {
+      0%, 32.8% { fill: #161b22; }
+      33%, 100% { fill: #0e4429; }
+    }
+    .cell-122 { animation: c122 40s linear infinite; }
+    @keyframes c121 {
+      0%, 32.6% { fill: #161b22; }
+      32.8%, 100% { fill: #161b22; }
+    }
+    .cell-121 { animation: c121 40s linear infinite; }
+    @keyframes c120 {
+      0%, 32.3% { fill: #161b22; }
+      32.5%, 100% { fill: #0e4429; }
+    }
+    .cell-120 { animation: c120 40s linear infinite; }
+    @keyframes c119 {
+      0%, 32% { fill: #161b22; }
+      32.2%, 100% { fill: #161b22; }
+    }
+    .cell-119 { animation: c119 40s linear infinite; }
+    @keyframes c126 {
+      0%, 33.9% { fill: #161b22; }
+      34.1%, 100% { fill: #39d353; }
+    }
+    .cell-126 { animation: c126 40s linear infinite; }
+    @keyframes c127 {
+      0%, 34.2% { fill: #161b22; }
+      34.4%, 100% { fill: #0e4429; }
+    }
+    .cell-127 { animation: c127 40s linear infinite; }
+    @keyframes c128 {
+      0%, 34.4% { fill: #161b22; }
+      34.6%, 100% { fill: #006d32; }
+    }
+    .cell-128 { animation: c128 40s linear infinite; }
+    @keyframes c129 {
+      0%, 34.7% { fill: #161b22; }
+      34.9%, 100% { fill: #161b22; }
+    }
+    .cell-129 { animation: c129 40s linear infinite; }
+    @keyframes c130 {
+      0%, 35% { fill: #161b22; }
+      35.2%, 100% { fill: #0e4429; }
+    }
+    .cell-130 { animation: c130 40s linear infinite; }
+    @keyframes c131 {
+      0%, 35.2% { fill: #161b22; }
+      35.4%, 100% { fill: #161b22; }
+    }
+    .cell-131 { animation: c131 40s linear infinite; }
+    @keyframes c132 {
+      0%, 35.5% { fill: #161b22; }
+      35.7%, 100% { fill: #26a641; }
+    }
+    .cell-132 { animation: c132 40s linear infinite; }
+    @keyframes c139 {
+      0%, 37.4% { fill: #161b22; }
+      37.6%, 100% { fill: #0e4429; }
+    }
+    .cell-139 { animation: c139 40s linear infinite; }
+    @keyframes c138 {
+      0%, 37.1% { fill: #161b22; }
+      37.3%, 100% { fill: #161b22; }
+    }
+    .cell-138 { animation: c138 40s linear infinite; }
+    @keyframes c137 {
+      0%, 36.8% { fill: #161b22; }
+      37%, 100% { fill: #161b22; }
+    }
+    .cell-137 { animation: c137 40s linear infinite; }
+    @keyframes c136 {
+      0%, 36.6% { fill: #161b22; }
+      36.8%, 100% { fill: #0e4429; }
+    }
+    .cell-136 { animation: c136 40s linear infinite; }
+    @keyframes c135 {
+      0%, 36.3% { fill: #161b22; }
+      36.5%, 100% { fill: #161b22; }
+    }
+    .cell-135 { animation: c135 40s linear infinite; }
+    @keyframes c134 {
+      0%, 36% { fill: #161b22; }
+      36.2%, 100% { fill: #161b22; }
+    }
+    .cell-134 { animation: c134 40s linear infinite; }
+    @keyframes c133 {
+      0%, 35.8% { fill: #161b22; }
+      36%, 100% { fill: #39d353; }
+    }
+    .cell-133 { animation: c133 40s linear infinite; }
+    @keyframes c140 {
+      0%, 37.6% { fill: #161b22; }
+      37.8%, 100% { fill: #006d32; }
+    }
+    .cell-140 { animation: c140 40s linear infinite; }
+    @keyframes c141 {
+      0%, 37.9% { fill: #161b22; }
+      38.1%, 100% { fill: #0e4429; }
+    }
+    .cell-141 { animation: c141 40s linear infinite; }
+    @keyframes c142 {
+      0%, 38.2% { fill: #161b22; }
+      38.4%, 100% { fill: #0e4429; }
+    }
+    .cell-142 { animation: c142 40s linear infinite; }
+    @keyframes c143 {
+      0%, 38.4% { fill: #161b22; }
+      38.6%, 100% { fill: #006d32; }
+    }
+    .cell-143 { animation: c143 40s linear infinite; }
+    @keyframes c144 {
+      0%, 38.7% { fill: #161b22; }
+      38.9%, 100% { fill: #006d32; }
+    }
+    .cell-144 { animation: c144 40s linear infinite; }
+    @keyframes c145 {
+      0%, 39% { fill: #161b22; }
+      39.2%, 100% { fill: #006d32; }
+    }
+    .cell-145 { animation: c145 40s linear infinite; }
+    @keyframes c146 {
+      0%, 39.2% { fill: #161b22; }
+      39.4%, 100% { fill: #006d32; }
+    }
+    .cell-146 { animation: c146 40s linear infinite; }
+    @keyframes c153 {
+      0%, 41.1% { fill: #161b22; }
+      41.3%, 100% { fill: #0e4429; }
+    }
+    .cell-153 { animation: c153 40s linear infinite; }
+    @keyframes c152 {
+      0%, 40.9% { fill: #161b22; }
+      41.1%, 100% { fill: #0e4429; }
+    }
+    .cell-152 { animation: c152 40s linear infinite; }
+    @keyframes c151 {
+      0%, 40.6% { fill: #161b22; }
+      40.8%, 100% { fill: #161b22; }
+    }
+    .cell-151 { animation: c151 40s linear infinite; }
+    @keyframes c150 {
+      0%, 40.3% { fill: #161b22; }
+      40.5%, 100% { fill: #006d32; }
+    }
+    .cell-150 { animation: c150 40s linear infinite; }
+    @keyframes c149 {
+      0%, 40% { fill: #161b22; }
+      40.2%, 100% { fill: #161b22; }
+    }
+    .cell-149 { animation: c149 40s linear infinite; }
+    @keyframes c148 {
+      0%, 39.8% { fill: #161b22; }
+      40%, 100% { fill: #161b22; }
+    }
+    .cell-148 { animation: c148 40s linear infinite; }
+    @keyframes c147 {
+      0%, 39.5% { fill: #161b22; }
+      39.7%, 100% { fill: #161b22; }
+    }
+    .cell-147 { animation: c147 40s linear infinite; }
+    @keyframes c154 {
+      0%, 41.4% { fill: #161b22; }
+      41.6%, 100% { fill: #161b22; }
+    }
+    .cell-154 { animation: c154 40s linear infinite; }
+    @keyframes c155 {
+      0%, 41.7% { fill: #161b22; }
+      41.9%, 100% { fill: #006d32; }
+    }
+    .cell-155 { animation: c155 40s linear infinite; }
+    @keyframes c156 {
+      0%, 41.9% { fill: #161b22; }
+      42.1%, 100% { fill: #006d32; }
+    }
+    .cell-156 { animation: c156 40s linear infinite; }
+    @keyframes c157 {
+      0%, 42.2% { fill: #161b22; }
+      42.4%, 100% { fill: #161b22; }
+    }
+    .cell-157 { animation: c157 40s linear infinite; }
+    @keyframes c158 {
+      0%, 42.5% { fill: #161b22; }
+      42.7%, 100% { fill: #161b22; }
+    }
+    .cell-158 { animation: c158 40s linear infinite; }
+    @keyframes c159 {
+      0%, 42.7% { fill: #161b22; }
+      42.9%, 100% { fill: #161b22; }
+    }
+    .cell-159 { animation: c159 40s linear infinite; }
+    @keyframes c160 {
+      0%, 43% { fill: #161b22; }
+      43.2%, 100% { fill: #161b22; }
+    }
+    .cell-160 { animation: c160 40s linear infinite; }
+    @keyframes c167 {
+      0%, 44.9% { fill: #161b22; }
+      45.1%, 100% { fill: #161b22; }
+    }
+    .cell-167 { animation: c167 40s linear infinite; }
+    @keyframes c166 {
+      0%, 44.6% { fill: #161b22; }
+      44.8%, 100% { fill: #161b22; }
+    }
+    .cell-166 { animation: c166 40s linear infinite; }
+    @keyframes c165 {
+      0%, 44.3% { fill: #161b22; }
+      44.5%, 100% { fill: #161b22; }
+    }
+    .cell-165 { animation: c165 40s linear infinite; }
+    @keyframes c164 {
+      0%, 44.1% { fill: #161b22; }
+      44.3%, 100% { fill: #161b22; }
+    }
+    .cell-164 { animation: c164 40s linear infinite; }
+    @keyframes c163 {
+      0%, 43.8% { fill: #161b22; }
+      44%, 100% { fill: #161b22; }
+    }
+    .cell-163 { animation: c163 40s linear infinite; }
+    @keyframes c162 {
+      0%, 43.5% { fill: #161b22; }
+      43.7%, 100% { fill: #161b22; }
+    }
+    .cell-162 { animation: c162 40s linear infinite; }
+    @keyframes c161 {
+      0%, 43.3% { fill: #161b22; }
+      43.5%, 100% { fill: #161b22; }
+    }
+    .cell-161 { animation: c161 40s linear infinite; }
+    @keyframes c168 {
+      0%, 45.1% { fill: #161b22; }
+      45.3%, 100% { fill: #161b22; }
+    }
+    .cell-168 { animation: c168 40s linear infinite; }
+    @keyframes c169 {
+      0%, 45.4% { fill: #161b22; }
+      45.6%, 100% { fill: #161b22; }
+    }
+    .cell-169 { animation: c169 40s linear infinite; }
+    @keyframes c170 {
+      0%, 45.7% { fill: #161b22; }
+      45.9%, 100% { fill: #161b22; }
+    }
+    .cell-170 { animation: c170 40s linear infinite; }
+    @keyframes c171 {
+      0%, 45.9% { fill: #161b22; }
+      46.1%, 100% { fill: #161b22; }
+    }
+    .cell-171 { animation: c171 40s linear infinite; }
+    @keyframes c172 {
+      0%, 46.2% { fill: #161b22; }
+      46.4%, 100% { fill: #161b22; }
+    }
+    .cell-172 { animation: c172 40s linear infinite; }
+    @keyframes c173 {
+      0%, 46.5% { fill: #161b22; }
+      46.7%, 100% { fill: #161b22; }
+    }
+    .cell-173 { animation: c173 40s linear infinite; }
+    @keyframes c174 {
+      0%, 46.7% { fill: #161b22; }
+      46.9%, 100% { fill: #161b22; }
+    }
+    .cell-174 { animation: c174 40s linear infinite; }
+    @keyframes c181 {
+      0%, 48.6% { fill: #161b22; }
+      48.8%, 100% { fill: #161b22; }
+    }
+    .cell-181 { animation: c181 40s linear infinite; }
+    @keyframes c180 {
+      0%, 48.3% { fill: #161b22; }
+      48.5%, 100% { fill: #161b22; }
+    }
+    .cell-180 { animation: c180 40s linear infinite; }
+    @keyframes c179 {
+      0%, 48.1% { fill: #161b22; }
+      48.3%, 100% { fill: #161b22; }
+    }
+    .cell-179 { animation: c179 40s linear infinite; }
+    @keyframes c178 {
+      0%, 47.8% { fill: #161b22; }
+      48%, 100% { fill: #161b22; }
+    }
+    .cell-178 { animation: c178 40s linear infinite; }
+    @keyframes c177 {
+      0%, 47.5% { fill: #161b22; }
+      47.7%, 100% { fill: #161b22; }
+    }
+    .cell-177 { animation: c177 40s linear infinite; }
+    @keyframes c176 {
+      0%, 47.3% { fill: #161b22; }
+      47.5%, 100% { fill: #161b22; }
+    }
+    .cell-176 { animation: c176 40s linear infinite; }
+    @keyframes c175 {
+      0%, 47% { fill: #161b22; }
+      47.2%, 100% { fill: #161b22; }
+    }
+    .cell-175 { animation: c175 40s linear infinite; }
+    @keyframes c182 {
+      0%, 48.9% { fill: #161b22; }
+      49.1%, 100% { fill: #161b22; }
+    }
+    .cell-182 { animation: c182 40s linear infinite; }
+    @keyframes c183 {
+      0%, 49.1% { fill: #161b22; }
+      49.3%, 100% { fill: #161b22; }
+    }
+    .cell-183 { animation: c183 40s linear infinite; }
+    @keyframes c184 {
+      0%, 49.4% { fill: #161b22; }
+      49.6%, 100% { fill: #161b22; }
+    }
+    .cell-184 { animation: c184 40s linear infinite; }
+    @keyframes c185 {
+      0%, 49.7% { fill: #161b22; }
+      49.9%, 100% { fill: #161b22; }
+    }
+    .cell-185 { animation: c185 40s linear infinite; }
+    @keyframes c186 {
+      0%, 49.9% { fill: #161b22; }
+      50.1%, 100% { fill: #161b22; }
+    }
+    .cell-186 { animation: c186 40s linear infinite; }
+    @keyframes c187 {
+      0%, 50.2% { fill: #161b22; }
+      50.4%, 100% { fill: #161b22; }
+    }
+    .cell-187 { animation: c187 40s linear infinite; }
+    @keyframes c188 {
+      0%, 50.5% { fill: #161b22; }
+      50.7%, 100% { fill: #161b22; }
+    }
+    .cell-188 { animation: c188 40s linear infinite; }
+    @keyframes c195 {
+      0%, 52.3% { fill: #161b22; }
+      52.5%, 100% { fill: #161b22; }
+    }
+    .cell-195 { animation: c195 40s linear infinite; }
+    @keyframes c194 {
+      0%, 52.1% { fill: #161b22; }
+      52.3%, 100% { fill: #161b22; }
+    }
+    .cell-194 { animation: c194 40s linear infinite; }
+    @keyframes c193 {
+      0%, 51.8% { fill: #161b22; }
+      52%, 100% { fill: #0e4429; }
+    }
+    .cell-193 { animation: c193 40s linear infinite; }
+    @keyframes c192 {
+      0%, 51.5% { fill: #161b22; }
+      51.7%, 100% { fill: #006d32; }
+    }
+    .cell-192 { animation: c192 40s linear infinite; }
+    @keyframes c191 {
+      0%, 51.3% { fill: #161b22; }
+      51.5%, 100% { fill: #161b22; }
+    }
+    .cell-191 { animation: c191 40s linear infinite; }
+    @keyframes c190 {
+      0%, 51% { fill: #161b22; }
+      51.2%, 100% { fill: #0e4429; }
+    }
+    .cell-190 { animation: c190 40s linear infinite; }
+    @keyframes c189 {
+      0%, 50.7% { fill: #161b22; }
+      50.9%, 100% { fill: #161b22; }
+    }
+    .cell-189 { animation: c189 40s linear infinite; }
+    @keyframes c196 {
+      0%, 52.6% { fill: #161b22; }
+      52.8%, 100% { fill: #161b22; }
+    }
+    .cell-196 { animation: c196 40s linear infinite; }
+    @keyframes c197 {
+      0%, 52.9% { fill: #161b22; }
+      53.1%, 100% { fill: #161b22; }
+    }
+    .cell-197 { animation: c197 40s linear infinite; }
+    @keyframes c198 {
+      0%, 53.1% { fill: #161b22; }
+      53.3%, 100% { fill: #161b22; }
+    }
+    .cell-198 { animation: c198 40s linear infinite; }
+    @keyframes c199 {
+      0%, 53.4% { fill: #161b22; }
+      53.6%, 100% { fill: #161b22; }
+    }
+    .cell-199 { animation: c199 40s linear infinite; }
+    @keyframes c200 {
+      0%, 53.7% { fill: #161b22; }
+      53.9%, 100% { fill: #161b22; }
+    }
+    .cell-200 { animation: c200 40s linear infinite; }
+    @keyframes c201 {
+      0%, 53.9% { fill: #161b22; }
+      54.1%, 100% { fill: #161b22; }
+    }
+    .cell-201 { animation: c201 40s linear infinite; }
+    @keyframes c202 {
+      0%, 54.2% { fill: #161b22; }
+      54.4%, 100% { fill: #161b22; }
+    }
+    .cell-202 { animation: c202 40s linear infinite; }
+    @keyframes c209 {
+      0%, 56.1% { fill: #161b22; }
+      56.3%, 100% { fill: #161b22; }
+    }
+    .cell-209 { animation: c209 40s linear infinite; }
+    @keyframes c208 {
+      0%, 55.8% { fill: #161b22; }
+      56%, 100% { fill: #161b22; }
+    }
+    .cell-208 { animation: c208 40s linear infinite; }
+    @keyframes c207 {
+      0%, 55.5% { fill: #161b22; }
+      55.7%, 100% { fill: #161b22; }
+    }
+    .cell-207 { animation: c207 40s linear infinite; }
+    @keyframes c206 {
+      0%, 55.3% { fill: #161b22; }
+      55.5%, 100% { fill: #161b22; }
+    }
+    .cell-206 { animation: c206 40s linear infinite; }
+    @keyframes c205 {
+      0%, 55% { fill: #161b22; }
+      55.2%, 100% { fill: #161b22; }
+    }
+    .cell-205 { animation: c205 40s linear infinite; }
+    @keyframes c204 {
+      0%, 54.7% { fill: #161b22; }
+      54.9%, 100% { fill: #161b22; }
+    }
+    .cell-204 { animation: c204 40s linear infinite; }
+    @keyframes c203 {
+      0%, 54.5% { fill: #161b22; }
+      54.7%, 100% { fill: #161b22; }
+    }
+    .cell-203 { animation: c203 40s linear infinite; }
+    @keyframes c210 {
+      0%, 56.3% { fill: #161b22; }
+      56.5%, 100% { fill: #161b22; }
+    }
+    .cell-210 { animation: c210 40s linear infinite; }
+    @keyframes c211 {
+      0%, 56.6% { fill: #161b22; }
+      56.8%, 100% { fill: #161b22; }
+    }
+    .cell-211 { animation: c211 40s linear infinite; }
+    @keyframes c212 {
+      0%, 56.9% { fill: #161b22; }
+      57.1%, 100% { fill: #161b22; }
+    }
+    .cell-212 { animation: c212 40s linear infinite; }
+    @keyframes c213 {
+      0%, 57.1% { fill: #161b22; }
+      57.3%, 100% { fill: #161b22; }
+    }
+    .cell-213 { animation: c213 40s linear infinite; }
+    @keyframes c214 {
+      0%, 57.4% { fill: #161b22; }
+      57.6%, 100% { fill: #161b22; }
+    }
+    .cell-214 { animation: c214 40s linear infinite; }
+    @keyframes c215 {
+      0%, 57.7% { fill: #161b22; }
+      57.9%, 100% { fill: #161b22; }
+    }
+    .cell-215 { animation: c215 40s linear infinite; }
+    @keyframes c216 {
+      0%, 57.9% { fill: #161b22; }
+      58.1%, 100% { fill: #161b22; }
+    }
+    .cell-216 { animation: c216 40s linear infinite; }
+    @keyframes c223 {
+      0%, 59.8% { fill: #161b22; }
+      60%, 100% { fill: #161b22; }
+    }
+    .cell-223 { animation: c223 40s linear infinite; }
+    @keyframes c222 {
+      0%, 59.5% { fill: #161b22; }
+      59.7%, 100% { fill: #161b22; }
+    }
+    .cell-222 { animation: c222 40s linear infinite; }
+    @keyframes c221 {
+      0%, 59.3% { fill: #161b22; }
+      59.5%, 100% { fill: #161b22; }
+    }
+    .cell-221 { animation: c221 40s linear infinite; }
+    @keyframes c220 {
+      0%, 59% { fill: #161b22; }
+      59.2%, 100% { fill: #161b22; }
+    }
+    .cell-220 { animation: c220 40s linear infinite; }
+    @keyframes c219 {
+      0%, 58.7% { fill: #161b22; }
+      58.9%, 100% { fill: #161b22; }
+    }
+    .cell-219 { animation: c219 40s linear infinite; }
+    @keyframes c218 {
+      0%, 58.5% { fill: #161b22; }
+      58.7%, 100% { fill: #161b22; }
+    }
+    .cell-218 { animation: c218 40s linear infinite; }
+    @keyframes c217 {
+      0%, 58.2% { fill: #161b22; }
+      58.4%, 100% { fill: #161b22; }
+    }
+    .cell-217 { animation: c217 40s linear infinite; }
+    @keyframes c224 {
+      0%, 60.1% { fill: #161b22; }
+      60.3%, 100% { fill: #161b22; }
+    }
+    .cell-224 { animation: c224 40s linear infinite; }
+    @keyframes c225 {
+      0%, 60.3% { fill: #161b22; }
+      60.5%, 100% { fill: #161b22; }
+    }
+    .cell-225 { animation: c225 40s linear infinite; }
+    @keyframes c226 {
+      0%, 60.6% { fill: #161b22; }
+      60.8%, 100% { fill: #006d32; }
+    }
+    .cell-226 { animation: c226 40s linear infinite; }
+    @keyframes c227 {
+      0%, 60.9% { fill: #161b22; }
+      61.1%, 100% { fill: #161b22; }
+    }
+    .cell-227 { animation: c227 40s linear infinite; }
+    @keyframes c228 {
+      0%, 61.1% { fill: #161b22; }
+      61.3%, 100% { fill: #006d32; }
+    }
+    .cell-228 { animation: c228 40s linear infinite; }
+    @keyframes c229 {
+      0%, 61.4% { fill: #161b22; }
+      61.6%, 100% { fill: #0e4429; }
+    }
+    .cell-229 { animation: c229 40s linear infinite; }
+    @keyframes c230 {
+      0%, 61.7% { fill: #161b22; }
+      61.9%, 100% { fill: #006d32; }
+    }
+    .cell-230 { animation: c230 40s linear infinite; }
+    @keyframes c237 {
+      0%, 63.5% { fill: #161b22; }
+      63.7%, 100% { fill: #0e4429; }
+    }
+    .cell-237 { animation: c237 40s linear infinite; }
+    @keyframes c236 {
+      0%, 63.3% { fill: #161b22; }
+      63.5%, 100% { fill: #0e4429; }
+    }
+    .cell-236 { animation: c236 40s linear infinite; }
+    @keyframes c235 {
+      0%, 63% { fill: #161b22; }
+      63.2%, 100% { fill: #161b22; }
+    }
+    .cell-235 { animation: c235 40s linear infinite; }
+    @keyframes c234 {
+      0%, 62.7% { fill: #161b22; }
+      62.9%, 100% { fill: #161b22; }
+    }
+    .cell-234 { animation: c234 40s linear infinite; }
+    @keyframes c233 {
+      0%, 62.5% { fill: #161b22; }
+      62.7%, 100% { fill: #161b22; }
+    }
+    .cell-233 { animation: c233 40s linear infinite; }
+    @keyframes c232 {
+      0%, 62.2% { fill: #161b22; }
+      62.4%, 100% { fill: #161b22; }
+    }
+    .cell-232 { animation: c232 40s linear infinite; }
+    @keyframes c231 {
+      0%, 61.9% { fill: #161b22; }
+      62.1%, 100% { fill: #161b22; }
+    }
+    .cell-231 { animation: c231 40s linear infinite; }
+    @keyframes c238 {
+      0%, 63.8% { fill: #161b22; }
+      64%, 100% { fill: #161b22; }
+    }
+    .cell-238 { animation: c238 40s linear infinite; }
+    @keyframes c239 {
+      0%, 64.1% { fill: #161b22; }
+      64.3%, 100% { fill: #161b22; }
+    }
+    .cell-239 { animation: c239 40s linear infinite; }
+    @keyframes c240 {
+      0%, 64.3% { fill: #161b22; }
+      64.5%, 100% { fill: #0e4429; }
+    }
+    .cell-240 { animation: c240 40s linear infinite; }
+    @keyframes c241 {
+      0%, 64.6% { fill: #161b22; }
+      64.8%, 100% { fill: #006d32; }
+    }
+    .cell-241 { animation: c241 40s linear infinite; }
+    @keyframes c242 {
+      0%, 64.9% { fill: #161b22; }
+      65.1%, 100% { fill: #26a641; }
+    }
+    .cell-242 { animation: c242 40s linear infinite; }
+    @keyframes c243 {
+      0%, 65.1% { fill: #161b22; }
+      65.3%, 100% { fill: #26a641; }
+    }
+    .cell-243 { animation: c243 40s linear infinite; }
+    @keyframes c244 {
+      0%, 65.4% { fill: #161b22; }
+      65.6%, 100% { fill: #161b22; }
+    }
+    .cell-244 { animation: c244 40s linear infinite; }
+    @keyframes c251 {
+      0%, 67.3% { fill: #161b22; }
+      67.5%, 100% { fill: #26a641; }
+    }
+    .cell-251 { animation: c251 40s linear infinite; }
+    @keyframes c250 {
+      0%, 67% { fill: #161b22; }
+      67.2%, 100% { fill: #0e4429; }
+    }
+    .cell-250 { animation: c250 40s linear infinite; }
+    @keyframes c249 {
+      0%, 66.7% { fill: #161b22; }
+      66.9%, 100% { fill: #0e4429; }
+    }
+    .cell-249 { animation: c249 40s linear infinite; }
+    @keyframes c248 {
+      0%, 66.5% { fill: #161b22; }
+      66.7%, 100% { fill: #0e4429; }
+    }
+    .cell-248 { animation: c248 40s linear infinite; }
+    @keyframes c247 {
+      0%, 66.2% { fill: #161b22; }
+      66.4%, 100% { fill: #161b22; }
+    }
+    .cell-247 { animation: c247 40s linear infinite; }
+    @keyframes c246 {
+      0%, 65.9% { fill: #161b22; }
+      66.1%, 100% { fill: #161b22; }
+    }
+    .cell-246 { animation: c246 40s linear infinite; }
+    @keyframes c245 {
+      0%, 65.7% { fill: #161b22; }
+      65.9%, 100% { fill: #161b22; }
+    }
+    .cell-245 { animation: c245 40s linear infinite; }
+    @keyframes c252 {
+      0%, 67.5% { fill: #161b22; }
+      67.7%, 100% { fill: #161b22; }
+    }
+    .cell-252 { animation: c252 40s linear infinite; }
+    @keyframes c253 {
+      0%, 67.8% { fill: #161b22; }
+      68%, 100% { fill: #0e4429; }
+    }
+    .cell-253 { animation: c253 40s linear infinite; }
+    @keyframes c254 {
+      0%, 68.1% { fill: #161b22; }
+      68.3%, 100% { fill: #161b22; }
+    }
+    .cell-254 { animation: c254 40s linear infinite; }
+    @keyframes c255 {
+      0%, 68.3% { fill: #161b22; }
+      68.5%, 100% { fill: #161b22; }
+    }
+    .cell-255 { animation: c255 40s linear infinite; }
+    @keyframes c256 {
+      0%, 68.6% { fill: #161b22; }
+      68.8%, 100% { fill: #0e4429; }
+    }
+    .cell-256 { animation: c256 40s linear infinite; }
+    @keyframes c257 {
+      0%, 68.9% { fill: #161b22; }
+      69.1%, 100% { fill: #0e4429; }
+    }
+    .cell-257 { animation: c257 40s linear infinite; }
+    @keyframes c258 {
+      0%, 69.1% { fill: #161b22; }
+      69.3%, 100% { fill: #161b22; }
+    }
+    .cell-258 { animation: c258 40s linear infinite; }
+    @keyframes c265 {
+      0%, 71% { fill: #161b22; }
+      71.2%, 100% { fill: #161b22; }
+    }
+    .cell-265 { animation: c265 40s linear infinite; }
+    @keyframes c264 {
+      0%, 70.7% { fill: #161b22; }
+      70.9%, 100% { fill: #0e4429; }
+    }
+    .cell-264 { animation: c264 40s linear infinite; }
+    @keyframes c263 {
+      0%, 70.5% { fill: #161b22; }
+      70.7%, 100% { fill: #0e4429; }
+    }
+    .cell-263 { animation: c263 40s linear infinite; }
+    @keyframes c262 {
+      0%, 70.2% { fill: #161b22; }
+      70.4%, 100% { fill: #161b22; }
+    }
+    .cell-262 { animation: c262 40s linear infinite; }
+    @keyframes c261 {
+      0%, 69.9% { fill: #161b22; }
+      70.1%, 100% { fill: #0e4429; }
+    }
+    .cell-261 { animation: c261 40s linear infinite; }
+    @keyframes c260 {
+      0%, 69.7% { fill: #161b22; }
+      69.9%, 100% { fill: #0e4429; }
+    }
+    .cell-260 { animation: c260 40s linear infinite; }
+    @keyframes c259 {
+      0%, 69.4% { fill: #161b22; }
+      69.6%, 100% { fill: #0e4429; }
+    }
+    .cell-259 { animation: c259 40s linear infinite; }
+    @keyframes c266 {
+      0%, 71.3% { fill: #161b22; }
+      71.5%, 100% { fill: #161b22; }
+    }
+    .cell-266 { animation: c266 40s linear infinite; }
+    @keyframes c267 {
+      0%, 71.5% { fill: #161b22; }
+      71.7%, 100% { fill: #161b22; }
+    }
+    .cell-267 { animation: c267 40s linear infinite; }
+    @keyframes c268 {
+      0%, 71.8% { fill: #161b22; }
+      72%, 100% { fill: #161b22; }
+    }
+    .cell-268 { animation: c268 40s linear infinite; }
+    @keyframes c269 {
+      0%, 72.1% { fill: #161b22; }
+      72.3%, 100% { fill: #161b22; }
+    }
+    .cell-269 { animation: c269 40s linear infinite; }
+    @keyframes c270 {
+      0%, 72.3% { fill: #161b22; }
+      72.5%, 100% { fill: #161b22; }
+    }
+    .cell-270 { animation: c270 40s linear infinite; }
+    @keyframes c271 {
+      0%, 72.6% { fill: #161b22; }
+      72.8%, 100% { fill: #0e4429; }
+    }
+    .cell-271 { animation: c271 40s linear infinite; }
+    @keyframes c272 {
+      0%, 72.9% { fill: #161b22; }
+      73.1%, 100% { fill: #161b22; }
+    }
+    .cell-272 { animation: c272 40s linear infinite; }
+    @keyframes c279 {
+      0%, 74.7% { fill: #161b22; }
+      74.9%, 100% { fill: #161b22; }
+    }
+    .cell-279 { animation: c279 40s linear infinite; }
+    @keyframes c278 {
+      0%, 74.5% { fill: #161b22; }
+      74.7%, 100% { fill: #161b22; }
+    }
+    .cell-278 { animation: c278 40s linear infinite; }
+    @keyframes c277 {
+      0%, 74.2% { fill: #161b22; }
+      74.4%, 100% { fill: #0e4429; }
+    }
+    .cell-277 { animation: c277 40s linear infinite; }
+    @keyframes c276 {
+      0%, 73.9% { fill: #161b22; }
+      74.1%, 100% { fill: #006d32; }
+    }
+    .cell-276 { animation: c276 40s linear infinite; }
+    @keyframes c275 {
+      0%, 73.7% { fill: #161b22; }
+      73.9%, 100% { fill: #161b22; }
+    }
+    .cell-275 { animation: c275 40s linear infinite; }
+    @keyframes c274 {
+      0%, 73.4% { fill: #161b22; }
+      73.6%, 100% { fill: #161b22; }
+    }
+    .cell-274 { animation: c274 40s linear infinite; }
+    @keyframes c273 {
+      0%, 73.1% { fill: #161b22; }
+      73.3%, 100% { fill: #161b22; }
+    }
+    .cell-273 { animation: c273 40s linear infinite; }
+    @keyframes c280 {
+      0%, 75% { fill: #161b22; }
+      75.2%, 100% { fill: #161b22; }
+    }
+    .cell-280 { animation: c280 40s linear infinite; }
+    @keyframes c281 {
+      0%, 75.3% { fill: #161b22; }
+      75.5%, 100% { fill: #161b22; }
+    }
+    .cell-281 { animation: c281 40s linear infinite; }
+    @keyframes c282 {
+      0%, 75.5% { fill: #161b22; }
+      75.7%, 100% { fill: #161b22; }
+    }
+    .cell-282 { animation: c282 40s linear infinite; }
+    @keyframes c283 {
+      0%, 75.8% { fill: #161b22; }
+      76%, 100% { fill: #161b22; }
+    }
+    .cell-283 { animation: c283 40s linear infinite; }
+    @keyframes c284 {
+      0%, 76.1% { fill: #161b22; }
+      76.3%, 100% { fill: #161b22; }
+    }
+    .cell-284 { animation: c284 40s linear infinite; }
+    @keyframes c285 {
+      0%, 76.3% { fill: #161b22; }
+      76.5%, 100% { fill: #161b22; }
+    }
+    .cell-285 { animation: c285 40s linear infinite; }
+    @keyframes c286 {
+      0%, 76.6% { fill: #161b22; }
+      76.8%, 100% { fill: #161b22; }
+    }
+    .cell-286 { animation: c286 40s linear infinite; }
+    @keyframes c293 {
+      0%, 78.5% { fill: #161b22; }
+      78.7%, 100% { fill: #161b22; }
+    }
+    .cell-293 { animation: c293 40s linear infinite; }
+    @keyframes c292 {
+      0%, 78.2% { fill: #161b22; }
+      78.4%, 100% { fill: #161b22; }
+    }
+    .cell-292 { animation: c292 40s linear infinite; }
+    @keyframes c291 {
+      0%, 77.9% { fill: #161b22; }
+      78.1%, 100% { fill: #161b22; }
+    }
+    .cell-291 { animation: c291 40s linear infinite; }
+    @keyframes c290 {
+      0%, 77.7% { fill: #161b22; }
+      77.9%, 100% { fill: #161b22; }
+    }
+    .cell-290 { animation: c290 40s linear infinite; }
+    @keyframes c289 {
+      0%, 77.4% { fill: #161b22; }
+      77.6%, 100% { fill: #161b22; }
+    }
+    .cell-289 { animation: c289 40s linear infinite; }
+    @keyframes c288 {
+      0%, 77.1% { fill: #161b22; }
+      77.3%, 100% { fill: #161b22; }
+    }
+    .cell-288 { animation: c288 40s linear infinite; }
+    @keyframes c287 {
+      0%, 76.9% { fill: #161b22; }
+      77.1%, 100% { fill: #161b22; }
+    }
+    .cell-287 { animation: c287 40s linear infinite; }
+    @keyframes c294 {
+      0%, 78.8% { fill: #161b22; }
+      79%, 100% { fill: #161b22; }
+    }
+    .cell-294 { animation: c294 40s linear infinite; }
+    @keyframes c295 {
+      0%, 79% { fill: #161b22; }
+      79.2%, 100% { fill: #161b22; }
+    }
+    .cell-295 { animation: c295 40s linear infinite; }
+    @keyframes c296 {
+      0%, 79.3% { fill: #161b22; }
+      79.5%, 100% { fill: #161b22; }
+    }
+    .cell-296 { animation: c296 40s linear infinite; }
+    @keyframes c297 {
+      0%, 79.6% { fill: #161b22; }
+      79.8%, 100% { fill: #161b22; }
+    }
+    .cell-297 { animation: c297 40s linear infinite; }
+    @keyframes c298 {
+      0%, 79.8% { fill: #161b22; }
+      80%, 100% { fill: #161b22; }
+    }
+    .cell-298 { animation: c298 40s linear infinite; }
+    @keyframes c299 {
+      0%, 80.1% { fill: #161b22; }
+      80.3%, 100% { fill: #161b22; }
+    }
+    .cell-299 { animation: c299 40s linear infinite; }
+    @keyframes c300 {
+      0%, 80.4% { fill: #161b22; }
+      80.6%, 100% { fill: #161b22; }
+    }
+    .cell-300 { animation: c300 40s linear infinite; }
+    @keyframes c307 {
+      0%, 82.2% { fill: #161b22; }
+      82.4%, 100% { fill: #161b22; }
+    }
+    .cell-307 { animation: c307 40s linear infinite; }
+    @keyframes c306 {
+      0%, 82% { fill: #161b22; }
+      82.2%, 100% { fill: #161b22; }
+    }
+    .cell-306 { animation: c306 40s linear infinite; }
+    @keyframes c305 {
+      0%, 81.7% { fill: #161b22; }
+      81.9%, 100% { fill: #161b22; }
+    }
+    .cell-305 { animation: c305 40s linear infinite; }
+    @keyframes c304 {
+      0%, 81.4% { fill: #161b22; }
+      81.6%, 100% { fill: #161b22; }
+    }
+    .cell-304 { animation: c304 40s linear infinite; }
+    @keyframes c303 {
+      0%, 81.2% { fill: #161b22; }
+      81.4%, 100% { fill: #161b22; }
+    }
+    .cell-303 { animation: c303 40s linear infinite; }
+    @keyframes c302 {
+      0%, 80.9% { fill: #161b22; }
+      81.1%, 100% { fill: #006d32; }
+    }
+    .cell-302 { animation: c302 40s linear infinite; }
+    @keyframes c301 {
+      0%, 80.6% { fill: #161b22; }
+      80.8%, 100% { fill: #161b22; }
+    }
+    .cell-301 { animation: c301 40s linear infinite; }
+    @keyframes c308 {
+      0%, 82.5% { fill: #161b22; }
+      82.7%, 100% { fill: #161b22; }
+    }
+    .cell-308 { animation: c308 40s linear infinite; }
+    @keyframes c309 {
+      0%, 82.8% { fill: #161b22; }
+      83%, 100% { fill: #161b22; }
+    }
+    .cell-309 { animation: c309 40s linear infinite; }
+    @keyframes c310 {
+      0%, 83% { fill: #161b22; }
+      83.2%, 100% { fill: #161b22; }
+    }
+    .cell-310 { animation: c310 40s linear infinite; }
+    @keyframes c311 {
+      0%, 83.3% { fill: #161b22; }
+      83.5%, 100% { fill: #0e4429; }
+    }
+    .cell-311 { animation: c311 40s linear infinite; }
+    @keyframes c312 {
+      0%, 83.6% { fill: #161b22; }
+      83.8%, 100% { fill: #161b22; }
+    }
+    .cell-312 { animation: c312 40s linear infinite; }
+    @keyframes c313 {
+      0%, 83.8% { fill: #161b22; }
+      84%, 100% { fill: #006d32; }
+    }
+    .cell-313 { animation: c313 40s linear infinite; }
+    @keyframes c314 {
+      0%, 84.1% { fill: #161b22; }
+      84.3%, 100% { fill: #161b22; }
+    }
+    .cell-314 { animation: c314 40s linear infinite; }
+    @keyframes c321 {
+      0%, 86% { fill: #161b22; }
+      86.2%, 100% { fill: #26a641; }
+    }
+    .cell-321 { animation: c321 40s linear infinite; }
+    @keyframes c320 {
+      0%, 85.7% { fill: #161b22; }
+      85.9%, 100% { fill: #26a641; }
+    }
+    .cell-320 { animation: c320 40s linear infinite; }
+    @keyframes c319 {
+      0%, 85.4% { fill: #161b22; }
+      85.6%, 100% { fill: #006d32; }
+    }
+    .cell-319 { animation: c319 40s linear infinite; }
+    @keyframes c318 {
+      0%, 85.2% { fill: #161b22; }
+      85.4%, 100% { fill: #39d353; }
+    }
+    .cell-318 { animation: c318 40s linear infinite; }
+    @keyframes c317 {
+      0%, 84.9% { fill: #161b22; }
+      85.1%, 100% { fill: #0e4429; }
+    }
+    .cell-317 { animation: c317 40s linear infinite; }
+    @keyframes c316 {
+      0%, 84.6% { fill: #161b22; }
+      84.8%, 100% { fill: #161b22; }
+    }
+    .cell-316 { animation: c316 40s linear infinite; }
+    @keyframes c315 {
+      0%, 84.4% { fill: #161b22; }
+      84.6%, 100% { fill: #161b22; }
+    }
+    .cell-315 { animation: c315 40s linear infinite; }
+    @keyframes c322 {
+      0%, 86.2% { fill: #161b22; }
+      86.4%, 100% { fill: #0e4429; }
+    }
+    .cell-322 { animation: c322 40s linear infinite; }
+    @keyframes c323 {
+      0%, 86.5% { fill: #161b22; }
+      86.7%, 100% { fill: #006d32; }
+    }
+    .cell-323 { animation: c323 40s linear infinite; }
+    @keyframes c324 {
+      0%, 86.8% { fill: #161b22; }
+      87%, 100% { fill: #161b22; }
+    }
+    .cell-324 { animation: c324 40s linear infinite; }
+    @keyframes c325 {
+      0%, 87% { fill: #161b22; }
+      87.2%, 100% { fill: #26a641; }
+    }
+    .cell-325 { animation: c325 40s linear infinite; }
+    @keyframes c326 {
+      0%, 87.3% { fill: #161b22; }
+      87.5%, 100% { fill: #26a641; }
+    }
+    .cell-326 { animation: c326 40s linear infinite; }
+    @keyframes c327 {
+      0%, 87.6% { fill: #161b22; }
+      87.8%, 100% { fill: #26a641; }
+    }
+    .cell-327 { animation: c327 40s linear infinite; }
+    @keyframes c328 {
+      0%, 87.8% { fill: #161b22; }
+      88%, 100% { fill: #006d32; }
+    }
+    .cell-328 { animation: c328 40s linear infinite; }
+    @keyframes c335 {
+      0%, 89.7% { fill: #161b22; }
+      89.9%, 100% { fill: #161b22; }
+    }
+    .cell-335 { animation: c335 40s linear infinite; }
+    @keyframes c334 {
+      0%, 89.4% { fill: #161b22; }
+      89.6%, 100% { fill: #0e4429; }
+    }
+    .cell-334 { animation: c334 40s linear infinite; }
+    @keyframes c333 {
+      0%, 89.2% { fill: #161b22; }
+      89.4%, 100% { fill: #006d32; }
+    }
+    .cell-333 { animation: c333 40s linear infinite; }
+    @keyframes c332 {
+      0%, 88.9% { fill: #161b22; }
+      89.1%, 100% { fill: #26a641; }
+    }
+    .cell-332 { animation: c332 40s linear infinite; }
+    @keyframes c331 {
+      0%, 88.6% { fill: #161b22; }
+      88.8%, 100% { fill: #161b22; }
+    }
+    .cell-331 { animation: c331 40s linear infinite; }
+    @keyframes c330 {
+      0%, 88.4% { fill: #161b22; }
+      88.6%, 100% { fill: #161b22; }
+    }
+    .cell-330 { animation: c330 40s linear infinite; }
+    @keyframes c329 {
+      0%, 88.1% { fill: #161b22; }
+      88.3%, 100% { fill: #161b22; }
+    }
+    .cell-329 { animation: c329 40s linear infinite; }
+    @keyframes c336 {
+      0%, 90% { fill: #161b22; }
+      90.2%, 100% { fill: #161b22; }
+    }
+    .cell-336 { animation: c336 40s linear infinite; }
+    @keyframes c337 {
+      0%, 90.2% { fill: #161b22; }
+      90.4%, 100% { fill: #0e4429; }
+    }
+    .cell-337 { animation: c337 40s linear infinite; }
+    @keyframes c338 {
+      0%, 90.5% { fill: #161b22; }
+      90.7%, 100% { fill: #006d32; }
+    }
+    .cell-338 { animation: c338 40s linear infinite; }
+    @keyframes c339 {
+      0%, 90.8% { fill: #161b22; }
+      91%, 100% { fill: #161b22; }
+    }
+    .cell-339 { animation: c339 40s linear infinite; }
+    @keyframes c340 {
+      0%, 91% { fill: #161b22; }
+      91.2%, 100% { fill: #006d32; }
+    }
+    .cell-340 { animation: c340 40s linear infinite; }
+    @keyframes c341 {
+      0%, 91.3% { fill: #161b22; }
+      91.5%, 100% { fill: #161b22; }
+    }
+    .cell-341 { animation: c341 40s linear infinite; }
+    @keyframes c342 {
+      0%, 91.6% { fill: #161b22; }
+      91.8%, 100% { fill: #26a641; }
+    }
+    .cell-342 { animation: c342 40s linear infinite; }
+    @keyframes c349 {
+      0%, 93.4% { fill: #161b22; }
+      93.6%, 100% { fill: #006d32; }
+    }
+    .cell-349 { animation: c349 40s linear infinite; }
+    @keyframes c348 {
+      0%, 93.2% { fill: #161b22; }
+      93.4%, 100% { fill: #161b22; }
+    }
+    .cell-348 { animation: c348 40s linear infinite; }
+    @keyframes c347 {
+      0%, 92.9% { fill: #161b22; }
+      93.1%, 100% { fill: #006d32; }
+    }
+    .cell-347 { animation: c347 40s linear infinite; }
+    @keyframes c346 {
+      0%, 92.6% { fill: #161b22; }
+      92.8%, 100% { fill: #39d353; }
+    }
+    .cell-346 { animation: c346 40s linear infinite; }
+    @keyframes c345 {
+      0%, 92.4% { fill: #161b22; }
+      92.6%, 100% { fill: #161b22; }
+    }
+    .cell-345 { animation: c345 40s linear infinite; }
+    @keyframes c344 {
+      0%, 92.1% { fill: #161b22; }
+      92.3%, 100% { fill: #161b22; }
+    }
+    .cell-344 { animation: c344 40s linear infinite; }
+    @keyframes c343 {
+      0%, 91.8% { fill: #161b22; }
+      92%, 100% { fill: #161b22; }
+    }
+    .cell-343 { animation: c343 40s linear infinite; }
+    @keyframes c350 {
+      0%, 93.7% { fill: #161b22; }
+      93.9%, 100% { fill: #39d353; }
+    }
+    .cell-350 { animation: c350 40s linear infinite; }
+    @keyframes c351 {
+      0%, 94% { fill: #161b22; }
+      94.2%, 100% { fill: #0e4429; }
+    }
+    .cell-351 { animation: c351 40s linear infinite; }
+    @keyframes c352 {
+      0%, 94.2% { fill: #161b22; }
+      94.4%, 100% { fill: #161b22; }
+    }
+    .cell-352 { animation: c352 40s linear infinite; }
+    @keyframes c353 {
+      0%, 94.5% { fill: #161b22; }
+      94.7%, 100% { fill: #161b22; }
+    }
+    .cell-353 { animation: c353 40s linear infinite; }
+    @keyframes c354 {
+      0%, 94.8% { fill: #161b22; }
+      95%, 100% { fill: #006d32; }
+    }
+    .cell-354 { animation: c354 40s linear infinite; }
+    @keyframes c355 {
+      0%, 95% { fill: #161b22; }
+      95.2%, 100% { fill: #39d353; }
+    }
+    .cell-355 { animation: c355 40s linear infinite; }
+    @keyframes c356 {
+      0%, 95.3% { fill: #161b22; }
+      95.5%, 100% { fill: #161b22; }
+    }
+    .cell-356 { animation: c356 40s linear infinite; }
+    @keyframes c363 {
+      0%, 97.2% { fill: #161b22; }
+      97.4%, 100% { fill: #161b22; }
+    }
+    .cell-363 { animation: c363 40s linear infinite; }
+    @keyframes c362 {
+      0%, 96.9% { fill: #161b22; }
+      97.1%, 100% { fill: #161b22; }
+    }
+    .cell-362 { animation: c362 40s linear infinite; }
+    @keyframes c361 {
+      0%, 96.6% { fill: #161b22; }
+      96.8%, 100% { fill: #161b22; }
+    }
+    .cell-361 { animation: c361 40s linear infinite; }
+    @keyframes c360 {
+      0%, 96.4% { fill: #161b22; }
+      96.6%, 100% { fill: #0e4429; }
+    }
+    .cell-360 { animation: c360 40s linear infinite; }
+    @keyframes c359 {
+      0%, 96.1% { fill: #161b22; }
+      96.3%, 100% { fill: #0e4429; }
+    }
+    .cell-359 { animation: c359 40s linear infinite; }
+    @keyframes c358 {
+      0%, 95.8% { fill: #161b22; }
+      96%, 100% { fill: #39d353; }
+    }
+    .cell-358 { animation: c358 40s linear infinite; }
+    @keyframes c357 {
+      0%, 95.6% { fill: #161b22; }
+      95.8%, 100% { fill: #0e4429; }
+    }
+    .cell-357 { animation: c357 40s linear infinite; }
+    @keyframes c364 {
+      0%, 97.4% { fill: #161b22; }
+      97.6%, 100% { fill: #161b22; }
+    }
+    .cell-364 { animation: c364 40s linear infinite; }
+    @keyframes c365 {
+      0%, 97.7% { fill: #161b22; }
+      97.9%, 100% { fill: #006d32; }
+    }
+    .cell-365 { animation: c365 40s linear infinite; }
+    @keyframes c366 {
+      0%, 98% { fill: #161b22; }
+      98.2%, 100% { fill: #0e4429; }
+    }
+    .cell-366 { animation: c366 40s linear infinite; }
+    @keyframes c367 {
+      0%, 98.2% { fill: #161b22; }
+      98.4%, 100% { fill: #0e4429; }
+    }
+    .cell-367 { animation: c367 40s linear infinite; }
+    @keyframes c368 {
+      0%, 98.5% { fill: #161b22; }
+      98.7%, 100% { fill: #39d353; }
+    }
+    .cell-368 { animation: c368 40s linear infinite; }
+    @keyframes c369 {
+      0%, 98.8% { fill: #161b22; }
+      99%, 100% { fill: #26a641; }
+    }
+    .cell-369 { animation: c369 40s linear infinite; }
+    @keyframes c370 {
+      0%, 99% { fill: #161b22; }
+      99.2%, 100% { fill: #161b22; }
+    }
+    .cell-370 { animation: c370 40s linear infinite; }
   </style>
-  <rect x="40" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="40" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="40" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="40" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="40" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="40" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="40" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="55" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="55" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="55" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="55" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="55" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="55" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="55" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="70" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="70" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="85" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="85" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="85" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="85" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="85" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="85" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="85" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="100" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="100" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="100" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="100" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="100" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="100" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="100" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="115" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="115" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="115" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="115" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="115" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="115" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="115" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="130" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="130" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="130" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="130" y="80" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="130" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="130" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="130" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="145" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="145" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="145" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="145" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="145" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="145" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="145" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="160" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="160" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="160" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="160" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="160" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="160" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="160" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="175" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="175" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="175" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="175" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="175" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="175" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="175" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="190" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="190" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="190" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="190" y="80" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="190" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="190" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="190" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="205" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="205" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="205" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="205" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="205" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="205" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="205" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="220" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="220" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="220" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="220" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="220" y="95" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="220" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="220" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="235" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="235" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="235" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="235" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="235" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="235" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="235" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="250" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="250" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="250" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="250" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="250" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="250" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="250" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="265" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="265" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="265" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="265" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="265" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="265" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="265" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="280" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="280" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="280" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="280" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="280" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="280" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="280" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="295" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="295" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="295" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="295" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="295" y="95" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="295" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="295" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="310" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="310" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="310" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="310" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="310" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="310" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="310" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="325" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="325" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="325" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="325" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="325" y="95" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="325" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="325" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="340" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="340" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="340" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="340" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="340" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="340" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="340" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="355" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="355" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="355" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="355" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="355" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="355" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="355" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="370" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="370" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="370" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="370" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="370" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="370" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="370" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="385" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="385" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="385" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="385" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="385" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="385" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="385" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="400" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="400" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="400" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="400" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="400" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="400" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="400" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="415" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="415" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="415" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="415" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="415" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="415" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="415" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="430" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="430" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="430" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="430" y="80" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="430" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="430" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="430" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="445" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="445" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="445" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="445" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="445" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="445" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="445" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="460" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="460" y="50" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="460" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="460" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="460" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="460" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="460" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="475" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="475" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="475" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="475" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="475" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="475" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="475" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="490" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="490" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="490" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="490" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="490" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="490" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="490" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="505" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="505" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="505" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="505" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="505" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="505" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="505" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="520" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="520" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="520" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="520" y="80" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="520" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="520" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="520" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="535" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="535" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="535" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="535" y="80" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="535" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="535" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="535" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="550" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="550" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="550" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="550" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="550" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="550" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="550" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="565" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="565" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="565" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="565" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="565" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="565" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="565" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="580" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="580" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="580" y="65" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="580" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="580" y="95" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="580" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="580" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="595" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="595" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="595" y="65" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="595" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="595" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="595" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="595" y="125" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="610" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="610" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="610" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="610" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="610" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="610" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="610" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="625" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="625" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="625" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="625" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="625" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="625" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="625" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="640" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="640" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="640" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="640" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="640" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="640" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="640" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="655" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="655" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="655" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="655" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="655" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="655" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="655" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="670" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="670" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="670" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="670" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="670" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="670" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="670" y="125" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="685" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="685" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="685" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="685" y="80" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="685" y="95" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="685" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="685" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="700" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="700" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="700" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="700" y="80" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="700" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="700" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="700" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="715" y="35" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="715" y="50" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="715" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="715" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="715" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="715" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="715" y="125" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="730" y="35" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="730" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="730" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="730" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="730" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="730" y="110" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="730" y="125" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="745" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="745" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="745" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="745" y="80" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="745" y="95" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="745" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="745" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="760" y="35" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="760" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="760" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="760" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="760" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="760" y="110" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="760" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="775" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="775" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="775" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="775" y="80" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="775" y="95" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="775" y="110" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="775" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="790" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="790" y="50" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="790" y="65" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="790" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="790" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="790" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="790" y="125" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="805" y="35" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="805" y="50" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="805" y="65" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="805" y="80" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="805" y="95" width="12" height="12" rx="2" fill="#0e4429" />
-  <rect x="805" y="110" width="12" height="12" rx="2" fill="#26a641" />
-  <rect x="805" y="125" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="820" y="35" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="820" y="50" width="12" height="12" rx="2" fill="#39d353" />
-  <rect x="820" y="65" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="820" y="80" width="12" height="12" rx="2" fill="#161b22" />
-  <rect x="820" y="95" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="820" y="110" width="12" height="12" rx="2" fill="#006d32" />
-  <rect x="820" y="125" width="12" height="12" rx="2" fill="#006d32" />
+  <rect x="40" y="35" width="12" height="12" rx="2" class="cell-0" fill="#161b22" />
+  <rect x="40" y="50" width="12" height="12" rx="2" class="cell-1" fill="#161b22" />
+  <rect x="40" y="65" width="12" height="12" rx="2" class="cell-2" fill="#161b22" />
+  <rect x="40" y="80" width="12" height="12" rx="2" class="cell-3" fill="#161b22" />
+  <rect x="40" y="95" width="12" height="12" rx="2" class="cell-4" fill="#161b22" />
+  <rect x="40" y="110" width="12" height="12" rx="2" class="cell-5" fill="#161b22" />
+  <rect x="40" y="125" width="12" height="12" rx="2" class="cell-6" fill="#161b22" />
+  <rect x="55" y="35" width="12" height="12" rx="2" class="cell-13" fill="#161b22" />
+  <rect x="55" y="50" width="12" height="12" rx="2" class="cell-12" fill="#161b22" />
+  <rect x="55" y="65" width="12" height="12" rx="2" class="cell-11" fill="#161b22" />
+  <rect x="55" y="80" width="12" height="12" rx="2" class="cell-10" fill="#161b22" />
+  <rect x="55" y="95" width="12" height="12" rx="2" class="cell-9" fill="#161b22" />
+  <rect x="55" y="110" width="12" height="12" rx="2" class="cell-8" fill="#161b22" />
+  <rect x="55" y="125" width="12" height="12" rx="2" class="cell-7" fill="#161b22" />
+  <rect x="70" y="35" width="12" height="12" rx="2" class="cell-14" fill="#161b22" />
+  <rect x="70" y="50" width="12" height="12" rx="2" class="cell-15" fill="#161b22" />
+  <rect x="70" y="65" width="12" height="12" rx="2" class="cell-16" fill="#161b22" />
+  <rect x="70" y="80" width="12" height="12" rx="2" class="cell-17" fill="#161b22" />
+  <rect x="70" y="95" width="12" height="12" rx="2" class="cell-18" fill="#161b22" />
+  <rect x="70" y="110" width="12" height="12" rx="2" class="cell-19" fill="#161b22" />
+  <rect x="70" y="125" width="12" height="12" rx="2" class="cell-20" fill="#161b22" />
+  <rect x="85" y="35" width="12" height="12" rx="2" class="cell-27" fill="#161b22" />
+  <rect x="85" y="50" width="12" height="12" rx="2" class="cell-26" fill="#161b22" />
+  <rect x="85" y="65" width="12" height="12" rx="2" class="cell-25" fill="#161b22" />
+  <rect x="85" y="80" width="12" height="12" rx="2" class="cell-24" fill="#161b22" />
+  <rect x="85" y="95" width="12" height="12" rx="2" class="cell-23" fill="#161b22" />
+  <rect x="85" y="110" width="12" height="12" rx="2" class="cell-22" fill="#161b22" />
+  <rect x="85" y="125" width="12" height="12" rx="2" class="cell-21" fill="#161b22" />
+  <rect x="100" y="35" width="12" height="12" rx="2" class="cell-28" fill="#161b22" />
+  <rect x="100" y="50" width="12" height="12" rx="2" class="cell-29" fill="#161b22" />
+  <rect x="100" y="65" width="12" height="12" rx="2" class="cell-30" fill="#161b22" />
+  <rect x="100" y="80" width="12" height="12" rx="2" class="cell-31" fill="#161b22" />
+  <rect x="100" y="95" width="12" height="12" rx="2" class="cell-32" fill="#161b22" />
+  <rect x="100" y="110" width="12" height="12" rx="2" class="cell-33" fill="#161b22" />
+  <rect x="100" y="125" width="12" height="12" rx="2" class="cell-34" fill="#161b22" />
+  <rect x="115" y="35" width="12" height="12" rx="2" class="cell-41" fill="#161b22" />
+  <rect x="115" y="50" width="12" height="12" rx="2" class="cell-40" fill="#161b22" />
+  <rect x="115" y="65" width="12" height="12" rx="2" class="cell-39" fill="#161b22" />
+  <rect x="115" y="80" width="12" height="12" rx="2" class="cell-38" fill="#161b22" />
+  <rect x="115" y="95" width="12" height="12" rx="2" class="cell-37" fill="#161b22" />
+  <rect x="115" y="110" width="12" height="12" rx="2" class="cell-36" fill="#161b22" />
+  <rect x="115" y="125" width="12" height="12" rx="2" class="cell-35" fill="#161b22" />
+  <rect x="130" y="35" width="12" height="12" rx="2" class="cell-42" fill="#161b22" />
+  <rect x="130" y="50" width="12" height="12" rx="2" class="cell-43" fill="#161b22" />
+  <rect x="130" y="65" width="12" height="12" rx="2" class="cell-44" fill="#161b22" />
+  <rect x="130" y="80" width="12" height="12" rx="2" class="cell-45" fill="#161b22" />
+  <rect x="130" y="95" width="12" height="12" rx="2" class="cell-46" fill="#161b22" />
+  <rect x="130" y="110" width="12" height="12" rx="2" class="cell-47" fill="#161b22" />
+  <rect x="130" y="125" width="12" height="12" rx="2" class="cell-48" fill="#161b22" />
+  <rect x="145" y="35" width="12" height="12" rx="2" class="cell-55" fill="#161b22" />
+  <rect x="145" y="50" width="12" height="12" rx="2" class="cell-54" fill="#161b22" />
+  <rect x="145" y="65" width="12" height="12" rx="2" class="cell-53" fill="#161b22" />
+  <rect x="145" y="80" width="12" height="12" rx="2" class="cell-52" fill="#161b22" />
+  <rect x="145" y="95" width="12" height="12" rx="2" class="cell-51" fill="#161b22" />
+  <rect x="145" y="110" width="12" height="12" rx="2" class="cell-50" fill="#161b22" />
+  <rect x="145" y="125" width="12" height="12" rx="2" class="cell-49" fill="#161b22" />
+  <rect x="160" y="35" width="12" height="12" rx="2" class="cell-56" fill="#161b22" />
+  <rect x="160" y="50" width="12" height="12" rx="2" class="cell-57" fill="#161b22" />
+  <rect x="160" y="65" width="12" height="12" rx="2" class="cell-58" fill="#161b22" />
+  <rect x="160" y="80" width="12" height="12" rx="2" class="cell-59" fill="#161b22" />
+  <rect x="160" y="95" width="12" height="12" rx="2" class="cell-60" fill="#161b22" />
+  <rect x="160" y="110" width="12" height="12" rx="2" class="cell-61" fill="#161b22" />
+  <rect x="160" y="125" width="12" height="12" rx="2" class="cell-62" fill="#161b22" />
+  <rect x="175" y="35" width="12" height="12" rx="2" class="cell-69" fill="#161b22" />
+  <rect x="175" y="50" width="12" height="12" rx="2" class="cell-68" fill="#161b22" />
+  <rect x="175" y="65" width="12" height="12" rx="2" class="cell-67" fill="#161b22" />
+  <rect x="175" y="80" width="12" height="12" rx="2" class="cell-66" fill="#161b22" />
+  <rect x="175" y="95" width="12" height="12" rx="2" class="cell-65" fill="#161b22" />
+  <rect x="175" y="110" width="12" height="12" rx="2" class="cell-64" fill="#161b22" />
+  <rect x="175" y="125" width="12" height="12" rx="2" class="cell-63" fill="#161b22" />
+  <rect x="190" y="35" width="12" height="12" rx="2" class="cell-70" fill="#161b22" />
+  <rect x="190" y="50" width="12" height="12" rx="2" class="cell-71" fill="#161b22" />
+  <rect x="190" y="65" width="12" height="12" rx="2" class="cell-72" fill="#161b22" />
+  <rect x="190" y="80" width="12" height="12" rx="2" class="cell-73" fill="#161b22" />
+  <rect x="190" y="95" width="12" height="12" rx="2" class="cell-74" fill="#161b22" />
+  <rect x="190" y="110" width="12" height="12" rx="2" class="cell-75" fill="#161b22" />
+  <rect x="190" y="125" width="12" height="12" rx="2" class="cell-76" fill="#161b22" />
+  <rect x="205" y="35" width="12" height="12" rx="2" class="cell-83" fill="#161b22" />
+  <rect x="205" y="50" width="12" height="12" rx="2" class="cell-82" fill="#161b22" />
+  <rect x="205" y="65" width="12" height="12" rx="2" class="cell-81" fill="#161b22" />
+  <rect x="205" y="80" width="12" height="12" rx="2" class="cell-80" fill="#161b22" />
+  <rect x="205" y="95" width="12" height="12" rx="2" class="cell-79" fill="#161b22" />
+  <rect x="205" y="110" width="12" height="12" rx="2" class="cell-78" fill="#161b22" />
+  <rect x="205" y="125" width="12" height="12" rx="2" class="cell-77" fill="#161b22" />
+  <rect x="220" y="35" width="12" height="12" rx="2" class="cell-84" fill="#161b22" />
+  <rect x="220" y="50" width="12" height="12" rx="2" class="cell-85" fill="#161b22" />
+  <rect x="220" y="65" width="12" height="12" rx="2" class="cell-86" fill="#161b22" />
+  <rect x="220" y="80" width="12" height="12" rx="2" class="cell-87" fill="#161b22" />
+  <rect x="220" y="95" width="12" height="12" rx="2" class="cell-88" fill="#161b22" />
+  <rect x="220" y="110" width="12" height="12" rx="2" class="cell-89" fill="#161b22" />
+  <rect x="220" y="125" width="12" height="12" rx="2" class="cell-90" fill="#161b22" />
+  <rect x="235" y="35" width="12" height="12" rx="2" class="cell-97" fill="#161b22" />
+  <rect x="235" y="50" width="12" height="12" rx="2" class="cell-96" fill="#161b22" />
+  <rect x="235" y="65" width="12" height="12" rx="2" class="cell-95" fill="#161b22" />
+  <rect x="235" y="80" width="12" height="12" rx="2" class="cell-94" fill="#161b22" />
+  <rect x="235" y="95" width="12" height="12" rx="2" class="cell-93" fill="#161b22" />
+  <rect x="235" y="110" width="12" height="12" rx="2" class="cell-92" fill="#161b22" />
+  <rect x="235" y="125" width="12" height="12" rx="2" class="cell-91" fill="#161b22" />
+  <rect x="250" y="35" width="12" height="12" rx="2" class="cell-98" fill="#161b22" />
+  <rect x="250" y="50" width="12" height="12" rx="2" class="cell-99" fill="#161b22" />
+  <rect x="250" y="65" width="12" height="12" rx="2" class="cell-100" fill="#161b22" />
+  <rect x="250" y="80" width="12" height="12" rx="2" class="cell-101" fill="#161b22" />
+  <rect x="250" y="95" width="12" height="12" rx="2" class="cell-102" fill="#161b22" />
+  <rect x="250" y="110" width="12" height="12" rx="2" class="cell-103" fill="#161b22" />
+  <rect x="250" y="125" width="12" height="12" rx="2" class="cell-104" fill="#161b22" />
+  <rect x="265" y="35" width="12" height="12" rx="2" class="cell-111" fill="#161b22" />
+  <rect x="265" y="50" width="12" height="12" rx="2" class="cell-110" fill="#161b22" />
+  <rect x="265" y="65" width="12" height="12" rx="2" class="cell-109" fill="#161b22" />
+  <rect x="265" y="80" width="12" height="12" rx="2" class="cell-108" fill="#161b22" />
+  <rect x="265" y="95" width="12" height="12" rx="2" class="cell-107" fill="#161b22" />
+  <rect x="265" y="110" width="12" height="12" rx="2" class="cell-106" fill="#161b22" />
+  <rect x="265" y="125" width="12" height="12" rx="2" class="cell-105" fill="#161b22" />
+  <rect x="280" y="35" width="12" height="12" rx="2" class="cell-112" fill="#161b22" />
+  <rect x="280" y="50" width="12" height="12" rx="2" class="cell-113" fill="#161b22" />
+  <rect x="280" y="65" width="12" height="12" rx="2" class="cell-114" fill="#161b22" />
+  <rect x="280" y="80" width="12" height="12" rx="2" class="cell-115" fill="#161b22" />
+  <rect x="280" y="95" width="12" height="12" rx="2" class="cell-116" fill="#161b22" />
+  <rect x="280" y="110" width="12" height="12" rx="2" class="cell-117" fill="#161b22" />
+  <rect x="280" y="125" width="12" height="12" rx="2" class="cell-118" fill="#161b22" />
+  <rect x="295" y="35" width="12" height="12" rx="2" class="cell-125" fill="#161b22" />
+  <rect x="295" y="50" width="12" height="12" rx="2" class="cell-124" fill="#161b22" />
+  <rect x="295" y="65" width="12" height="12" rx="2" class="cell-123" fill="#161b22" />
+  <rect x="295" y="80" width="12" height="12" rx="2" class="cell-122" fill="#161b22" />
+  <rect x="295" y="95" width="12" height="12" rx="2" class="cell-121" fill="#161b22" />
+  <rect x="295" y="110" width="12" height="12" rx="2" class="cell-120" fill="#161b22" />
+  <rect x="295" y="125" width="12" height="12" rx="2" class="cell-119" fill="#161b22" />
+  <rect x="310" y="35" width="12" height="12" rx="2" class="cell-126" fill="#161b22" />
+  <rect x="310" y="50" width="12" height="12" rx="2" class="cell-127" fill="#161b22" />
+  <rect x="310" y="65" width="12" height="12" rx="2" class="cell-128" fill="#161b22" />
+  <rect x="310" y="80" width="12" height="12" rx="2" class="cell-129" fill="#161b22" />
+  <rect x="310" y="95" width="12" height="12" rx="2" class="cell-130" fill="#161b22" />
+  <rect x="310" y="110" width="12" height="12" rx="2" class="cell-131" fill="#161b22" />
+  <rect x="310" y="125" width="12" height="12" rx="2" class="cell-132" fill="#161b22" />
+  <rect x="325" y="35" width="12" height="12" rx="2" class="cell-139" fill="#161b22" />
+  <rect x="325" y="50" width="12" height="12" rx="2" class="cell-138" fill="#161b22" />
+  <rect x="325" y="65" width="12" height="12" rx="2" class="cell-137" fill="#161b22" />
+  <rect x="325" y="80" width="12" height="12" rx="2" class="cell-136" fill="#161b22" />
+  <rect x="325" y="95" width="12" height="12" rx="2" class="cell-135" fill="#161b22" />
+  <rect x="325" y="110" width="12" height="12" rx="2" class="cell-134" fill="#161b22" />
+  <rect x="325" y="125" width="12" height="12" rx="2" class="cell-133" fill="#161b22" />
+  <rect x="340" y="35" width="12" height="12" rx="2" class="cell-140" fill="#161b22" />
+  <rect x="340" y="50" width="12" height="12" rx="2" class="cell-141" fill="#161b22" />
+  <rect x="340" y="65" width="12" height="12" rx="2" class="cell-142" fill="#161b22" />
+  <rect x="340" y="80" width="12" height="12" rx="2" class="cell-143" fill="#161b22" />
+  <rect x="340" y="95" width="12" height="12" rx="2" class="cell-144" fill="#161b22" />
+  <rect x="340" y="110" width="12" height="12" rx="2" class="cell-145" fill="#161b22" />
+  <rect x="340" y="125" width="12" height="12" rx="2" class="cell-146" fill="#161b22" />
+  <rect x="355" y="35" width="12" height="12" rx="2" class="cell-153" fill="#161b22" />
+  <rect x="355" y="50" width="12" height="12" rx="2" class="cell-152" fill="#161b22" />
+  <rect x="355" y="65" width="12" height="12" rx="2" class="cell-151" fill="#161b22" />
+  <rect x="355" y="80" width="12" height="12" rx="2" class="cell-150" fill="#161b22" />
+  <rect x="355" y="95" width="12" height="12" rx="2" class="cell-149" fill="#161b22" />
+  <rect x="355" y="110" width="12" height="12" rx="2" class="cell-148" fill="#161b22" />
+  <rect x="355" y="125" width="12" height="12" rx="2" class="cell-147" fill="#161b22" />
+  <rect x="370" y="35" width="12" height="12" rx="2" class="cell-154" fill="#161b22" />
+  <rect x="370" y="50" width="12" height="12" rx="2" class="cell-155" fill="#161b22" />
+  <rect x="370" y="65" width="12" height="12" rx="2" class="cell-156" fill="#161b22" />
+  <rect x="370" y="80" width="12" height="12" rx="2" class="cell-157" fill="#161b22" />
+  <rect x="370" y="95" width="12" height="12" rx="2" class="cell-158" fill="#161b22" />
+  <rect x="370" y="110" width="12" height="12" rx="2" class="cell-159" fill="#161b22" />
+  <rect x="370" y="125" width="12" height="12" rx="2" class="cell-160" fill="#161b22" />
+  <rect x="385" y="35" width="12" height="12" rx="2" class="cell-167" fill="#161b22" />
+  <rect x="385" y="50" width="12" height="12" rx="2" class="cell-166" fill="#161b22" />
+  <rect x="385" y="65" width="12" height="12" rx="2" class="cell-165" fill="#161b22" />
+  <rect x="385" y="80" width="12" height="12" rx="2" class="cell-164" fill="#161b22" />
+  <rect x="385" y="95" width="12" height="12" rx="2" class="cell-163" fill="#161b22" />
+  <rect x="385" y="110" width="12" height="12" rx="2" class="cell-162" fill="#161b22" />
+  <rect x="385" y="125" width="12" height="12" rx="2" class="cell-161" fill="#161b22" />
+  <rect x="400" y="35" width="12" height="12" rx="2" class="cell-168" fill="#161b22" />
+  <rect x="400" y="50" width="12" height="12" rx="2" class="cell-169" fill="#161b22" />
+  <rect x="400" y="65" width="12" height="12" rx="2" class="cell-170" fill="#161b22" />
+  <rect x="400" y="80" width="12" height="12" rx="2" class="cell-171" fill="#161b22" />
+  <rect x="400" y="95" width="12" height="12" rx="2" class="cell-172" fill="#161b22" />
+  <rect x="400" y="110" width="12" height="12" rx="2" class="cell-173" fill="#161b22" />
+  <rect x="400" y="125" width="12" height="12" rx="2" class="cell-174" fill="#161b22" />
+  <rect x="415" y="35" width="12" height="12" rx="2" class="cell-181" fill="#161b22" />
+  <rect x="415" y="50" width="12" height="12" rx="2" class="cell-180" fill="#161b22" />
+  <rect x="415" y="65" width="12" height="12" rx="2" class="cell-179" fill="#161b22" />
+  <rect x="415" y="80" width="12" height="12" rx="2" class="cell-178" fill="#161b22" />
+  <rect x="415" y="95" width="12" height="12" rx="2" class="cell-177" fill="#161b22" />
+  <rect x="415" y="110" width="12" height="12" rx="2" class="cell-176" fill="#161b22" />
+  <rect x="415" y="125" width="12" height="12" rx="2" class="cell-175" fill="#161b22" />
+  <rect x="430" y="35" width="12" height="12" rx="2" class="cell-182" fill="#161b22" />
+  <rect x="430" y="50" width="12" height="12" rx="2" class="cell-183" fill="#161b22" />
+  <rect x="430" y="65" width="12" height="12" rx="2" class="cell-184" fill="#161b22" />
+  <rect x="430" y="80" width="12" height="12" rx="2" class="cell-185" fill="#161b22" />
+  <rect x="430" y="95" width="12" height="12" rx="2" class="cell-186" fill="#161b22" />
+  <rect x="430" y="110" width="12" height="12" rx="2" class="cell-187" fill="#161b22" />
+  <rect x="430" y="125" width="12" height="12" rx="2" class="cell-188" fill="#161b22" />
+  <rect x="445" y="35" width="12" height="12" rx="2" class="cell-195" fill="#161b22" />
+  <rect x="445" y="50" width="12" height="12" rx="2" class="cell-194" fill="#161b22" />
+  <rect x="445" y="65" width="12" height="12" rx="2" class="cell-193" fill="#161b22" />
+  <rect x="445" y="80" width="12" height="12" rx="2" class="cell-192" fill="#161b22" />
+  <rect x="445" y="95" width="12" height="12" rx="2" class="cell-191" fill="#161b22" />
+  <rect x="445" y="110" width="12" height="12" rx="2" class="cell-190" fill="#161b22" />
+  <rect x="445" y="125" width="12" height="12" rx="2" class="cell-189" fill="#161b22" />
+  <rect x="460" y="35" width="12" height="12" rx="2" class="cell-196" fill="#161b22" />
+  <rect x="460" y="50" width="12" height="12" rx="2" class="cell-197" fill="#161b22" />
+  <rect x="460" y="65" width="12" height="12" rx="2" class="cell-198" fill="#161b22" />
+  <rect x="460" y="80" width="12" height="12" rx="2" class="cell-199" fill="#161b22" />
+  <rect x="460" y="95" width="12" height="12" rx="2" class="cell-200" fill="#161b22" />
+  <rect x="460" y="110" width="12" height="12" rx="2" class="cell-201" fill="#161b22" />
+  <rect x="460" y="125" width="12" height="12" rx="2" class="cell-202" fill="#161b22" />
+  <rect x="475" y="35" width="12" height="12" rx="2" class="cell-209" fill="#161b22" />
+  <rect x="475" y="50" width="12" height="12" rx="2" class="cell-208" fill="#161b22" />
+  <rect x="475" y="65" width="12" height="12" rx="2" class="cell-207" fill="#161b22" />
+  <rect x="475" y="80" width="12" height="12" rx="2" class="cell-206" fill="#161b22" />
+  <rect x="475" y="95" width="12" height="12" rx="2" class="cell-205" fill="#161b22" />
+  <rect x="475" y="110" width="12" height="12" rx="2" class="cell-204" fill="#161b22" />
+  <rect x="475" y="125" width="12" height="12" rx="2" class="cell-203" fill="#161b22" />
+  <rect x="490" y="35" width="12" height="12" rx="2" class="cell-210" fill="#161b22" />
+  <rect x="490" y="50" width="12" height="12" rx="2" class="cell-211" fill="#161b22" />
+  <rect x="490" y="65" width="12" height="12" rx="2" class="cell-212" fill="#161b22" />
+  <rect x="490" y="80" width="12" height="12" rx="2" class="cell-213" fill="#161b22" />
+  <rect x="490" y="95" width="12" height="12" rx="2" class="cell-214" fill="#161b22" />
+  <rect x="490" y="110" width="12" height="12" rx="2" class="cell-215" fill="#161b22" />
+  <rect x="490" y="125" width="12" height="12" rx="2" class="cell-216" fill="#161b22" />
+  <rect x="505" y="35" width="12" height="12" rx="2" class="cell-223" fill="#161b22" />
+  <rect x="505" y="50" width="12" height="12" rx="2" class="cell-222" fill="#161b22" />
+  <rect x="505" y="65" width="12" height="12" rx="2" class="cell-221" fill="#161b22" />
+  <rect x="505" y="80" width="12" height="12" rx="2" class="cell-220" fill="#161b22" />
+  <rect x="505" y="95" width="12" height="12" rx="2" class="cell-219" fill="#161b22" />
+  <rect x="505" y="110" width="12" height="12" rx="2" class="cell-218" fill="#161b22" />
+  <rect x="505" y="125" width="12" height="12" rx="2" class="cell-217" fill="#161b22" />
+  <rect x="520" y="35" width="12" height="12" rx="2" class="cell-224" fill="#161b22" />
+  <rect x="520" y="50" width="12" height="12" rx="2" class="cell-225" fill="#161b22" />
+  <rect x="520" y="65" width="12" height="12" rx="2" class="cell-226" fill="#161b22" />
+  <rect x="520" y="80" width="12" height="12" rx="2" class="cell-227" fill="#161b22" />
+  <rect x="520" y="95" width="12" height="12" rx="2" class="cell-228" fill="#161b22" />
+  <rect x="520" y="110" width="12" height="12" rx="2" class="cell-229" fill="#161b22" />
+  <rect x="520" y="125" width="12" height="12" rx="2" class="cell-230" fill="#161b22" />
+  <rect x="535" y="35" width="12" height="12" rx="2" class="cell-237" fill="#161b22" />
+  <rect x="535" y="50" width="12" height="12" rx="2" class="cell-236" fill="#161b22" />
+  <rect x="535" y="65" width="12" height="12" rx="2" class="cell-235" fill="#161b22" />
+  <rect x="535" y="80" width="12" height="12" rx="2" class="cell-234" fill="#161b22" />
+  <rect x="535" y="95" width="12" height="12" rx="2" class="cell-233" fill="#161b22" />
+  <rect x="535" y="110" width="12" height="12" rx="2" class="cell-232" fill="#161b22" />
+  <rect x="535" y="125" width="12" height="12" rx="2" class="cell-231" fill="#161b22" />
+  <rect x="550" y="35" width="12" height="12" rx="2" class="cell-238" fill="#161b22" />
+  <rect x="550" y="50" width="12" height="12" rx="2" class="cell-239" fill="#161b22" />
+  <rect x="550" y="65" width="12" height="12" rx="2" class="cell-240" fill="#161b22" />
+  <rect x="550" y="80" width="12" height="12" rx="2" class="cell-241" fill="#161b22" />
+  <rect x="550" y="95" width="12" height="12" rx="2" class="cell-242" fill="#161b22" />
+  <rect x="550" y="110" width="12" height="12" rx="2" class="cell-243" fill="#161b22" />
+  <rect x="550" y="125" width="12" height="12" rx="2" class="cell-244" fill="#161b22" />
+  <rect x="565" y="35" width="12" height="12" rx="2" class="cell-251" fill="#161b22" />
+  <rect x="565" y="50" width="12" height="12" rx="2" class="cell-250" fill="#161b22" />
+  <rect x="565" y="65" width="12" height="12" rx="2" class="cell-249" fill="#161b22" />
+  <rect x="565" y="80" width="12" height="12" rx="2" class="cell-248" fill="#161b22" />
+  <rect x="565" y="95" width="12" height="12" rx="2" class="cell-247" fill="#161b22" />
+  <rect x="565" y="110" width="12" height="12" rx="2" class="cell-246" fill="#161b22" />
+  <rect x="565" y="125" width="12" height="12" rx="2" class="cell-245" fill="#161b22" />
+  <rect x="580" y="35" width="12" height="12" rx="2" class="cell-252" fill="#161b22" />
+  <rect x="580" y="50" width="12" height="12" rx="2" class="cell-253" fill="#161b22" />
+  <rect x="580" y="65" width="12" height="12" rx="2" class="cell-254" fill="#161b22" />
+  <rect x="580" y="80" width="12" height="12" rx="2" class="cell-255" fill="#161b22" />
+  <rect x="580" y="95" width="12" height="12" rx="2" class="cell-256" fill="#161b22" />
+  <rect x="580" y="110" width="12" height="12" rx="2" class="cell-257" fill="#161b22" />
+  <rect x="580" y="125" width="12" height="12" rx="2" class="cell-258" fill="#161b22" />
+  <rect x="595" y="35" width="12" height="12" rx="2" class="cell-265" fill="#161b22" />
+  <rect x="595" y="50" width="12" height="12" rx="2" class="cell-264" fill="#161b22" />
+  <rect x="595" y="65" width="12" height="12" rx="2" class="cell-263" fill="#161b22" />
+  <rect x="595" y="80" width="12" height="12" rx="2" class="cell-262" fill="#161b22" />
+  <rect x="595" y="95" width="12" height="12" rx="2" class="cell-261" fill="#161b22" />
+  <rect x="595" y="110" width="12" height="12" rx="2" class="cell-260" fill="#161b22" />
+  <rect x="595" y="125" width="12" height="12" rx="2" class="cell-259" fill="#161b22" />
+  <rect x="610" y="35" width="12" height="12" rx="2" class="cell-266" fill="#161b22" />
+  <rect x="610" y="50" width="12" height="12" rx="2" class="cell-267" fill="#161b22" />
+  <rect x="610" y="65" width="12" height="12" rx="2" class="cell-268" fill="#161b22" />
+  <rect x="610" y="80" width="12" height="12" rx="2" class="cell-269" fill="#161b22" />
+  <rect x="610" y="95" width="12" height="12" rx="2" class="cell-270" fill="#161b22" />
+  <rect x="610" y="110" width="12" height="12" rx="2" class="cell-271" fill="#161b22" />
+  <rect x="610" y="125" width="12" height="12" rx="2" class="cell-272" fill="#161b22" />
+  <rect x="625" y="35" width="12" height="12" rx="2" class="cell-279" fill="#161b22" />
+  <rect x="625" y="50" width="12" height="12" rx="2" class="cell-278" fill="#161b22" />
+  <rect x="625" y="65" width="12" height="12" rx="2" class="cell-277" fill="#161b22" />
+  <rect x="625" y="80" width="12" height="12" rx="2" class="cell-276" fill="#161b22" />
+  <rect x="625" y="95" width="12" height="12" rx="2" class="cell-275" fill="#161b22" />
+  <rect x="625" y="110" width="12" height="12" rx="2" class="cell-274" fill="#161b22" />
+  <rect x="625" y="125" width="12" height="12" rx="2" class="cell-273" fill="#161b22" />
+  <rect x="640" y="35" width="12" height="12" rx="2" class="cell-280" fill="#161b22" />
+  <rect x="640" y="50" width="12" height="12" rx="2" class="cell-281" fill="#161b22" />
+  <rect x="640" y="65" width="12" height="12" rx="2" class="cell-282" fill="#161b22" />
+  <rect x="640" y="80" width="12" height="12" rx="2" class="cell-283" fill="#161b22" />
+  <rect x="640" y="95" width="12" height="12" rx="2" class="cell-284" fill="#161b22" />
+  <rect x="640" y="110" width="12" height="12" rx="2" class="cell-285" fill="#161b22" />
+  <rect x="640" y="125" width="12" height="12" rx="2" class="cell-286" fill="#161b22" />
+  <rect x="655" y="35" width="12" height="12" rx="2" class="cell-293" fill="#161b22" />
+  <rect x="655" y="50" width="12" height="12" rx="2" class="cell-292" fill="#161b22" />
+  <rect x="655" y="65" width="12" height="12" rx="2" class="cell-291" fill="#161b22" />
+  <rect x="655" y="80" width="12" height="12" rx="2" class="cell-290" fill="#161b22" />
+  <rect x="655" y="95" width="12" height="12" rx="2" class="cell-289" fill="#161b22" />
+  <rect x="655" y="110" width="12" height="12" rx="2" class="cell-288" fill="#161b22" />
+  <rect x="655" y="125" width="12" height="12" rx="2" class="cell-287" fill="#161b22" />
+  <rect x="670" y="35" width="12" height="12" rx="2" class="cell-294" fill="#161b22" />
+  <rect x="670" y="50" width="12" height="12" rx="2" class="cell-295" fill="#161b22" />
+  <rect x="670" y="65" width="12" height="12" rx="2" class="cell-296" fill="#161b22" />
+  <rect x="670" y="80" width="12" height="12" rx="2" class="cell-297" fill="#161b22" />
+  <rect x="670" y="95" width="12" height="12" rx="2" class="cell-298" fill="#161b22" />
+  <rect x="670" y="110" width="12" height="12" rx="2" class="cell-299" fill="#161b22" />
+  <rect x="670" y="125" width="12" height="12" rx="2" class="cell-300" fill="#161b22" />
+  <rect x="685" y="35" width="12" height="12" rx="2" class="cell-307" fill="#161b22" />
+  <rect x="685" y="50" width="12" height="12" rx="2" class="cell-306" fill="#161b22" />
+  <rect x="685" y="65" width="12" height="12" rx="2" class="cell-305" fill="#161b22" />
+  <rect x="685" y="80" width="12" height="12" rx="2" class="cell-304" fill="#161b22" />
+  <rect x="685" y="95" width="12" height="12" rx="2" class="cell-303" fill="#161b22" />
+  <rect x="685" y="110" width="12" height="12" rx="2" class="cell-302" fill="#161b22" />
+  <rect x="685" y="125" width="12" height="12" rx="2" class="cell-301" fill="#161b22" />
+  <rect x="700" y="35" width="12" height="12" rx="2" class="cell-308" fill="#161b22" />
+  <rect x="700" y="50" width="12" height="12" rx="2" class="cell-309" fill="#161b22" />
+  <rect x="700" y="65" width="12" height="12" rx="2" class="cell-310" fill="#161b22" />
+  <rect x="700" y="80" width="12" height="12" rx="2" class="cell-311" fill="#161b22" />
+  <rect x="700" y="95" width="12" height="12" rx="2" class="cell-312" fill="#161b22" />
+  <rect x="700" y="110" width="12" height="12" rx="2" class="cell-313" fill="#161b22" />
+  <rect x="700" y="125" width="12" height="12" rx="2" class="cell-314" fill="#161b22" />
+  <rect x="715" y="35" width="12" height="12" rx="2" class="cell-321" fill="#161b22" />
+  <rect x="715" y="50" width="12" height="12" rx="2" class="cell-320" fill="#161b22" />
+  <rect x="715" y="65" width="12" height="12" rx="2" class="cell-319" fill="#161b22" />
+  <rect x="715" y="80" width="12" height="12" rx="2" class="cell-318" fill="#161b22" />
+  <rect x="715" y="95" width="12" height="12" rx="2" class="cell-317" fill="#161b22" />
+  <rect x="715" y="110" width="12" height="12" rx="2" class="cell-316" fill="#161b22" />
+  <rect x="715" y="125" width="12" height="12" rx="2" class="cell-315" fill="#161b22" />
+  <rect x="730" y="35" width="12" height="12" rx="2" class="cell-322" fill="#161b22" />
+  <rect x="730" y="50" width="12" height="12" rx="2" class="cell-323" fill="#161b22" />
+  <rect x="730" y="65" width="12" height="12" rx="2" class="cell-324" fill="#161b22" />
+  <rect x="730" y="80" width="12" height="12" rx="2" class="cell-325" fill="#161b22" />
+  <rect x="730" y="95" width="12" height="12" rx="2" class="cell-326" fill="#161b22" />
+  <rect x="730" y="110" width="12" height="12" rx="2" class="cell-327" fill="#161b22" />
+  <rect x="730" y="125" width="12" height="12" rx="2" class="cell-328" fill="#161b22" />
+  <rect x="745" y="35" width="12" height="12" rx="2" class="cell-335" fill="#161b22" />
+  <rect x="745" y="50" width="12" height="12" rx="2" class="cell-334" fill="#161b22" />
+  <rect x="745" y="65" width="12" height="12" rx="2" class="cell-333" fill="#161b22" />
+  <rect x="745" y="80" width="12" height="12" rx="2" class="cell-332" fill="#161b22" />
+  <rect x="745" y="95" width="12" height="12" rx="2" class="cell-331" fill="#161b22" />
+  <rect x="745" y="110" width="12" height="12" rx="2" class="cell-330" fill="#161b22" />
+  <rect x="745" y="125" width="12" height="12" rx="2" class="cell-329" fill="#161b22" />
+  <rect x="760" y="35" width="12" height="12" rx="2" class="cell-336" fill="#161b22" />
+  <rect x="760" y="50" width="12" height="12" rx="2" class="cell-337" fill="#161b22" />
+  <rect x="760" y="65" width="12" height="12" rx="2" class="cell-338" fill="#161b22" />
+  <rect x="760" y="80" width="12" height="12" rx="2" class="cell-339" fill="#161b22" />
+  <rect x="760" y="95" width="12" height="12" rx="2" class="cell-340" fill="#161b22" />
+  <rect x="760" y="110" width="12" height="12" rx="2" class="cell-341" fill="#161b22" />
+  <rect x="760" y="125" width="12" height="12" rx="2" class="cell-342" fill="#161b22" />
+  <rect x="775" y="35" width="12" height="12" rx="2" class="cell-349" fill="#161b22" />
+  <rect x="775" y="50" width="12" height="12" rx="2" class="cell-348" fill="#161b22" />
+  <rect x="775" y="65" width="12" height="12" rx="2" class="cell-347" fill="#161b22" />
+  <rect x="775" y="80" width="12" height="12" rx="2" class="cell-346" fill="#161b22" />
+  <rect x="775" y="95" width="12" height="12" rx="2" class="cell-345" fill="#161b22" />
+  <rect x="775" y="110" width="12" height="12" rx="2" class="cell-344" fill="#161b22" />
+  <rect x="775" y="125" width="12" height="12" rx="2" class="cell-343" fill="#161b22" />
+  <rect x="790" y="35" width="12" height="12" rx="2" class="cell-350" fill="#161b22" />
+  <rect x="790" y="50" width="12" height="12" rx="2" class="cell-351" fill="#161b22" />
+  <rect x="790" y="65" width="12" height="12" rx="2" class="cell-352" fill="#161b22" />
+  <rect x="790" y="80" width="12" height="12" rx="2" class="cell-353" fill="#161b22" />
+  <rect x="790" y="95" width="12" height="12" rx="2" class="cell-354" fill="#161b22" />
+  <rect x="790" y="110" width="12" height="12" rx="2" class="cell-355" fill="#161b22" />
+  <rect x="790" y="125" width="12" height="12" rx="2" class="cell-356" fill="#161b22" />
+  <rect x="805" y="35" width="12" height="12" rx="2" class="cell-363" fill="#161b22" />
+  <rect x="805" y="50" width="12" height="12" rx="2" class="cell-362" fill="#161b22" />
+  <rect x="805" y="65" width="12" height="12" rx="2" class="cell-361" fill="#161b22" />
+  <rect x="805" y="80" width="12" height="12" rx="2" class="cell-360" fill="#161b22" />
+  <rect x="805" y="95" width="12" height="12" rx="2" class="cell-359" fill="#161b22" />
+  <rect x="805" y="110" width="12" height="12" rx="2" class="cell-358" fill="#161b22" />
+  <rect x="805" y="125" width="12" height="12" rx="2" class="cell-357" fill="#161b22" />
+  <rect x="820" y="35" width="12" height="12" rx="2" class="cell-364" fill="#161b22" />
+  <rect x="820" y="50" width="12" height="12" rx="2" class="cell-365" fill="#161b22" />
+  <rect x="820" y="65" width="12" height="12" rx="2" class="cell-366" fill="#161b22" />
+  <rect x="820" y="80" width="12" height="12" rx="2" class="cell-367" fill="#161b22" />
+  <rect x="820" y="95" width="12" height="12" rx="2" class="cell-368" fill="#161b22" />
+  <rect x="820" y="110" width="12" height="12" rx="2" class="cell-369" fill="#161b22" />
+  <rect x="820" y="125" width="12" height="12" rx="2" class="cell-370" fill="#161b22" />
   <text x="10" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Mon</text>
   <text x="10" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Wed</text>
   <text x="10" y="120" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Fri</text>
@@ -415,17 +2268,18 @@
   <rect x="790" y="148" width="12" height="12" rx="2" fill="#39d353" />
   <text x="810" y="157" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">More</text>
   <g style="filter: url(#dino-glow);">
-    <animateTransform attributeName="transform" type="translate"
-      values="-40 120; 180 120; 220 90; 260 120; 430 120; 470 80; 510 120; 660 120; 700 90; 740 120; 890 120"
-      dur="14s" repeatCount="indefinite" />
-    <g>
-      <rect x="10.5" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="15" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="16.5" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="18" y="0" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="15" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="16.5" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="18" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="19.5" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="21" y="1.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="15" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="16.5" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="18" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="19.5" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="21" y="3" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="15" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="16.5" y="4.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="15" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="16.5" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="18" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="19.5" y="6" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="7.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="7.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="7.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="13.5" y="7.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="1.5" y="9" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="9" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="9" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="9" width="1.5" height="1.5" fill="#5eead4" /><rect x="12" y="9" width="1.5" height="1.5" fill="#5eead4" /><rect x="1.5" y="10.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="3" y="10.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="10.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="10.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="10.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="1.5" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="3" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="4.5" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="12" width="1.5" height="1.5" fill="#5eead4" /><rect x="3" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="4.5" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="6" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="10.5" y="13.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="4.5" y="15" width="1.5" height="1.5" fill="#5eead4" /><rect x="6" y="15" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="15" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="15" width="1.5" height="1.5" fill="#5eead4" /><rect x="6" y="16.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="16.5" width="1.5" height="1.5" fill="#5eead4" />
+    <animateMotion path="M 15 41 L 46 41 L 46 131 L 61 131 L 61 41 L 76 41 L 76 131 L 91 131 L 91 41 L 106 41 L 106 131 L 121 131 L 121 41 L 136 41 L 136 131 L 151 131 L 151 41 L 166 41 L 166 131 L 181 131 L 181 41 L 196 41 L 196 131 L 211 131 L 211 41 L 226 41 L 226 131 L 241 131 L 241 41 L 256 41 L 256 131 L 271 131 L 271 41 L 286 41 L 286 131 L 301 131 L 301 41 L 316 41 L 316 131 L 331 131 L 331 41 L 346 41 L 346 131 L 361 131 L 361 41 L 376 41 L 376 131 L 391 131 L 391 41 L 406 41 L 406 131 L 421 131 L 421 41 L 436 41 L 436 131 L 451 131 L 451 41 L 466 41 L 466 131 L 481 131 L 481 41 L 496 41 L 496 131 L 511 131 L 511 41 L 526 41 L 526 131 L 541 131 L 541 41 L 556 41 L 556 131 L 571 131 L 571 41 L 586 41 L 586 131 L 601 131 L 601 41 L 616 41 L 616 131 L 631 131 L 631 41 L 646 41 L 646 131 L 661 131 L 661 41 L 676 41 L 676 131 L 691 131 L 691 41 L 706 41 L 706 131 L 721 131 L 721 41 L 736 41 L 736 131 L 751 131 L 751 41 L 766 41 L 766 131 L 781 131 L 781 41 L 796 41 L 796 131 L 811 131 L 811 41 L 826 41 L 826 131 L 865 131" dur="40s" repeatCount="indefinite" rotate="auto" />
+    <g transform="translate(-10, -10)">
+      <rect x="8.4" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="16.8" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="16.8" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="13.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="13.2" width="1.2" height="1.2" fill="#5eead4" />
       <!-- Eye -->
-      <rect x="12" y="3" width="1.5" height="1.5" fill="#0d1117" />
+      <rect x="9.6" y="2.4" width="1.2" height="1.2" fill="#0d1117" />
+      <rect x="9.6" y="2.4" width="1.2" height="1.2" fill="#5eead4" class="eye-blink" />
+      <!-- Mouth closed pixels (toggles opacity) -->
+      <g class="mouth-closed"><rect x="14.399999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /></g>
       <!-- Leg 1 -->
-      <g class="leg-1"><rect x="6" y="18" width="1.5" height="1.5" fill="#5eead4" /><rect x="6" y="19.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="6" y="21" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="21" width="1.5" height="1.5" fill="#5eead4" /></g>
+      <g class="leg-1"><rect x="4.8" y="14.399999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="15.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="16.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="16.8" width="1.2" height="1.2" fill="#5eead4" /></g>
       <!-- Leg 2 -->
-      <g class="leg-2"><rect x="7.5" y="18" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="19.5" width="1.5" height="1.5" fill="#5eead4" /><rect x="7.5" y="21" width="1.5" height="1.5" fill="#5eead4" /><rect x="9" y="21" width="1.5" height="1.5" fill="#5eead4" /></g>
+      <g class="leg-2"><rect x="6" y="14.399999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="15.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="16.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="16.8" width="1.2" height="1.2" fill="#5eead4" /></g>
     </g>
   </g>
 </svg>
