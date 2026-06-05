@@ -184,7 +184,7 @@
         <p><strong>Published in:</strong> <i>Global Perspectives on AI and Sustainable Development 2.0 (GPAISD 2.0)</i></p>
         <p>
           <img src="https://img.shields.io/badge/Publication-Research%20Paper-blueviolet?style=flat-square" alt="Research Paper Badge">
-          <img src="https://img.shields.io/badge/Topic-BCI%20%7C%20UAV%20Control%20%7C%20EEG-blue?style=flat-square" alt="Topic Badge">
+          <img src="https://img.shields.io/badge/Topic-EEG--based%20BCI%20for%20UAV%20Control-blue?style=flat-square" alt="Topic Badge">
           <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
         </p>
         <p>
