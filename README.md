@@ -34,13 +34,6 @@
   </a>
 </p>
 
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Node%20Status-Online-39FF14?style=flat-square&logo=statuspage&logoColor=black&labelColor=0d1117" alt="Node Status">
-  <img src="https://img.shields.io/badge/Research%20Focus-BCI%20%26%20AI%20Agents-bd93f9?style=flat-square&logo=databricks&logoColor=white&labelColor=0d1117" alt="Research Focus">
-  <img src="https://img.shields.io/badge/Latest%20Paper-EEG%20UAV%20Control-ffb86c?style=flat-square&logo=academia&logoColor=white&labelColor=0d1117" alt="Latest Paper">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=26&center=true&vCenter=true&width=900&lines=🚀+Intergalactic+Neural+Networks+Online...;🛸+Decoding+Alien+Signals+from+Deep+Space...;🌊+Harnessing+Bioluminescent+Tech+from+Oceanic+Depths...;⚛️+Quantum+Linking+with+Future+Civilizations...;🔮+Rewriting+Reality+at+Lightspeed...;">
 </p>
