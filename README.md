@@ -168,6 +168,27 @@
 
 ---
 
+## 📜 Certifications & Hackathons
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Certified%20Automation-FF6F59?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" />
+  <img src="https://img.shields.io/badge/Claude%20Code-In%20Action-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Badge" />
+  <img src="https://img.shields.io/badge/NASA%20Space%20Apps-Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Build%20With%20India-Hackathon-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Build With India Badge" />
+  <img src="https://img.shields.io/badge/HashItUp-24--Hr%20National%20Hackathon-121212?style=for-the-badge&logo=probot&logoColor=white" alt="HashItUp Badge" />
+  <img src="https://img.shields.io/badge/Red%20Hat-Academy%20%26%20IPSR-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/NPTEL-Industry%204.0%20%26%20IIoT-005A9C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="NPTEL Badge" />
+  <img src="https://img.shields.io/badge/Tableau-Intro%20Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Claude%20101-Anthropic%20Certified-E8DCC4?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=333333" alt="Claude 101 Badge" />
+  <img src="https://img.shields.io/badge/Claude%20Code%20101-Anthropic%20Certified-7A8A66?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=333333" alt="Claude Code 101 Badge" />
+  <img src="https://img.shields.io/badge/Claude%20Cowork-Intro%20Certified-CACDDA?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=333333" alt="Claude Cowork Badge" />
+</p>
+
+---
+
 ## 🛠 Skills & Tools
 
 <p align="center">
