@@ -56,6 +56,18 @@ async function main() {
         }
         console.log(`Parsed ${cellCount} contribution cells successfully!`);
 
+        // Swap columns 29-33 (A) and 35-39 (H) to change TAHZ to THAZ
+        for (let r = 0; r < 7; r++) {
+            for (let c = 0; c < 5; c++) {
+                const colA = 29 + c;
+                const colH = 35 + c;
+                const temp = grid[r][colA];
+                grid[r][colA] = grid[r][colH];
+                grid[r][colH] = temp;
+            }
+        }
+        console.log("Swapped columns 29-33 and 35-39 to spell 'BV - THAZ' in Dino grid!");
+
         // Palette configuration
         const grid_colors = [
             "#161b22", // Level 0
