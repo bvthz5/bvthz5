@@ -216,19 +216,6 @@
 
 ---
 
-## 📻 Multilingual Audio Player
-
-<p align="center">
-  <a href="https://bvthz5.github.io/bvthz5/name/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Listen%20Now-Malayalam%20%7C%20Tamil%20%7C%20English%20Songs-00AEEF?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Play Music" />
-  </a>
-</p>
-
-> [!TIP]
-> Click the **Listen Now** badge above to launch the **Interactive Multilingual Audio Player** on my live profile page! You can stream, skip, adjust volume, and switch between curated Malayalam, Tamil, and English songs with real-time reactive audio visualizers!
-
----
-
 ## 🎭 Fun Animation
 
 <p align="center">
