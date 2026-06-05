@@ -145,16 +145,16 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="https://img.shields.io/badge/Achievements-Coming%20Soon-orange?style=plastic" alt="GitHub Achievements Badge">
+            <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-05%20GB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-266.25%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Public%20Repos-20-blue?style=plastic" alt="Public Repos Badge">
+            <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=plastic" alt="Public Repos Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Private%20Repos-08-red?style=plastic" alt="Private Repos Badge">
+            <img src="https://img.shields.io/badge/Private%20Repos-00-red?style=plastic" alt="Private Repos Badge">
         </td>
     </tr>
 </table>
