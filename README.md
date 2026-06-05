@@ -30,7 +30,7 @@
 <!-- Portfolio Badge -->
 <p align="center">
   <a href="https://bvthz5.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8A2BE2" alt="Portfolio Badge">
   </a>
 </p>
 
