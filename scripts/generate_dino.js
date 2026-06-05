@@ -67,15 +67,15 @@ async function main() {
 
         // Layout dimensions & serpentine parameters
         const startX = 15;
-        const endX = 865;
-        const startPadding = 46 - startX; // 31
-        const endPadding = endX - 826;     // 39
-        const totalGridLength = 5550;      // 370 steps * 15px
-        const totalLength = startPadding + totalGridLength + endPadding; // 5620
+        const endX = 1125;
+        const startPadding = 48 - startX; // 33
+        const endPadding = endX - 1088;     // 37
+        const totalGridLength = 7400;      // 370 steps * 20px
+        const totalLength = startPadding + totalGridLength + endPadding; // 7470
         const duration = 40; // 40 seconds loop
 
         const svg_content = [];
-        svg_content.push('<svg width="880" height="192" viewBox="0 0 880 192" xmlns="http://www.w3.org/2000/svg">');
+        svg_content.push('<svg width="1120" height="220" viewBox="0 0 1120 220" xmlns="http://www.w3.org/2000/svg">');
         svg_content.push('  <rect width="100%" height="100%" rx="10" fill="#0d1117" />');
 
         // Styles & CSS Keyframes
@@ -90,9 +90,9 @@ async function main() {
         svg_content.push('  </defs>');
         
         svg_content.push('  <style>');
-        // Running cycle for legs - math synchronized to 0.2135s (leg switches every 0.1068s)
-        svg_content.push('    .leg-1 { animation: run-legs-1 0.2135s steps(1) infinite; }');
-        svg_content.push('    .leg-2 { animation: run-legs-2 0.2135s steps(1) infinite; }');
+        // Running cycle for legs - math synchronized to 0.2142s (leg switches every 0.1071s)
+        svg_content.push('    .leg-1 { animation: run-legs-1 0.2142s steps(1) infinite; }');
+        svg_content.push('    .leg-2 { animation: run-legs-2 0.2142s steps(1) infinite; }');
         svg_content.push('    @keyframes run-legs-1 { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }');
         svg_content.push('    @keyframes run-legs-2 { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }');
         
@@ -104,17 +104,17 @@ async function main() {
         svg_content.push('    .eye-blink { animation: eye-blink-anim 3.5s steps(1) infinite; }');
         svg_content.push('    @keyframes eye-blink-anim { 0%, 93%, 100% { opacity: 0; } 95% { opacity: 1; } }');
 
-        // Heavy bipedal Dino bobbing step animation - math synchronized to 0.1068s (bob with every step)
-        svg_content.push('    .dino-bob { animation: bobbing-anim 0.1068s ease-in-out infinite alternate; }');
+        // Heavy bipedal Dino bobbing step animation - math synchronized to 0.1071s (bob with every step)
+        svg_content.push('    .dino-bob { animation: bobbing-anim 0.1071s ease-in-out infinite alternate; }');
         svg_content.push('    @keyframes bobbing-anim { 0% { transform: translateY(0px); } 100% { transform: translateY(-4px); } }');
 
         // Generate individual cell keyframes: reveal footprints after Dino has walked past
         for (let col = 0; col < 53; col++) {
             for (let row = 0; row < 7; row++) {
                 const stepIdx = col % 2 === 0 ? (col * 7 + row) : (col * 7 + (6 - row));
-                // Center of cell stepIdx is at: startPadding + stepIdx * 15
+                // Center of cell stepIdx is at: startPadding + stepIdx * 20
                 // Reveal the footprint when Dino's origin is 12px past the cell center
-                const d_reveal = startPadding + stepIdx * 15 + 12;
+                const d_reveal = startPadding + stepIdx * 20 + 12;
                 const t = d_reveal / totalLength;
                 
                 // 0.2 seconds fade-in (0.005 fraction of 40s loop duration)
@@ -138,38 +138,38 @@ async function main() {
         // Render Grid
         for (let col = 0; col < 53; col++) {
             for (let row = 0; row < 7; row++) {
-                const x = 40 + col * 15;
-                const y = 35 + row * 15;
+                const x = 40 + col * 20;
+                const y = 35 + row * 20;
                 const stepIdx = col % 2 === 0 ? (col * 7 + row) : (col * 7 + (6 - row));
                 const realColor = grid_colors[grid[row][col]];
                 
                 // Determine footprint path (staggered left/right based on stepIdx)
                 let footprintPath;
                 if (stepIdx % 2 === 0) {
-                    // Left foot (shifted left by 1.5px)
-                    footprintPath = `M ${x + 3.5} ${y + 1.5} L ${x + 5.5} ${y + 1.5} L ${x + 5.5} ${y + 5} L ${x + 3.5} ${y + 5} Z ` +
-                                    `M ${x} ${y + 4} L ${x + 2} ${y + 3} L ${x + 3} ${y + 5.5} L ${x + 1} ${y + 6.5} Z ` +
-                                    `M ${x + 7} ${y + 3} L ${x + 9} ${y + 4} L ${x + 8} ${y + 6.5} L ${x + 6} ${y + 5.5} Z ` +
-                                    `M ${x + 2.5} ${y + 7} L ${x + 6.5} ${y + 7} L ${x + 6} ${y + 10.5} L ${x + 3} ${y + 10.5} Z`;
+                    // Left foot (shifted left by 2px)
+                    footprintPath = `M ${x + 4.5} ${y + 2} L ${x + 7.5} ${y + 2} L ${x + 7.5} ${y + 6.5} L ${x + 4.5} ${y + 6.5} Z ` +
+                                    `M ${x} ${y + 5.5} L ${x + 2.5} ${y + 4} L ${x + 4} ${y + 7.5} L ${x + 1.5} ${y + 9} Z ` +
+                                    `M ${x + 9.5} ${y + 4} L ${x + 12} ${y + 5.5} L ${x + 10.5} ${y + 9} L ${x + 8} ${y + 7.5} Z ` +
+                                    `M ${x + 3.5} ${y + 9.5} L ${x + 8.5} ${y + 9.5} L ${x + 8} ${y + 14} L ${x + 4} ${y + 14} Z`;
                 } else {
-                    // Right foot (shifted right by 1.5px)
-                    footprintPath = `M ${x + 6.5} ${y + 1.5} L ${x + 8.5} ${y + 1.5} L ${x + 8.5} ${y + 5} L ${x + 6.5} ${y + 5} Z ` +
-                                    `M ${x + 3} ${y + 4} L ${x + 5} ${y + 3} L ${x + 6} ${y + 5.5} L ${x + 4} ${y + 6.5} Z ` +
-                                    `M ${x + 10} ${y + 3} L ${x + 12} ${y + 4} L ${x + 11} ${y + 6.5} L ${x + 9} ${y + 5.5} Z ` +
-                                    `M ${x + 5.5} ${y + 7} L ${x + 9.5} ${y + 7} L ${x + 9} ${y + 10.5} L ${x + 6} ${y + 10.5} Z`;
+                    // Right foot (shifted right by 2px)
+                    footprintPath = `M ${x + 8.5} ${y + 2} L ${x + 11.5} ${y + 2} L ${x + 11.5} ${y + 6.5} L ${x + 8.5} ${y + 6.5} Z ` +
+                                    `M ${x + 4} ${y + 5.5} L ${x + 6.5} ${y + 4} L ${x + 8} ${y + 7.5} L ${x + 5.5} ${y + 9} Z ` +
+                                    `M ${x + 13.5} ${y + 4} L ${x + 16} ${y + 5.5} L ${x + 14.5} ${y + 9} L ${x + 12} ${y + 7.5} Z ` +
+                                    `M ${x + 7.5} ${y + 9.5} L ${x + 12.5} ${y + 9.5} L ${x + 12} ${y + 14} L ${x + 8} ${y + 14} Z`;
                 }
 
                 svg_content.push(`  <g class="cell-group-${stepIdx}">`);
-                svg_content.push(`    <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-bg-${stepIdx}" fill="#161b22" />`);
+                svg_content.push(`    <rect x="${x}" y="${y}" width="16" height="16" rx="2" class="cell-bg-${stepIdx}" fill="#161b22" />`);
                 svg_content.push(`    <path d="${footprintPath}" class="cell-footprint-${stepIdx}" fill="${realColor}" />`);
                 svg_content.push(`  </g>`);
             }
         }
 
         // Labels on the left (Days of Week)
-        const days = [["Mon", 50], ["Wed", 80], ["Fri", 110]];
+        const days = [["Mon", 55], ["Wed", 95], ["Fri", 135]];
         for (const [label, y] of days) {
-            svg_content.push(`  <text x="10" y="${y + 10}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">${label}</text>`);
+            svg_content.push(`  <text x="10" y="${y + 11}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">${label}</text>`);
         }
 
         // Months at the top
@@ -178,20 +178,20 @@ async function main() {
             ["Jul", 27], ["Aug", 31], ["Sep", 36], ["Oct", 40], ["Nov", 44], ["Dec", 49]
         ];
         for (const [name, col_idx] of months) {
-            const x = 40 + col_idx * 15;
+            const x = 40 + col_idx * 20;
             svg_content.push(`  <text x="${x}" y="25" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">${name}</text>`);
         }
 
         // Legend at the bottom right
-        const legend_x = 700;
-        svg_content.push(`  <text x="${legend_x}" y="157" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">Less</text>`);
+        const legend_x = 900;
+        svg_content.push(`  <text x="${legend_x}" y="199" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">Less</text>`);
         grid_colors.forEach((col, i) => {
-            const lx = legend_x + 30 + i * 15;
-            svg_content.push(`  <rect x="${lx}" y="148" width="12" height="12" rx="2" fill="${col}" />`);
+            const lx = legend_x + 35 + i * 20;
+            svg_content.push(`  <rect x="${lx}" y="188" width="16" height="16" rx="2" fill="${col}" />`);
         });
-        svg_content.push(`  <text x="${legend_x + 110}" y="157" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">More</text>`);
+        svg_content.push(`  <text x="${legend_x + 145}" y="199" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">More</text>`);
 
-        // Dino Pixel Art Coordinates (Scale = 2.0 for a large, visible bipedal dinosaur)
+        // Dino Pixel Art Coordinates (Scale = 2.5 for a large, visible bipedal dinosaur)
         const dino_body = [
             [0,7], [0,8], [0,9], [0,10], [0,11], [0,12],
             [1,6], [1,7], [1,8], [1,9], [1,10], [1,11], [1,12], [1,13], [1,14],
@@ -218,7 +218,7 @@ async function main() {
             [12,5], [13,5], [14,5], [14,6]
         ];
 
-        const scale = 2.0; // Increased size to 2.0
+        const scale = 2.5; // Increased size to 2.5
         const dino_body_svg = dino_body.map(([r, c]) => 
             `<rect x="${c * scale}" y="${r * scale}" width="${scale}" height="${scale}" fill="#5eead4" />`
         ).join('');
@@ -236,20 +236,20 @@ async function main() {
         ).join('');
 
         // Generate the Serpentine Path coordinates with start/end off-screen padding
-        const path_points = [`M ${startX} 41`, `L 46 41`];
+        const path_points = [`M ${startX} 43`, `L 48 43`];
         for (let col = 0; col < 53; col++) {
-            const x = 46 + col * 15;
+            const x = 48 + col * 20;
             if (col % 2 === 0) {
                 if (col > 0) {
-                    path_points.push(`L ${x} 41`);
+                    path_points.push(`L ${x} 43`);
                 }
-                path_points.push(`L ${x} 131`);
+                path_points.push(`L ${x} 163`);
             } else {
-                path_points.push(`L ${x} 131`);
-                path_points.push(`L ${x} 41`);
+                path_points.push(`L ${x} 163`);
+                path_points.push(`L ${x} 43`);
             }
         }
-        path_points.push(`L ${endX} 131`);
+        path_points.push(`L ${endX} 163`);
         const d_path = path_points.join(" ");
 
         // Dino Character Group (follows path, remains upright, bobs up/down, translates for offset alignment)
@@ -257,7 +257,7 @@ async function main() {
         // Removed rotate="auto" to keep the bipedal Dino walking upright realistically
         svg_content.push(`    <animateMotion path="${d_path}" dur="${duration}s" repeatCount="indefinite" />`);
         svg_content.push('    <g class="dino-bob">'); // Bobbing group wrapper
-        svg_content.push(`      <g transform="translate(-15, -18)">`); // Center T-Rex horizontally and sit feet upright
+        svg_content.push(`      <g transform="translate(-19, -29.5)">`); // Center T-Rex horizontally and sit feet upright
         svg_content.push(`        ${dino_body_svg}`);
         svg_content.push(`        <!-- Eye -->`);
         svg_content.push(`        <rect x="${8 * scale}" y="${2 * scale}" width="${scale}" height="${scale}" fill="#0d1117" />`);
