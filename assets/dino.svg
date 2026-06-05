@@ -18,1859 +18,2321 @@
     @keyframes toggle-mouth { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
     .eye-blink { animation: eye-blink-anim 3.5s steps(1) infinite; }
     @keyframes eye-blink-anim { 0%, 93%, 100% { opacity: 0; } 95% { opacity: 1; } }
+    .dino-bob { animation: bobbing-anim 0.3s ease-in-out infinite alternate; }
+    @keyframes bobbing-anim { 0% { transform: translateY(0px); } 100% { transform: translateY(-4px); } }
     @keyframes c0 {
-      0%, 0.3% { fill: #161b22; }
-      0.5%, 100% { fill: #161b22; }
+      0%, 0.6% { fill: #161b22; }
+      0.8%, 100% { fill: #161b22; }
     }
     .cell-0 { animation: c0 40s linear infinite; }
     @keyframes c1 {
-      0%, 0.5% { fill: #161b22; }
-      0.7%, 100% { fill: #161b22; }
+      0%, 0.9% { fill: #161b22; }
+      1.1%, 100% { fill: #161b22; }
     }
     .cell-1 { animation: c1 40s linear infinite; }
     @keyframes c2 {
-      0%, 0.8% { fill: #161b22; }
-      1%, 100% { fill: #161b22; }
-    }
-    .cell-2 { animation: c2 40s linear infinite; }
-    @keyframes c3 {
       0%, 1.1% { fill: #161b22; }
       1.3%, 100% { fill: #161b22; }
     }
+    .cell-2 { animation: c2 40s linear infinite; }
+    @keyframes c3 {
+      0%, 1.4% { fill: #161b22; }
+      1.6%, 100% { fill: #161b22; }
+    }
     .cell-3 { animation: c3 40s linear infinite; }
     @keyframes c4 {
-      0%, 1.3% { fill: #161b22; }
-      1.5%, 100% { fill: #161b22; }
+      0%, 1.7% { fill: #161b22; }
+      1.9%, 100% { fill: #161b22; }
     }
     .cell-4 { animation: c4 40s linear infinite; }
     @keyframes c5 {
-      0%, 1.6% { fill: #161b22; }
-      1.8%, 100% { fill: #161b22; }
-    }
-    .cell-5 { animation: c5 40s linear infinite; }
-    @keyframes c6 {
       0%, 1.9% { fill: #161b22; }
       2.1%, 100% { fill: #161b22; }
     }
+    .cell-5 { animation: c5 40s linear infinite; }
+    @keyframes c6 {
+      0%, 2.2% { fill: #161b22; }
+      2.4%, 100% { fill: #161b22; }
+    }
     .cell-6 { animation: c6 40s linear infinite; }
     @keyframes c13 {
-      0%, 3.8% { fill: #161b22; }
-      4%, 100% { fill: #161b22; }
+      0%, 4.1% { fill: #161b22; }
+      4.3%, 100% { fill: #161b22; }
     }
     .cell-13 { animation: c13 40s linear infinite; }
     @keyframes c12 {
-      0%, 3.5% { fill: #161b22; }
-      3.7%, 100% { fill: #161b22; }
+      0%, 3.8% { fill: #161b22; }
+      4%, 100% { fill: #161b22; }
     }
     .cell-12 { animation: c12 40s linear infinite; }
     @keyframes c11 {
-      0%, 3.2% { fill: #161b22; }
-      3.4%, 100% { fill: #161b22; }
+      0%, 3.6% { fill: #161b22; }
+      3.8%, 100% { fill: #161b22; }
     }
     .cell-11 { animation: c11 40s linear infinite; }
     @keyframes c10 {
-      0%, 2.9% { fill: #161b22; }
-      3.1%, 100% { fill: #161b22; }
+      0%, 3.3% { fill: #161b22; }
+      3.5%, 100% { fill: #161b22; }
     }
     .cell-10 { animation: c10 40s linear infinite; }
     @keyframes c9 {
-      0%, 2.7% { fill: #161b22; }
-      2.9%, 100% { fill: #161b22; }
+      0%, 3% { fill: #161b22; }
+      3.2%, 100% { fill: #161b22; }
     }
     .cell-9 { animation: c9 40s linear infinite; }
     @keyframes c8 {
-      0%, 2.4% { fill: #161b22; }
-      2.6%, 100% { fill: #161b22; }
+      0%, 2.8% { fill: #161b22; }
+      3%, 100% { fill: #161b22; }
     }
     .cell-8 { animation: c8 40s linear infinite; }
     @keyframes c7 {
-      0%, 2.1% { fill: #161b22; }
-      2.3%, 100% { fill: #161b22; }
+      0%, 2.5% { fill: #161b22; }
+      2.7%, 100% { fill: #161b22; }
     }
     .cell-7 { animation: c7 40s linear infinite; }
     @keyframes c14 {
-      0%, 4% { fill: #161b22; }
-      4.2%, 100% { fill: #161b22; }
+      0%, 4.4% { fill: #161b22; }
+      4.6%, 100% { fill: #161b22; }
     }
     .cell-14 { animation: c14 40s linear infinite; }
     @keyframes c15 {
-      0%, 4.3% { fill: #161b22; }
-      4.5%, 100% { fill: #161b22; }
-    }
-    .cell-15 { animation: c15 40s linear infinite; }
-    @keyframes c16 {
       0%, 4.6% { fill: #161b22; }
       4.8%, 100% { fill: #161b22; }
     }
+    .cell-15 { animation: c15 40s linear infinite; }
+    @keyframes c16 {
+      0%, 4.9% { fill: #161b22; }
+      5.1%, 100% { fill: #161b22; }
+    }
     .cell-16 { animation: c16 40s linear infinite; }
     @keyframes c17 {
-      0%, 4.8% { fill: #161b22; }
-      5%, 100% { fill: #161b22; }
+      0%, 5.2% { fill: #161b22; }
+      5.4%, 100% { fill: #161b22; }
     }
     .cell-17 { animation: c17 40s linear infinite; }
     @keyframes c18 {
-      0%, 5.1% { fill: #161b22; }
-      5.3%, 100% { fill: #161b22; }
-    }
-    .cell-18 { animation: c18 40s linear infinite; }
-    @keyframes c19 {
       0%, 5.4% { fill: #161b22; }
       5.6%, 100% { fill: #161b22; }
     }
+    .cell-18 { animation: c18 40s linear infinite; }
+    @keyframes c19 {
+      0%, 5.7% { fill: #161b22; }
+      5.9%, 100% { fill: #161b22; }
+    }
     .cell-19 { animation: c19 40s linear infinite; }
     @keyframes c20 {
-      0%, 5.6% { fill: #161b22; }
-      5.8%, 100% { fill: #161b22; }
+      0%, 6% { fill: #161b22; }
+      6.2%, 100% { fill: #161b22; }
     }
     .cell-20 { animation: c20 40s linear infinite; }
     @keyframes c27 {
-      0%, 7.5% { fill: #161b22; }
-      7.7%, 100% { fill: #161b22; }
-    }
-    .cell-27 { animation: c27 40s linear infinite; }
-    @keyframes c26 {
-      0%, 7.2% { fill: #161b22; }
-      7.4%, 100% { fill: #161b22; }
-    }
-    .cell-26 { animation: c26 40s linear infinite; }
-    @keyframes c25 {
-      0%, 7% { fill: #161b22; }
-      7.2%, 100% { fill: #161b22; }
-    }
-    .cell-25 { animation: c25 40s linear infinite; }
-    @keyframes c24 {
-      0%, 6.7% { fill: #161b22; }
-      6.9%, 100% { fill: #161b22; }
-    }
-    .cell-24 { animation: c24 40s linear infinite; }
-    @keyframes c23 {
-      0%, 6.4% { fill: #161b22; }
-      6.6%, 100% { fill: #161b22; }
-    }
-    .cell-23 { animation: c23 40s linear infinite; }
-    @keyframes c22 {
-      0%, 6.2% { fill: #161b22; }
-      6.4%, 100% { fill: #161b22; }
-    }
-    .cell-22 { animation: c22 40s linear infinite; }
-    @keyframes c21 {
-      0%, 5.9% { fill: #161b22; }
-      6.1%, 100% { fill: #161b22; }
-    }
-    .cell-21 { animation: c21 40s linear infinite; }
-    @keyframes c28 {
       0%, 7.8% { fill: #161b22; }
       8%, 100% { fill: #161b22; }
     }
+    .cell-27 { animation: c27 40s linear infinite; }
+    @keyframes c26 {
+      0%, 7.6% { fill: #161b22; }
+      7.8%, 100% { fill: #161b22; }
+    }
+    .cell-26 { animation: c26 40s linear infinite; }
+    @keyframes c25 {
+      0%, 7.3% { fill: #161b22; }
+      7.5%, 100% { fill: #161b22; }
+    }
+    .cell-25 { animation: c25 40s linear infinite; }
+    @keyframes c24 {
+      0%, 7% { fill: #161b22; }
+      7.2%, 100% { fill: #161b22; }
+    }
+    .cell-24 { animation: c24 40s linear infinite; }
+    @keyframes c23 {
+      0%, 6.8% { fill: #161b22; }
+      7%, 100% { fill: #161b22; }
+    }
+    .cell-23 { animation: c23 40s linear infinite; }
+    @keyframes c22 {
+      0%, 6.5% { fill: #161b22; }
+      6.7%, 100% { fill: #161b22; }
+    }
+    .cell-22 { animation: c22 40s linear infinite; }
+    @keyframes c21 {
+      0%, 6.2% { fill: #161b22; }
+      6.4%, 100% { fill: #161b22; }
+    }
+    .cell-21 { animation: c21 40s linear infinite; }
+    @keyframes c28 {
+      0%, 8.1% { fill: #161b22; }
+      8.3%, 100% { fill: #161b22; }
+    }
     .cell-28 { animation: c28 40s linear infinite; }
     @keyframes c29 {
-      0%, 8% { fill: #161b22; }
-      8.2%, 100% { fill: #161b22; }
+      0%, 8.4% { fill: #161b22; }
+      8.6%, 100% { fill: #161b22; }
     }
     .cell-29 { animation: c29 40s linear infinite; }
     @keyframes c30 {
-      0%, 8.3% { fill: #161b22; }
-      8.5%, 100% { fill: #161b22; }
-    }
-    .cell-30 { animation: c30 40s linear infinite; }
-    @keyframes c31 {
       0%, 8.6% { fill: #161b22; }
       8.8%, 100% { fill: #161b22; }
     }
+    .cell-30 { animation: c30 40s linear infinite; }
+    @keyframes c31 {
+      0%, 8.9% { fill: #161b22; }
+      9.1%, 100% { fill: #161b22; }
+    }
     .cell-31 { animation: c31 40s linear infinite; }
     @keyframes c32 {
-      0%, 8.8% { fill: #161b22; }
-      9%, 100% { fill: #161b22; }
+      0%, 9.2% { fill: #161b22; }
+      9.4%, 100% { fill: #161b22; }
     }
     .cell-32 { animation: c32 40s linear infinite; }
     @keyframes c33 {
-      0%, 9.1% { fill: #161b22; }
-      9.3%, 100% { fill: #161b22; }
-    }
-    .cell-33 { animation: c33 40s linear infinite; }
-    @keyframes c34 {
       0%, 9.4% { fill: #161b22; }
       9.6%, 100% { fill: #161b22; }
     }
+    .cell-33 { animation: c33 40s linear infinite; }
+    @keyframes c34 {
+      0%, 9.7% { fill: #161b22; }
+      9.9%, 100% { fill: #161b22; }
+    }
     .cell-34 { animation: c34 40s linear infinite; }
     @keyframes c41 {
-      0%, 11.2% { fill: #161b22; }
-      11.4%, 100% { fill: #161b22; }
+      0%, 11.6% { fill: #161b22; }
+      11.8%, 100% { fill: #161b22; }
     }
     .cell-41 { animation: c41 40s linear infinite; }
     @keyframes c40 {
-      0%, 11% { fill: #161b22; }
-      11.2%, 100% { fill: #161b22; }
+      0%, 11.3% { fill: #161b22; }
+      11.5%, 100% { fill: #161b22; }
     }
     .cell-40 { animation: c40 40s linear infinite; }
     @keyframes c39 {
-      0%, 10.7% { fill: #161b22; }
-      10.9%, 100% { fill: #161b22; }
+      0%, 11% { fill: #161b22; }
+      11.2%, 100% { fill: #161b22; }
     }
     .cell-39 { animation: c39 40s linear infinite; }
     @keyframes c38 {
-      0%, 10.4% { fill: #161b22; }
-      10.6%, 100% { fill: #161b22; }
+      0%, 10.8% { fill: #161b22; }
+      11%, 100% { fill: #161b22; }
     }
     .cell-38 { animation: c38 40s linear infinite; }
     @keyframes c37 {
-      0%, 10.2% { fill: #161b22; }
-      10.4%, 100% { fill: #161b22; }
+      0%, 10.5% { fill: #161b22; }
+      10.7%, 100% { fill: #161b22; }
     }
     .cell-37 { animation: c37 40s linear infinite; }
     @keyframes c36 {
-      0%, 9.9% { fill: #161b22; }
-      10.1%, 100% { fill: #161b22; }
+      0%, 10.2% { fill: #161b22; }
+      10.4%, 100% { fill: #161b22; }
     }
     .cell-36 { animation: c36 40s linear infinite; }
     @keyframes c35 {
-      0%, 9.6% { fill: #161b22; }
-      9.8%, 100% { fill: #161b22; }
+      0%, 10% { fill: #161b22; }
+      10.2%, 100% { fill: #161b22; }
     }
     .cell-35 { animation: c35 40s linear infinite; }
     @keyframes c42 {
-      0%, 11.5% { fill: #161b22; }
-      11.7%, 100% { fill: #161b22; }
-    }
-    .cell-42 { animation: c42 40s linear infinite; }
-    @keyframes c43 {
       0%, 11.8% { fill: #161b22; }
       12%, 100% { fill: #161b22; }
     }
+    .cell-42 { animation: c42 40s linear infinite; }
+    @keyframes c43 {
+      0%, 12.1% { fill: #161b22; }
+      12.3%, 100% { fill: #161b22; }
+    }
     .cell-43 { animation: c43 40s linear infinite; }
     @keyframes c44 {
-      0%, 12% { fill: #161b22; }
-      12.2%, 100% { fill: #161b22; }
+      0%, 12.4% { fill: #161b22; }
+      12.6%, 100% { fill: #161b22; }
     }
     .cell-44 { animation: c44 40s linear infinite; }
     @keyframes c45 {
-      0%, 12.3% { fill: #161b22; }
-      12.5%, 100% { fill: #161b22; }
-    }
-    .cell-45 { animation: c45 40s linear infinite; }
-    @keyframes c46 {
       0%, 12.6% { fill: #161b22; }
       12.8%, 100% { fill: #161b22; }
     }
+    .cell-45 { animation: c45 40s linear infinite; }
+    @keyframes c46 {
+      0%, 12.9% { fill: #161b22; }
+      13.1%, 100% { fill: #161b22; }
+    }
     .cell-46 { animation: c46 40s linear infinite; }
     @keyframes c47 {
-      0%, 12.8% { fill: #161b22; }
-      13%, 100% { fill: #161b22; }
+      0%, 13.2% { fill: #161b22; }
+      13.4%, 100% { fill: #161b22; }
     }
     .cell-47 { animation: c47 40s linear infinite; }
     @keyframes c48 {
-      0%, 13.1% { fill: #161b22; }
-      13.3%, 100% { fill: #161b22; }
-    }
-    .cell-48 { animation: c48 40s linear infinite; }
-    @keyframes c55 {
-      0%, 15% { fill: #161b22; }
-      15.2%, 100% { fill: #161b22; }
-    }
-    .cell-55 { animation: c55 40s linear infinite; }
-    @keyframes c54 {
-      0%, 14.7% { fill: #161b22; }
-      14.9%, 100% { fill: #161b22; }
-    }
-    .cell-54 { animation: c54 40s linear infinite; }
-    @keyframes c53 {
-      0%, 14.4% { fill: #161b22; }
-      14.6%, 100% { fill: #161b22; }
-    }
-    .cell-53 { animation: c53 40s linear infinite; }
-    @keyframes c52 {
-      0%, 14.2% { fill: #161b22; }
-      14.4%, 100% { fill: #161b22; }
-    }
-    .cell-52 { animation: c52 40s linear infinite; }
-    @keyframes c51 {
-      0%, 13.9% { fill: #161b22; }
-      14.1%, 100% { fill: #161b22; }
-    }
-    .cell-51 { animation: c51 40s linear infinite; }
-    @keyframes c50 {
-      0%, 13.6% { fill: #161b22; }
-      13.8%, 100% { fill: #161b22; }
-    }
-    .cell-50 { animation: c50 40s linear infinite; }
-    @keyframes c49 {
       0%, 13.4% { fill: #161b22; }
       13.6%, 100% { fill: #161b22; }
     }
+    .cell-48 { animation: c48 40s linear infinite; }
+    @keyframes c55 {
+      0%, 15.3% { fill: #161b22; }
+      15.5%, 100% { fill: #161b22; }
+    }
+    .cell-55 { animation: c55 40s linear infinite; }
+    @keyframes c54 {
+      0%, 15% { fill: #161b22; }
+      15.2%, 100% { fill: #161b22; }
+    }
+    .cell-54 { animation: c54 40s linear infinite; }
+    @keyframes c53 {
+      0%, 14.8% { fill: #161b22; }
+      15%, 100% { fill: #161b22; }
+    }
+    .cell-53 { animation: c53 40s linear infinite; }
+    @keyframes c52 {
+      0%, 14.5% { fill: #161b22; }
+      14.7%, 100% { fill: #161b22; }
+    }
+    .cell-52 { animation: c52 40s linear infinite; }
+    @keyframes c51 {
+      0%, 14.2% { fill: #161b22; }
+      14.4%, 100% { fill: #161b22; }
+    }
+    .cell-51 { animation: c51 40s linear infinite; }
+    @keyframes c50 {
+      0%, 14% { fill: #161b22; }
+      14.2%, 100% { fill: #161b22; }
+    }
+    .cell-50 { animation: c50 40s linear infinite; }
+    @keyframes c49 {
+      0%, 13.7% { fill: #161b22; }
+      13.9%, 100% { fill: #161b22; }
+    }
     .cell-49 { animation: c49 40s linear infinite; }
     @keyframes c56 {
-      0%, 15.2% { fill: #161b22; }
-      15.4%, 100% { fill: #161b22; }
+      0%, 15.6% { fill: #161b22; }
+      15.8%, 100% { fill: #161b22; }
     }
     .cell-56 { animation: c56 40s linear infinite; }
     @keyframes c57 {
-      0%, 15.5% { fill: #161b22; }
-      15.7%, 100% { fill: #161b22; }
-    }
-    .cell-57 { animation: c57 40s linear infinite; }
-    @keyframes c58 {
       0%, 15.8% { fill: #161b22; }
       16%, 100% { fill: #161b22; }
     }
+    .cell-57 { animation: c57 40s linear infinite; }
+    @keyframes c58 {
+      0%, 16.1% { fill: #161b22; }
+      16.3%, 100% { fill: #161b22; }
+    }
     .cell-58 { animation: c58 40s linear infinite; }
     @keyframes c59 {
-      0%, 16% { fill: #161b22; }
-      16.2%, 100% { fill: #161b22; }
+      0%, 16.4% { fill: #161b22; }
+      16.6%, 100% { fill: #161b22; }
     }
     .cell-59 { animation: c59 40s linear infinite; }
     @keyframes c60 {
-      0%, 16.3% { fill: #161b22; }
-      16.5%, 100% { fill: #161b22; }
-    }
-    .cell-60 { animation: c60 40s linear infinite; }
-    @keyframes c61 {
       0%, 16.6% { fill: #161b22; }
       16.8%, 100% { fill: #161b22; }
     }
+    .cell-60 { animation: c60 40s linear infinite; }
+    @keyframes c61 {
+      0%, 16.9% { fill: #161b22; }
+      17.1%, 100% { fill: #161b22; }
+    }
     .cell-61 { animation: c61 40s linear infinite; }
     @keyframes c62 {
-      0%, 16.8% { fill: #161b22; }
-      17%, 100% { fill: #161b22; }
+      0%, 17.2% { fill: #161b22; }
+      17.4%, 100% { fill: #161b22; }
     }
     .cell-62 { animation: c62 40s linear infinite; }
     @keyframes c69 {
-      0%, 18.7% { fill: #161b22; }
-      18.9%, 100% { fill: #161b22; }
-    }
-    .cell-69 { animation: c69 40s linear infinite; }
-    @keyframes c68 {
-      0%, 18.4% { fill: #161b22; }
-      18.6%, 100% { fill: #161b22; }
-    }
-    .cell-68 { animation: c68 40s linear infinite; }
-    @keyframes c67 {
-      0%, 18.2% { fill: #161b22; }
-      18.4%, 100% { fill: #161b22; }
-    }
-    .cell-67 { animation: c67 40s linear infinite; }
-    @keyframes c66 {
-      0%, 17.9% { fill: #161b22; }
-      18.1%, 100% { fill: #161b22; }
-    }
-    .cell-66 { animation: c66 40s linear infinite; }
-    @keyframes c65 {
-      0%, 17.6% { fill: #161b22; }
-      17.8%, 100% { fill: #161b22; }
-    }
-    .cell-65 { animation: c65 40s linear infinite; }
-    @keyframes c64 {
-      0%, 17.4% { fill: #161b22; }
-      17.6%, 100% { fill: #161b22; }
-    }
-    .cell-64 { animation: c64 40s linear infinite; }
-    @keyframes c63 {
-      0%, 17.1% { fill: #161b22; }
-      17.3%, 100% { fill: #161b22; }
-    }
-    .cell-63 { animation: c63 40s linear infinite; }
-    @keyframes c70 {
       0%, 19% { fill: #161b22; }
       19.2%, 100% { fill: #161b22; }
     }
+    .cell-69 { animation: c69 40s linear infinite; }
+    @keyframes c68 {
+      0%, 18.8% { fill: #161b22; }
+      19%, 100% { fill: #161b22; }
+    }
+    .cell-68 { animation: c68 40s linear infinite; }
+    @keyframes c67 {
+      0%, 18.5% { fill: #161b22; }
+      18.7%, 100% { fill: #161b22; }
+    }
+    .cell-67 { animation: c67 40s linear infinite; }
+    @keyframes c66 {
+      0%, 18.2% { fill: #161b22; }
+      18.4%, 100% { fill: #161b22; }
+    }
+    .cell-66 { animation: c66 40s linear infinite; }
+    @keyframes c65 {
+      0%, 18% { fill: #161b22; }
+      18.2%, 100% { fill: #161b22; }
+    }
+    .cell-65 { animation: c65 40s linear infinite; }
+    @keyframes c64 {
+      0%, 17.7% { fill: #161b22; }
+      17.9%, 100% { fill: #161b22; }
+    }
+    .cell-64 { animation: c64 40s linear infinite; }
+    @keyframes c63 {
+      0%, 17.4% { fill: #161b22; }
+      17.6%, 100% { fill: #161b22; }
+    }
+    .cell-63 { animation: c63 40s linear infinite; }
+    @keyframes c70 {
+      0%, 19.3% { fill: #161b22; }
+      19.5%, 100% { fill: #161b22; }
+    }
     .cell-70 { animation: c70 40s linear infinite; }
     @keyframes c71 {
-      0%, 19.2% { fill: #161b22; }
-      19.4%, 100% { fill: #161b22; }
+      0%, 19.6% { fill: #161b22; }
+      19.8%, 100% { fill: #161b22; }
     }
     .cell-71 { animation: c71 40s linear infinite; }
     @keyframes c72 {
-      0%, 19.5% { fill: #161b22; }
-      19.7%, 100% { fill: #161b22; }
-    }
-    .cell-72 { animation: c72 40s linear infinite; }
-    @keyframes c73 {
       0%, 19.8% { fill: #161b22; }
       20%, 100% { fill: #161b22; }
     }
+    .cell-72 { animation: c72 40s linear infinite; }
+    @keyframes c73 {
+      0%, 20.1% { fill: #161b22; }
+      20.3%, 100% { fill: #161b22; }
+    }
     .cell-73 { animation: c73 40s linear infinite; }
     @keyframes c74 {
-      0%, 20% { fill: #161b22; }
-      20.2%, 100% { fill: #161b22; }
+      0%, 20.4% { fill: #161b22; }
+      20.6%, 100% { fill: #161b22; }
     }
     .cell-74 { animation: c74 40s linear infinite; }
     @keyframes c75 {
-      0%, 20.3% { fill: #161b22; }
-      20.5%, 100% { fill: #161b22; }
-    }
-    .cell-75 { animation: c75 40s linear infinite; }
-    @keyframes c76 {
       0%, 20.6% { fill: #161b22; }
       20.8%, 100% { fill: #161b22; }
     }
+    .cell-75 { animation: c75 40s linear infinite; }
+    @keyframes c76 {
+      0%, 20.9% { fill: #161b22; }
+      21.1%, 100% { fill: #161b22; }
+    }
     .cell-76 { animation: c76 40s linear infinite; }
     @keyframes c83 {
-      0%, 22.4% { fill: #161b22; }
-      22.6%, 100% { fill: #161b22; }
+      0%, 22.8% { fill: #161b22; }
+      23%, 100% { fill: #161b22; }
     }
     .cell-83 { animation: c83 40s linear infinite; }
     @keyframes c82 {
-      0%, 22.2% { fill: #161b22; }
-      22.4%, 100% { fill: #161b22; }
+      0%, 22.5% { fill: #161b22; }
+      22.7%, 100% { fill: #161b22; }
     }
     .cell-82 { animation: c82 40s linear infinite; }
     @keyframes c81 {
-      0%, 21.9% { fill: #161b22; }
-      22.1%, 100% { fill: #161b22; }
+      0%, 22.2% { fill: #161b22; }
+      22.4%, 100% { fill: #161b22; }
     }
     .cell-81 { animation: c81 40s linear infinite; }
     @keyframes c80 {
-      0%, 21.6% { fill: #161b22; }
-      21.8%, 100% { fill: #161b22; }
+      0%, 22% { fill: #161b22; }
+      22.2%, 100% { fill: #161b22; }
     }
     .cell-80 { animation: c80 40s linear infinite; }
     @keyframes c79 {
-      0%, 21.4% { fill: #161b22; }
-      21.6%, 100% { fill: #161b22; }
+      0%, 21.7% { fill: #161b22; }
+      21.9%, 100% { fill: #161b22; }
     }
     .cell-79 { animation: c79 40s linear infinite; }
     @keyframes c78 {
-      0%, 21.1% { fill: #161b22; }
-      21.3%, 100% { fill: #161b22; }
+      0%, 21.4% { fill: #161b22; }
+      21.6%, 100% { fill: #161b22; }
     }
     .cell-78 { animation: c78 40s linear infinite; }
     @keyframes c77 {
-      0%, 20.8% { fill: #161b22; }
-      21%, 100% { fill: #161b22; }
+      0%, 21.2% { fill: #161b22; }
+      21.4%, 100% { fill: #161b22; }
     }
     .cell-77 { animation: c77 40s linear infinite; }
     @keyframes c84 {
-      0%, 22.7% { fill: #161b22; }
-      22.9%, 100% { fill: #161b22; }
-    }
-    .cell-84 { animation: c84 40s linear infinite; }
-    @keyframes c85 {
       0%, 23% { fill: #161b22; }
       23.2%, 100% { fill: #161b22; }
     }
+    .cell-84 { animation: c84 40s linear infinite; }
+    @keyframes c85 {
+      0%, 23.3% { fill: #161b22; }
+      23.5%, 100% { fill: #161b22; }
+    }
     .cell-85 { animation: c85 40s linear infinite; }
     @keyframes c86 {
-      0%, 23.2% { fill: #161b22; }
-      23.4%, 100% { fill: #161b22; }
+      0%, 23.6% { fill: #161b22; }
+      23.8%, 100% { fill: #161b22; }
     }
     .cell-86 { animation: c86 40s linear infinite; }
     @keyframes c87 {
-      0%, 23.5% { fill: #161b22; }
-      23.7%, 100% { fill: #161b22; }
-    }
-    .cell-87 { animation: c87 40s linear infinite; }
-    @keyframes c88 {
       0%, 23.8% { fill: #161b22; }
       24%, 100% { fill: #161b22; }
     }
+    .cell-87 { animation: c87 40s linear infinite; }
+    @keyframes c88 {
+      0%, 24.1% { fill: #161b22; }
+      24.3%, 100% { fill: #161b22; }
+    }
     .cell-88 { animation: c88 40s linear infinite; }
     @keyframes c89 {
-      0%, 24% { fill: #161b22; }
-      24.2%, 100% { fill: #161b22; }
+      0%, 24.4% { fill: #161b22; }
+      24.6%, 100% { fill: #161b22; }
     }
     .cell-89 { animation: c89 40s linear infinite; }
     @keyframes c90 {
-      0%, 24.3% { fill: #161b22; }
-      24.5%, 100% { fill: #161b22; }
-    }
-    .cell-90 { animation: c90 40s linear infinite; }
-    @keyframes c97 {
-      0%, 26.2% { fill: #161b22; }
-      26.4%, 100% { fill: #161b22; }
-    }
-    .cell-97 { animation: c97 40s linear infinite; }
-    @keyframes c96 {
-      0%, 25.9% { fill: #161b22; }
-      26.1%, 100% { fill: #161b22; }
-    }
-    .cell-96 { animation: c96 40s linear infinite; }
-    @keyframes c95 {
-      0%, 25.6% { fill: #161b22; }
-      25.8%, 100% { fill: #161b22; }
-    }
-    .cell-95 { animation: c95 40s linear infinite; }
-    @keyframes c94 {
-      0%, 25.4% { fill: #161b22; }
-      25.6%, 100% { fill: #161b22; }
-    }
-    .cell-94 { animation: c94 40s linear infinite; }
-    @keyframes c93 {
-      0%, 25.1% { fill: #161b22; }
-      25.3%, 100% { fill: #161b22; }
-    }
-    .cell-93 { animation: c93 40s linear infinite; }
-    @keyframes c92 {
-      0%, 24.8% { fill: #161b22; }
-      25%, 100% { fill: #161b22; }
-    }
-    .cell-92 { animation: c92 40s linear infinite; }
-    @keyframes c91 {
       0%, 24.6% { fill: #161b22; }
       24.8%, 100% { fill: #161b22; }
     }
+    .cell-90 { animation: c90 40s linear infinite; }
+    @keyframes c97 {
+      0%, 26.5% { fill: #161b22; }
+      26.7%, 100% { fill: #161b22; }
+    }
+    .cell-97 { animation: c97 40s linear infinite; }
+    @keyframes c96 {
+      0%, 26.2% { fill: #161b22; }
+      26.4%, 100% { fill: #161b22; }
+    }
+    .cell-96 { animation: c96 40s linear infinite; }
+    @keyframes c95 {
+      0%, 26% { fill: #161b22; }
+      26.2%, 100% { fill: #161b22; }
+    }
+    .cell-95 { animation: c95 40s linear infinite; }
+    @keyframes c94 {
+      0%, 25.7% { fill: #161b22; }
+      25.9%, 100% { fill: #161b22; }
+    }
+    .cell-94 { animation: c94 40s linear infinite; }
+    @keyframes c93 {
+      0%, 25.4% { fill: #161b22; }
+      25.6%, 100% { fill: #161b22; }
+    }
+    .cell-93 { animation: c93 40s linear infinite; }
+    @keyframes c92 {
+      0%, 25.2% { fill: #161b22; }
+      25.4%, 100% { fill: #161b22; }
+    }
+    .cell-92 { animation: c92 40s linear infinite; }
+    @keyframes c91 {
+      0%, 24.9% { fill: #161b22; }
+      25.1%, 100% { fill: #161b22; }
+    }
     .cell-91 { animation: c91 40s linear infinite; }
     @keyframes c98 {
-      0%, 26.4% { fill: #161b22; }
-      26.6%, 100% { fill: #161b22; }
+      0%, 26.8% { fill: #161b22; }
+      27%, 100% { fill: #161b22; }
     }
     .cell-98 { animation: c98 40s linear infinite; }
     @keyframes c99 {
-      0%, 26.7% { fill: #161b22; }
-      26.9%, 100% { fill: #161b22; }
-    }
-    .cell-99 { animation: c99 40s linear infinite; }
-    @keyframes c100 {
       0%, 27% { fill: #161b22; }
       27.2%, 100% { fill: #161b22; }
     }
+    .cell-99 { animation: c99 40s linear infinite; }
+    @keyframes c100 {
+      0%, 27.3% { fill: #161b22; }
+      27.5%, 100% { fill: #161b22; }
+    }
     .cell-100 { animation: c100 40s linear infinite; }
     @keyframes c101 {
-      0%, 27.2% { fill: #161b22; }
-      27.4%, 100% { fill: #161b22; }
+      0%, 27.6% { fill: #161b22; }
+      27.8%, 100% { fill: #161b22; }
     }
     .cell-101 { animation: c101 40s linear infinite; }
     @keyframes c102 {
-      0%, 27.5% { fill: #161b22; }
-      27.7%, 100% { fill: #161b22; }
-    }
-    .cell-102 { animation: c102 40s linear infinite; }
-    @keyframes c103 {
       0%, 27.8% { fill: #161b22; }
       28%, 100% { fill: #161b22; }
     }
+    .cell-102 { animation: c102 40s linear infinite; }
+    @keyframes c103 {
+      0%, 28.1% { fill: #161b22; }
+      28.3%, 100% { fill: #161b22; }
+    }
     .cell-103 { animation: c103 40s linear infinite; }
     @keyframes c104 {
-      0%, 28% { fill: #161b22; }
-      28.2%, 100% { fill: #161b22; }
+      0%, 28.4% { fill: #161b22; }
+      28.6%, 100% { fill: #161b22; }
     }
     .cell-104 { animation: c104 40s linear infinite; }
-    @keyframes c111 {
-      0%, 29.9% { fill: #161b22; }
-      30.1%, 100% { fill: #0e4429; }
+    @keyframes bg-c111 {
+      0%, 30.2% { opacity: 1; }
+      30.4%, 100% { opacity: 0; }
     }
-    .cell-111 { animation: c111 40s linear infinite; }
+    @keyframes fp-c111 {
+      0%, 30.2% { opacity: 0; }
+      30.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-111 { animation: bg-c111 40s linear infinite; }
+    .cell-footprint-111 { animation: fp-c111 40s linear infinite; }
     @keyframes c110 {
-      0%, 29.6% { fill: #161b22; }
-      29.8%, 100% { fill: #161b22; }
+      0%, 30% { fill: #161b22; }
+      30.2%, 100% { fill: #161b22; }
     }
     .cell-110 { animation: c110 40s linear infinite; }
     @keyframes c109 {
-      0%, 29.4% { fill: #161b22; }
-      29.6%, 100% { fill: #161b22; }
+      0%, 29.7% { fill: #161b22; }
+      29.9%, 100% { fill: #161b22; }
     }
     .cell-109 { animation: c109 40s linear infinite; }
     @keyframes c108 {
-      0%, 29.1% { fill: #161b22; }
-      29.3%, 100% { fill: #161b22; }
+      0%, 29.4% { fill: #161b22; }
+      29.6%, 100% { fill: #161b22; }
     }
     .cell-108 { animation: c108 40s linear infinite; }
     @keyframes c107 {
-      0%, 28.8% { fill: #161b22; }
-      29%, 100% { fill: #161b22; }
+      0%, 29.2% { fill: #161b22; }
+      29.4%, 100% { fill: #161b22; }
     }
     .cell-107 { animation: c107 40s linear infinite; }
     @keyframes c106 {
-      0%, 28.6% { fill: #161b22; }
-      28.8%, 100% { fill: #161b22; }
+      0%, 28.9% { fill: #161b22; }
+      29.1%, 100% { fill: #161b22; }
     }
     .cell-106 { animation: c106 40s linear infinite; }
     @keyframes c105 {
-      0%, 28.3% { fill: #161b22; }
-      28.5%, 100% { fill: #161b22; }
+      0%, 28.6% { fill: #161b22; }
+      28.8%, 100% { fill: #161b22; }
     }
     .cell-105 { animation: c105 40s linear infinite; }
     @keyframes c112 {
-      0%, 30.2% { fill: #161b22; }
-      30.4%, 100% { fill: #161b22; }
+      0%, 30.5% { fill: #161b22; }
+      30.7%, 100% { fill: #161b22; }
     }
     .cell-112 { animation: c112 40s linear infinite; }
     @keyframes c113 {
-      0%, 30.4% { fill: #161b22; }
-      30.6%, 100% { fill: #161b22; }
+      0%, 30.8% { fill: #161b22; }
+      31%, 100% { fill: #161b22; }
     }
     .cell-113 { animation: c113 40s linear infinite; }
     @keyframes c114 {
-      0%, 30.7% { fill: #161b22; }
-      30.9%, 100% { fill: #161b22; }
-    }
-    .cell-114 { animation: c114 40s linear infinite; }
-    @keyframes c115 {
       0%, 31% { fill: #161b22; }
       31.2%, 100% { fill: #161b22; }
     }
-    .cell-115 { animation: c115 40s linear infinite; }
-    @keyframes c116 {
-      0%, 31.2% { fill: #161b22; }
-      31.4%, 100% { fill: #0e4429; }
+    .cell-114 { animation: c114 40s linear infinite; }
+    @keyframes c115 {
+      0%, 31.3% { fill: #161b22; }
+      31.5%, 100% { fill: #161b22; }
     }
-    .cell-116 { animation: c116 40s linear infinite; }
+    .cell-115 { animation: c115 40s linear infinite; }
+    @keyframes bg-c116 {
+      0%, 31.6% { opacity: 1; }
+      31.8%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c116 {
+      0%, 31.6% { opacity: 0; }
+      31.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-116 { animation: bg-c116 40s linear infinite; }
+    .cell-footprint-116 { animation: fp-c116 40s linear infinite; }
     @keyframes c117 {
-      0%, 31.5% { fill: #161b22; }
-      31.7%, 100% { fill: #161b22; }
+      0%, 31.8% { fill: #161b22; }
+      32%, 100% { fill: #161b22; }
     }
     .cell-117 { animation: c117 40s linear infinite; }
-    @keyframes c118 {
-      0%, 31.8% { fill: #161b22; }
-      32%, 100% { fill: #006d32; }
+    @keyframes bg-c118 {
+      0%, 32.1% { opacity: 1; }
+      32.3%, 100% { opacity: 0; }
     }
-    .cell-118 { animation: c118 40s linear infinite; }
+    @keyframes fp-c118 {
+      0%, 32.1% { opacity: 0; }
+      32.3%, 100% { opacity: 1; }
+    }
+    .cell-bg-118 { animation: bg-c118 40s linear infinite; }
+    .cell-footprint-118 { animation: fp-c118 40s linear infinite; }
     @keyframes c125 {
-      0%, 33.6% { fill: #161b22; }
-      33.8%, 100% { fill: #161b22; }
+      0%, 34% { fill: #161b22; }
+      34.2%, 100% { fill: #161b22; }
     }
     .cell-125 { animation: c125 40s linear infinite; }
-    @keyframes c124 {
-      0%, 33.4% { fill: #161b22; }
-      33.6%, 100% { fill: #0e4429; }
+    @keyframes bg-c124 {
+      0%, 33.7% { opacity: 1; }
+      33.9%, 100% { opacity: 0; }
     }
-    .cell-124 { animation: c124 40s linear infinite; }
-    @keyframes c123 {
-      0%, 33.1% { fill: #161b22; }
-      33.3%, 100% { fill: #0e4429; }
+    @keyframes fp-c124 {
+      0%, 33.7% { opacity: 0; }
+      33.9%, 100% { opacity: 1; }
     }
-    .cell-123 { animation: c123 40s linear infinite; }
-    @keyframes c122 {
-      0%, 32.8% { fill: #161b22; }
-      33%, 100% { fill: #0e4429; }
+    .cell-bg-124 { animation: bg-c124 40s linear infinite; }
+    .cell-footprint-124 { animation: fp-c124 40s linear infinite; }
+    @keyframes bg-c123 {
+      0%, 33.4% { opacity: 1; }
+      33.6%, 100% { opacity: 0; }
     }
-    .cell-122 { animation: c122 40s linear infinite; }
+    @keyframes fp-c123 {
+      0%, 33.4% { opacity: 0; }
+      33.6%, 100% { opacity: 1; }
+    }
+    .cell-bg-123 { animation: bg-c123 40s linear infinite; }
+    .cell-footprint-123 { animation: fp-c123 40s linear infinite; }
+    @keyframes bg-c122 {
+      0%, 33.2% { opacity: 1; }
+      33.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c122 {
+      0%, 33.2% { opacity: 0; }
+      33.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-122 { animation: bg-c122 40s linear infinite; }
+    .cell-footprint-122 { animation: fp-c122 40s linear infinite; }
     @keyframes c121 {
-      0%, 32.6% { fill: #161b22; }
-      32.8%, 100% { fill: #161b22; }
+      0%, 32.9% { fill: #161b22; }
+      33.1%, 100% { fill: #161b22; }
     }
     .cell-121 { animation: c121 40s linear infinite; }
-    @keyframes c120 {
-      0%, 32.3% { fill: #161b22; }
-      32.5%, 100% { fill: #0e4429; }
+    @keyframes bg-c120 {
+      0%, 32.6% { opacity: 1; }
+      32.8%, 100% { opacity: 0; }
     }
-    .cell-120 { animation: c120 40s linear infinite; }
+    @keyframes fp-c120 {
+      0%, 32.6% { opacity: 0; }
+      32.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-120 { animation: bg-c120 40s linear infinite; }
+    .cell-footprint-120 { animation: fp-c120 40s linear infinite; }
     @keyframes c119 {
-      0%, 32% { fill: #161b22; }
-      32.2%, 100% { fill: #161b22; }
+      0%, 32.4% { fill: #161b22; }
+      32.6%, 100% { fill: #161b22; }
     }
     .cell-119 { animation: c119 40s linear infinite; }
-    @keyframes c126 {
-      0%, 33.9% { fill: #161b22; }
-      34.1%, 100% { fill: #39d353; }
+    @keyframes bg-c126 {
+      0%, 34.2% { opacity: 1; }
+      34.4%, 100% { opacity: 0; }
     }
-    .cell-126 { animation: c126 40s linear infinite; }
-    @keyframes c127 {
-      0%, 34.2% { fill: #161b22; }
-      34.4%, 100% { fill: #0e4429; }
+    @keyframes fp-c126 {
+      0%, 34.2% { opacity: 0; }
+      34.4%, 100% { opacity: 1; }
     }
-    .cell-127 { animation: c127 40s linear infinite; }
-    @keyframes c128 {
-      0%, 34.4% { fill: #161b22; }
-      34.6%, 100% { fill: #006d32; }
+    .cell-bg-126 { animation: bg-c126 40s linear infinite; }
+    .cell-footprint-126 { animation: fp-c126 40s linear infinite; }
+    @keyframes bg-c127 {
+      0%, 34.5% { opacity: 1; }
+      34.7%, 100% { opacity: 0; }
     }
-    .cell-128 { animation: c128 40s linear infinite; }
+    @keyframes fp-c127 {
+      0%, 34.5% { opacity: 0; }
+      34.7%, 100% { opacity: 1; }
+    }
+    .cell-bg-127 { animation: bg-c127 40s linear infinite; }
+    .cell-footprint-127 { animation: fp-c127 40s linear infinite; }
+    @keyframes bg-c128 {
+      0%, 34.8% { opacity: 1; }
+      35%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c128 {
+      0%, 34.8% { opacity: 0; }
+      35%, 100% { opacity: 1; }
+    }
+    .cell-bg-128 { animation: bg-c128 40s linear infinite; }
+    .cell-footprint-128 { animation: fp-c128 40s linear infinite; }
     @keyframes c129 {
-      0%, 34.7% { fill: #161b22; }
-      34.9%, 100% { fill: #161b22; }
+      0%, 35% { fill: #161b22; }
+      35.2%, 100% { fill: #161b22; }
     }
     .cell-129 { animation: c129 40s linear infinite; }
-    @keyframes c130 {
-      0%, 35% { fill: #161b22; }
-      35.2%, 100% { fill: #0e4429; }
+    @keyframes bg-c130 {
+      0%, 35.3% { opacity: 1; }
+      35.5%, 100% { opacity: 0; }
     }
-    .cell-130 { animation: c130 40s linear infinite; }
+    @keyframes fp-c130 {
+      0%, 35.3% { opacity: 0; }
+      35.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-130 { animation: bg-c130 40s linear infinite; }
+    .cell-footprint-130 { animation: fp-c130 40s linear infinite; }
     @keyframes c131 {
-      0%, 35.2% { fill: #161b22; }
-      35.4%, 100% { fill: #161b22; }
+      0%, 35.6% { fill: #161b22; }
+      35.8%, 100% { fill: #161b22; }
     }
     .cell-131 { animation: c131 40s linear infinite; }
-    @keyframes c132 {
-      0%, 35.5% { fill: #161b22; }
-      35.7%, 100% { fill: #26a641; }
+    @keyframes bg-c132 {
+      0%, 35.8% { opacity: 1; }
+      36%, 100% { opacity: 0; }
     }
-    .cell-132 { animation: c132 40s linear infinite; }
-    @keyframes c139 {
-      0%, 37.4% { fill: #161b22; }
-      37.6%, 100% { fill: #0e4429; }
+    @keyframes fp-c132 {
+      0%, 35.8% { opacity: 0; }
+      36%, 100% { opacity: 1; }
     }
-    .cell-139 { animation: c139 40s linear infinite; }
+    .cell-bg-132 { animation: bg-c132 40s linear infinite; }
+    .cell-footprint-132 { animation: fp-c132 40s linear infinite; }
+    @keyframes bg-c139 {
+      0%, 37.7% { opacity: 1; }
+      37.9%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c139 {
+      0%, 37.7% { opacity: 0; }
+      37.9%, 100% { opacity: 1; }
+    }
+    .cell-bg-139 { animation: bg-c139 40s linear infinite; }
+    .cell-footprint-139 { animation: fp-c139 40s linear infinite; }
     @keyframes c138 {
-      0%, 37.1% { fill: #161b22; }
-      37.3%, 100% { fill: #161b22; }
+      0%, 37.4% { fill: #161b22; }
+      37.6%, 100% { fill: #161b22; }
     }
     .cell-138 { animation: c138 40s linear infinite; }
     @keyframes c137 {
-      0%, 36.8% { fill: #161b22; }
-      37%, 100% { fill: #161b22; }
+      0%, 37.2% { fill: #161b22; }
+      37.4%, 100% { fill: #161b22; }
     }
     .cell-137 { animation: c137 40s linear infinite; }
-    @keyframes c136 {
-      0%, 36.6% { fill: #161b22; }
-      36.8%, 100% { fill: #0e4429; }
+    @keyframes bg-c136 {
+      0%, 36.9% { opacity: 1; }
+      37.1%, 100% { opacity: 0; }
     }
-    .cell-136 { animation: c136 40s linear infinite; }
+    @keyframes fp-c136 {
+      0%, 36.9% { opacity: 0; }
+      37.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-136 { animation: bg-c136 40s linear infinite; }
+    .cell-footprint-136 { animation: fp-c136 40s linear infinite; }
     @keyframes c135 {
-      0%, 36.3% { fill: #161b22; }
-      36.5%, 100% { fill: #161b22; }
+      0%, 36.6% { fill: #161b22; }
+      36.8%, 100% { fill: #161b22; }
     }
     .cell-135 { animation: c135 40s linear infinite; }
     @keyframes c134 {
-      0%, 36% { fill: #161b22; }
-      36.2%, 100% { fill: #161b22; }
+      0%, 36.4% { fill: #161b22; }
+      36.6%, 100% { fill: #161b22; }
     }
     .cell-134 { animation: c134 40s linear infinite; }
-    @keyframes c133 {
-      0%, 35.8% { fill: #161b22; }
-      36%, 100% { fill: #39d353; }
+    @keyframes bg-c133 {
+      0%, 36.1% { opacity: 1; }
+      36.3%, 100% { opacity: 0; }
     }
-    .cell-133 { animation: c133 40s linear infinite; }
-    @keyframes c140 {
-      0%, 37.6% { fill: #161b22; }
-      37.8%, 100% { fill: #006d32; }
+    @keyframes fp-c133 {
+      0%, 36.1% { opacity: 0; }
+      36.3%, 100% { opacity: 1; }
     }
-    .cell-140 { animation: c140 40s linear infinite; }
-    @keyframes c141 {
-      0%, 37.9% { fill: #161b22; }
-      38.1%, 100% { fill: #0e4429; }
+    .cell-bg-133 { animation: bg-c133 40s linear infinite; }
+    .cell-footprint-133 { animation: fp-c133 40s linear infinite; }
+    @keyframes bg-c140 {
+      0%, 38% { opacity: 1; }
+      38.2%, 100% { opacity: 0; }
     }
-    .cell-141 { animation: c141 40s linear infinite; }
-    @keyframes c142 {
-      0%, 38.2% { fill: #161b22; }
-      38.4%, 100% { fill: #0e4429; }
+    @keyframes fp-c140 {
+      0%, 38% { opacity: 0; }
+      38.2%, 100% { opacity: 1; }
     }
-    .cell-142 { animation: c142 40s linear infinite; }
-    @keyframes c143 {
-      0%, 38.4% { fill: #161b22; }
-      38.6%, 100% { fill: #006d32; }
+    .cell-bg-140 { animation: bg-c140 40s linear infinite; }
+    .cell-footprint-140 { animation: fp-c140 40s linear infinite; }
+    @keyframes bg-c141 {
+      0%, 38.2% { opacity: 1; }
+      38.4%, 100% { opacity: 0; }
     }
-    .cell-143 { animation: c143 40s linear infinite; }
-    @keyframes c144 {
-      0%, 38.7% { fill: #161b22; }
-      38.9%, 100% { fill: #006d32; }
+    @keyframes fp-c141 {
+      0%, 38.2% { opacity: 0; }
+      38.4%, 100% { opacity: 1; }
     }
-    .cell-144 { animation: c144 40s linear infinite; }
-    @keyframes c145 {
-      0%, 39% { fill: #161b22; }
-      39.2%, 100% { fill: #006d32; }
+    .cell-bg-141 { animation: bg-c141 40s linear infinite; }
+    .cell-footprint-141 { animation: fp-c141 40s linear infinite; }
+    @keyframes bg-c142 {
+      0%, 38.5% { opacity: 1; }
+      38.7%, 100% { opacity: 0; }
     }
-    .cell-145 { animation: c145 40s linear infinite; }
-    @keyframes c146 {
-      0%, 39.2% { fill: #161b22; }
-      39.4%, 100% { fill: #006d32; }
+    @keyframes fp-c142 {
+      0%, 38.5% { opacity: 0; }
+      38.7%, 100% { opacity: 1; }
     }
-    .cell-146 { animation: c146 40s linear infinite; }
-    @keyframes c153 {
-      0%, 41.1% { fill: #161b22; }
-      41.3%, 100% { fill: #0e4429; }
+    .cell-bg-142 { animation: bg-c142 40s linear infinite; }
+    .cell-footprint-142 { animation: fp-c142 40s linear infinite; }
+    @keyframes bg-c143 {
+      0%, 38.8% { opacity: 1; }
+      39%, 100% { opacity: 0; }
     }
-    .cell-153 { animation: c153 40s linear infinite; }
-    @keyframes c152 {
-      0%, 40.9% { fill: #161b22; }
-      41.1%, 100% { fill: #0e4429; }
+    @keyframes fp-c143 {
+      0%, 38.8% { opacity: 0; }
+      39%, 100% { opacity: 1; }
     }
-    .cell-152 { animation: c152 40s linear infinite; }
+    .cell-bg-143 { animation: bg-c143 40s linear infinite; }
+    .cell-footprint-143 { animation: fp-c143 40s linear infinite; }
+    @keyframes bg-c144 {
+      0%, 39% { opacity: 1; }
+      39.2%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c144 {
+      0%, 39% { opacity: 0; }
+      39.2%, 100% { opacity: 1; }
+    }
+    .cell-bg-144 { animation: bg-c144 40s linear infinite; }
+    .cell-footprint-144 { animation: fp-c144 40s linear infinite; }
+    @keyframes bg-c145 {
+      0%, 39.3% { opacity: 1; }
+      39.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c145 {
+      0%, 39.3% { opacity: 0; }
+      39.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-145 { animation: bg-c145 40s linear infinite; }
+    .cell-footprint-145 { animation: fp-c145 40s linear infinite; }
+    @keyframes bg-c146 {
+      0%, 39.6% { opacity: 1; }
+      39.8%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c146 {
+      0%, 39.6% { opacity: 0; }
+      39.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-146 { animation: bg-c146 40s linear infinite; }
+    .cell-footprint-146 { animation: fp-c146 40s linear infinite; }
+    @keyframes bg-c153 {
+      0%, 41.5% { opacity: 1; }
+      41.7%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c153 {
+      0%, 41.5% { opacity: 0; }
+      41.7%, 100% { opacity: 1; }
+    }
+    .cell-bg-153 { animation: bg-c153 40s linear infinite; }
+    .cell-footprint-153 { animation: fp-c153 40s linear infinite; }
+    @keyframes bg-c152 {
+      0%, 41.2% { opacity: 1; }
+      41.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c152 {
+      0%, 41.2% { opacity: 0; }
+      41.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-152 { animation: bg-c152 40s linear infinite; }
+    .cell-footprint-152 { animation: fp-c152 40s linear infinite; }
     @keyframes c151 {
-      0%, 40.6% { fill: #161b22; }
-      40.8%, 100% { fill: #161b22; }
+      0%, 40.9% { fill: #161b22; }
+      41.1%, 100% { fill: #161b22; }
     }
     .cell-151 { animation: c151 40s linear infinite; }
-    @keyframes c150 {
-      0%, 40.3% { fill: #161b22; }
-      40.5%, 100% { fill: #006d32; }
+    @keyframes bg-c150 {
+      0%, 40.7% { opacity: 1; }
+      40.9%, 100% { opacity: 0; }
     }
-    .cell-150 { animation: c150 40s linear infinite; }
+    @keyframes fp-c150 {
+      0%, 40.7% { opacity: 0; }
+      40.9%, 100% { opacity: 1; }
+    }
+    .cell-bg-150 { animation: bg-c150 40s linear infinite; }
+    .cell-footprint-150 { animation: fp-c150 40s linear infinite; }
     @keyframes c149 {
-      0%, 40% { fill: #161b22; }
-      40.2%, 100% { fill: #161b22; }
+      0%, 40.4% { fill: #161b22; }
+      40.6%, 100% { fill: #161b22; }
     }
     .cell-149 { animation: c149 40s linear infinite; }
     @keyframes c148 {
-      0%, 39.8% { fill: #161b22; }
-      40%, 100% { fill: #161b22; }
+      0%, 40.1% { fill: #161b22; }
+      40.3%, 100% { fill: #161b22; }
     }
     .cell-148 { animation: c148 40s linear infinite; }
     @keyframes c147 {
-      0%, 39.5% { fill: #161b22; }
-      39.7%, 100% { fill: #161b22; }
+      0%, 39.9% { fill: #161b22; }
+      40.1%, 100% { fill: #161b22; }
     }
     .cell-147 { animation: c147 40s linear infinite; }
     @keyframes c154 {
-      0%, 41.4% { fill: #161b22; }
-      41.6%, 100% { fill: #161b22; }
+      0%, 41.7% { fill: #161b22; }
+      41.9%, 100% { fill: #161b22; }
     }
     .cell-154 { animation: c154 40s linear infinite; }
-    @keyframes c155 {
-      0%, 41.7% { fill: #161b22; }
-      41.9%, 100% { fill: #006d32; }
+    @keyframes bg-c155 {
+      0%, 42% { opacity: 1; }
+      42.2%, 100% { opacity: 0; }
     }
-    .cell-155 { animation: c155 40s linear infinite; }
-    @keyframes c156 {
-      0%, 41.9% { fill: #161b22; }
-      42.1%, 100% { fill: #006d32; }
+    @keyframes fp-c155 {
+      0%, 42% { opacity: 0; }
+      42.2%, 100% { opacity: 1; }
     }
-    .cell-156 { animation: c156 40s linear infinite; }
+    .cell-bg-155 { animation: bg-c155 40s linear infinite; }
+    .cell-footprint-155 { animation: fp-c155 40s linear infinite; }
+    @keyframes bg-c156 {
+      0%, 42.3% { opacity: 1; }
+      42.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c156 {
+      0%, 42.3% { opacity: 0; }
+      42.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-156 { animation: bg-c156 40s linear infinite; }
+    .cell-footprint-156 { animation: fp-c156 40s linear infinite; }
     @keyframes c157 {
-      0%, 42.2% { fill: #161b22; }
-      42.4%, 100% { fill: #161b22; }
-    }
-    .cell-157 { animation: c157 40s linear infinite; }
-    @keyframes c158 {
       0%, 42.5% { fill: #161b22; }
       42.7%, 100% { fill: #161b22; }
     }
+    .cell-157 { animation: c157 40s linear infinite; }
+    @keyframes c158 {
+      0%, 42.8% { fill: #161b22; }
+      43%, 100% { fill: #161b22; }
+    }
     .cell-158 { animation: c158 40s linear infinite; }
     @keyframes c159 {
-      0%, 42.7% { fill: #161b22; }
-      42.9%, 100% { fill: #161b22; }
+      0%, 43.1% { fill: #161b22; }
+      43.3%, 100% { fill: #161b22; }
     }
     .cell-159 { animation: c159 40s linear infinite; }
     @keyframes c160 {
-      0%, 43% { fill: #161b22; }
-      43.2%, 100% { fill: #161b22; }
-    }
-    .cell-160 { animation: c160 40s linear infinite; }
-    @keyframes c167 {
-      0%, 44.9% { fill: #161b22; }
-      45.1%, 100% { fill: #161b22; }
-    }
-    .cell-167 { animation: c167 40s linear infinite; }
-    @keyframes c166 {
-      0%, 44.6% { fill: #161b22; }
-      44.8%, 100% { fill: #161b22; }
-    }
-    .cell-166 { animation: c166 40s linear infinite; }
-    @keyframes c165 {
-      0%, 44.3% { fill: #161b22; }
-      44.5%, 100% { fill: #161b22; }
-    }
-    .cell-165 { animation: c165 40s linear infinite; }
-    @keyframes c164 {
-      0%, 44.1% { fill: #161b22; }
-      44.3%, 100% { fill: #161b22; }
-    }
-    .cell-164 { animation: c164 40s linear infinite; }
-    @keyframes c163 {
-      0%, 43.8% { fill: #161b22; }
-      44%, 100% { fill: #161b22; }
-    }
-    .cell-163 { animation: c163 40s linear infinite; }
-    @keyframes c162 {
-      0%, 43.5% { fill: #161b22; }
-      43.7%, 100% { fill: #161b22; }
-    }
-    .cell-162 { animation: c162 40s linear infinite; }
-    @keyframes c161 {
       0%, 43.3% { fill: #161b22; }
       43.5%, 100% { fill: #161b22; }
     }
+    .cell-160 { animation: c160 40s linear infinite; }
+    @keyframes c167 {
+      0%, 45.2% { fill: #161b22; }
+      45.4%, 100% { fill: #161b22; }
+    }
+    .cell-167 { animation: c167 40s linear infinite; }
+    @keyframes c166 {
+      0%, 44.9% { fill: #161b22; }
+      45.1%, 100% { fill: #161b22; }
+    }
+    .cell-166 { animation: c166 40s linear infinite; }
+    @keyframes c165 {
+      0%, 44.7% { fill: #161b22; }
+      44.9%, 100% { fill: #161b22; }
+    }
+    .cell-165 { animation: c165 40s linear infinite; }
+    @keyframes c164 {
+      0%, 44.4% { fill: #161b22; }
+      44.6%, 100% { fill: #161b22; }
+    }
+    .cell-164 { animation: c164 40s linear infinite; }
+    @keyframes c163 {
+      0%, 44.1% { fill: #161b22; }
+      44.3%, 100% { fill: #161b22; }
+    }
+    .cell-163 { animation: c163 40s linear infinite; }
+    @keyframes c162 {
+      0%, 43.9% { fill: #161b22; }
+      44.1%, 100% { fill: #161b22; }
+    }
+    .cell-162 { animation: c162 40s linear infinite; }
+    @keyframes c161 {
+      0%, 43.6% { fill: #161b22; }
+      43.8%, 100% { fill: #161b22; }
+    }
     .cell-161 { animation: c161 40s linear infinite; }
     @keyframes c168 {
-      0%, 45.1% { fill: #161b22; }
-      45.3%, 100% { fill: #161b22; }
+      0%, 45.5% { fill: #161b22; }
+      45.7%, 100% { fill: #161b22; }
     }
     .cell-168 { animation: c168 40s linear infinite; }
     @keyframes c169 {
-      0%, 45.4% { fill: #161b22; }
-      45.6%, 100% { fill: #161b22; }
-    }
-    .cell-169 { animation: c169 40s linear infinite; }
-    @keyframes c170 {
       0%, 45.7% { fill: #161b22; }
       45.9%, 100% { fill: #161b22; }
     }
+    .cell-169 { animation: c169 40s linear infinite; }
+    @keyframes c170 {
+      0%, 46% { fill: #161b22; }
+      46.2%, 100% { fill: #161b22; }
+    }
     .cell-170 { animation: c170 40s linear infinite; }
     @keyframes c171 {
-      0%, 45.9% { fill: #161b22; }
-      46.1%, 100% { fill: #161b22; }
+      0%, 46.3% { fill: #161b22; }
+      46.5%, 100% { fill: #161b22; }
     }
     .cell-171 { animation: c171 40s linear infinite; }
     @keyframes c172 {
-      0%, 46.2% { fill: #161b22; }
-      46.4%, 100% { fill: #161b22; }
-    }
-    .cell-172 { animation: c172 40s linear infinite; }
-    @keyframes c173 {
       0%, 46.5% { fill: #161b22; }
       46.7%, 100% { fill: #161b22; }
     }
+    .cell-172 { animation: c172 40s linear infinite; }
+    @keyframes c173 {
+      0%, 46.8% { fill: #161b22; }
+      47%, 100% { fill: #161b22; }
+    }
     .cell-173 { animation: c173 40s linear infinite; }
     @keyframes c174 {
-      0%, 46.7% { fill: #161b22; }
-      46.9%, 100% { fill: #161b22; }
+      0%, 47.1% { fill: #161b22; }
+      47.3%, 100% { fill: #161b22; }
     }
     .cell-174 { animation: c174 40s linear infinite; }
     @keyframes c181 {
-      0%, 48.6% { fill: #161b22; }
-      48.8%, 100% { fill: #161b22; }
-    }
-    .cell-181 { animation: c181 40s linear infinite; }
-    @keyframes c180 {
-      0%, 48.3% { fill: #161b22; }
-      48.5%, 100% { fill: #161b22; }
-    }
-    .cell-180 { animation: c180 40s linear infinite; }
-    @keyframes c179 {
-      0%, 48.1% { fill: #161b22; }
-      48.3%, 100% { fill: #161b22; }
-    }
-    .cell-179 { animation: c179 40s linear infinite; }
-    @keyframes c178 {
-      0%, 47.8% { fill: #161b22; }
-      48%, 100% { fill: #161b22; }
-    }
-    .cell-178 { animation: c178 40s linear infinite; }
-    @keyframes c177 {
-      0%, 47.5% { fill: #161b22; }
-      47.7%, 100% { fill: #161b22; }
-    }
-    .cell-177 { animation: c177 40s linear infinite; }
-    @keyframes c176 {
-      0%, 47.3% { fill: #161b22; }
-      47.5%, 100% { fill: #161b22; }
-    }
-    .cell-176 { animation: c176 40s linear infinite; }
-    @keyframes c175 {
-      0%, 47% { fill: #161b22; }
-      47.2%, 100% { fill: #161b22; }
-    }
-    .cell-175 { animation: c175 40s linear infinite; }
-    @keyframes c182 {
       0%, 48.9% { fill: #161b22; }
       49.1%, 100% { fill: #161b22; }
     }
+    .cell-181 { animation: c181 40s linear infinite; }
+    @keyframes c180 {
+      0%, 48.7% { fill: #161b22; }
+      48.9%, 100% { fill: #161b22; }
+    }
+    .cell-180 { animation: c180 40s linear infinite; }
+    @keyframes c179 {
+      0%, 48.4% { fill: #161b22; }
+      48.6%, 100% { fill: #161b22; }
+    }
+    .cell-179 { animation: c179 40s linear infinite; }
+    @keyframes c178 {
+      0%, 48.1% { fill: #161b22; }
+      48.3%, 100% { fill: #161b22; }
+    }
+    .cell-178 { animation: c178 40s linear infinite; }
+    @keyframes c177 {
+      0%, 47.9% { fill: #161b22; }
+      48.1%, 100% { fill: #161b22; }
+    }
+    .cell-177 { animation: c177 40s linear infinite; }
+    @keyframes c176 {
+      0%, 47.6% { fill: #161b22; }
+      47.8%, 100% { fill: #161b22; }
+    }
+    .cell-176 { animation: c176 40s linear infinite; }
+    @keyframes c175 {
+      0%, 47.3% { fill: #161b22; }
+      47.5%, 100% { fill: #161b22; }
+    }
+    .cell-175 { animation: c175 40s linear infinite; }
+    @keyframes c182 {
+      0%, 49.2% { fill: #161b22; }
+      49.4%, 100% { fill: #161b22; }
+    }
     .cell-182 { animation: c182 40s linear infinite; }
     @keyframes c183 {
-      0%, 49.1% { fill: #161b22; }
-      49.3%, 100% { fill: #161b22; }
+      0%, 49.5% { fill: #161b22; }
+      49.7%, 100% { fill: #161b22; }
     }
     .cell-183 { animation: c183 40s linear infinite; }
     @keyframes c184 {
-      0%, 49.4% { fill: #161b22; }
-      49.6%, 100% { fill: #161b22; }
-    }
-    .cell-184 { animation: c184 40s linear infinite; }
-    @keyframes c185 {
       0%, 49.7% { fill: #161b22; }
       49.9%, 100% { fill: #161b22; }
     }
+    .cell-184 { animation: c184 40s linear infinite; }
+    @keyframes c185 {
+      0%, 50% { fill: #161b22; }
+      50.2%, 100% { fill: #161b22; }
+    }
     .cell-185 { animation: c185 40s linear infinite; }
     @keyframes c186 {
-      0%, 49.9% { fill: #161b22; }
-      50.1%, 100% { fill: #161b22; }
+      0%, 50.3% { fill: #161b22; }
+      50.5%, 100% { fill: #161b22; }
     }
     .cell-186 { animation: c186 40s linear infinite; }
     @keyframes c187 {
-      0%, 50.2% { fill: #161b22; }
-      50.4%, 100% { fill: #161b22; }
-    }
-    .cell-187 { animation: c187 40s linear infinite; }
-    @keyframes c188 {
       0%, 50.5% { fill: #161b22; }
       50.7%, 100% { fill: #161b22; }
     }
+    .cell-187 { animation: c187 40s linear infinite; }
+    @keyframes c188 {
+      0%, 50.8% { fill: #161b22; }
+      51%, 100% { fill: #161b22; }
+    }
     .cell-188 { animation: c188 40s linear infinite; }
     @keyframes c195 {
-      0%, 52.3% { fill: #161b22; }
-      52.5%, 100% { fill: #161b22; }
+      0%, 52.7% { fill: #161b22; }
+      52.9%, 100% { fill: #161b22; }
     }
     .cell-195 { animation: c195 40s linear infinite; }
     @keyframes c194 {
-      0%, 52.1% { fill: #161b22; }
-      52.3%, 100% { fill: #161b22; }
+      0%, 52.4% { fill: #161b22; }
+      52.6%, 100% { fill: #161b22; }
     }
     .cell-194 { animation: c194 40s linear infinite; }
-    @keyframes c193 {
-      0%, 51.8% { fill: #161b22; }
-      52%, 100% { fill: #0e4429; }
+    @keyframes bg-c193 {
+      0%, 52.1% { opacity: 1; }
+      52.3%, 100% { opacity: 0; }
     }
-    .cell-193 { animation: c193 40s linear infinite; }
-    @keyframes c192 {
-      0%, 51.5% { fill: #161b22; }
-      51.7%, 100% { fill: #006d32; }
+    @keyframes fp-c193 {
+      0%, 52.1% { opacity: 0; }
+      52.3%, 100% { opacity: 1; }
     }
-    .cell-192 { animation: c192 40s linear infinite; }
+    .cell-bg-193 { animation: bg-c193 40s linear infinite; }
+    .cell-footprint-193 { animation: fp-c193 40s linear infinite; }
+    @keyframes bg-c192 {
+      0%, 51.9% { opacity: 1; }
+      52.1%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c192 {
+      0%, 51.9% { opacity: 0; }
+      52.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-192 { animation: bg-c192 40s linear infinite; }
+    .cell-footprint-192 { animation: fp-c192 40s linear infinite; }
     @keyframes c191 {
-      0%, 51.3% { fill: #161b22; }
-      51.5%, 100% { fill: #161b22; }
+      0%, 51.6% { fill: #161b22; }
+      51.8%, 100% { fill: #161b22; }
     }
     .cell-191 { animation: c191 40s linear infinite; }
-    @keyframes c190 {
-      0%, 51% { fill: #161b22; }
-      51.2%, 100% { fill: #0e4429; }
+    @keyframes bg-c190 {
+      0%, 51.3% { opacity: 1; }
+      51.5%, 100% { opacity: 0; }
     }
-    .cell-190 { animation: c190 40s linear infinite; }
+    @keyframes fp-c190 {
+      0%, 51.3% { opacity: 0; }
+      51.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-190 { animation: bg-c190 40s linear infinite; }
+    .cell-footprint-190 { animation: fp-c190 40s linear infinite; }
     @keyframes c189 {
-      0%, 50.7% { fill: #161b22; }
-      50.9%, 100% { fill: #161b22; }
+      0%, 51.1% { fill: #161b22; }
+      51.3%, 100% { fill: #161b22; }
     }
     .cell-189 { animation: c189 40s linear infinite; }
     @keyframes c196 {
-      0%, 52.6% { fill: #161b22; }
-      52.8%, 100% { fill: #161b22; }
-    }
-    .cell-196 { animation: c196 40s linear infinite; }
-    @keyframes c197 {
       0%, 52.9% { fill: #161b22; }
       53.1%, 100% { fill: #161b22; }
     }
+    .cell-196 { animation: c196 40s linear infinite; }
+    @keyframes c197 {
+      0%, 53.2% { fill: #161b22; }
+      53.4%, 100% { fill: #161b22; }
+    }
     .cell-197 { animation: c197 40s linear infinite; }
     @keyframes c198 {
-      0%, 53.1% { fill: #161b22; }
-      53.3%, 100% { fill: #161b22; }
+      0%, 53.5% { fill: #161b22; }
+      53.7%, 100% { fill: #161b22; }
     }
     .cell-198 { animation: c198 40s linear infinite; }
     @keyframes c199 {
-      0%, 53.4% { fill: #161b22; }
-      53.6%, 100% { fill: #161b22; }
-    }
-    .cell-199 { animation: c199 40s linear infinite; }
-    @keyframes c200 {
       0%, 53.7% { fill: #161b22; }
       53.9%, 100% { fill: #161b22; }
     }
+    .cell-199 { animation: c199 40s linear infinite; }
+    @keyframes c200 {
+      0%, 54% { fill: #161b22; }
+      54.2%, 100% { fill: #161b22; }
+    }
     .cell-200 { animation: c200 40s linear infinite; }
     @keyframes c201 {
-      0%, 53.9% { fill: #161b22; }
-      54.1%, 100% { fill: #161b22; }
+      0%, 54.3% { fill: #161b22; }
+      54.5%, 100% { fill: #161b22; }
     }
     .cell-201 { animation: c201 40s linear infinite; }
     @keyframes c202 {
-      0%, 54.2% { fill: #161b22; }
-      54.4%, 100% { fill: #161b22; }
-    }
-    .cell-202 { animation: c202 40s linear infinite; }
-    @keyframes c209 {
-      0%, 56.1% { fill: #161b22; }
-      56.3%, 100% { fill: #161b22; }
-    }
-    .cell-209 { animation: c209 40s linear infinite; }
-    @keyframes c208 {
-      0%, 55.8% { fill: #161b22; }
-      56%, 100% { fill: #161b22; }
-    }
-    .cell-208 { animation: c208 40s linear infinite; }
-    @keyframes c207 {
-      0%, 55.5% { fill: #161b22; }
-      55.7%, 100% { fill: #161b22; }
-    }
-    .cell-207 { animation: c207 40s linear infinite; }
-    @keyframes c206 {
-      0%, 55.3% { fill: #161b22; }
-      55.5%, 100% { fill: #161b22; }
-    }
-    .cell-206 { animation: c206 40s linear infinite; }
-    @keyframes c205 {
-      0%, 55% { fill: #161b22; }
-      55.2%, 100% { fill: #161b22; }
-    }
-    .cell-205 { animation: c205 40s linear infinite; }
-    @keyframes c204 {
-      0%, 54.7% { fill: #161b22; }
-      54.9%, 100% { fill: #161b22; }
-    }
-    .cell-204 { animation: c204 40s linear infinite; }
-    @keyframes c203 {
       0%, 54.5% { fill: #161b22; }
       54.7%, 100% { fill: #161b22; }
     }
+    .cell-202 { animation: c202 40s linear infinite; }
+    @keyframes c209 {
+      0%, 56.4% { fill: #161b22; }
+      56.6%, 100% { fill: #161b22; }
+    }
+    .cell-209 { animation: c209 40s linear infinite; }
+    @keyframes c208 {
+      0%, 56.1% { fill: #161b22; }
+      56.3%, 100% { fill: #161b22; }
+    }
+    .cell-208 { animation: c208 40s linear infinite; }
+    @keyframes c207 {
+      0%, 55.9% { fill: #161b22; }
+      56.1%, 100% { fill: #161b22; }
+    }
+    .cell-207 { animation: c207 40s linear infinite; }
+    @keyframes c206 {
+      0%, 55.6% { fill: #161b22; }
+      55.8%, 100% { fill: #161b22; }
+    }
+    .cell-206 { animation: c206 40s linear infinite; }
+    @keyframes c205 {
+      0%, 55.3% { fill: #161b22; }
+      55.5%, 100% { fill: #161b22; }
+    }
+    .cell-205 { animation: c205 40s linear infinite; }
+    @keyframes c204 {
+      0%, 55.1% { fill: #161b22; }
+      55.3%, 100% { fill: #161b22; }
+    }
+    .cell-204 { animation: c204 40s linear infinite; }
+    @keyframes c203 {
+      0%, 54.8% { fill: #161b22; }
+      55%, 100% { fill: #161b22; }
+    }
     .cell-203 { animation: c203 40s linear infinite; }
     @keyframes c210 {
-      0%, 56.3% { fill: #161b22; }
-      56.5%, 100% { fill: #161b22; }
+      0%, 56.7% { fill: #161b22; }
+      56.9%, 100% { fill: #161b22; }
     }
     .cell-210 { animation: c210 40s linear infinite; }
     @keyframes c211 {
-      0%, 56.6% { fill: #161b22; }
-      56.8%, 100% { fill: #161b22; }
-    }
-    .cell-211 { animation: c211 40s linear infinite; }
-    @keyframes c212 {
       0%, 56.9% { fill: #161b22; }
       57.1%, 100% { fill: #161b22; }
     }
+    .cell-211 { animation: c211 40s linear infinite; }
+    @keyframes c212 {
+      0%, 57.2% { fill: #161b22; }
+      57.4%, 100% { fill: #161b22; }
+    }
     .cell-212 { animation: c212 40s linear infinite; }
     @keyframes c213 {
-      0%, 57.1% { fill: #161b22; }
-      57.3%, 100% { fill: #161b22; }
+      0%, 57.5% { fill: #161b22; }
+      57.7%, 100% { fill: #161b22; }
     }
     .cell-213 { animation: c213 40s linear infinite; }
     @keyframes c214 {
-      0%, 57.4% { fill: #161b22; }
-      57.6%, 100% { fill: #161b22; }
-    }
-    .cell-214 { animation: c214 40s linear infinite; }
-    @keyframes c215 {
       0%, 57.7% { fill: #161b22; }
       57.9%, 100% { fill: #161b22; }
     }
+    .cell-214 { animation: c214 40s linear infinite; }
+    @keyframes c215 {
+      0%, 58% { fill: #161b22; }
+      58.2%, 100% { fill: #161b22; }
+    }
     .cell-215 { animation: c215 40s linear infinite; }
     @keyframes c216 {
-      0%, 57.9% { fill: #161b22; }
-      58.1%, 100% { fill: #161b22; }
+      0%, 58.3% { fill: #161b22; }
+      58.5%, 100% { fill: #161b22; }
     }
     .cell-216 { animation: c216 40s linear infinite; }
     @keyframes c223 {
-      0%, 59.8% { fill: #161b22; }
-      60%, 100% { fill: #161b22; }
-    }
-    .cell-223 { animation: c223 40s linear infinite; }
-    @keyframes c222 {
-      0%, 59.5% { fill: #161b22; }
-      59.7%, 100% { fill: #161b22; }
-    }
-    .cell-222 { animation: c222 40s linear infinite; }
-    @keyframes c221 {
-      0%, 59.3% { fill: #161b22; }
-      59.5%, 100% { fill: #161b22; }
-    }
-    .cell-221 { animation: c221 40s linear infinite; }
-    @keyframes c220 {
-      0%, 59% { fill: #161b22; }
-      59.2%, 100% { fill: #161b22; }
-    }
-    .cell-220 { animation: c220 40s linear infinite; }
-    @keyframes c219 {
-      0%, 58.7% { fill: #161b22; }
-      58.9%, 100% { fill: #161b22; }
-    }
-    .cell-219 { animation: c219 40s linear infinite; }
-    @keyframes c218 {
-      0%, 58.5% { fill: #161b22; }
-      58.7%, 100% { fill: #161b22; }
-    }
-    .cell-218 { animation: c218 40s linear infinite; }
-    @keyframes c217 {
-      0%, 58.2% { fill: #161b22; }
-      58.4%, 100% { fill: #161b22; }
-    }
-    .cell-217 { animation: c217 40s linear infinite; }
-    @keyframes c224 {
       0%, 60.1% { fill: #161b22; }
       60.3%, 100% { fill: #161b22; }
     }
+    .cell-223 { animation: c223 40s linear infinite; }
+    @keyframes c222 {
+      0%, 59.9% { fill: #161b22; }
+      60.1%, 100% { fill: #161b22; }
+    }
+    .cell-222 { animation: c222 40s linear infinite; }
+    @keyframes c221 {
+      0%, 59.6% { fill: #161b22; }
+      59.8%, 100% { fill: #161b22; }
+    }
+    .cell-221 { animation: c221 40s linear infinite; }
+    @keyframes c220 {
+      0%, 59.3% { fill: #161b22; }
+      59.5%, 100% { fill: #161b22; }
+    }
+    .cell-220 { animation: c220 40s linear infinite; }
+    @keyframes c219 {
+      0%, 59.1% { fill: #161b22; }
+      59.3%, 100% { fill: #161b22; }
+    }
+    .cell-219 { animation: c219 40s linear infinite; }
+    @keyframes c218 {
+      0%, 58.8% { fill: #161b22; }
+      59%, 100% { fill: #161b22; }
+    }
+    .cell-218 { animation: c218 40s linear infinite; }
+    @keyframes c217 {
+      0%, 58.5% { fill: #161b22; }
+      58.7%, 100% { fill: #161b22; }
+    }
+    .cell-217 { animation: c217 40s linear infinite; }
+    @keyframes c224 {
+      0%, 60.4% { fill: #161b22; }
+      60.6%, 100% { fill: #161b22; }
+    }
     .cell-224 { animation: c224 40s linear infinite; }
     @keyframes c225 {
-      0%, 60.3% { fill: #161b22; }
-      60.5%, 100% { fill: #161b22; }
+      0%, 60.7% { fill: #161b22; }
+      60.9%, 100% { fill: #161b22; }
     }
     .cell-225 { animation: c225 40s linear infinite; }
-    @keyframes c226 {
-      0%, 60.6% { fill: #161b22; }
-      60.8%, 100% { fill: #006d32; }
+    @keyframes bg-c226 {
+      0%, 60.9% { opacity: 1; }
+      61.1%, 100% { opacity: 0; }
     }
-    .cell-226 { animation: c226 40s linear infinite; }
+    @keyframes fp-c226 {
+      0%, 60.9% { opacity: 0; }
+      61.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-226 { animation: bg-c226 40s linear infinite; }
+    .cell-footprint-226 { animation: fp-c226 40s linear infinite; }
     @keyframes c227 {
-      0%, 60.9% { fill: #161b22; }
-      61.1%, 100% { fill: #161b22; }
+      0%, 61.2% { fill: #161b22; }
+      61.4%, 100% { fill: #161b22; }
     }
     .cell-227 { animation: c227 40s linear infinite; }
-    @keyframes c228 {
-      0%, 61.1% { fill: #161b22; }
-      61.3%, 100% { fill: #006d32; }
+    @keyframes bg-c228 {
+      0%, 61.5% { opacity: 1; }
+      61.7%, 100% { opacity: 0; }
     }
-    .cell-228 { animation: c228 40s linear infinite; }
-    @keyframes c229 {
-      0%, 61.4% { fill: #161b22; }
-      61.6%, 100% { fill: #0e4429; }
+    @keyframes fp-c228 {
+      0%, 61.5% { opacity: 0; }
+      61.7%, 100% { opacity: 1; }
     }
-    .cell-229 { animation: c229 40s linear infinite; }
-    @keyframes c230 {
-      0%, 61.7% { fill: #161b22; }
-      61.9%, 100% { fill: #006d32; }
+    .cell-bg-228 { animation: bg-c228 40s linear infinite; }
+    .cell-footprint-228 { animation: fp-c228 40s linear infinite; }
+    @keyframes bg-c229 {
+      0%, 61.7% { opacity: 1; }
+      61.9%, 100% { opacity: 0; }
     }
-    .cell-230 { animation: c230 40s linear infinite; }
-    @keyframes c237 {
-      0%, 63.5% { fill: #161b22; }
-      63.7%, 100% { fill: #0e4429; }
+    @keyframes fp-c229 {
+      0%, 61.7% { opacity: 0; }
+      61.9%, 100% { opacity: 1; }
     }
-    .cell-237 { animation: c237 40s linear infinite; }
-    @keyframes c236 {
-      0%, 63.3% { fill: #161b22; }
-      63.5%, 100% { fill: #0e4429; }
+    .cell-bg-229 { animation: bg-c229 40s linear infinite; }
+    .cell-footprint-229 { animation: fp-c229 40s linear infinite; }
+    @keyframes bg-c230 {
+      0%, 62% { opacity: 1; }
+      62.2%, 100% { opacity: 0; }
     }
-    .cell-236 { animation: c236 40s linear infinite; }
+    @keyframes fp-c230 {
+      0%, 62% { opacity: 0; }
+      62.2%, 100% { opacity: 1; }
+    }
+    .cell-bg-230 { animation: bg-c230 40s linear infinite; }
+    .cell-footprint-230 { animation: fp-c230 40s linear infinite; }
+    @keyframes bg-c237 {
+      0%, 63.9% { opacity: 1; }
+      64.1%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c237 {
+      0%, 63.9% { opacity: 0; }
+      64.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-237 { animation: bg-c237 40s linear infinite; }
+    .cell-footprint-237 { animation: fp-c237 40s linear infinite; }
+    @keyframes bg-c236 {
+      0%, 63.6% { opacity: 1; }
+      63.8%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c236 {
+      0%, 63.6% { opacity: 0; }
+      63.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-236 { animation: bg-c236 40s linear infinite; }
+    .cell-footprint-236 { animation: fp-c236 40s linear infinite; }
     @keyframes c235 {
-      0%, 63% { fill: #161b22; }
-      63.2%, 100% { fill: #161b22; }
+      0%, 63.3% { fill: #161b22; }
+      63.5%, 100% { fill: #161b22; }
     }
     .cell-235 { animation: c235 40s linear infinite; }
     @keyframes c234 {
-      0%, 62.7% { fill: #161b22; }
-      62.9%, 100% { fill: #161b22; }
+      0%, 63.1% { fill: #161b22; }
+      63.3%, 100% { fill: #161b22; }
     }
     .cell-234 { animation: c234 40s linear infinite; }
     @keyframes c233 {
-      0%, 62.5% { fill: #161b22; }
-      62.7%, 100% { fill: #161b22; }
+      0%, 62.8% { fill: #161b22; }
+      63%, 100% { fill: #161b22; }
     }
     .cell-233 { animation: c233 40s linear infinite; }
     @keyframes c232 {
-      0%, 62.2% { fill: #161b22; }
-      62.4%, 100% { fill: #161b22; }
+      0%, 62.5% { fill: #161b22; }
+      62.7%, 100% { fill: #161b22; }
     }
     .cell-232 { animation: c232 40s linear infinite; }
     @keyframes c231 {
-      0%, 61.9% { fill: #161b22; }
-      62.1%, 100% { fill: #161b22; }
+      0%, 62.3% { fill: #161b22; }
+      62.5%, 100% { fill: #161b22; }
     }
     .cell-231 { animation: c231 40s linear infinite; }
     @keyframes c238 {
-      0%, 63.8% { fill: #161b22; }
-      64%, 100% { fill: #161b22; }
-    }
-    .cell-238 { animation: c238 40s linear infinite; }
-    @keyframes c239 {
       0%, 64.1% { fill: #161b22; }
       64.3%, 100% { fill: #161b22; }
     }
+    .cell-238 { animation: c238 40s linear infinite; }
+    @keyframes c239 {
+      0%, 64.4% { fill: #161b22; }
+      64.6%, 100% { fill: #161b22; }
+    }
     .cell-239 { animation: c239 40s linear infinite; }
-    @keyframes c240 {
-      0%, 64.3% { fill: #161b22; }
-      64.5%, 100% { fill: #0e4429; }
+    @keyframes bg-c240 {
+      0%, 64.7% { opacity: 1; }
+      64.9%, 100% { opacity: 0; }
     }
-    .cell-240 { animation: c240 40s linear infinite; }
-    @keyframes c241 {
-      0%, 64.6% { fill: #161b22; }
-      64.8%, 100% { fill: #006d32; }
+    @keyframes fp-c240 {
+      0%, 64.7% { opacity: 0; }
+      64.9%, 100% { opacity: 1; }
     }
-    .cell-241 { animation: c241 40s linear infinite; }
-    @keyframes c242 {
-      0%, 64.9% { fill: #161b22; }
-      65.1%, 100% { fill: #26a641; }
+    .cell-bg-240 { animation: bg-c240 40s linear infinite; }
+    .cell-footprint-240 { animation: fp-c240 40s linear infinite; }
+    @keyframes bg-c241 {
+      0%, 64.9% { opacity: 1; }
+      65.1%, 100% { opacity: 0; }
     }
-    .cell-242 { animation: c242 40s linear infinite; }
-    @keyframes c243 {
-      0%, 65.1% { fill: #161b22; }
-      65.3%, 100% { fill: #26a641; }
+    @keyframes fp-c241 {
+      0%, 64.9% { opacity: 0; }
+      65.1%, 100% { opacity: 1; }
     }
-    .cell-243 { animation: c243 40s linear infinite; }
+    .cell-bg-241 { animation: bg-c241 40s linear infinite; }
+    .cell-footprint-241 { animation: fp-c241 40s linear infinite; }
+    @keyframes bg-c242 {
+      0%, 65.2% { opacity: 1; }
+      65.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c242 {
+      0%, 65.2% { opacity: 0; }
+      65.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-242 { animation: bg-c242 40s linear infinite; }
+    .cell-footprint-242 { animation: fp-c242 40s linear infinite; }
+    @keyframes bg-c243 {
+      0%, 65.5% { opacity: 1; }
+      65.7%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c243 {
+      0%, 65.5% { opacity: 0; }
+      65.7%, 100% { opacity: 1; }
+    }
+    .cell-bg-243 { animation: bg-c243 40s linear infinite; }
+    .cell-footprint-243 { animation: fp-c243 40s linear infinite; }
     @keyframes c244 {
-      0%, 65.4% { fill: #161b22; }
-      65.6%, 100% { fill: #161b22; }
-    }
-    .cell-244 { animation: c244 40s linear infinite; }
-    @keyframes c251 {
-      0%, 67.3% { fill: #161b22; }
-      67.5%, 100% { fill: #26a641; }
-    }
-    .cell-251 { animation: c251 40s linear infinite; }
-    @keyframes c250 {
-      0%, 67% { fill: #161b22; }
-      67.2%, 100% { fill: #0e4429; }
-    }
-    .cell-250 { animation: c250 40s linear infinite; }
-    @keyframes c249 {
-      0%, 66.7% { fill: #161b22; }
-      66.9%, 100% { fill: #0e4429; }
-    }
-    .cell-249 { animation: c249 40s linear infinite; }
-    @keyframes c248 {
-      0%, 66.5% { fill: #161b22; }
-      66.7%, 100% { fill: #0e4429; }
-    }
-    .cell-248 { animation: c248 40s linear infinite; }
-    @keyframes c247 {
-      0%, 66.2% { fill: #161b22; }
-      66.4%, 100% { fill: #161b22; }
-    }
-    .cell-247 { animation: c247 40s linear infinite; }
-    @keyframes c246 {
-      0%, 65.9% { fill: #161b22; }
-      66.1%, 100% { fill: #161b22; }
-    }
-    .cell-246 { animation: c246 40s linear infinite; }
-    @keyframes c245 {
       0%, 65.7% { fill: #161b22; }
       65.9%, 100% { fill: #161b22; }
     }
+    .cell-244 { animation: c244 40s linear infinite; }
+    @keyframes bg-c251 {
+      0%, 67.6% { opacity: 1; }
+      67.8%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c251 {
+      0%, 67.6% { opacity: 0; }
+      67.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-251 { animation: bg-c251 40s linear infinite; }
+    .cell-footprint-251 { animation: fp-c251 40s linear infinite; }
+    @keyframes bg-c250 {
+      0%, 67.3% { opacity: 1; }
+      67.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c250 {
+      0%, 67.3% { opacity: 0; }
+      67.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-250 { animation: bg-c250 40s linear infinite; }
+    .cell-footprint-250 { animation: fp-c250 40s linear infinite; }
+    @keyframes bg-c249 {
+      0%, 67.1% { opacity: 1; }
+      67.3%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c249 {
+      0%, 67.1% { opacity: 0; }
+      67.3%, 100% { opacity: 1; }
+    }
+    .cell-bg-249 { animation: bg-c249 40s linear infinite; }
+    .cell-footprint-249 { animation: fp-c249 40s linear infinite; }
+    @keyframes bg-c248 {
+      0%, 66.8% { opacity: 1; }
+      67%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c248 {
+      0%, 66.8% { opacity: 0; }
+      67%, 100% { opacity: 1; }
+    }
+    .cell-bg-248 { animation: bg-c248 40s linear infinite; }
+    .cell-footprint-248 { animation: fp-c248 40s linear infinite; }
+    @keyframes c247 {
+      0%, 66.5% { fill: #161b22; }
+      66.7%, 100% { fill: #161b22; }
+    }
+    .cell-247 { animation: c247 40s linear infinite; }
+    @keyframes c246 {
+      0%, 66.3% { fill: #161b22; }
+      66.5%, 100% { fill: #161b22; }
+    }
+    .cell-246 { animation: c246 40s linear infinite; }
+    @keyframes c245 {
+      0%, 66% { fill: #161b22; }
+      66.2%, 100% { fill: #161b22; }
+    }
     .cell-245 { animation: c245 40s linear infinite; }
     @keyframes c252 {
-      0%, 67.5% { fill: #161b22; }
-      67.7%, 100% { fill: #161b22; }
+      0%, 67.9% { fill: #161b22; }
+      68.1%, 100% { fill: #161b22; }
     }
     .cell-252 { animation: c252 40s linear infinite; }
-    @keyframes c253 {
-      0%, 67.8% { fill: #161b22; }
-      68%, 100% { fill: #0e4429; }
+    @keyframes bg-c253 {
+      0%, 68.1% { opacity: 1; }
+      68.3%, 100% { opacity: 0; }
     }
-    .cell-253 { animation: c253 40s linear infinite; }
+    @keyframes fp-c253 {
+      0%, 68.1% { opacity: 0; }
+      68.3%, 100% { opacity: 1; }
+    }
+    .cell-bg-253 { animation: bg-c253 40s linear infinite; }
+    .cell-footprint-253 { animation: fp-c253 40s linear infinite; }
     @keyframes c254 {
-      0%, 68.1% { fill: #161b22; }
-      68.3%, 100% { fill: #161b22; }
+      0%, 68.4% { fill: #161b22; }
+      68.6%, 100% { fill: #161b22; }
     }
     .cell-254 { animation: c254 40s linear infinite; }
     @keyframes c255 {
-      0%, 68.3% { fill: #161b22; }
-      68.5%, 100% { fill: #161b22; }
+      0%, 68.7% { fill: #161b22; }
+      68.9%, 100% { fill: #161b22; }
     }
     .cell-255 { animation: c255 40s linear infinite; }
-    @keyframes c256 {
-      0%, 68.6% { fill: #161b22; }
-      68.8%, 100% { fill: #0e4429; }
+    @keyframes bg-c256 {
+      0%, 68.9% { opacity: 1; }
+      69.1%, 100% { opacity: 0; }
     }
-    .cell-256 { animation: c256 40s linear infinite; }
-    @keyframes c257 {
-      0%, 68.9% { fill: #161b22; }
-      69.1%, 100% { fill: #0e4429; }
+    @keyframes fp-c256 {
+      0%, 68.9% { opacity: 0; }
+      69.1%, 100% { opacity: 1; }
     }
-    .cell-257 { animation: c257 40s linear infinite; }
+    .cell-bg-256 { animation: bg-c256 40s linear infinite; }
+    .cell-footprint-256 { animation: fp-c256 40s linear infinite; }
+    @keyframes bg-c257 {
+      0%, 69.2% { opacity: 1; }
+      69.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c257 {
+      0%, 69.2% { opacity: 0; }
+      69.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-257 { animation: bg-c257 40s linear infinite; }
+    .cell-footprint-257 { animation: fp-c257 40s linear infinite; }
     @keyframes c258 {
-      0%, 69.1% { fill: #161b22; }
-      69.3%, 100% { fill: #161b22; }
+      0%, 69.5% { fill: #161b22; }
+      69.7%, 100% { fill: #161b22; }
     }
     .cell-258 { animation: c258 40s linear infinite; }
     @keyframes c265 {
-      0%, 71% { fill: #161b22; }
-      71.2%, 100% { fill: #161b22; }
-    }
-    .cell-265 { animation: c265 40s linear infinite; }
-    @keyframes c264 {
-      0%, 70.7% { fill: #161b22; }
-      70.9%, 100% { fill: #0e4429; }
-    }
-    .cell-264 { animation: c264 40s linear infinite; }
-    @keyframes c263 {
-      0%, 70.5% { fill: #161b22; }
-      70.7%, 100% { fill: #0e4429; }
-    }
-    .cell-263 { animation: c263 40s linear infinite; }
-    @keyframes c262 {
-      0%, 70.2% { fill: #161b22; }
-      70.4%, 100% { fill: #161b22; }
-    }
-    .cell-262 { animation: c262 40s linear infinite; }
-    @keyframes c261 {
-      0%, 69.9% { fill: #161b22; }
-      70.1%, 100% { fill: #0e4429; }
-    }
-    .cell-261 { animation: c261 40s linear infinite; }
-    @keyframes c260 {
-      0%, 69.7% { fill: #161b22; }
-      69.9%, 100% { fill: #0e4429; }
-    }
-    .cell-260 { animation: c260 40s linear infinite; }
-    @keyframes c259 {
-      0%, 69.4% { fill: #161b22; }
-      69.6%, 100% { fill: #0e4429; }
-    }
-    .cell-259 { animation: c259 40s linear infinite; }
-    @keyframes c266 {
       0%, 71.3% { fill: #161b22; }
       71.5%, 100% { fill: #161b22; }
     }
+    .cell-265 { animation: c265 40s linear infinite; }
+    @keyframes bg-c264 {
+      0%, 71.1% { opacity: 1; }
+      71.3%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c264 {
+      0%, 71.1% { opacity: 0; }
+      71.3%, 100% { opacity: 1; }
+    }
+    .cell-bg-264 { animation: bg-c264 40s linear infinite; }
+    .cell-footprint-264 { animation: fp-c264 40s linear infinite; }
+    @keyframes bg-c263 {
+      0%, 70.8% { opacity: 1; }
+      71%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c263 {
+      0%, 70.8% { opacity: 0; }
+      71%, 100% { opacity: 1; }
+    }
+    .cell-bg-263 { animation: bg-c263 40s linear infinite; }
+    .cell-footprint-263 { animation: fp-c263 40s linear infinite; }
+    @keyframes c262 {
+      0%, 70.5% { fill: #161b22; }
+      70.7%, 100% { fill: #161b22; }
+    }
+    .cell-262 { animation: c262 40s linear infinite; }
+    @keyframes bg-c261 {
+      0%, 70.3% { opacity: 1; }
+      70.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c261 {
+      0%, 70.3% { opacity: 0; }
+      70.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-261 { animation: bg-c261 40s linear infinite; }
+    .cell-footprint-261 { animation: fp-c261 40s linear infinite; }
+    @keyframes bg-c260 {
+      0%, 70% { opacity: 1; }
+      70.2%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c260 {
+      0%, 70% { opacity: 0; }
+      70.2%, 100% { opacity: 1; }
+    }
+    .cell-bg-260 { animation: bg-c260 40s linear infinite; }
+    .cell-footprint-260 { animation: fp-c260 40s linear infinite; }
+    @keyframes bg-c259 {
+      0%, 69.7% { opacity: 1; }
+      69.9%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c259 {
+      0%, 69.7% { opacity: 0; }
+      69.9%, 100% { opacity: 1; }
+    }
+    .cell-bg-259 { animation: bg-c259 40s linear infinite; }
+    .cell-footprint-259 { animation: fp-c259 40s linear infinite; }
+    @keyframes c266 {
+      0%, 71.6% { fill: #161b22; }
+      71.8%, 100% { fill: #161b22; }
+    }
     .cell-266 { animation: c266 40s linear infinite; }
     @keyframes c267 {
-      0%, 71.5% { fill: #161b22; }
-      71.7%, 100% { fill: #161b22; }
+      0%, 71.9% { fill: #161b22; }
+      72.1%, 100% { fill: #161b22; }
     }
     .cell-267 { animation: c267 40s linear infinite; }
     @keyframes c268 {
-      0%, 71.8% { fill: #161b22; }
-      72%, 100% { fill: #161b22; }
-    }
-    .cell-268 { animation: c268 40s linear infinite; }
-    @keyframes c269 {
       0%, 72.1% { fill: #161b22; }
       72.3%, 100% { fill: #161b22; }
     }
+    .cell-268 { animation: c268 40s linear infinite; }
+    @keyframes c269 {
+      0%, 72.4% { fill: #161b22; }
+      72.6%, 100% { fill: #161b22; }
+    }
     .cell-269 { animation: c269 40s linear infinite; }
     @keyframes c270 {
-      0%, 72.3% { fill: #161b22; }
-      72.5%, 100% { fill: #161b22; }
+      0%, 72.7% { fill: #161b22; }
+      72.9%, 100% { fill: #161b22; }
     }
     .cell-270 { animation: c270 40s linear infinite; }
-    @keyframes c271 {
-      0%, 72.6% { fill: #161b22; }
-      72.8%, 100% { fill: #0e4429; }
+    @keyframes bg-c271 {
+      0%, 72.9% { opacity: 1; }
+      73.1%, 100% { opacity: 0; }
     }
-    .cell-271 { animation: c271 40s linear infinite; }
+    @keyframes fp-c271 {
+      0%, 72.9% { opacity: 0; }
+      73.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-271 { animation: bg-c271 40s linear infinite; }
+    .cell-footprint-271 { animation: fp-c271 40s linear infinite; }
     @keyframes c272 {
-      0%, 72.9% { fill: #161b22; }
-      73.1%, 100% { fill: #161b22; }
+      0%, 73.2% { fill: #161b22; }
+      73.4%, 100% { fill: #161b22; }
     }
     .cell-272 { animation: c272 40s linear infinite; }
     @keyframes c279 {
-      0%, 74.7% { fill: #161b22; }
-      74.9%, 100% { fill: #161b22; }
+      0%, 75.1% { fill: #161b22; }
+      75.3%, 100% { fill: #161b22; }
     }
     .cell-279 { animation: c279 40s linear infinite; }
     @keyframes c278 {
-      0%, 74.5% { fill: #161b22; }
-      74.7%, 100% { fill: #161b22; }
+      0%, 74.8% { fill: #161b22; }
+      75%, 100% { fill: #161b22; }
     }
     .cell-278 { animation: c278 40s linear infinite; }
-    @keyframes c277 {
-      0%, 74.2% { fill: #161b22; }
-      74.4%, 100% { fill: #0e4429; }
+    @keyframes bg-c277 {
+      0%, 74.5% { opacity: 1; }
+      74.7%, 100% { opacity: 0; }
     }
-    .cell-277 { animation: c277 40s linear infinite; }
-    @keyframes c276 {
-      0%, 73.9% { fill: #161b22; }
-      74.1%, 100% { fill: #006d32; }
+    @keyframes fp-c277 {
+      0%, 74.5% { opacity: 0; }
+      74.7%, 100% { opacity: 1; }
     }
-    .cell-276 { animation: c276 40s linear infinite; }
+    .cell-bg-277 { animation: bg-c277 40s linear infinite; }
+    .cell-footprint-277 { animation: fp-c277 40s linear infinite; }
+    @keyframes bg-c276 {
+      0%, 74.3% { opacity: 1; }
+      74.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c276 {
+      0%, 74.3% { opacity: 0; }
+      74.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-276 { animation: bg-c276 40s linear infinite; }
+    .cell-footprint-276 { animation: fp-c276 40s linear infinite; }
     @keyframes c275 {
-      0%, 73.7% { fill: #161b22; }
-      73.9%, 100% { fill: #161b22; }
+      0%, 74% { fill: #161b22; }
+      74.2%, 100% { fill: #161b22; }
     }
     .cell-275 { animation: c275 40s linear infinite; }
     @keyframes c274 {
-      0%, 73.4% { fill: #161b22; }
-      73.6%, 100% { fill: #161b22; }
+      0%, 73.7% { fill: #161b22; }
+      73.9%, 100% { fill: #161b22; }
     }
     .cell-274 { animation: c274 40s linear infinite; }
     @keyframes c273 {
-      0%, 73.1% { fill: #161b22; }
-      73.3%, 100% { fill: #161b22; }
+      0%, 73.5% { fill: #161b22; }
+      73.7%, 100% { fill: #161b22; }
     }
     .cell-273 { animation: c273 40s linear infinite; }
     @keyframes c280 {
-      0%, 75% { fill: #161b22; }
-      75.2%, 100% { fill: #161b22; }
-    }
-    .cell-280 { animation: c280 40s linear infinite; }
-    @keyframes c281 {
       0%, 75.3% { fill: #161b22; }
       75.5%, 100% { fill: #161b22; }
     }
+    .cell-280 { animation: c280 40s linear infinite; }
+    @keyframes c281 {
+      0%, 75.6% { fill: #161b22; }
+      75.8%, 100% { fill: #161b22; }
+    }
     .cell-281 { animation: c281 40s linear infinite; }
     @keyframes c282 {
-      0%, 75.5% { fill: #161b22; }
-      75.7%, 100% { fill: #161b22; }
+      0%, 75.9% { fill: #161b22; }
+      76.1%, 100% { fill: #161b22; }
     }
     .cell-282 { animation: c282 40s linear infinite; }
     @keyframes c283 {
-      0%, 75.8% { fill: #161b22; }
-      76%, 100% { fill: #161b22; }
-    }
-    .cell-283 { animation: c283 40s linear infinite; }
-    @keyframes c284 {
       0%, 76.1% { fill: #161b22; }
       76.3%, 100% { fill: #161b22; }
     }
+    .cell-283 { animation: c283 40s linear infinite; }
+    @keyframes c284 {
+      0%, 76.4% { fill: #161b22; }
+      76.6%, 100% { fill: #161b22; }
+    }
     .cell-284 { animation: c284 40s linear infinite; }
     @keyframes c285 {
-      0%, 76.3% { fill: #161b22; }
-      76.5%, 100% { fill: #161b22; }
+      0%, 76.7% { fill: #161b22; }
+      76.9%, 100% { fill: #161b22; }
     }
     .cell-285 { animation: c285 40s linear infinite; }
     @keyframes c286 {
-      0%, 76.6% { fill: #161b22; }
-      76.8%, 100% { fill: #161b22; }
-    }
-    .cell-286 { animation: c286 40s linear infinite; }
-    @keyframes c293 {
-      0%, 78.5% { fill: #161b22; }
-      78.7%, 100% { fill: #161b22; }
-    }
-    .cell-293 { animation: c293 40s linear infinite; }
-    @keyframes c292 {
-      0%, 78.2% { fill: #161b22; }
-      78.4%, 100% { fill: #161b22; }
-    }
-    .cell-292 { animation: c292 40s linear infinite; }
-    @keyframes c291 {
-      0%, 77.9% { fill: #161b22; }
-      78.1%, 100% { fill: #161b22; }
-    }
-    .cell-291 { animation: c291 40s linear infinite; }
-    @keyframes c290 {
-      0%, 77.7% { fill: #161b22; }
-      77.9%, 100% { fill: #161b22; }
-    }
-    .cell-290 { animation: c290 40s linear infinite; }
-    @keyframes c289 {
-      0%, 77.4% { fill: #161b22; }
-      77.6%, 100% { fill: #161b22; }
-    }
-    .cell-289 { animation: c289 40s linear infinite; }
-    @keyframes c288 {
-      0%, 77.1% { fill: #161b22; }
-      77.3%, 100% { fill: #161b22; }
-    }
-    .cell-288 { animation: c288 40s linear infinite; }
-    @keyframes c287 {
       0%, 76.9% { fill: #161b22; }
       77.1%, 100% { fill: #161b22; }
     }
-    .cell-287 { animation: c287 40s linear infinite; }
-    @keyframes c294 {
+    .cell-286 { animation: c286 40s linear infinite; }
+    @keyframes c293 {
       0%, 78.8% { fill: #161b22; }
       79%, 100% { fill: #161b22; }
     }
+    .cell-293 { animation: c293 40s linear infinite; }
+    @keyframes c292 {
+      0%, 78.6% { fill: #161b22; }
+      78.8%, 100% { fill: #161b22; }
+    }
+    .cell-292 { animation: c292 40s linear infinite; }
+    @keyframes c291 {
+      0%, 78.3% { fill: #161b22; }
+      78.5%, 100% { fill: #161b22; }
+    }
+    .cell-291 { animation: c291 40s linear infinite; }
+    @keyframes c290 {
+      0%, 78% { fill: #161b22; }
+      78.2%, 100% { fill: #161b22; }
+    }
+    .cell-290 { animation: c290 40s linear infinite; }
+    @keyframes c289 {
+      0%, 77.8% { fill: #161b22; }
+      78%, 100% { fill: #161b22; }
+    }
+    .cell-289 { animation: c289 40s linear infinite; }
+    @keyframes c288 {
+      0%, 77.5% { fill: #161b22; }
+      77.7%, 100% { fill: #161b22; }
+    }
+    .cell-288 { animation: c288 40s linear infinite; }
+    @keyframes c287 {
+      0%, 77.2% { fill: #161b22; }
+      77.4%, 100% { fill: #161b22; }
+    }
+    .cell-287 { animation: c287 40s linear infinite; }
+    @keyframes c294 {
+      0%, 79.1% { fill: #161b22; }
+      79.3%, 100% { fill: #161b22; }
+    }
     .cell-294 { animation: c294 40s linear infinite; }
     @keyframes c295 {
-      0%, 79% { fill: #161b22; }
-      79.2%, 100% { fill: #161b22; }
+      0%, 79.4% { fill: #161b22; }
+      79.6%, 100% { fill: #161b22; }
     }
     .cell-295 { animation: c295 40s linear infinite; }
     @keyframes c296 {
-      0%, 79.3% { fill: #161b22; }
-      79.5%, 100% { fill: #161b22; }
-    }
-    .cell-296 { animation: c296 40s linear infinite; }
-    @keyframes c297 {
       0%, 79.6% { fill: #161b22; }
       79.8%, 100% { fill: #161b22; }
     }
+    .cell-296 { animation: c296 40s linear infinite; }
+    @keyframes c297 {
+      0%, 79.9% { fill: #161b22; }
+      80.1%, 100% { fill: #161b22; }
+    }
     .cell-297 { animation: c297 40s linear infinite; }
     @keyframes c298 {
-      0%, 79.8% { fill: #161b22; }
-      80%, 100% { fill: #161b22; }
+      0%, 80.2% { fill: #161b22; }
+      80.4%, 100% { fill: #161b22; }
     }
     .cell-298 { animation: c298 40s linear infinite; }
     @keyframes c299 {
-      0%, 80.1% { fill: #161b22; }
-      80.3%, 100% { fill: #161b22; }
-    }
-    .cell-299 { animation: c299 40s linear infinite; }
-    @keyframes c300 {
       0%, 80.4% { fill: #161b22; }
       80.6%, 100% { fill: #161b22; }
     }
+    .cell-299 { animation: c299 40s linear infinite; }
+    @keyframes c300 {
+      0%, 80.7% { fill: #161b22; }
+      80.9%, 100% { fill: #161b22; }
+    }
     .cell-300 { animation: c300 40s linear infinite; }
     @keyframes c307 {
-      0%, 82.2% { fill: #161b22; }
-      82.4%, 100% { fill: #161b22; }
+      0%, 82.6% { fill: #161b22; }
+      82.8%, 100% { fill: #161b22; }
     }
     .cell-307 { animation: c307 40s linear infinite; }
     @keyframes c306 {
-      0%, 82% { fill: #161b22; }
-      82.2%, 100% { fill: #161b22; }
+      0%, 82.3% { fill: #161b22; }
+      82.5%, 100% { fill: #161b22; }
     }
     .cell-306 { animation: c306 40s linear infinite; }
     @keyframes c305 {
-      0%, 81.7% { fill: #161b22; }
-      81.9%, 100% { fill: #161b22; }
+      0%, 82% { fill: #161b22; }
+      82.2%, 100% { fill: #161b22; }
     }
     .cell-305 { animation: c305 40s linear infinite; }
     @keyframes c304 {
-      0%, 81.4% { fill: #161b22; }
-      81.6%, 100% { fill: #161b22; }
+      0%, 81.8% { fill: #161b22; }
+      82%, 100% { fill: #161b22; }
     }
     .cell-304 { animation: c304 40s linear infinite; }
     @keyframes c303 {
-      0%, 81.2% { fill: #161b22; }
-      81.4%, 100% { fill: #161b22; }
+      0%, 81.5% { fill: #161b22; }
+      81.7%, 100% { fill: #161b22; }
     }
     .cell-303 { animation: c303 40s linear infinite; }
-    @keyframes c302 {
-      0%, 80.9% { fill: #161b22; }
-      81.1%, 100% { fill: #006d32; }
+    @keyframes bg-c302 {
+      0%, 81.2% { opacity: 1; }
+      81.4%, 100% { opacity: 0; }
     }
-    .cell-302 { animation: c302 40s linear infinite; }
+    @keyframes fp-c302 {
+      0%, 81.2% { opacity: 0; }
+      81.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-302 { animation: bg-c302 40s linear infinite; }
+    .cell-footprint-302 { animation: fp-c302 40s linear infinite; }
     @keyframes c301 {
-      0%, 80.6% { fill: #161b22; }
-      80.8%, 100% { fill: #161b22; }
+      0%, 81% { fill: #161b22; }
+      81.2%, 100% { fill: #161b22; }
     }
     .cell-301 { animation: c301 40s linear infinite; }
     @keyframes c308 {
-      0%, 82.5% { fill: #161b22; }
-      82.7%, 100% { fill: #161b22; }
-    }
-    .cell-308 { animation: c308 40s linear infinite; }
-    @keyframes c309 {
       0%, 82.8% { fill: #161b22; }
       83%, 100% { fill: #161b22; }
     }
+    .cell-308 { animation: c308 40s linear infinite; }
+    @keyframes c309 {
+      0%, 83.1% { fill: #161b22; }
+      83.3%, 100% { fill: #161b22; }
+    }
     .cell-309 { animation: c309 40s linear infinite; }
     @keyframes c310 {
-      0%, 83% { fill: #161b22; }
-      83.2%, 100% { fill: #161b22; }
+      0%, 83.4% { fill: #161b22; }
+      83.6%, 100% { fill: #161b22; }
     }
     .cell-310 { animation: c310 40s linear infinite; }
-    @keyframes c311 {
-      0%, 83.3% { fill: #161b22; }
-      83.5%, 100% { fill: #0e4429; }
+    @keyframes bg-c311 {
+      0%, 83.6% { opacity: 1; }
+      83.8%, 100% { opacity: 0; }
     }
-    .cell-311 { animation: c311 40s linear infinite; }
+    @keyframes fp-c311 {
+      0%, 83.6% { opacity: 0; }
+      83.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-311 { animation: bg-c311 40s linear infinite; }
+    .cell-footprint-311 { animation: fp-c311 40s linear infinite; }
     @keyframes c312 {
-      0%, 83.6% { fill: #161b22; }
-      83.8%, 100% { fill: #161b22; }
+      0%, 83.9% { fill: #161b22; }
+      84.1%, 100% { fill: #161b22; }
     }
     .cell-312 { animation: c312 40s linear infinite; }
-    @keyframes c313 {
-      0%, 83.8% { fill: #161b22; }
-      84%, 100% { fill: #006d32; }
+    @keyframes bg-c313 {
+      0%, 84.2% { opacity: 1; }
+      84.4%, 100% { opacity: 0; }
     }
-    .cell-313 { animation: c313 40s linear infinite; }
+    @keyframes fp-c313 {
+      0%, 84.2% { opacity: 0; }
+      84.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-313 { animation: bg-c313 40s linear infinite; }
+    .cell-footprint-313 { animation: fp-c313 40s linear infinite; }
     @keyframes c314 {
-      0%, 84.1% { fill: #161b22; }
-      84.3%, 100% { fill: #161b22; }
-    }
-    .cell-314 { animation: c314 40s linear infinite; }
-    @keyframes c321 {
-      0%, 86% { fill: #161b22; }
-      86.2%, 100% { fill: #26a641; }
-    }
-    .cell-321 { animation: c321 40s linear infinite; }
-    @keyframes c320 {
-      0%, 85.7% { fill: #161b22; }
-      85.9%, 100% { fill: #26a641; }
-    }
-    .cell-320 { animation: c320 40s linear infinite; }
-    @keyframes c319 {
-      0%, 85.4% { fill: #161b22; }
-      85.6%, 100% { fill: #006d32; }
-    }
-    .cell-319 { animation: c319 40s linear infinite; }
-    @keyframes c318 {
-      0%, 85.2% { fill: #161b22; }
-      85.4%, 100% { fill: #39d353; }
-    }
-    .cell-318 { animation: c318 40s linear infinite; }
-    @keyframes c317 {
-      0%, 84.9% { fill: #161b22; }
-      85.1%, 100% { fill: #0e4429; }
-    }
-    .cell-317 { animation: c317 40s linear infinite; }
-    @keyframes c316 {
-      0%, 84.6% { fill: #161b22; }
-      84.8%, 100% { fill: #161b22; }
-    }
-    .cell-316 { animation: c316 40s linear infinite; }
-    @keyframes c315 {
       0%, 84.4% { fill: #161b22; }
       84.6%, 100% { fill: #161b22; }
     }
+    .cell-314 { animation: c314 40s linear infinite; }
+    @keyframes bg-c321 {
+      0%, 86.3% { opacity: 1; }
+      86.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c321 {
+      0%, 86.3% { opacity: 0; }
+      86.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-321 { animation: bg-c321 40s linear infinite; }
+    .cell-footprint-321 { animation: fp-c321 40s linear infinite; }
+    @keyframes bg-c320 {
+      0%, 86% { opacity: 1; }
+      86.2%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c320 {
+      0%, 86% { opacity: 0; }
+      86.2%, 100% { opacity: 1; }
+    }
+    .cell-bg-320 { animation: bg-c320 40s linear infinite; }
+    .cell-footprint-320 { animation: fp-c320 40s linear infinite; }
+    @keyframes bg-c319 {
+      0%, 85.8% { opacity: 1; }
+      86%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c319 {
+      0%, 85.8% { opacity: 0; }
+      86%, 100% { opacity: 1; }
+    }
+    .cell-bg-319 { animation: bg-c319 40s linear infinite; }
+    .cell-footprint-319 { animation: fp-c319 40s linear infinite; }
+    @keyframes bg-c318 {
+      0%, 85.5% { opacity: 1; }
+      85.7%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c318 {
+      0%, 85.5% { opacity: 0; }
+      85.7%, 100% { opacity: 1; }
+    }
+    .cell-bg-318 { animation: bg-c318 40s linear infinite; }
+    .cell-footprint-318 { animation: fp-c318 40s linear infinite; }
+    @keyframes bg-c317 {
+      0%, 85.2% { opacity: 1; }
+      85.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c317 {
+      0%, 85.2% { opacity: 0; }
+      85.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-317 { animation: bg-c317 40s linear infinite; }
+    .cell-footprint-317 { animation: fp-c317 40s linear infinite; }
+    @keyframes c316 {
+      0%, 85% { fill: #161b22; }
+      85.2%, 100% { fill: #161b22; }
+    }
+    .cell-316 { animation: c316 40s linear infinite; }
+    @keyframes c315 {
+      0%, 84.7% { fill: #161b22; }
+      84.9%, 100% { fill: #161b22; }
+    }
     .cell-315 { animation: c315 40s linear infinite; }
-    @keyframes c322 {
-      0%, 86.2% { fill: #161b22; }
-      86.4%, 100% { fill: #0e4429; }
+    @keyframes bg-c322 {
+      0%, 86.6% { opacity: 1; }
+      86.8%, 100% { opacity: 0; }
     }
-    .cell-322 { animation: c322 40s linear infinite; }
-    @keyframes c323 {
-      0%, 86.5% { fill: #161b22; }
-      86.7%, 100% { fill: #006d32; }
+    @keyframes fp-c322 {
+      0%, 86.6% { opacity: 0; }
+      86.8%, 100% { opacity: 1; }
     }
-    .cell-323 { animation: c323 40s linear infinite; }
+    .cell-bg-322 { animation: bg-c322 40s linear infinite; }
+    .cell-footprint-322 { animation: fp-c322 40s linear infinite; }
+    @keyframes bg-c323 {
+      0%, 86.8% { opacity: 1; }
+      87%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c323 {
+      0%, 86.8% { opacity: 0; }
+      87%, 100% { opacity: 1; }
+    }
+    .cell-bg-323 { animation: bg-c323 40s linear infinite; }
+    .cell-footprint-323 { animation: fp-c323 40s linear infinite; }
     @keyframes c324 {
-      0%, 86.8% { fill: #161b22; }
-      87%, 100% { fill: #161b22; }
+      0%, 87.1% { fill: #161b22; }
+      87.3%, 100% { fill: #161b22; }
     }
     .cell-324 { animation: c324 40s linear infinite; }
-    @keyframes c325 {
-      0%, 87% { fill: #161b22; }
-      87.2%, 100% { fill: #26a641; }
+    @keyframes bg-c325 {
+      0%, 87.4% { opacity: 1; }
+      87.6%, 100% { opacity: 0; }
     }
-    .cell-325 { animation: c325 40s linear infinite; }
-    @keyframes c326 {
-      0%, 87.3% { fill: #161b22; }
-      87.5%, 100% { fill: #26a641; }
+    @keyframes fp-c325 {
+      0%, 87.4% { opacity: 0; }
+      87.6%, 100% { opacity: 1; }
     }
-    .cell-326 { animation: c326 40s linear infinite; }
-    @keyframes c327 {
-      0%, 87.6% { fill: #161b22; }
-      87.8%, 100% { fill: #26a641; }
+    .cell-bg-325 { animation: bg-c325 40s linear infinite; }
+    .cell-footprint-325 { animation: fp-c325 40s linear infinite; }
+    @keyframes bg-c326 {
+      0%, 87.6% { opacity: 1; }
+      87.8%, 100% { opacity: 0; }
     }
-    .cell-327 { animation: c327 40s linear infinite; }
-    @keyframes c328 {
-      0%, 87.8% { fill: #161b22; }
-      88%, 100% { fill: #006d32; }
+    @keyframes fp-c326 {
+      0%, 87.6% { opacity: 0; }
+      87.8%, 100% { opacity: 1; }
     }
-    .cell-328 { animation: c328 40s linear infinite; }
+    .cell-bg-326 { animation: bg-c326 40s linear infinite; }
+    .cell-footprint-326 { animation: fp-c326 40s linear infinite; }
+    @keyframes bg-c327 {
+      0%, 87.9% { opacity: 1; }
+      88.1%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c327 {
+      0%, 87.9% { opacity: 0; }
+      88.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-327 { animation: bg-c327 40s linear infinite; }
+    .cell-footprint-327 { animation: fp-c327 40s linear infinite; }
+    @keyframes bg-c328 {
+      0%, 88.2% { opacity: 1; }
+      88.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c328 {
+      0%, 88.2% { opacity: 0; }
+      88.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-328 { animation: bg-c328 40s linear infinite; }
+    .cell-footprint-328 { animation: fp-c328 40s linear infinite; }
     @keyframes c335 {
-      0%, 89.7% { fill: #161b22; }
-      89.9%, 100% { fill: #161b22; }
-    }
-    .cell-335 { animation: c335 40s linear infinite; }
-    @keyframes c334 {
-      0%, 89.4% { fill: #161b22; }
-      89.6%, 100% { fill: #0e4429; }
-    }
-    .cell-334 { animation: c334 40s linear infinite; }
-    @keyframes c333 {
-      0%, 89.2% { fill: #161b22; }
-      89.4%, 100% { fill: #006d32; }
-    }
-    .cell-333 { animation: c333 40s linear infinite; }
-    @keyframes c332 {
-      0%, 88.9% { fill: #161b22; }
-      89.1%, 100% { fill: #26a641; }
-    }
-    .cell-332 { animation: c332 40s linear infinite; }
-    @keyframes c331 {
-      0%, 88.6% { fill: #161b22; }
-      88.8%, 100% { fill: #161b22; }
-    }
-    .cell-331 { animation: c331 40s linear infinite; }
-    @keyframes c330 {
-      0%, 88.4% { fill: #161b22; }
-      88.6%, 100% { fill: #161b22; }
-    }
-    .cell-330 { animation: c330 40s linear infinite; }
-    @keyframes c329 {
-      0%, 88.1% { fill: #161b22; }
-      88.3%, 100% { fill: #161b22; }
-    }
-    .cell-329 { animation: c329 40s linear infinite; }
-    @keyframes c336 {
       0%, 90% { fill: #161b22; }
       90.2%, 100% { fill: #161b22; }
     }
+    .cell-335 { animation: c335 40s linear infinite; }
+    @keyframes bg-c334 {
+      0%, 89.8% { opacity: 1; }
+      90%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c334 {
+      0%, 89.8% { opacity: 0; }
+      90%, 100% { opacity: 1; }
+    }
+    .cell-bg-334 { animation: bg-c334 40s linear infinite; }
+    .cell-footprint-334 { animation: fp-c334 40s linear infinite; }
+    @keyframes bg-c333 {
+      0%, 89.5% { opacity: 1; }
+      89.7%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c333 {
+      0%, 89.5% { opacity: 0; }
+      89.7%, 100% { opacity: 1; }
+    }
+    .cell-bg-333 { animation: bg-c333 40s linear infinite; }
+    .cell-footprint-333 { animation: fp-c333 40s linear infinite; }
+    @keyframes bg-c332 {
+      0%, 89.2% { opacity: 1; }
+      89.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c332 {
+      0%, 89.2% { opacity: 0; }
+      89.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-332 { animation: bg-c332 40s linear infinite; }
+    .cell-footprint-332 { animation: fp-c332 40s linear infinite; }
+    @keyframes c331 {
+      0%, 89% { fill: #161b22; }
+      89.2%, 100% { fill: #161b22; }
+    }
+    .cell-331 { animation: c331 40s linear infinite; }
+    @keyframes c330 {
+      0%, 88.7% { fill: #161b22; }
+      88.9%, 100% { fill: #161b22; }
+    }
+    .cell-330 { animation: c330 40s linear infinite; }
+    @keyframes c329 {
+      0%, 88.4% { fill: #161b22; }
+      88.6%, 100% { fill: #161b22; }
+    }
+    .cell-329 { animation: c329 40s linear infinite; }
+    @keyframes c336 {
+      0%, 90.3% { fill: #161b22; }
+      90.5%, 100% { fill: #161b22; }
+    }
     .cell-336 { animation: c336 40s linear infinite; }
-    @keyframes c337 {
-      0%, 90.2% { fill: #161b22; }
-      90.4%, 100% { fill: #0e4429; }
+    @keyframes bg-c337 {
+      0%, 90.6% { opacity: 1; }
+      90.8%, 100% { opacity: 0; }
     }
-    .cell-337 { animation: c337 40s linear infinite; }
-    @keyframes c338 {
-      0%, 90.5% { fill: #161b22; }
-      90.7%, 100% { fill: #006d32; }
+    @keyframes fp-c337 {
+      0%, 90.6% { opacity: 0; }
+      90.8%, 100% { opacity: 1; }
     }
-    .cell-338 { animation: c338 40s linear infinite; }
+    .cell-bg-337 { animation: bg-c337 40s linear infinite; }
+    .cell-footprint-337 { animation: fp-c337 40s linear infinite; }
+    @keyframes bg-c338 {
+      0%, 90.8% { opacity: 1; }
+      91%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c338 {
+      0%, 90.8% { opacity: 0; }
+      91%, 100% { opacity: 1; }
+    }
+    .cell-bg-338 { animation: bg-c338 40s linear infinite; }
+    .cell-footprint-338 { animation: fp-c338 40s linear infinite; }
     @keyframes c339 {
-      0%, 90.8% { fill: #161b22; }
-      91%, 100% { fill: #161b22; }
+      0%, 91.1% { fill: #161b22; }
+      91.3%, 100% { fill: #161b22; }
     }
     .cell-339 { animation: c339 40s linear infinite; }
-    @keyframes c340 {
-      0%, 91% { fill: #161b22; }
-      91.2%, 100% { fill: #006d32; }
+    @keyframes bg-c340 {
+      0%, 91.4% { opacity: 1; }
+      91.6%, 100% { opacity: 0; }
     }
-    .cell-340 { animation: c340 40s linear infinite; }
+    @keyframes fp-c340 {
+      0%, 91.4% { opacity: 0; }
+      91.6%, 100% { opacity: 1; }
+    }
+    .cell-bg-340 { animation: bg-c340 40s linear infinite; }
+    .cell-footprint-340 { animation: fp-c340 40s linear infinite; }
     @keyframes c341 {
-      0%, 91.3% { fill: #161b22; }
-      91.5%, 100% { fill: #161b22; }
+      0%, 91.6% { fill: #161b22; }
+      91.8%, 100% { fill: #161b22; }
     }
     .cell-341 { animation: c341 40s linear infinite; }
-    @keyframes c342 {
-      0%, 91.6% { fill: #161b22; }
-      91.8%, 100% { fill: #26a641; }
+    @keyframes bg-c342 {
+      0%, 91.9% { opacity: 1; }
+      92.1%, 100% { opacity: 0; }
     }
-    .cell-342 { animation: c342 40s linear infinite; }
-    @keyframes c349 {
-      0%, 93.4% { fill: #161b22; }
-      93.6%, 100% { fill: #006d32; }
+    @keyframes fp-c342 {
+      0%, 91.9% { opacity: 0; }
+      92.1%, 100% { opacity: 1; }
     }
-    .cell-349 { animation: c349 40s linear infinite; }
+    .cell-bg-342 { animation: bg-c342 40s linear infinite; }
+    .cell-footprint-342 { animation: fp-c342 40s linear infinite; }
+    @keyframes bg-c349 {
+      0%, 93.8% { opacity: 1; }
+      94%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c349 {
+      0%, 93.8% { opacity: 0; }
+      94%, 100% { opacity: 1; }
+    }
+    .cell-bg-349 { animation: bg-c349 40s linear infinite; }
+    .cell-footprint-349 { animation: fp-c349 40s linear infinite; }
     @keyframes c348 {
-      0%, 93.2% { fill: #161b22; }
-      93.4%, 100% { fill: #161b22; }
+      0%, 93.5% { fill: #161b22; }
+      93.7%, 100% { fill: #161b22; }
     }
     .cell-348 { animation: c348 40s linear infinite; }
-    @keyframes c347 {
-      0%, 92.9% { fill: #161b22; }
-      93.1%, 100% { fill: #006d32; }
+    @keyframes bg-c347 {
+      0%, 93.2% { opacity: 1; }
+      93.4%, 100% { opacity: 0; }
     }
-    .cell-347 { animation: c347 40s linear infinite; }
-    @keyframes c346 {
-      0%, 92.6% { fill: #161b22; }
-      92.8%, 100% { fill: #39d353; }
+    @keyframes fp-c347 {
+      0%, 93.2% { opacity: 0; }
+      93.4%, 100% { opacity: 1; }
     }
-    .cell-346 { animation: c346 40s linear infinite; }
+    .cell-bg-347 { animation: bg-c347 40s linear infinite; }
+    .cell-footprint-347 { animation: fp-c347 40s linear infinite; }
+    @keyframes bg-c346 {
+      0%, 93% { opacity: 1; }
+      93.2%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c346 {
+      0%, 93% { opacity: 0; }
+      93.2%, 100% { opacity: 1; }
+    }
+    .cell-bg-346 { animation: bg-c346 40s linear infinite; }
+    .cell-footprint-346 { animation: fp-c346 40s linear infinite; }
     @keyframes c345 {
-      0%, 92.4% { fill: #161b22; }
-      92.6%, 100% { fill: #161b22; }
+      0%, 92.7% { fill: #161b22; }
+      92.9%, 100% { fill: #161b22; }
     }
     .cell-345 { animation: c345 40s linear infinite; }
     @keyframes c344 {
-      0%, 92.1% { fill: #161b22; }
-      92.3%, 100% { fill: #161b22; }
+      0%, 92.4% { fill: #161b22; }
+      92.6%, 100% { fill: #161b22; }
     }
     .cell-344 { animation: c344 40s linear infinite; }
     @keyframes c343 {
-      0%, 91.8% { fill: #161b22; }
-      92%, 100% { fill: #161b22; }
+      0%, 92.2% { fill: #161b22; }
+      92.4%, 100% { fill: #161b22; }
     }
     .cell-343 { animation: c343 40s linear infinite; }
-    @keyframes c350 {
-      0%, 93.7% { fill: #161b22; }
-      93.9%, 100% { fill: #39d353; }
+    @keyframes bg-c350 {
+      0%, 94% { opacity: 1; }
+      94.2%, 100% { opacity: 0; }
     }
-    .cell-350 { animation: c350 40s linear infinite; }
-    @keyframes c351 {
-      0%, 94% { fill: #161b22; }
-      94.2%, 100% { fill: #0e4429; }
+    @keyframes fp-c350 {
+      0%, 94% { opacity: 0; }
+      94.2%, 100% { opacity: 1; }
     }
-    .cell-351 { animation: c351 40s linear infinite; }
+    .cell-bg-350 { animation: bg-c350 40s linear infinite; }
+    .cell-footprint-350 { animation: fp-c350 40s linear infinite; }
+    @keyframes bg-c351 {
+      0%, 94.3% { opacity: 1; }
+      94.5%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c351 {
+      0%, 94.3% { opacity: 0; }
+      94.5%, 100% { opacity: 1; }
+    }
+    .cell-bg-351 { animation: bg-c351 40s linear infinite; }
+    .cell-footprint-351 { animation: fp-c351 40s linear infinite; }
     @keyframes c352 {
-      0%, 94.2% { fill: #161b22; }
-      94.4%, 100% { fill: #161b22; }
+      0%, 94.6% { fill: #161b22; }
+      94.8%, 100% { fill: #161b22; }
     }
     .cell-352 { animation: c352 40s linear infinite; }
     @keyframes c353 {
-      0%, 94.5% { fill: #161b22; }
-      94.7%, 100% { fill: #161b22; }
+      0%, 94.8% { fill: #161b22; }
+      95%, 100% { fill: #161b22; }
     }
     .cell-353 { animation: c353 40s linear infinite; }
-    @keyframes c354 {
-      0%, 94.8% { fill: #161b22; }
-      95%, 100% { fill: #006d32; }
+    @keyframes bg-c354 {
+      0%, 95.1% { opacity: 1; }
+      95.3%, 100% { opacity: 0; }
     }
-    .cell-354 { animation: c354 40s linear infinite; }
-    @keyframes c355 {
-      0%, 95% { fill: #161b22; }
-      95.2%, 100% { fill: #39d353; }
+    @keyframes fp-c354 {
+      0%, 95.1% { opacity: 0; }
+      95.3%, 100% { opacity: 1; }
     }
-    .cell-355 { animation: c355 40s linear infinite; }
+    .cell-bg-354 { animation: bg-c354 40s linear infinite; }
+    .cell-footprint-354 { animation: fp-c354 40s linear infinite; }
+    @keyframes bg-c355 {
+      0%, 95.4% { opacity: 1; }
+      95.6%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c355 {
+      0%, 95.4% { opacity: 0; }
+      95.6%, 100% { opacity: 1; }
+    }
+    .cell-bg-355 { animation: bg-c355 40s linear infinite; }
+    .cell-footprint-355 { animation: fp-c355 40s linear infinite; }
     @keyframes c356 {
-      0%, 95.3% { fill: #161b22; }
-      95.5%, 100% { fill: #161b22; }
+      0%, 95.6% { fill: #161b22; }
+      95.8%, 100% { fill: #161b22; }
     }
     .cell-356 { animation: c356 40s linear infinite; }
     @keyframes c363 {
-      0%, 97.2% { fill: #161b22; }
-      97.4%, 100% { fill: #161b22; }
+      0%, 97.5% { fill: #161b22; }
+      97.7%, 100% { fill: #161b22; }
     }
     .cell-363 { animation: c363 40s linear infinite; }
     @keyframes c362 {
-      0%, 96.9% { fill: #161b22; }
-      97.1%, 100% { fill: #161b22; }
+      0%, 97.2% { fill: #161b22; }
+      97.4%, 100% { fill: #161b22; }
     }
     .cell-362 { animation: c362 40s linear infinite; }
     @keyframes c361 {
-      0%, 96.6% { fill: #161b22; }
-      96.8%, 100% { fill: #161b22; }
+      0%, 97% { fill: #161b22; }
+      97.2%, 100% { fill: #161b22; }
     }
     .cell-361 { animation: c361 40s linear infinite; }
-    @keyframes c360 {
-      0%, 96.4% { fill: #161b22; }
-      96.6%, 100% { fill: #0e4429; }
+    @keyframes bg-c360 {
+      0%, 96.7% { opacity: 1; }
+      96.9%, 100% { opacity: 0; }
     }
-    .cell-360 { animation: c360 40s linear infinite; }
-    @keyframes c359 {
-      0%, 96.1% { fill: #161b22; }
-      96.3%, 100% { fill: #0e4429; }
+    @keyframes fp-c360 {
+      0%, 96.7% { opacity: 0; }
+      96.9%, 100% { opacity: 1; }
     }
-    .cell-359 { animation: c359 40s linear infinite; }
-    @keyframes c358 {
-      0%, 95.8% { fill: #161b22; }
-      96%, 100% { fill: #39d353; }
+    .cell-bg-360 { animation: bg-c360 40s linear infinite; }
+    .cell-footprint-360 { animation: fp-c360 40s linear infinite; }
+    @keyframes bg-c359 {
+      0%, 96.4% { opacity: 1; }
+      96.6%, 100% { opacity: 0; }
     }
-    .cell-358 { animation: c358 40s linear infinite; }
-    @keyframes c357 {
-      0%, 95.6% { fill: #161b22; }
-      95.8%, 100% { fill: #0e4429; }
+    @keyframes fp-c359 {
+      0%, 96.4% { opacity: 0; }
+      96.6%, 100% { opacity: 1; }
     }
-    .cell-357 { animation: c357 40s linear infinite; }
+    .cell-bg-359 { animation: bg-c359 40s linear infinite; }
+    .cell-footprint-359 { animation: fp-c359 40s linear infinite; }
+    @keyframes bg-c358 {
+      0%, 96.2% { opacity: 1; }
+      96.4%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c358 {
+      0%, 96.2% { opacity: 0; }
+      96.4%, 100% { opacity: 1; }
+    }
+    .cell-bg-358 { animation: bg-c358 40s linear infinite; }
+    .cell-footprint-358 { animation: fp-c358 40s linear infinite; }
+    @keyframes bg-c357 {
+      0%, 95.9% { opacity: 1; }
+      96.1%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c357 {
+      0%, 95.9% { opacity: 0; }
+      96.1%, 100% { opacity: 1; }
+    }
+    .cell-bg-357 { animation: bg-c357 40s linear infinite; }
+    .cell-footprint-357 { animation: fp-c357 40s linear infinite; }
     @keyframes c364 {
-      0%, 97.4% { fill: #161b22; }
-      97.6%, 100% { fill: #161b22; }
+      0%, 97.8% { fill: #161b22; }
+      98%, 100% { fill: #161b22; }
     }
     .cell-364 { animation: c364 40s linear infinite; }
-    @keyframes c365 {
-      0%, 97.7% { fill: #161b22; }
-      97.9%, 100% { fill: #006d32; }
+    @keyframes bg-c365 {
+      0%, 98% { opacity: 1; }
+      98.2%, 100% { opacity: 0; }
     }
-    .cell-365 { animation: c365 40s linear infinite; }
-    @keyframes c366 {
-      0%, 98% { fill: #161b22; }
-      98.2%, 100% { fill: #0e4429; }
+    @keyframes fp-c365 {
+      0%, 98% { opacity: 0; }
+      98.2%, 100% { opacity: 1; }
     }
-    .cell-366 { animation: c366 40s linear infinite; }
-    @keyframes c367 {
-      0%, 98.2% { fill: #161b22; }
-      98.4%, 100% { fill: #0e4429; }
+    .cell-bg-365 { animation: bg-c365 40s linear infinite; }
+    .cell-footprint-365 { animation: fp-c365 40s linear infinite; }
+    @keyframes bg-c366 {
+      0%, 98.3% { opacity: 1; }
+      98.5%, 100% { opacity: 0; }
     }
-    .cell-367 { animation: c367 40s linear infinite; }
-    @keyframes c368 {
-      0%, 98.5% { fill: #161b22; }
-      98.7%, 100% { fill: #39d353; }
+    @keyframes fp-c366 {
+      0%, 98.3% { opacity: 0; }
+      98.5%, 100% { opacity: 1; }
     }
-    .cell-368 { animation: c368 40s linear infinite; }
-    @keyframes c369 {
-      0%, 98.8% { fill: #161b22; }
-      99%, 100% { fill: #26a641; }
+    .cell-bg-366 { animation: bg-c366 40s linear infinite; }
+    .cell-footprint-366 { animation: fp-c366 40s linear infinite; }
+    @keyframes bg-c367 {
+      0%, 98.6% { opacity: 1; }
+      98.8%, 100% { opacity: 0; }
     }
-    .cell-369 { animation: c369 40s linear infinite; }
+    @keyframes fp-c367 {
+      0%, 98.6% { opacity: 0; }
+      98.8%, 100% { opacity: 1; }
+    }
+    .cell-bg-367 { animation: bg-c367 40s linear infinite; }
+    .cell-footprint-367 { animation: fp-c367 40s linear infinite; }
+    @keyframes bg-c368 {
+      0%, 98.8% { opacity: 1; }
+      99%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c368 {
+      0%, 98.8% { opacity: 0; }
+      99%, 100% { opacity: 1; }
+    }
+    .cell-bg-368 { animation: bg-c368 40s linear infinite; }
+    .cell-footprint-368 { animation: fp-c368 40s linear infinite; }
+    @keyframes bg-c369 {
+      0%, 99.1% { opacity: 1; }
+      99.3%, 100% { opacity: 0; }
+    }
+    @keyframes fp-c369 {
+      0%, 99.1% { opacity: 0; }
+      99.3%, 100% { opacity: 1; }
+    }
+    .cell-bg-369 { animation: bg-c369 40s linear infinite; }
+    .cell-footprint-369 { animation: fp-c369 40s linear infinite; }
     @keyframes c370 {
-      0%, 99% { fill: #161b22; }
-      99.2%, 100% { fill: #161b22; }
+      0%, 99.4% { fill: #161b22; }
+      99.6%, 100% { fill: #161b22; }
     }
     .cell-370 { animation: c370 40s linear infinite; }
   </style>
@@ -1979,7 +2441,10 @@
   <rect x="250" y="95" width="12" height="12" rx="2" class="cell-102" fill="#161b22" />
   <rect x="250" y="110" width="12" height="12" rx="2" class="cell-103" fill="#161b22" />
   <rect x="250" y="125" width="12" height="12" rx="2" class="cell-104" fill="#161b22" />
-  <rect x="265" y="35" width="12" height="12" rx="2" class="cell-111" fill="#161b22" />
+  <g class="cell-group-111">
+    <rect x="265" y="35" width="12" height="12" rx="2" class="cell-bg-111" fill="#161b22" />
+    <path d="M 270 36.5 L 272 36.5 L 272 40 L 270 40 Z M 266.5 39 L 268.5 38 L 269.5 40.5 L 267.5 41.5 Z M 273.5 38 L 275.5 39 L 274.5 41.5 L 272.5 40.5 Z M 269 42 L 273 42 L 272.5 45.5 L 269.5 45.5 Z" class="cell-footprint-111" fill="#0e4429" />
+  </g>
   <rect x="265" y="50" width="12" height="12" rx="2" class="cell-110" fill="#161b22" />
   <rect x="265" y="65" width="12" height="12" rx="2" class="cell-109" fill="#161b22" />
   <rect x="265" y="80" width="12" height="12" rx="2" class="cell-108" fill="#161b22" />
@@ -1990,47 +2455,125 @@
   <rect x="280" y="50" width="12" height="12" rx="2" class="cell-113" fill="#161b22" />
   <rect x="280" y="65" width="12" height="12" rx="2" class="cell-114" fill="#161b22" />
   <rect x="280" y="80" width="12" height="12" rx="2" class="cell-115" fill="#161b22" />
-  <rect x="280" y="95" width="12" height="12" rx="2" class="cell-116" fill="#161b22" />
+  <g class="cell-group-116">
+    <rect x="280" y="95" width="12" height="12" rx="2" class="cell-bg-116" fill="#161b22" />
+    <path d="M 285 96.5 L 287 96.5 L 287 100 L 285 100 Z M 281.5 99 L 283.5 98 L 284.5 100.5 L 282.5 101.5 Z M 288.5 98 L 290.5 99 L 289.5 101.5 L 287.5 100.5 Z M 284 102 L 288 102 L 287.5 105.5 L 284.5 105.5 Z" class="cell-footprint-116" fill="#0e4429" />
+  </g>
   <rect x="280" y="110" width="12" height="12" rx="2" class="cell-117" fill="#161b22" />
-  <rect x="280" y="125" width="12" height="12" rx="2" class="cell-118" fill="#161b22" />
+  <g class="cell-group-118">
+    <rect x="280" y="125" width="12" height="12" rx="2" class="cell-bg-118" fill="#161b22" />
+    <path d="M 285 126.5 L 287 126.5 L 287 130 L 285 130 Z M 281.5 129 L 283.5 128 L 284.5 130.5 L 282.5 131.5 Z M 288.5 128 L 290.5 129 L 289.5 131.5 L 287.5 130.5 Z M 284 132 L 288 132 L 287.5 135.5 L 284.5 135.5 Z" class="cell-footprint-118" fill="#006d32" />
+  </g>
   <rect x="295" y="35" width="12" height="12" rx="2" class="cell-125" fill="#161b22" />
-  <rect x="295" y="50" width="12" height="12" rx="2" class="cell-124" fill="#161b22" />
-  <rect x="295" y="65" width="12" height="12" rx="2" class="cell-123" fill="#161b22" />
-  <rect x="295" y="80" width="12" height="12" rx="2" class="cell-122" fill="#161b22" />
+  <g class="cell-group-124">
+    <rect x="295" y="50" width="12" height="12" rx="2" class="cell-bg-124" fill="#161b22" />
+    <path d="M 300 51.5 L 302 51.5 L 302 55 L 300 55 Z M 296.5 54 L 298.5 53 L 299.5 55.5 L 297.5 56.5 Z M 303.5 53 L 305.5 54 L 304.5 56.5 L 302.5 55.5 Z M 299 57 L 303 57 L 302.5 60.5 L 299.5 60.5 Z" class="cell-footprint-124" fill="#0e4429" />
+  </g>
+  <g class="cell-group-123">
+    <rect x="295" y="65" width="12" height="12" rx="2" class="cell-bg-123" fill="#161b22" />
+    <path d="M 300 66.5 L 302 66.5 L 302 70 L 300 70 Z M 296.5 69 L 298.5 68 L 299.5 70.5 L 297.5 71.5 Z M 303.5 68 L 305.5 69 L 304.5 71.5 L 302.5 70.5 Z M 299 72 L 303 72 L 302.5 75.5 L 299.5 75.5 Z" class="cell-footprint-123" fill="#0e4429" />
+  </g>
+  <g class="cell-group-122">
+    <rect x="295" y="80" width="12" height="12" rx="2" class="cell-bg-122" fill="#161b22" />
+    <path d="M 300 81.5 L 302 81.5 L 302 85 L 300 85 Z M 296.5 84 L 298.5 83 L 299.5 85.5 L 297.5 86.5 Z M 303.5 83 L 305.5 84 L 304.5 86.5 L 302.5 85.5 Z M 299 87 L 303 87 L 302.5 90.5 L 299.5 90.5 Z" class="cell-footprint-122" fill="#0e4429" />
+  </g>
   <rect x="295" y="95" width="12" height="12" rx="2" class="cell-121" fill="#161b22" />
-  <rect x="295" y="110" width="12" height="12" rx="2" class="cell-120" fill="#161b22" />
+  <g class="cell-group-120">
+    <rect x="295" y="110" width="12" height="12" rx="2" class="cell-bg-120" fill="#161b22" />
+    <path d="M 300 111.5 L 302 111.5 L 302 115 L 300 115 Z M 296.5 114 L 298.5 113 L 299.5 115.5 L 297.5 116.5 Z M 303.5 113 L 305.5 114 L 304.5 116.5 L 302.5 115.5 Z M 299 117 L 303 117 L 302.5 120.5 L 299.5 120.5 Z" class="cell-footprint-120" fill="#0e4429" />
+  </g>
   <rect x="295" y="125" width="12" height="12" rx="2" class="cell-119" fill="#161b22" />
-  <rect x="310" y="35" width="12" height="12" rx="2" class="cell-126" fill="#161b22" />
-  <rect x="310" y="50" width="12" height="12" rx="2" class="cell-127" fill="#161b22" />
-  <rect x="310" y="65" width="12" height="12" rx="2" class="cell-128" fill="#161b22" />
+  <g class="cell-group-126">
+    <rect x="310" y="35" width="12" height="12" rx="2" class="cell-bg-126" fill="#161b22" />
+    <path d="M 315 36.5 L 317 36.5 L 317 40 L 315 40 Z M 311.5 39 L 313.5 38 L 314.5 40.5 L 312.5 41.5 Z M 318.5 38 L 320.5 39 L 319.5 41.5 L 317.5 40.5 Z M 314 42 L 318 42 L 317.5 45.5 L 314.5 45.5 Z" class="cell-footprint-126" fill="#39d353" />
+  </g>
+  <g class="cell-group-127">
+    <rect x="310" y="50" width="12" height="12" rx="2" class="cell-bg-127" fill="#161b22" />
+    <path d="M 315 51.5 L 317 51.5 L 317 55 L 315 55 Z M 311.5 54 L 313.5 53 L 314.5 55.5 L 312.5 56.5 Z M 318.5 53 L 320.5 54 L 319.5 56.5 L 317.5 55.5 Z M 314 57 L 318 57 L 317.5 60.5 L 314.5 60.5 Z" class="cell-footprint-127" fill="#0e4429" />
+  </g>
+  <g class="cell-group-128">
+    <rect x="310" y="65" width="12" height="12" rx="2" class="cell-bg-128" fill="#161b22" />
+    <path d="M 315 66.5 L 317 66.5 L 317 70 L 315 70 Z M 311.5 69 L 313.5 68 L 314.5 70.5 L 312.5 71.5 Z M 318.5 68 L 320.5 69 L 319.5 71.5 L 317.5 70.5 Z M 314 72 L 318 72 L 317.5 75.5 L 314.5 75.5 Z" class="cell-footprint-128" fill="#006d32" />
+  </g>
   <rect x="310" y="80" width="12" height="12" rx="2" class="cell-129" fill="#161b22" />
-  <rect x="310" y="95" width="12" height="12" rx="2" class="cell-130" fill="#161b22" />
+  <g class="cell-group-130">
+    <rect x="310" y="95" width="12" height="12" rx="2" class="cell-bg-130" fill="#161b22" />
+    <path d="M 315 96.5 L 317 96.5 L 317 100 L 315 100 Z M 311.5 99 L 313.5 98 L 314.5 100.5 L 312.5 101.5 Z M 318.5 98 L 320.5 99 L 319.5 101.5 L 317.5 100.5 Z M 314 102 L 318 102 L 317.5 105.5 L 314.5 105.5 Z" class="cell-footprint-130" fill="#0e4429" />
+  </g>
   <rect x="310" y="110" width="12" height="12" rx="2" class="cell-131" fill="#161b22" />
-  <rect x="310" y="125" width="12" height="12" rx="2" class="cell-132" fill="#161b22" />
-  <rect x="325" y="35" width="12" height="12" rx="2" class="cell-139" fill="#161b22" />
+  <g class="cell-group-132">
+    <rect x="310" y="125" width="12" height="12" rx="2" class="cell-bg-132" fill="#161b22" />
+    <path d="M 315 126.5 L 317 126.5 L 317 130 L 315 130 Z M 311.5 129 L 313.5 128 L 314.5 130.5 L 312.5 131.5 Z M 318.5 128 L 320.5 129 L 319.5 131.5 L 317.5 130.5 Z M 314 132 L 318 132 L 317.5 135.5 L 314.5 135.5 Z" class="cell-footprint-132" fill="#26a641" />
+  </g>
+  <g class="cell-group-139">
+    <rect x="325" y="35" width="12" height="12" rx="2" class="cell-bg-139" fill="#161b22" />
+    <path d="M 330 36.5 L 332 36.5 L 332 40 L 330 40 Z M 326.5 39 L 328.5 38 L 329.5 40.5 L 327.5 41.5 Z M 333.5 38 L 335.5 39 L 334.5 41.5 L 332.5 40.5 Z M 329 42 L 333 42 L 332.5 45.5 L 329.5 45.5 Z" class="cell-footprint-139" fill="#0e4429" />
+  </g>
   <rect x="325" y="50" width="12" height="12" rx="2" class="cell-138" fill="#161b22" />
   <rect x="325" y="65" width="12" height="12" rx="2" class="cell-137" fill="#161b22" />
-  <rect x="325" y="80" width="12" height="12" rx="2" class="cell-136" fill="#161b22" />
+  <g class="cell-group-136">
+    <rect x="325" y="80" width="12" height="12" rx="2" class="cell-bg-136" fill="#161b22" />
+    <path d="M 330 81.5 L 332 81.5 L 332 85 L 330 85 Z M 326.5 84 L 328.5 83 L 329.5 85.5 L 327.5 86.5 Z M 333.5 83 L 335.5 84 L 334.5 86.5 L 332.5 85.5 Z M 329 87 L 333 87 L 332.5 90.5 L 329.5 90.5 Z" class="cell-footprint-136" fill="#0e4429" />
+  </g>
   <rect x="325" y="95" width="12" height="12" rx="2" class="cell-135" fill="#161b22" />
   <rect x="325" y="110" width="12" height="12" rx="2" class="cell-134" fill="#161b22" />
-  <rect x="325" y="125" width="12" height="12" rx="2" class="cell-133" fill="#161b22" />
-  <rect x="340" y="35" width="12" height="12" rx="2" class="cell-140" fill="#161b22" />
-  <rect x="340" y="50" width="12" height="12" rx="2" class="cell-141" fill="#161b22" />
-  <rect x="340" y="65" width="12" height="12" rx="2" class="cell-142" fill="#161b22" />
-  <rect x="340" y="80" width="12" height="12" rx="2" class="cell-143" fill="#161b22" />
-  <rect x="340" y="95" width="12" height="12" rx="2" class="cell-144" fill="#161b22" />
-  <rect x="340" y="110" width="12" height="12" rx="2" class="cell-145" fill="#161b22" />
-  <rect x="340" y="125" width="12" height="12" rx="2" class="cell-146" fill="#161b22" />
-  <rect x="355" y="35" width="12" height="12" rx="2" class="cell-153" fill="#161b22" />
-  <rect x="355" y="50" width="12" height="12" rx="2" class="cell-152" fill="#161b22" />
+  <g class="cell-group-133">
+    <rect x="325" y="125" width="12" height="12" rx="2" class="cell-bg-133" fill="#161b22" />
+    <path d="M 330 126.5 L 332 126.5 L 332 130 L 330 130 Z M 326.5 129 L 328.5 128 L 329.5 130.5 L 327.5 131.5 Z M 333.5 128 L 335.5 129 L 334.5 131.5 L 332.5 130.5 Z M 329 132 L 333 132 L 332.5 135.5 L 329.5 135.5 Z" class="cell-footprint-133" fill="#39d353" />
+  </g>
+  <g class="cell-group-140">
+    <rect x="340" y="35" width="12" height="12" rx="2" class="cell-bg-140" fill="#161b22" />
+    <path d="M 345 36.5 L 347 36.5 L 347 40 L 345 40 Z M 341.5 39 L 343.5 38 L 344.5 40.5 L 342.5 41.5 Z M 348.5 38 L 350.5 39 L 349.5 41.5 L 347.5 40.5 Z M 344 42 L 348 42 L 347.5 45.5 L 344.5 45.5 Z" class="cell-footprint-140" fill="#006d32" />
+  </g>
+  <g class="cell-group-141">
+    <rect x="340" y="50" width="12" height="12" rx="2" class="cell-bg-141" fill="#161b22" />
+    <path d="M 345 51.5 L 347 51.5 L 347 55 L 345 55 Z M 341.5 54 L 343.5 53 L 344.5 55.5 L 342.5 56.5 Z M 348.5 53 L 350.5 54 L 349.5 56.5 L 347.5 55.5 Z M 344 57 L 348 57 L 347.5 60.5 L 344.5 60.5 Z" class="cell-footprint-141" fill="#0e4429" />
+  </g>
+  <g class="cell-group-142">
+    <rect x="340" y="65" width="12" height="12" rx="2" class="cell-bg-142" fill="#161b22" />
+    <path d="M 345 66.5 L 347 66.5 L 347 70 L 345 70 Z M 341.5 69 L 343.5 68 L 344.5 70.5 L 342.5 71.5 Z M 348.5 68 L 350.5 69 L 349.5 71.5 L 347.5 70.5 Z M 344 72 L 348 72 L 347.5 75.5 L 344.5 75.5 Z" class="cell-footprint-142" fill="#0e4429" />
+  </g>
+  <g class="cell-group-143">
+    <rect x="340" y="80" width="12" height="12" rx="2" class="cell-bg-143" fill="#161b22" />
+    <path d="M 345 81.5 L 347 81.5 L 347 85 L 345 85 Z M 341.5 84 L 343.5 83 L 344.5 85.5 L 342.5 86.5 Z M 348.5 83 L 350.5 84 L 349.5 86.5 L 347.5 85.5 Z M 344 87 L 348 87 L 347.5 90.5 L 344.5 90.5 Z" class="cell-footprint-143" fill="#006d32" />
+  </g>
+  <g class="cell-group-144">
+    <rect x="340" y="95" width="12" height="12" rx="2" class="cell-bg-144" fill="#161b22" />
+    <path d="M 345 96.5 L 347 96.5 L 347 100 L 345 100 Z M 341.5 99 L 343.5 98 L 344.5 100.5 L 342.5 101.5 Z M 348.5 98 L 350.5 99 L 349.5 101.5 L 347.5 100.5 Z M 344 102 L 348 102 L 347.5 105.5 L 344.5 105.5 Z" class="cell-footprint-144" fill="#006d32" />
+  </g>
+  <g class="cell-group-145">
+    <rect x="340" y="110" width="12" height="12" rx="2" class="cell-bg-145" fill="#161b22" />
+    <path d="M 345 111.5 L 347 111.5 L 347 115 L 345 115 Z M 341.5 114 L 343.5 113 L 344.5 115.5 L 342.5 116.5 Z M 348.5 113 L 350.5 114 L 349.5 116.5 L 347.5 115.5 Z M 344 117 L 348 117 L 347.5 120.5 L 344.5 120.5 Z" class="cell-footprint-145" fill="#006d32" />
+  </g>
+  <g class="cell-group-146">
+    <rect x="340" y="125" width="12" height="12" rx="2" class="cell-bg-146" fill="#161b22" />
+    <path d="M 345 126.5 L 347 126.5 L 347 130 L 345 130 Z M 341.5 129 L 343.5 128 L 344.5 130.5 L 342.5 131.5 Z M 348.5 128 L 350.5 129 L 349.5 131.5 L 347.5 130.5 Z M 344 132 L 348 132 L 347.5 135.5 L 344.5 135.5 Z" class="cell-footprint-146" fill="#006d32" />
+  </g>
+  <g class="cell-group-153">
+    <rect x="355" y="35" width="12" height="12" rx="2" class="cell-bg-153" fill="#161b22" />
+    <path d="M 360 36.5 L 362 36.5 L 362 40 L 360 40 Z M 356.5 39 L 358.5 38 L 359.5 40.5 L 357.5 41.5 Z M 363.5 38 L 365.5 39 L 364.5 41.5 L 362.5 40.5 Z M 359 42 L 363 42 L 362.5 45.5 L 359.5 45.5 Z" class="cell-footprint-153" fill="#0e4429" />
+  </g>
+  <g class="cell-group-152">
+    <rect x="355" y="50" width="12" height="12" rx="2" class="cell-bg-152" fill="#161b22" />
+    <path d="M 360 51.5 L 362 51.5 L 362 55 L 360 55 Z M 356.5 54 L 358.5 53 L 359.5 55.5 L 357.5 56.5 Z M 363.5 53 L 365.5 54 L 364.5 56.5 L 362.5 55.5 Z M 359 57 L 363 57 L 362.5 60.5 L 359.5 60.5 Z" class="cell-footprint-152" fill="#0e4429" />
+  </g>
   <rect x="355" y="65" width="12" height="12" rx="2" class="cell-151" fill="#161b22" />
-  <rect x="355" y="80" width="12" height="12" rx="2" class="cell-150" fill="#161b22" />
+  <g class="cell-group-150">
+    <rect x="355" y="80" width="12" height="12" rx="2" class="cell-bg-150" fill="#161b22" />
+    <path d="M 360 81.5 L 362 81.5 L 362 85 L 360 85 Z M 356.5 84 L 358.5 83 L 359.5 85.5 L 357.5 86.5 Z M 363.5 83 L 365.5 84 L 364.5 86.5 L 362.5 85.5 Z M 359 87 L 363 87 L 362.5 90.5 L 359.5 90.5 Z" class="cell-footprint-150" fill="#006d32" />
+  </g>
   <rect x="355" y="95" width="12" height="12" rx="2" class="cell-149" fill="#161b22" />
   <rect x="355" y="110" width="12" height="12" rx="2" class="cell-148" fill="#161b22" />
   <rect x="355" y="125" width="12" height="12" rx="2" class="cell-147" fill="#161b22" />
   <rect x="370" y="35" width="12" height="12" rx="2" class="cell-154" fill="#161b22" />
-  <rect x="370" y="50" width="12" height="12" rx="2" class="cell-155" fill="#161b22" />
-  <rect x="370" y="65" width="12" height="12" rx="2" class="cell-156" fill="#161b22" />
+  <g class="cell-group-155">
+    <rect x="370" y="50" width="12" height="12" rx="2" class="cell-bg-155" fill="#161b22" />
+    <path d="M 375 51.5 L 377 51.5 L 377 55 L 375 55 Z M 371.5 54 L 373.5 53 L 374.5 55.5 L 372.5 56.5 Z M 378.5 53 L 380.5 54 L 379.5 56.5 L 377.5 55.5 Z M 374 57 L 378 57 L 377.5 60.5 L 374.5 60.5 Z" class="cell-footprint-155" fill="#006d32" />
+  </g>
+  <g class="cell-group-156">
+    <rect x="370" y="65" width="12" height="12" rx="2" class="cell-bg-156" fill="#161b22" />
+    <path d="M 375 66.5 L 377 66.5 L 377 70 L 375 70 Z M 371.5 69 L 373.5 68 L 374.5 70.5 L 372.5 71.5 Z M 378.5 68 L 380.5 69 L 379.5 71.5 L 377.5 70.5 Z M 374 72 L 378 72 L 377.5 75.5 L 374.5 75.5 Z" class="cell-footprint-156" fill="#006d32" />
+  </g>
   <rect x="370" y="80" width="12" height="12" rx="2" class="cell-157" fill="#161b22" />
   <rect x="370" y="95" width="12" height="12" rx="2" class="cell-158" fill="#161b22" />
   <rect x="370" y="110" width="12" height="12" rx="2" class="cell-159" fill="#161b22" />
@@ -2065,10 +2608,19 @@
   <rect x="430" y="125" width="12" height="12" rx="2" class="cell-188" fill="#161b22" />
   <rect x="445" y="35" width="12" height="12" rx="2" class="cell-195" fill="#161b22" />
   <rect x="445" y="50" width="12" height="12" rx="2" class="cell-194" fill="#161b22" />
-  <rect x="445" y="65" width="12" height="12" rx="2" class="cell-193" fill="#161b22" />
-  <rect x="445" y="80" width="12" height="12" rx="2" class="cell-192" fill="#161b22" />
+  <g class="cell-group-193">
+    <rect x="445" y="65" width="12" height="12" rx="2" class="cell-bg-193" fill="#161b22" />
+    <path d="M 450 66.5 L 452 66.5 L 452 70 L 450 70 Z M 446.5 69 L 448.5 68 L 449.5 70.5 L 447.5 71.5 Z M 453.5 68 L 455.5 69 L 454.5 71.5 L 452.5 70.5 Z M 449 72 L 453 72 L 452.5 75.5 L 449.5 75.5 Z" class="cell-footprint-193" fill="#0e4429" />
+  </g>
+  <g class="cell-group-192">
+    <rect x="445" y="80" width="12" height="12" rx="2" class="cell-bg-192" fill="#161b22" />
+    <path d="M 450 81.5 L 452 81.5 L 452 85 L 450 85 Z M 446.5 84 L 448.5 83 L 449.5 85.5 L 447.5 86.5 Z M 453.5 83 L 455.5 84 L 454.5 86.5 L 452.5 85.5 Z M 449 87 L 453 87 L 452.5 90.5 L 449.5 90.5 Z" class="cell-footprint-192" fill="#006d32" />
+  </g>
   <rect x="445" y="95" width="12" height="12" rx="2" class="cell-191" fill="#161b22" />
-  <rect x="445" y="110" width="12" height="12" rx="2" class="cell-190" fill="#161b22" />
+  <g class="cell-group-190">
+    <rect x="445" y="110" width="12" height="12" rx="2" class="cell-bg-190" fill="#161b22" />
+    <path d="M 450 111.5 L 452 111.5 L 452 115 L 450 115 Z M 446.5 114 L 448.5 113 L 449.5 115.5 L 447.5 116.5 Z M 453.5 113 L 455.5 114 L 454.5 116.5 L 452.5 115.5 Z M 449 117 L 453 117 L 452.5 120.5 L 449.5 120.5 Z" class="cell-footprint-190" fill="#0e4429" />
+  </g>
   <rect x="445" y="125" width="12" height="12" rx="2" class="cell-189" fill="#161b22" />
   <rect x="460" y="35" width="12" height="12" rx="2" class="cell-196" fill="#161b22" />
   <rect x="460" y="50" width="12" height="12" rx="2" class="cell-197" fill="#161b22" />
@@ -2100,13 +2652,31 @@
   <rect x="505" y="125" width="12" height="12" rx="2" class="cell-217" fill="#161b22" />
   <rect x="520" y="35" width="12" height="12" rx="2" class="cell-224" fill="#161b22" />
   <rect x="520" y="50" width="12" height="12" rx="2" class="cell-225" fill="#161b22" />
-  <rect x="520" y="65" width="12" height="12" rx="2" class="cell-226" fill="#161b22" />
+  <g class="cell-group-226">
+    <rect x="520" y="65" width="12" height="12" rx="2" class="cell-bg-226" fill="#161b22" />
+    <path d="M 525 66.5 L 527 66.5 L 527 70 L 525 70 Z M 521.5 69 L 523.5 68 L 524.5 70.5 L 522.5 71.5 Z M 528.5 68 L 530.5 69 L 529.5 71.5 L 527.5 70.5 Z M 524 72 L 528 72 L 527.5 75.5 L 524.5 75.5 Z" class="cell-footprint-226" fill="#006d32" />
+  </g>
   <rect x="520" y="80" width="12" height="12" rx="2" class="cell-227" fill="#161b22" />
-  <rect x="520" y="95" width="12" height="12" rx="2" class="cell-228" fill="#161b22" />
-  <rect x="520" y="110" width="12" height="12" rx="2" class="cell-229" fill="#161b22" />
-  <rect x="520" y="125" width="12" height="12" rx="2" class="cell-230" fill="#161b22" />
-  <rect x="535" y="35" width="12" height="12" rx="2" class="cell-237" fill="#161b22" />
-  <rect x="535" y="50" width="12" height="12" rx="2" class="cell-236" fill="#161b22" />
+  <g class="cell-group-228">
+    <rect x="520" y="95" width="12" height="12" rx="2" class="cell-bg-228" fill="#161b22" />
+    <path d="M 525 96.5 L 527 96.5 L 527 100 L 525 100 Z M 521.5 99 L 523.5 98 L 524.5 100.5 L 522.5 101.5 Z M 528.5 98 L 530.5 99 L 529.5 101.5 L 527.5 100.5 Z M 524 102 L 528 102 L 527.5 105.5 L 524.5 105.5 Z" class="cell-footprint-228" fill="#006d32" />
+  </g>
+  <g class="cell-group-229">
+    <rect x="520" y="110" width="12" height="12" rx="2" class="cell-bg-229" fill="#161b22" />
+    <path d="M 525 111.5 L 527 111.5 L 527 115 L 525 115 Z M 521.5 114 L 523.5 113 L 524.5 115.5 L 522.5 116.5 Z M 528.5 113 L 530.5 114 L 529.5 116.5 L 527.5 115.5 Z M 524 117 L 528 117 L 527.5 120.5 L 524.5 120.5 Z" class="cell-footprint-229" fill="#0e4429" />
+  </g>
+  <g class="cell-group-230">
+    <rect x="520" y="125" width="12" height="12" rx="2" class="cell-bg-230" fill="#161b22" />
+    <path d="M 525 126.5 L 527 126.5 L 527 130 L 525 130 Z M 521.5 129 L 523.5 128 L 524.5 130.5 L 522.5 131.5 Z M 528.5 128 L 530.5 129 L 529.5 131.5 L 527.5 130.5 Z M 524 132 L 528 132 L 527.5 135.5 L 524.5 135.5 Z" class="cell-footprint-230" fill="#006d32" />
+  </g>
+  <g class="cell-group-237">
+    <rect x="535" y="35" width="12" height="12" rx="2" class="cell-bg-237" fill="#161b22" />
+    <path d="M 540 36.5 L 542 36.5 L 542 40 L 540 40 Z M 536.5 39 L 538.5 38 L 539.5 40.5 L 537.5 41.5 Z M 543.5 38 L 545.5 39 L 544.5 41.5 L 542.5 40.5 Z M 539 42 L 543 42 L 542.5 45.5 L 539.5 45.5 Z" class="cell-footprint-237" fill="#0e4429" />
+  </g>
+  <g class="cell-group-236">
+    <rect x="535" y="50" width="12" height="12" rx="2" class="cell-bg-236" fill="#161b22" />
+    <path d="M 540 51.5 L 542 51.5 L 542 55 L 540 55 Z M 536.5 54 L 538.5 53 L 539.5 55.5 L 537.5 56.5 Z M 543.5 53 L 545.5 54 L 544.5 56.5 L 542.5 55.5 Z M 539 57 L 543 57 L 542.5 60.5 L 539.5 60.5 Z" class="cell-footprint-236" fill="#0e4429" />
+  </g>
   <rect x="535" y="65" width="12" height="12" rx="2" class="cell-235" fill="#161b22" />
   <rect x="535" y="80" width="12" height="12" rx="2" class="cell-234" fill="#161b22" />
   <rect x="535" y="95" width="12" height="12" rx="2" class="cell-233" fill="#161b22" />
@@ -2114,43 +2684,100 @@
   <rect x="535" y="125" width="12" height="12" rx="2" class="cell-231" fill="#161b22" />
   <rect x="550" y="35" width="12" height="12" rx="2" class="cell-238" fill="#161b22" />
   <rect x="550" y="50" width="12" height="12" rx="2" class="cell-239" fill="#161b22" />
-  <rect x="550" y="65" width="12" height="12" rx="2" class="cell-240" fill="#161b22" />
-  <rect x="550" y="80" width="12" height="12" rx="2" class="cell-241" fill="#161b22" />
-  <rect x="550" y="95" width="12" height="12" rx="2" class="cell-242" fill="#161b22" />
-  <rect x="550" y="110" width="12" height="12" rx="2" class="cell-243" fill="#161b22" />
+  <g class="cell-group-240">
+    <rect x="550" y="65" width="12" height="12" rx="2" class="cell-bg-240" fill="#161b22" />
+    <path d="M 555 66.5 L 557 66.5 L 557 70 L 555 70 Z M 551.5 69 L 553.5 68 L 554.5 70.5 L 552.5 71.5 Z M 558.5 68 L 560.5 69 L 559.5 71.5 L 557.5 70.5 Z M 554 72 L 558 72 L 557.5 75.5 L 554.5 75.5 Z" class="cell-footprint-240" fill="#0e4429" />
+  </g>
+  <g class="cell-group-241">
+    <rect x="550" y="80" width="12" height="12" rx="2" class="cell-bg-241" fill="#161b22" />
+    <path d="M 555 81.5 L 557 81.5 L 557 85 L 555 85 Z M 551.5 84 L 553.5 83 L 554.5 85.5 L 552.5 86.5 Z M 558.5 83 L 560.5 84 L 559.5 86.5 L 557.5 85.5 Z M 554 87 L 558 87 L 557.5 90.5 L 554.5 90.5 Z" class="cell-footprint-241" fill="#006d32" />
+  </g>
+  <g class="cell-group-242">
+    <rect x="550" y="95" width="12" height="12" rx="2" class="cell-bg-242" fill="#161b22" />
+    <path d="M 555 96.5 L 557 96.5 L 557 100 L 555 100 Z M 551.5 99 L 553.5 98 L 554.5 100.5 L 552.5 101.5 Z M 558.5 98 L 560.5 99 L 559.5 101.5 L 557.5 100.5 Z M 554 102 L 558 102 L 557.5 105.5 L 554.5 105.5 Z" class="cell-footprint-242" fill="#26a641" />
+  </g>
+  <g class="cell-group-243">
+    <rect x="550" y="110" width="12" height="12" rx="2" class="cell-bg-243" fill="#161b22" />
+    <path d="M 555 111.5 L 557 111.5 L 557 115 L 555 115 Z M 551.5 114 L 553.5 113 L 554.5 115.5 L 552.5 116.5 Z M 558.5 113 L 560.5 114 L 559.5 116.5 L 557.5 115.5 Z M 554 117 L 558 117 L 557.5 120.5 L 554.5 120.5 Z" class="cell-footprint-243" fill="#26a641" />
+  </g>
   <rect x="550" y="125" width="12" height="12" rx="2" class="cell-244" fill="#161b22" />
-  <rect x="565" y="35" width="12" height="12" rx="2" class="cell-251" fill="#161b22" />
-  <rect x="565" y="50" width="12" height="12" rx="2" class="cell-250" fill="#161b22" />
-  <rect x="565" y="65" width="12" height="12" rx="2" class="cell-249" fill="#161b22" />
-  <rect x="565" y="80" width="12" height="12" rx="2" class="cell-248" fill="#161b22" />
+  <g class="cell-group-251">
+    <rect x="565" y="35" width="12" height="12" rx="2" class="cell-bg-251" fill="#161b22" />
+    <path d="M 570 36.5 L 572 36.5 L 572 40 L 570 40 Z M 566.5 39 L 568.5 38 L 569.5 40.5 L 567.5 41.5 Z M 573.5 38 L 575.5 39 L 574.5 41.5 L 572.5 40.5 Z M 569 42 L 573 42 L 572.5 45.5 L 569.5 45.5 Z" class="cell-footprint-251" fill="#26a641" />
+  </g>
+  <g class="cell-group-250">
+    <rect x="565" y="50" width="12" height="12" rx="2" class="cell-bg-250" fill="#161b22" />
+    <path d="M 570 51.5 L 572 51.5 L 572 55 L 570 55 Z M 566.5 54 L 568.5 53 L 569.5 55.5 L 567.5 56.5 Z M 573.5 53 L 575.5 54 L 574.5 56.5 L 572.5 55.5 Z M 569 57 L 573 57 L 572.5 60.5 L 569.5 60.5 Z" class="cell-footprint-250" fill="#0e4429" />
+  </g>
+  <g class="cell-group-249">
+    <rect x="565" y="65" width="12" height="12" rx="2" class="cell-bg-249" fill="#161b22" />
+    <path d="M 570 66.5 L 572 66.5 L 572 70 L 570 70 Z M 566.5 69 L 568.5 68 L 569.5 70.5 L 567.5 71.5 Z M 573.5 68 L 575.5 69 L 574.5 71.5 L 572.5 70.5 Z M 569 72 L 573 72 L 572.5 75.5 L 569.5 75.5 Z" class="cell-footprint-249" fill="#0e4429" />
+  </g>
+  <g class="cell-group-248">
+    <rect x="565" y="80" width="12" height="12" rx="2" class="cell-bg-248" fill="#161b22" />
+    <path d="M 570 81.5 L 572 81.5 L 572 85 L 570 85 Z M 566.5 84 L 568.5 83 L 569.5 85.5 L 567.5 86.5 Z M 573.5 83 L 575.5 84 L 574.5 86.5 L 572.5 85.5 Z M 569 87 L 573 87 L 572.5 90.5 L 569.5 90.5 Z" class="cell-footprint-248" fill="#0e4429" />
+  </g>
   <rect x="565" y="95" width="12" height="12" rx="2" class="cell-247" fill="#161b22" />
   <rect x="565" y="110" width="12" height="12" rx="2" class="cell-246" fill="#161b22" />
   <rect x="565" y="125" width="12" height="12" rx="2" class="cell-245" fill="#161b22" />
   <rect x="580" y="35" width="12" height="12" rx="2" class="cell-252" fill="#161b22" />
-  <rect x="580" y="50" width="12" height="12" rx="2" class="cell-253" fill="#161b22" />
+  <g class="cell-group-253">
+    <rect x="580" y="50" width="12" height="12" rx="2" class="cell-bg-253" fill="#161b22" />
+    <path d="M 585 51.5 L 587 51.5 L 587 55 L 585 55 Z M 581.5 54 L 583.5 53 L 584.5 55.5 L 582.5 56.5 Z M 588.5 53 L 590.5 54 L 589.5 56.5 L 587.5 55.5 Z M 584 57 L 588 57 L 587.5 60.5 L 584.5 60.5 Z" class="cell-footprint-253" fill="#0e4429" />
+  </g>
   <rect x="580" y="65" width="12" height="12" rx="2" class="cell-254" fill="#161b22" />
   <rect x="580" y="80" width="12" height="12" rx="2" class="cell-255" fill="#161b22" />
-  <rect x="580" y="95" width="12" height="12" rx="2" class="cell-256" fill="#161b22" />
-  <rect x="580" y="110" width="12" height="12" rx="2" class="cell-257" fill="#161b22" />
+  <g class="cell-group-256">
+    <rect x="580" y="95" width="12" height="12" rx="2" class="cell-bg-256" fill="#161b22" />
+    <path d="M 585 96.5 L 587 96.5 L 587 100 L 585 100 Z M 581.5 99 L 583.5 98 L 584.5 100.5 L 582.5 101.5 Z M 588.5 98 L 590.5 99 L 589.5 101.5 L 587.5 100.5 Z M 584 102 L 588 102 L 587.5 105.5 L 584.5 105.5 Z" class="cell-footprint-256" fill="#0e4429" />
+  </g>
+  <g class="cell-group-257">
+    <rect x="580" y="110" width="12" height="12" rx="2" class="cell-bg-257" fill="#161b22" />
+    <path d="M 585 111.5 L 587 111.5 L 587 115 L 585 115 Z M 581.5 114 L 583.5 113 L 584.5 115.5 L 582.5 116.5 Z M 588.5 113 L 590.5 114 L 589.5 116.5 L 587.5 115.5 Z M 584 117 L 588 117 L 587.5 120.5 L 584.5 120.5 Z" class="cell-footprint-257" fill="#0e4429" />
+  </g>
   <rect x="580" y="125" width="12" height="12" rx="2" class="cell-258" fill="#161b22" />
   <rect x="595" y="35" width="12" height="12" rx="2" class="cell-265" fill="#161b22" />
-  <rect x="595" y="50" width="12" height="12" rx="2" class="cell-264" fill="#161b22" />
-  <rect x="595" y="65" width="12" height="12" rx="2" class="cell-263" fill="#161b22" />
+  <g class="cell-group-264">
+    <rect x="595" y="50" width="12" height="12" rx="2" class="cell-bg-264" fill="#161b22" />
+    <path d="M 600 51.5 L 602 51.5 L 602 55 L 600 55 Z M 596.5 54 L 598.5 53 L 599.5 55.5 L 597.5 56.5 Z M 603.5 53 L 605.5 54 L 604.5 56.5 L 602.5 55.5 Z M 599 57 L 603 57 L 602.5 60.5 L 599.5 60.5 Z" class="cell-footprint-264" fill="#0e4429" />
+  </g>
+  <g class="cell-group-263">
+    <rect x="595" y="65" width="12" height="12" rx="2" class="cell-bg-263" fill="#161b22" />
+    <path d="M 600 66.5 L 602 66.5 L 602 70 L 600 70 Z M 596.5 69 L 598.5 68 L 599.5 70.5 L 597.5 71.5 Z M 603.5 68 L 605.5 69 L 604.5 71.5 L 602.5 70.5 Z M 599 72 L 603 72 L 602.5 75.5 L 599.5 75.5 Z" class="cell-footprint-263" fill="#0e4429" />
+  </g>
   <rect x="595" y="80" width="12" height="12" rx="2" class="cell-262" fill="#161b22" />
-  <rect x="595" y="95" width="12" height="12" rx="2" class="cell-261" fill="#161b22" />
-  <rect x="595" y="110" width="12" height="12" rx="2" class="cell-260" fill="#161b22" />
-  <rect x="595" y="125" width="12" height="12" rx="2" class="cell-259" fill="#161b22" />
+  <g class="cell-group-261">
+    <rect x="595" y="95" width="12" height="12" rx="2" class="cell-bg-261" fill="#161b22" />
+    <path d="M 600 96.5 L 602 96.5 L 602 100 L 600 100 Z M 596.5 99 L 598.5 98 L 599.5 100.5 L 597.5 101.5 Z M 603.5 98 L 605.5 99 L 604.5 101.5 L 602.5 100.5 Z M 599 102 L 603 102 L 602.5 105.5 L 599.5 105.5 Z" class="cell-footprint-261" fill="#0e4429" />
+  </g>
+  <g class="cell-group-260">
+    <rect x="595" y="110" width="12" height="12" rx="2" class="cell-bg-260" fill="#161b22" />
+    <path d="M 600 111.5 L 602 111.5 L 602 115 L 600 115 Z M 596.5 114 L 598.5 113 L 599.5 115.5 L 597.5 116.5 Z M 603.5 113 L 605.5 114 L 604.5 116.5 L 602.5 115.5 Z M 599 117 L 603 117 L 602.5 120.5 L 599.5 120.5 Z" class="cell-footprint-260" fill="#0e4429" />
+  </g>
+  <g class="cell-group-259">
+    <rect x="595" y="125" width="12" height="12" rx="2" class="cell-bg-259" fill="#161b22" />
+    <path d="M 600 126.5 L 602 126.5 L 602 130 L 600 130 Z M 596.5 129 L 598.5 128 L 599.5 130.5 L 597.5 131.5 Z M 603.5 128 L 605.5 129 L 604.5 131.5 L 602.5 130.5 Z M 599 132 L 603 132 L 602.5 135.5 L 599.5 135.5 Z" class="cell-footprint-259" fill="#0e4429" />
+  </g>
   <rect x="610" y="35" width="12" height="12" rx="2" class="cell-266" fill="#161b22" />
   <rect x="610" y="50" width="12" height="12" rx="2" class="cell-267" fill="#161b22" />
   <rect x="610" y="65" width="12" height="12" rx="2" class="cell-268" fill="#161b22" />
   <rect x="610" y="80" width="12" height="12" rx="2" class="cell-269" fill="#161b22" />
   <rect x="610" y="95" width="12" height="12" rx="2" class="cell-270" fill="#161b22" />
-  <rect x="610" y="110" width="12" height="12" rx="2" class="cell-271" fill="#161b22" />
+  <g class="cell-group-271">
+    <rect x="610" y="110" width="12" height="12" rx="2" class="cell-bg-271" fill="#161b22" />
+    <path d="M 615 111.5 L 617 111.5 L 617 115 L 615 115 Z M 611.5 114 L 613.5 113 L 614.5 115.5 L 612.5 116.5 Z M 618.5 113 L 620.5 114 L 619.5 116.5 L 617.5 115.5 Z M 614 117 L 618 117 L 617.5 120.5 L 614.5 120.5 Z" class="cell-footprint-271" fill="#0e4429" />
+  </g>
   <rect x="610" y="125" width="12" height="12" rx="2" class="cell-272" fill="#161b22" />
   <rect x="625" y="35" width="12" height="12" rx="2" class="cell-279" fill="#161b22" />
   <rect x="625" y="50" width="12" height="12" rx="2" class="cell-278" fill="#161b22" />
-  <rect x="625" y="65" width="12" height="12" rx="2" class="cell-277" fill="#161b22" />
-  <rect x="625" y="80" width="12" height="12" rx="2" class="cell-276" fill="#161b22" />
+  <g class="cell-group-277">
+    <rect x="625" y="65" width="12" height="12" rx="2" class="cell-bg-277" fill="#161b22" />
+    <path d="M 630 66.5 L 632 66.5 L 632 70 L 630 70 Z M 626.5 69 L 628.5 68 L 629.5 70.5 L 627.5 71.5 Z M 633.5 68 L 635.5 69 L 634.5 71.5 L 632.5 70.5 Z M 629 72 L 633 72 L 632.5 75.5 L 629.5 75.5 Z" class="cell-footprint-277" fill="#0e4429" />
+  </g>
+  <g class="cell-group-276">
+    <rect x="625" y="80" width="12" height="12" rx="2" class="cell-bg-276" fill="#161b22" />
+    <path d="M 630 81.5 L 632 81.5 L 632 85 L 630 85 Z M 626.5 84 L 628.5 83 L 629.5 85.5 L 627.5 86.5 Z M 633.5 83 L 635.5 84 L 634.5 86.5 L 632.5 85.5 Z M 629 87 L 633 87 L 632.5 90.5 L 629.5 90.5 Z" class="cell-footprint-276" fill="#006d32" />
+  </g>
   <rect x="625" y="95" width="12" height="12" rx="2" class="cell-275" fill="#161b22" />
   <rect x="625" y="110" width="12" height="12" rx="2" class="cell-274" fill="#161b22" />
   <rect x="625" y="125" width="12" height="12" rx="2" class="cell-273" fill="#161b22" />
@@ -2180,70 +2807,181 @@
   <rect x="685" y="65" width="12" height="12" rx="2" class="cell-305" fill="#161b22" />
   <rect x="685" y="80" width="12" height="12" rx="2" class="cell-304" fill="#161b22" />
   <rect x="685" y="95" width="12" height="12" rx="2" class="cell-303" fill="#161b22" />
-  <rect x="685" y="110" width="12" height="12" rx="2" class="cell-302" fill="#161b22" />
+  <g class="cell-group-302">
+    <rect x="685" y="110" width="12" height="12" rx="2" class="cell-bg-302" fill="#161b22" />
+    <path d="M 690 111.5 L 692 111.5 L 692 115 L 690 115 Z M 686.5 114 L 688.5 113 L 689.5 115.5 L 687.5 116.5 Z M 693.5 113 L 695.5 114 L 694.5 116.5 L 692.5 115.5 Z M 689 117 L 693 117 L 692.5 120.5 L 689.5 120.5 Z" class="cell-footprint-302" fill="#006d32" />
+  </g>
   <rect x="685" y="125" width="12" height="12" rx="2" class="cell-301" fill="#161b22" />
   <rect x="700" y="35" width="12" height="12" rx="2" class="cell-308" fill="#161b22" />
   <rect x="700" y="50" width="12" height="12" rx="2" class="cell-309" fill="#161b22" />
   <rect x="700" y="65" width="12" height="12" rx="2" class="cell-310" fill="#161b22" />
-  <rect x="700" y="80" width="12" height="12" rx="2" class="cell-311" fill="#161b22" />
+  <g class="cell-group-311">
+    <rect x="700" y="80" width="12" height="12" rx="2" class="cell-bg-311" fill="#161b22" />
+    <path d="M 705 81.5 L 707 81.5 L 707 85 L 705 85 Z M 701.5 84 L 703.5 83 L 704.5 85.5 L 702.5 86.5 Z M 708.5 83 L 710.5 84 L 709.5 86.5 L 707.5 85.5 Z M 704 87 L 708 87 L 707.5 90.5 L 704.5 90.5 Z" class="cell-footprint-311" fill="#0e4429" />
+  </g>
   <rect x="700" y="95" width="12" height="12" rx="2" class="cell-312" fill="#161b22" />
-  <rect x="700" y="110" width="12" height="12" rx="2" class="cell-313" fill="#161b22" />
+  <g class="cell-group-313">
+    <rect x="700" y="110" width="12" height="12" rx="2" class="cell-bg-313" fill="#161b22" />
+    <path d="M 705 111.5 L 707 111.5 L 707 115 L 705 115 Z M 701.5 114 L 703.5 113 L 704.5 115.5 L 702.5 116.5 Z M 708.5 113 L 710.5 114 L 709.5 116.5 L 707.5 115.5 Z M 704 117 L 708 117 L 707.5 120.5 L 704.5 120.5 Z" class="cell-footprint-313" fill="#006d32" />
+  </g>
   <rect x="700" y="125" width="12" height="12" rx="2" class="cell-314" fill="#161b22" />
-  <rect x="715" y="35" width="12" height="12" rx="2" class="cell-321" fill="#161b22" />
-  <rect x="715" y="50" width="12" height="12" rx="2" class="cell-320" fill="#161b22" />
-  <rect x="715" y="65" width="12" height="12" rx="2" class="cell-319" fill="#161b22" />
-  <rect x="715" y="80" width="12" height="12" rx="2" class="cell-318" fill="#161b22" />
-  <rect x="715" y="95" width="12" height="12" rx="2" class="cell-317" fill="#161b22" />
+  <g class="cell-group-321">
+    <rect x="715" y="35" width="12" height="12" rx="2" class="cell-bg-321" fill="#161b22" />
+    <path d="M 720 36.5 L 722 36.5 L 722 40 L 720 40 Z M 716.5 39 L 718.5 38 L 719.5 40.5 L 717.5 41.5 Z M 723.5 38 L 725.5 39 L 724.5 41.5 L 722.5 40.5 Z M 719 42 L 723 42 L 722.5 45.5 L 719.5 45.5 Z" class="cell-footprint-321" fill="#26a641" />
+  </g>
+  <g class="cell-group-320">
+    <rect x="715" y="50" width="12" height="12" rx="2" class="cell-bg-320" fill="#161b22" />
+    <path d="M 720 51.5 L 722 51.5 L 722 55 L 720 55 Z M 716.5 54 L 718.5 53 L 719.5 55.5 L 717.5 56.5 Z M 723.5 53 L 725.5 54 L 724.5 56.5 L 722.5 55.5 Z M 719 57 L 723 57 L 722.5 60.5 L 719.5 60.5 Z" class="cell-footprint-320" fill="#26a641" />
+  </g>
+  <g class="cell-group-319">
+    <rect x="715" y="65" width="12" height="12" rx="2" class="cell-bg-319" fill="#161b22" />
+    <path d="M 720 66.5 L 722 66.5 L 722 70 L 720 70 Z M 716.5 69 L 718.5 68 L 719.5 70.5 L 717.5 71.5 Z M 723.5 68 L 725.5 69 L 724.5 71.5 L 722.5 70.5 Z M 719 72 L 723 72 L 722.5 75.5 L 719.5 75.5 Z" class="cell-footprint-319" fill="#006d32" />
+  </g>
+  <g class="cell-group-318">
+    <rect x="715" y="80" width="12" height="12" rx="2" class="cell-bg-318" fill="#161b22" />
+    <path d="M 720 81.5 L 722 81.5 L 722 85 L 720 85 Z M 716.5 84 L 718.5 83 L 719.5 85.5 L 717.5 86.5 Z M 723.5 83 L 725.5 84 L 724.5 86.5 L 722.5 85.5 Z M 719 87 L 723 87 L 722.5 90.5 L 719.5 90.5 Z" class="cell-footprint-318" fill="#39d353" />
+  </g>
+  <g class="cell-group-317">
+    <rect x="715" y="95" width="12" height="12" rx="2" class="cell-bg-317" fill="#161b22" />
+    <path d="M 720 96.5 L 722 96.5 L 722 100 L 720 100 Z M 716.5 99 L 718.5 98 L 719.5 100.5 L 717.5 101.5 Z M 723.5 98 L 725.5 99 L 724.5 101.5 L 722.5 100.5 Z M 719 102 L 723 102 L 722.5 105.5 L 719.5 105.5 Z" class="cell-footprint-317" fill="#0e4429" />
+  </g>
   <rect x="715" y="110" width="12" height="12" rx="2" class="cell-316" fill="#161b22" />
   <rect x="715" y="125" width="12" height="12" rx="2" class="cell-315" fill="#161b22" />
-  <rect x="730" y="35" width="12" height="12" rx="2" class="cell-322" fill="#161b22" />
-  <rect x="730" y="50" width="12" height="12" rx="2" class="cell-323" fill="#161b22" />
+  <g class="cell-group-322">
+    <rect x="730" y="35" width="12" height="12" rx="2" class="cell-bg-322" fill="#161b22" />
+    <path d="M 735 36.5 L 737 36.5 L 737 40 L 735 40 Z M 731.5 39 L 733.5 38 L 734.5 40.5 L 732.5 41.5 Z M 738.5 38 L 740.5 39 L 739.5 41.5 L 737.5 40.5 Z M 734 42 L 738 42 L 737.5 45.5 L 734.5 45.5 Z" class="cell-footprint-322" fill="#0e4429" />
+  </g>
+  <g class="cell-group-323">
+    <rect x="730" y="50" width="12" height="12" rx="2" class="cell-bg-323" fill="#161b22" />
+    <path d="M 735 51.5 L 737 51.5 L 737 55 L 735 55 Z M 731.5 54 L 733.5 53 L 734.5 55.5 L 732.5 56.5 Z M 738.5 53 L 740.5 54 L 739.5 56.5 L 737.5 55.5 Z M 734 57 L 738 57 L 737.5 60.5 L 734.5 60.5 Z" class="cell-footprint-323" fill="#006d32" />
+  </g>
   <rect x="730" y="65" width="12" height="12" rx="2" class="cell-324" fill="#161b22" />
-  <rect x="730" y="80" width="12" height="12" rx="2" class="cell-325" fill="#161b22" />
-  <rect x="730" y="95" width="12" height="12" rx="2" class="cell-326" fill="#161b22" />
-  <rect x="730" y="110" width="12" height="12" rx="2" class="cell-327" fill="#161b22" />
-  <rect x="730" y="125" width="12" height="12" rx="2" class="cell-328" fill="#161b22" />
+  <g class="cell-group-325">
+    <rect x="730" y="80" width="12" height="12" rx="2" class="cell-bg-325" fill="#161b22" />
+    <path d="M 735 81.5 L 737 81.5 L 737 85 L 735 85 Z M 731.5 84 L 733.5 83 L 734.5 85.5 L 732.5 86.5 Z M 738.5 83 L 740.5 84 L 739.5 86.5 L 737.5 85.5 Z M 734 87 L 738 87 L 737.5 90.5 L 734.5 90.5 Z" class="cell-footprint-325" fill="#26a641" />
+  </g>
+  <g class="cell-group-326">
+    <rect x="730" y="95" width="12" height="12" rx="2" class="cell-bg-326" fill="#161b22" />
+    <path d="M 735 96.5 L 737 96.5 L 737 100 L 735 100 Z M 731.5 99 L 733.5 98 L 734.5 100.5 L 732.5 101.5 Z M 738.5 98 L 740.5 99 L 739.5 101.5 L 737.5 100.5 Z M 734 102 L 738 102 L 737.5 105.5 L 734.5 105.5 Z" class="cell-footprint-326" fill="#26a641" />
+  </g>
+  <g class="cell-group-327">
+    <rect x="730" y="110" width="12" height="12" rx="2" class="cell-bg-327" fill="#161b22" />
+    <path d="M 735 111.5 L 737 111.5 L 737 115 L 735 115 Z M 731.5 114 L 733.5 113 L 734.5 115.5 L 732.5 116.5 Z M 738.5 113 L 740.5 114 L 739.5 116.5 L 737.5 115.5 Z M 734 117 L 738 117 L 737.5 120.5 L 734.5 120.5 Z" class="cell-footprint-327" fill="#26a641" />
+  </g>
+  <g class="cell-group-328">
+    <rect x="730" y="125" width="12" height="12" rx="2" class="cell-bg-328" fill="#161b22" />
+    <path d="M 735 126.5 L 737 126.5 L 737 130 L 735 130 Z M 731.5 129 L 733.5 128 L 734.5 130.5 L 732.5 131.5 Z M 738.5 128 L 740.5 129 L 739.5 131.5 L 737.5 130.5 Z M 734 132 L 738 132 L 737.5 135.5 L 734.5 135.5 Z" class="cell-footprint-328" fill="#006d32" />
+  </g>
   <rect x="745" y="35" width="12" height="12" rx="2" class="cell-335" fill="#161b22" />
-  <rect x="745" y="50" width="12" height="12" rx="2" class="cell-334" fill="#161b22" />
-  <rect x="745" y="65" width="12" height="12" rx="2" class="cell-333" fill="#161b22" />
-  <rect x="745" y="80" width="12" height="12" rx="2" class="cell-332" fill="#161b22" />
+  <g class="cell-group-334">
+    <rect x="745" y="50" width="12" height="12" rx="2" class="cell-bg-334" fill="#161b22" />
+    <path d="M 750 51.5 L 752 51.5 L 752 55 L 750 55 Z M 746.5 54 L 748.5 53 L 749.5 55.5 L 747.5 56.5 Z M 753.5 53 L 755.5 54 L 754.5 56.5 L 752.5 55.5 Z M 749 57 L 753 57 L 752.5 60.5 L 749.5 60.5 Z" class="cell-footprint-334" fill="#0e4429" />
+  </g>
+  <g class="cell-group-333">
+    <rect x="745" y="65" width="12" height="12" rx="2" class="cell-bg-333" fill="#161b22" />
+    <path d="M 750 66.5 L 752 66.5 L 752 70 L 750 70 Z M 746.5 69 L 748.5 68 L 749.5 70.5 L 747.5 71.5 Z M 753.5 68 L 755.5 69 L 754.5 71.5 L 752.5 70.5 Z M 749 72 L 753 72 L 752.5 75.5 L 749.5 75.5 Z" class="cell-footprint-333" fill="#006d32" />
+  </g>
+  <g class="cell-group-332">
+    <rect x="745" y="80" width="12" height="12" rx="2" class="cell-bg-332" fill="#161b22" />
+    <path d="M 750 81.5 L 752 81.5 L 752 85 L 750 85 Z M 746.5 84 L 748.5 83 L 749.5 85.5 L 747.5 86.5 Z M 753.5 83 L 755.5 84 L 754.5 86.5 L 752.5 85.5 Z M 749 87 L 753 87 L 752.5 90.5 L 749.5 90.5 Z" class="cell-footprint-332" fill="#26a641" />
+  </g>
   <rect x="745" y="95" width="12" height="12" rx="2" class="cell-331" fill="#161b22" />
   <rect x="745" y="110" width="12" height="12" rx="2" class="cell-330" fill="#161b22" />
   <rect x="745" y="125" width="12" height="12" rx="2" class="cell-329" fill="#161b22" />
   <rect x="760" y="35" width="12" height="12" rx="2" class="cell-336" fill="#161b22" />
-  <rect x="760" y="50" width="12" height="12" rx="2" class="cell-337" fill="#161b22" />
-  <rect x="760" y="65" width="12" height="12" rx="2" class="cell-338" fill="#161b22" />
+  <g class="cell-group-337">
+    <rect x="760" y="50" width="12" height="12" rx="2" class="cell-bg-337" fill="#161b22" />
+    <path d="M 765 51.5 L 767 51.5 L 767 55 L 765 55 Z M 761.5 54 L 763.5 53 L 764.5 55.5 L 762.5 56.5 Z M 768.5 53 L 770.5 54 L 769.5 56.5 L 767.5 55.5 Z M 764 57 L 768 57 L 767.5 60.5 L 764.5 60.5 Z" class="cell-footprint-337" fill="#0e4429" />
+  </g>
+  <g class="cell-group-338">
+    <rect x="760" y="65" width="12" height="12" rx="2" class="cell-bg-338" fill="#161b22" />
+    <path d="M 765 66.5 L 767 66.5 L 767 70 L 765 70 Z M 761.5 69 L 763.5 68 L 764.5 70.5 L 762.5 71.5 Z M 768.5 68 L 770.5 69 L 769.5 71.5 L 767.5 70.5 Z M 764 72 L 768 72 L 767.5 75.5 L 764.5 75.5 Z" class="cell-footprint-338" fill="#006d32" />
+  </g>
   <rect x="760" y="80" width="12" height="12" rx="2" class="cell-339" fill="#161b22" />
-  <rect x="760" y="95" width="12" height="12" rx="2" class="cell-340" fill="#161b22" />
+  <g class="cell-group-340">
+    <rect x="760" y="95" width="12" height="12" rx="2" class="cell-bg-340" fill="#161b22" />
+    <path d="M 765 96.5 L 767 96.5 L 767 100 L 765 100 Z M 761.5 99 L 763.5 98 L 764.5 100.5 L 762.5 101.5 Z M 768.5 98 L 770.5 99 L 769.5 101.5 L 767.5 100.5 Z M 764 102 L 768 102 L 767.5 105.5 L 764.5 105.5 Z" class="cell-footprint-340" fill="#006d32" />
+  </g>
   <rect x="760" y="110" width="12" height="12" rx="2" class="cell-341" fill="#161b22" />
-  <rect x="760" y="125" width="12" height="12" rx="2" class="cell-342" fill="#161b22" />
-  <rect x="775" y="35" width="12" height="12" rx="2" class="cell-349" fill="#161b22" />
+  <g class="cell-group-342">
+    <rect x="760" y="125" width="12" height="12" rx="2" class="cell-bg-342" fill="#161b22" />
+    <path d="M 765 126.5 L 767 126.5 L 767 130 L 765 130 Z M 761.5 129 L 763.5 128 L 764.5 130.5 L 762.5 131.5 Z M 768.5 128 L 770.5 129 L 769.5 131.5 L 767.5 130.5 Z M 764 132 L 768 132 L 767.5 135.5 L 764.5 135.5 Z" class="cell-footprint-342" fill="#26a641" />
+  </g>
+  <g class="cell-group-349">
+    <rect x="775" y="35" width="12" height="12" rx="2" class="cell-bg-349" fill="#161b22" />
+    <path d="M 780 36.5 L 782 36.5 L 782 40 L 780 40 Z M 776.5 39 L 778.5 38 L 779.5 40.5 L 777.5 41.5 Z M 783.5 38 L 785.5 39 L 784.5 41.5 L 782.5 40.5 Z M 779 42 L 783 42 L 782.5 45.5 L 779.5 45.5 Z" class="cell-footprint-349" fill="#006d32" />
+  </g>
   <rect x="775" y="50" width="12" height="12" rx="2" class="cell-348" fill="#161b22" />
-  <rect x="775" y="65" width="12" height="12" rx="2" class="cell-347" fill="#161b22" />
-  <rect x="775" y="80" width="12" height="12" rx="2" class="cell-346" fill="#161b22" />
+  <g class="cell-group-347">
+    <rect x="775" y="65" width="12" height="12" rx="2" class="cell-bg-347" fill="#161b22" />
+    <path d="M 780 66.5 L 782 66.5 L 782 70 L 780 70 Z M 776.5 69 L 778.5 68 L 779.5 70.5 L 777.5 71.5 Z M 783.5 68 L 785.5 69 L 784.5 71.5 L 782.5 70.5 Z M 779 72 L 783 72 L 782.5 75.5 L 779.5 75.5 Z" class="cell-footprint-347" fill="#006d32" />
+  </g>
+  <g class="cell-group-346">
+    <rect x="775" y="80" width="12" height="12" rx="2" class="cell-bg-346" fill="#161b22" />
+    <path d="M 780 81.5 L 782 81.5 L 782 85 L 780 85 Z M 776.5 84 L 778.5 83 L 779.5 85.5 L 777.5 86.5 Z M 783.5 83 L 785.5 84 L 784.5 86.5 L 782.5 85.5 Z M 779 87 L 783 87 L 782.5 90.5 L 779.5 90.5 Z" class="cell-footprint-346" fill="#39d353" />
+  </g>
   <rect x="775" y="95" width="12" height="12" rx="2" class="cell-345" fill="#161b22" />
   <rect x="775" y="110" width="12" height="12" rx="2" class="cell-344" fill="#161b22" />
   <rect x="775" y="125" width="12" height="12" rx="2" class="cell-343" fill="#161b22" />
-  <rect x="790" y="35" width="12" height="12" rx="2" class="cell-350" fill="#161b22" />
-  <rect x="790" y="50" width="12" height="12" rx="2" class="cell-351" fill="#161b22" />
+  <g class="cell-group-350">
+    <rect x="790" y="35" width="12" height="12" rx="2" class="cell-bg-350" fill="#161b22" />
+    <path d="M 795 36.5 L 797 36.5 L 797 40 L 795 40 Z M 791.5 39 L 793.5 38 L 794.5 40.5 L 792.5 41.5 Z M 798.5 38 L 800.5 39 L 799.5 41.5 L 797.5 40.5 Z M 794 42 L 798 42 L 797.5 45.5 L 794.5 45.5 Z" class="cell-footprint-350" fill="#39d353" />
+  </g>
+  <g class="cell-group-351">
+    <rect x="790" y="50" width="12" height="12" rx="2" class="cell-bg-351" fill="#161b22" />
+    <path d="M 795 51.5 L 797 51.5 L 797 55 L 795 55 Z M 791.5 54 L 793.5 53 L 794.5 55.5 L 792.5 56.5 Z M 798.5 53 L 800.5 54 L 799.5 56.5 L 797.5 55.5 Z M 794 57 L 798 57 L 797.5 60.5 L 794.5 60.5 Z" class="cell-footprint-351" fill="#0e4429" />
+  </g>
   <rect x="790" y="65" width="12" height="12" rx="2" class="cell-352" fill="#161b22" />
   <rect x="790" y="80" width="12" height="12" rx="2" class="cell-353" fill="#161b22" />
-  <rect x="790" y="95" width="12" height="12" rx="2" class="cell-354" fill="#161b22" />
-  <rect x="790" y="110" width="12" height="12" rx="2" class="cell-355" fill="#161b22" />
+  <g class="cell-group-354">
+    <rect x="790" y="95" width="12" height="12" rx="2" class="cell-bg-354" fill="#161b22" />
+    <path d="M 795 96.5 L 797 96.5 L 797 100 L 795 100 Z M 791.5 99 L 793.5 98 L 794.5 100.5 L 792.5 101.5 Z M 798.5 98 L 800.5 99 L 799.5 101.5 L 797.5 100.5 Z M 794 102 L 798 102 L 797.5 105.5 L 794.5 105.5 Z" class="cell-footprint-354" fill="#006d32" />
+  </g>
+  <g class="cell-group-355">
+    <rect x="790" y="110" width="12" height="12" rx="2" class="cell-bg-355" fill="#161b22" />
+    <path d="M 795 111.5 L 797 111.5 L 797 115 L 795 115 Z M 791.5 114 L 793.5 113 L 794.5 115.5 L 792.5 116.5 Z M 798.5 113 L 800.5 114 L 799.5 116.5 L 797.5 115.5 Z M 794 117 L 798 117 L 797.5 120.5 L 794.5 120.5 Z" class="cell-footprint-355" fill="#39d353" />
+  </g>
   <rect x="790" y="125" width="12" height="12" rx="2" class="cell-356" fill="#161b22" />
   <rect x="805" y="35" width="12" height="12" rx="2" class="cell-363" fill="#161b22" />
   <rect x="805" y="50" width="12" height="12" rx="2" class="cell-362" fill="#161b22" />
   <rect x="805" y="65" width="12" height="12" rx="2" class="cell-361" fill="#161b22" />
-  <rect x="805" y="80" width="12" height="12" rx="2" class="cell-360" fill="#161b22" />
-  <rect x="805" y="95" width="12" height="12" rx="2" class="cell-359" fill="#161b22" />
-  <rect x="805" y="110" width="12" height="12" rx="2" class="cell-358" fill="#161b22" />
-  <rect x="805" y="125" width="12" height="12" rx="2" class="cell-357" fill="#161b22" />
+  <g class="cell-group-360">
+    <rect x="805" y="80" width="12" height="12" rx="2" class="cell-bg-360" fill="#161b22" />
+    <path d="M 810 81.5 L 812 81.5 L 812 85 L 810 85 Z M 806.5 84 L 808.5 83 L 809.5 85.5 L 807.5 86.5 Z M 813.5 83 L 815.5 84 L 814.5 86.5 L 812.5 85.5 Z M 809 87 L 813 87 L 812.5 90.5 L 809.5 90.5 Z" class="cell-footprint-360" fill="#0e4429" />
+  </g>
+  <g class="cell-group-359">
+    <rect x="805" y="95" width="12" height="12" rx="2" class="cell-bg-359" fill="#161b22" />
+    <path d="M 810 96.5 L 812 96.5 L 812 100 L 810 100 Z M 806.5 99 L 808.5 98 L 809.5 100.5 L 807.5 101.5 Z M 813.5 98 L 815.5 99 L 814.5 101.5 L 812.5 100.5 Z M 809 102 L 813 102 L 812.5 105.5 L 809.5 105.5 Z" class="cell-footprint-359" fill="#0e4429" />
+  </g>
+  <g class="cell-group-358">
+    <rect x="805" y="110" width="12" height="12" rx="2" class="cell-bg-358" fill="#161b22" />
+    <path d="M 810 111.5 L 812 111.5 L 812 115 L 810 115 Z M 806.5 114 L 808.5 113 L 809.5 115.5 L 807.5 116.5 Z M 813.5 113 L 815.5 114 L 814.5 116.5 L 812.5 115.5 Z M 809 117 L 813 117 L 812.5 120.5 L 809.5 120.5 Z" class="cell-footprint-358" fill="#39d353" />
+  </g>
+  <g class="cell-group-357">
+    <rect x="805" y="125" width="12" height="12" rx="2" class="cell-bg-357" fill="#161b22" />
+    <path d="M 810 126.5 L 812 126.5 L 812 130 L 810 130 Z M 806.5 129 L 808.5 128 L 809.5 130.5 L 807.5 131.5 Z M 813.5 128 L 815.5 129 L 814.5 131.5 L 812.5 130.5 Z M 809 132 L 813 132 L 812.5 135.5 L 809.5 135.5 Z" class="cell-footprint-357" fill="#0e4429" />
+  </g>
   <rect x="820" y="35" width="12" height="12" rx="2" class="cell-364" fill="#161b22" />
-  <rect x="820" y="50" width="12" height="12" rx="2" class="cell-365" fill="#161b22" />
-  <rect x="820" y="65" width="12" height="12" rx="2" class="cell-366" fill="#161b22" />
-  <rect x="820" y="80" width="12" height="12" rx="2" class="cell-367" fill="#161b22" />
-  <rect x="820" y="95" width="12" height="12" rx="2" class="cell-368" fill="#161b22" />
-  <rect x="820" y="110" width="12" height="12" rx="2" class="cell-369" fill="#161b22" />
+  <g class="cell-group-365">
+    <rect x="820" y="50" width="12" height="12" rx="2" class="cell-bg-365" fill="#161b22" />
+    <path d="M 825 51.5 L 827 51.5 L 827 55 L 825 55 Z M 821.5 54 L 823.5 53 L 824.5 55.5 L 822.5 56.5 Z M 828.5 53 L 830.5 54 L 829.5 56.5 L 827.5 55.5 Z M 824 57 L 828 57 L 827.5 60.5 L 824.5 60.5 Z" class="cell-footprint-365" fill="#006d32" />
+  </g>
+  <g class="cell-group-366">
+    <rect x="820" y="65" width="12" height="12" rx="2" class="cell-bg-366" fill="#161b22" />
+    <path d="M 825 66.5 L 827 66.5 L 827 70 L 825 70 Z M 821.5 69 L 823.5 68 L 824.5 70.5 L 822.5 71.5 Z M 828.5 68 L 830.5 69 L 829.5 71.5 L 827.5 70.5 Z M 824 72 L 828 72 L 827.5 75.5 L 824.5 75.5 Z" class="cell-footprint-366" fill="#0e4429" />
+  </g>
+  <g class="cell-group-367">
+    <rect x="820" y="80" width="12" height="12" rx="2" class="cell-bg-367" fill="#161b22" />
+    <path d="M 825 81.5 L 827 81.5 L 827 85 L 825 85 Z M 821.5 84 L 823.5 83 L 824.5 85.5 L 822.5 86.5 Z M 828.5 83 L 830.5 84 L 829.5 86.5 L 827.5 85.5 Z M 824 87 L 828 87 L 827.5 90.5 L 824.5 90.5 Z" class="cell-footprint-367" fill="#0e4429" />
+  </g>
+  <g class="cell-group-368">
+    <rect x="820" y="95" width="12" height="12" rx="2" class="cell-bg-368" fill="#161b22" />
+    <path d="M 825 96.5 L 827 96.5 L 827 100 L 825 100 Z M 821.5 99 L 823.5 98 L 824.5 100.5 L 822.5 101.5 Z M 828.5 98 L 830.5 99 L 829.5 101.5 L 827.5 100.5 Z M 824 102 L 828 102 L 827.5 105.5 L 824.5 105.5 Z" class="cell-footprint-368" fill="#39d353" />
+  </g>
+  <g class="cell-group-369">
+    <rect x="820" y="110" width="12" height="12" rx="2" class="cell-bg-369" fill="#161b22" />
+    <path d="M 825 111.5 L 827 111.5 L 827 115 L 825 115 Z M 821.5 114 L 823.5 113 L 824.5 115.5 L 822.5 116.5 Z M 828.5 113 L 830.5 114 L 829.5 116.5 L 827.5 115.5 Z M 824 117 L 828 117 L 827.5 120.5 L 824.5 120.5 Z" class="cell-footprint-369" fill="#39d353" />
+  </g>
   <rect x="820" y="125" width="12" height="12" rx="2" class="cell-370" fill="#161b22" />
   <text x="10" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Mon</text>
   <text x="10" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Wed</text>
@@ -2268,18 +3006,20 @@
   <rect x="790" y="148" width="12" height="12" rx="2" fill="#39d353" />
   <text x="810" y="157" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">More</text>
   <g style="filter: url(#dino-glow);">
-    <animateMotion path="M 15 41 L 46 41 L 46 131 L 61 131 L 61 41 L 76 41 L 76 131 L 91 131 L 91 41 L 106 41 L 106 131 L 121 131 L 121 41 L 136 41 L 136 131 L 151 131 L 151 41 L 166 41 L 166 131 L 181 131 L 181 41 L 196 41 L 196 131 L 211 131 L 211 41 L 226 41 L 226 131 L 241 131 L 241 41 L 256 41 L 256 131 L 271 131 L 271 41 L 286 41 L 286 131 L 301 131 L 301 41 L 316 41 L 316 131 L 331 131 L 331 41 L 346 41 L 346 131 L 361 131 L 361 41 L 376 41 L 376 131 L 391 131 L 391 41 L 406 41 L 406 131 L 421 131 L 421 41 L 436 41 L 436 131 L 451 131 L 451 41 L 466 41 L 466 131 L 481 131 L 481 41 L 496 41 L 496 131 L 511 131 L 511 41 L 526 41 L 526 131 L 541 131 L 541 41 L 556 41 L 556 131 L 571 131 L 571 41 L 586 41 L 586 131 L 601 131 L 601 41 L 616 41 L 616 131 L 631 131 L 631 41 L 646 41 L 646 131 L 661 131 L 661 41 L 676 41 L 676 131 L 691 131 L 691 41 L 706 41 L 706 131 L 721 131 L 721 41 L 736 41 L 736 131 L 751 131 L 751 41 L 766 41 L 766 131 L 781 131 L 781 41 L 796 41 L 796 131 L 811 131 L 811 41 L 826 41 L 826 131 L 865 131" dur="40s" repeatCount="indefinite" rotate="auto" />
-    <g transform="translate(-10, -10)">
-      <rect x="8.4" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="0" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="16.8" y="1.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="16.8" y="2.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="12" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="13.2" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="14.399999999999999" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="4.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="10.799999999999999" y="6" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="9.6" y="7.199999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="8.4" width="1.2" height="1.2" fill="#5eead4" /><rect x="1.2" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="9.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="2.4" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="8.4" y="10.799999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="3.5999999999999996" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="12" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="13.2" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="13.2" width="1.2" height="1.2" fill="#5eead4" />
-      <!-- Eye -->
-      <rect x="9.6" y="2.4" width="1.2" height="1.2" fill="#0d1117" />
-      <rect x="9.6" y="2.4" width="1.2" height="1.2" fill="#5eead4" class="eye-blink" />
-      <!-- Mouth closed pixels (toggles opacity) -->
-      <g class="mouth-closed"><rect x="14.399999999999999" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /><rect x="15.6" y="3.5999999999999996" width="1.2" height="1.2" fill="#5eead4" /></g>
-      <!-- Leg 1 -->
-      <g class="leg-1"><rect x="4.8" y="14.399999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="15.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="4.8" y="16.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="16.8" width="1.2" height="1.2" fill="#5eead4" /></g>
-      <!-- Leg 2 -->
-      <g class="leg-2"><rect x="6" y="14.399999999999999" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="15.6" width="1.2" height="1.2" fill="#5eead4" /><rect x="6" y="16.8" width="1.2" height="1.2" fill="#5eead4" /><rect x="7.199999999999999" y="16.8" width="1.2" height="1.2" fill="#5eead4" /></g>
+    <animateMotion path="M 15 41 L 46 41 L 46 131 L 61 131 L 61 41 L 76 41 L 76 131 L 91 131 L 91 41 L 106 41 L 106 131 L 121 131 L 121 41 L 136 41 L 136 131 L 151 131 L 151 41 L 166 41 L 166 131 L 181 131 L 181 41 L 196 41 L 196 131 L 211 131 L 211 41 L 226 41 L 226 131 L 241 131 L 241 41 L 256 41 L 256 131 L 271 131 L 271 41 L 286 41 L 286 131 L 301 131 L 301 41 L 316 41 L 316 131 L 331 131 L 331 41 L 346 41 L 346 131 L 361 131 L 361 41 L 376 41 L 376 131 L 391 131 L 391 41 L 406 41 L 406 131 L 421 131 L 421 41 L 436 41 L 436 131 L 451 131 L 451 41 L 466 41 L 466 131 L 481 131 L 481 41 L 496 41 L 496 131 L 511 131 L 511 41 L 526 41 L 526 131 L 541 131 L 541 41 L 556 41 L 556 131 L 571 131 L 571 41 L 586 41 L 586 131 L 601 131 L 601 41 L 616 41 L 616 131 L 631 131 L 631 41 L 646 41 L 646 131 L 661 131 L 661 41 L 676 41 L 676 131 L 691 131 L 691 41 L 706 41 L 706 131 L 721 131 L 721 41 L 736 41 L 736 131 L 751 131 L 751 41 L 766 41 L 766 131 L 781 131 L 781 41 L 796 41 L 796 131 L 811 131 L 811 41 L 826 41 L 826 131 L 865 131" dur="40s" repeatCount="indefinite" />
+    <g class="dino-bob">
+      <g transform="translate(-15, -18)">
+        <rect x="14" y="0" width="2" height="2" fill="#5eead4" /><rect x="16" y="0" width="2" height="2" fill="#5eead4" /><rect x="18" y="0" width="2" height="2" fill="#5eead4" /><rect x="20" y="0" width="2" height="2" fill="#5eead4" /><rect x="22" y="0" width="2" height="2" fill="#5eead4" /><rect x="24" y="0" width="2" height="2" fill="#5eead4" /><rect x="12" y="2" width="2" height="2" fill="#5eead4" /><rect x="14" y="2" width="2" height="2" fill="#5eead4" /><rect x="16" y="2" width="2" height="2" fill="#5eead4" /><rect x="18" y="2" width="2" height="2" fill="#5eead4" /><rect x="20" y="2" width="2" height="2" fill="#5eead4" /><rect x="22" y="2" width="2" height="2" fill="#5eead4" /><rect x="24" y="2" width="2" height="2" fill="#5eead4" /><rect x="26" y="2" width="2" height="2" fill="#5eead4" /><rect x="28" y="2" width="2" height="2" fill="#5eead4" /><rect x="12" y="4" width="2" height="2" fill="#5eead4" /><rect x="14" y="4" width="2" height="2" fill="#5eead4" /><rect x="18" y="4" width="2" height="2" fill="#5eead4" /><rect x="20" y="4" width="2" height="2" fill="#5eead4" /><rect x="22" y="4" width="2" height="2" fill="#5eead4" /><rect x="24" y="4" width="2" height="2" fill="#5eead4" /><rect x="26" y="4" width="2" height="2" fill="#5eead4" /><rect x="28" y="4" width="2" height="2" fill="#5eead4" /><rect x="12" y="6" width="2" height="2" fill="#5eead4" /><rect x="14" y="6" width="2" height="2" fill="#5eead4" /><rect x="16" y="6" width="2" height="2" fill="#5eead4" /><rect x="18" y="6" width="2" height="2" fill="#5eead4" /><rect x="20" y="6" width="2" height="2" fill="#5eead4" /><rect x="22" y="6" width="2" height="2" fill="#5eead4" /><rect x="12" y="8" width="2" height="2" fill="#5eead4" /><rect x="14" y="8" width="2" height="2" fill="#5eead4" /><rect x="16" y="8" width="2" height="2" fill="#5eead4" /><rect x="18" y="8" width="2" height="2" fill="#5eead4" /><rect x="20" y="8" width="2" height="2" fill="#5eead4" /><rect x="22" y="8" width="2" height="2" fill="#5eead4" /><rect x="24" y="8" width="2" height="2" fill="#5eead4" /><rect x="26" y="8" width="2" height="2" fill="#5eead4" /><rect x="12" y="10" width="2" height="2" fill="#5eead4" /><rect x="14" y="10" width="2" height="2" fill="#5eead4" /><rect x="16" y="10" width="2" height="2" fill="#5eead4" /><rect x="18" y="10" width="2" height="2" fill="#5eead4" /><rect x="2" y="12" width="2" height="2" fill="#5eead4" /><rect x="10" y="12" width="2" height="2" fill="#5eead4" /><rect x="12" y="12" width="2" height="2" fill="#5eead4" /><rect x="14" y="12" width="2" height="2" fill="#5eead4" /><rect x="16" y="12" width="2" height="2" fill="#5eead4" /><rect x="2" y="14" width="2" height="2" fill="#5eead4" /><rect x="4" y="14" width="2" height="2" fill="#5eead4" /><rect x="10" y="14" width="2" height="2" fill="#5eead4" /><rect x="12" y="14" width="2" height="2" fill="#5eead4" /><rect x="14" y="14" width="2" height="2" fill="#5eead4" /><rect x="2" y="16" width="2" height="2" fill="#5eead4" /><rect x="4" y="16" width="2" height="2" fill="#5eead4" /><rect x="6" y="16" width="2" height="2" fill="#5eead4" /><rect x="10" y="16" width="2" height="2" fill="#5eead4" /><rect x="12" y="16" width="2" height="2" fill="#5eead4" /><rect x="14" y="16" width="2" height="2" fill="#5eead4" /><rect x="4" y="18" width="2" height="2" fill="#5eead4" /><rect x="6" y="18" width="2" height="2" fill="#5eead4" /><rect x="8" y="18" width="2" height="2" fill="#5eead4" /><rect x="10" y="18" width="2" height="2" fill="#5eead4" /><rect x="12" y="18" width="2" height="2" fill="#5eead4" /><rect x="14" y="18" width="2" height="2" fill="#5eead4" /><rect x="6" y="20" width="2" height="2" fill="#5eead4" /><rect x="8" y="20" width="2" height="2" fill="#5eead4" /><rect x="10" y="20" width="2" height="2" fill="#5eead4" /><rect x="12" y="20" width="2" height="2" fill="#5eead4" /><rect x="8" y="22" width="2" height="2" fill="#5eead4" /><rect x="10" y="22" width="2" height="2" fill="#5eead4" />
+        <!-- Eye -->
+        <rect x="16" y="4" width="2" height="2" fill="#0d1117" />
+        <rect x="16" y="4" width="2" height="2" fill="#5eead4" class="eye-blink" />
+        <!-- Mouth closed pixels (toggles opacity) -->
+        <g class="mouth-closed"><rect x="24" y="6" width="2" height="2" fill="#5eead4" /><rect x="26" y="6" width="2" height="2" fill="#5eead4" /></g>
+        <!-- Leg 1 -->
+        <g class="leg-1"><rect x="8" y="24" width="2" height="2" fill="#5eead4" /><rect x="8" y="26" width="2" height="2" fill="#5eead4" /><rect x="8" y="28" width="2" height="2" fill="#5eead4" /><rect x="10" y="28" width="2" height="2" fill="#5eead4" /></g>
+        <!-- Leg 2 -->
+        <g class="leg-2"><rect x="10" y="24" width="2" height="2" fill="#5eead4" /><rect x="10" y="26" width="2" height="2" fill="#5eead4" /><rect x="10" y="28" width="2" height="2" fill="#5eead4" /><rect x="12" y="28" width="2" height="2" fill="#5eead4" /></g>
+      </g>
     </g>
   </g>
 </svg>

@@ -104,24 +104,43 @@ async function main() {
         svg_content.push('    .eye-blink { animation: eye-blink-anim 3.5s steps(1) infinite; }');
         svg_content.push('    @keyframes eye-blink-anim { 0%, 93%, 100% { opacity: 0; } 95% { opacity: 1; } }');
 
-        // Generate individual cell keyframes synchronized with snout position
+        // Heavy bipedal Dino bobbing step animation
+        svg_content.push('    .dino-bob { animation: bobbing-anim 0.3s ease-in-out infinite alternate; }');
+        svg_content.push('    @keyframes bobbing-anim { 0% { transform: translateY(0px); } 100% { transform: translateY(-4px); } }');
+
+        // Generate individual cell keyframes: reveal footprints after Dino has walked past
         for (let col = 0; col < 53; col++) {
             for (let row = 0; row < 7; row++) {
                 const stepIdx = col % 2 === 0 ? (col * 7 + row) : (col * 7 + (6 - row));
                 // Center of cell stepIdx is at: startPadding + stepIdx * 15
-                // Snout is 6.8px ahead of origin along path
-                const d_eat = startPadding + stepIdx * 15 - 6.8;
-                const t = d_eat / totalLength;
+                // Reveal the footprint when Dino's origin is 12px past the cell center
+                const d_reveal = startPadding + stepIdx * 15 + 12;
+                const t = d_reveal / totalLength;
                 
                 const tStart = Math.max(0, t - 0.001);
                 const tEnd = Math.min(1.0, t + 0.001);
                 const realColor = grid_colors[grid[row][col]];
                 
-                svg_content.push(`    @keyframes c${stepIdx} {`);
-                svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { fill: #161b22; }`);
-                svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { fill: ${realColor}; }`);
-                svg_content.push(`    }`);
-                svg_content.push(`    .cell-${stepIdx} { animation: c${stepIdx} ${duration}s linear infinite; }`);
+                if (grid[row][col] === 0) {
+                    // Level 0 cells stay gray
+                    svg_content.push(`    @keyframes c${stepIdx} {`);
+                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { fill: #161b22; }`);
+                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { fill: #161b22; }`);
+                    svg_content.push(`    }`);
+                    svg_content.push(`    .cell-${stepIdx} { animation: c${stepIdx} ${duration}s linear infinite; }`);
+                } else {
+                    // Level > 0 cells fade from gray square to green T-Rex footprint
+                    svg_content.push(`    @keyframes bg-c${stepIdx} {`);
+                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 1; }`);
+                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 0; }`);
+                    svg_content.push(`    }`);
+                    svg_content.push(`    @keyframes fp-c${stepIdx} {`);
+                    svg_content.push(`      0%, ${Math.floor(tStart * 1000) / 10}% { opacity: 0; }`);
+                    svg_content.push(`      ${Math.floor(tEnd * 1000) / 10}%, 100% { opacity: 1; }`);
+                    svg_content.push(`    }`);
+                    svg_content.push(`    .cell-bg-${stepIdx} { animation: bg-c${stepIdx} ${duration}s linear infinite; }`);
+                    svg_content.push(`    .cell-footprint-${stepIdx} { animation: fp-c${stepIdx} ${duration}s linear infinite; }`);
+                }
             }
         }
         svg_content.push('  </style>');
@@ -132,7 +151,22 @@ async function main() {
                 const x = 40 + col * 15;
                 const y = 35 + row * 15;
                 const stepIdx = col % 2 === 0 ? (col * 7 + row) : (col * 7 + (6 - row));
-                svg_content.push(`  <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-${stepIdx}" fill="#161b22" />`);
+                const realColor = grid_colors[grid[row][col]];
+                
+                if (grid[row][col] === 0) {
+                    svg_content.push(`  <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-${stepIdx}" fill="#161b22" />`);
+                } else {
+                    svg_content.push(`  <g class="cell-group-${stepIdx}">`);
+                    // Gray square background
+                    svg_content.push(`    <rect x="${x}" y="${y}" width="12" height="12" rx="2" class="cell-bg-${stepIdx}" fill="#161b22" />`);
+                    // Green T-Rex footprint shape (offset by 12x12 cell boundaries)
+                    const footprintPath = `M ${x + 5} ${y + 1.5} L ${x + 7} ${y + 1.5} L ${x + 7} ${y + 5} L ${x + 5} ${y + 5} Z ` +
+                                          `M ${x + 1.5} ${y + 4} L ${x + 3.5} ${y + 3} L ${x + 4.5} ${y + 5.5} L ${x + 2.5} ${y + 6.5} Z ` +
+                                          `M ${x + 8.5} ${y + 3} L ${x + 10.5} ${y + 4} L ${x + 9.5} ${y + 6.5} L ${x + 7.5} ${y + 5.5} Z ` +
+                                          `M ${x + 4} ${y + 7} L ${x + 8} ${y + 7} L ${x + 7.5} ${y + 10.5} L ${x + 4.5} ${y + 10.5} Z`;
+                    svg_content.push(`    <path d="${footprintPath}" class="cell-footprint-${stepIdx}" fill="${realColor}" />`);
+                    svg_content.push(`  </g>`);
+                }
             }
         }
 
@@ -161,7 +195,7 @@ async function main() {
         });
         svg_content.push(`  <text x="${legend_x + 110}" y="157" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e">More</text>`);
 
-        // Dino Pixel Art Coordinates
+        // Dino Pixel Art Coordinates (Scale = 2.0 for a large, visible bipedal dinosaur)
         const dino_body = [
             [0,7], [0,8], [0,9], [0,10], [0,11], [0,12],
             [1,6], [1,7], [1,8], [1,9], [1,10], [1,11], [1,12], [1,13], [1,14],
@@ -188,7 +222,7 @@ async function main() {
             [12,5], [13,5], [14,5], [14,6]
         ];
 
-        const scale = 1.2;
+        const scale = 2.0; // Increased size to 2.0
         const dino_body_svg = dino_body.map(([r, c]) => 
             `<rect x="${c * scale}" y="${r * scale}" width="${scale}" height="${scale}" fill="#5eead4" />`
         ).join('');
@@ -222,20 +256,23 @@ async function main() {
         path_points.push(`L ${endX} 131`);
         const d_path = path_points.join(" ");
 
-        // Dino Character Group (follows path, rotates, translates for snout offset alignment)
+        // Dino Character Group (follows path, remains upright, bobs up/down, translates for offset alignment)
         svg_content.push('  <g style="filter: url(#dino-glow);">');
-        svg_content.push(`    <animateMotion path="${d_path}" dur="${duration}s" repeatCount="indefinite" rotate="auto" />`);
-        svg_content.push(`    <g transform="translate(-10, -10)">`); // Centering dino on path
-        svg_content.push(`      ${dino_body_svg}`);
-        svg_content.push(`      <!-- Eye -->`);
-        svg_content.push(`      <rect x="${8 * scale}" y="${2 * scale}" width="${scale}" height="${scale}" fill="#0d1117" />`);
-        svg_content.push(`      <rect x="${8 * scale}" y="${2 * scale}" width="${scale}" height="${scale}" fill="#5eead4" class="eye-blink" />`);
-        svg_content.push(`      <!-- Mouth closed pixels (toggles opacity) -->`);
-        svg_content.push(`      <g class="mouth-closed">${mouth_closed_svg}</g>`);
-        svg_content.push(`      <!-- Leg 1 -->`);
-        svg_content.push(`      <g class="leg-1">${leg1_svg}</g>`);
-        svg_content.push(`      <!-- Leg 2 -->`);
-        svg_content.push(`      <g class="leg-2">${leg2_svg}</g>`);
+        // Removed rotate="auto" to keep the bipedal Dino walking upright realistically
+        svg_content.push(`    <animateMotion path="${d_path}" dur="${duration}s" repeatCount="indefinite" />`);
+        svg_content.push('    <g class="dino-bob">'); // Bobbing group wrapper
+        svg_content.push(`      <g transform="translate(-15, -18)">`); // Center T-Rex horizontally and sit feet upright
+        svg_content.push(`        ${dino_body_svg}`);
+        svg_content.push(`        <!-- Eye -->`);
+        svg_content.push(`        <rect x="${8 * scale}" y="${2 * scale}" width="${scale}" height="${scale}" fill="#0d1117" />`);
+        svg_content.push(`        <rect x="${8 * scale}" y="${2 * scale}" width="${scale}" height="${scale}" fill="#5eead4" class="eye-blink" />`);
+        svg_content.push(`        <!-- Mouth closed pixels (toggles opacity) -->`);
+        svg_content.push(`        <g class="mouth-closed">${mouth_closed_svg}</g>`);
+        svg_content.push(`        <!-- Leg 1 -->`);
+        svg_content.push(`        <g class="leg-1">${leg1_svg}</g>`);
+        svg_content.push(`        <!-- Leg 2 -->`);
+        svg_content.push(`        <g class="leg-2">${leg2_svg}</g>`);
+        svg_content.push('      </g>');
         svg_content.push('    </g>');
         svg_content.push('  </g>');
 
@@ -248,7 +285,7 @@ async function main() {
         }
 
         fs.writeFileSync(path.join(assetsDir, 'dino.svg'), svg_content.join('\n'));
-        console.log("Successfully generated assets/dino.svg based on live GitHub profile contributions!");
+        console.log("Successfully generated assets/dino.svg with perfect footprints, bobbing, and bipedal walking style!");
 
     } catch (err) {
         console.error("Error generating live Dino SVG:", err);
