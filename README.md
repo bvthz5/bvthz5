@@ -169,6 +169,29 @@
 
 ---
 
+## 📚 Publications & Research
+
+<table width="100%">
+  <tr>
+    <td>
+      <div align="left">
+        <h3>🧠 EEG-based Brain-Computer Interface (BCI) for Unmanned Aerial Vehicle (UAV) Control</h3>
+        <p><strong>Published in:</strong> <i>Global Perspectives on AI and Sustainable Development 2.0 (GPAISD 2.0)</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Publication-Research%20Paper-blueviolet?style=flat-square" alt="Research Paper Badge">
+          <img src="https://img.shields.io/badge/Topic-BCI%20%7C%20UAV%20Control%20%7C%20EEG-blue?style=flat-square" alt="Topic Badge">
+          <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
+        </p>
+        <p>
+          <i>An advanced research paper exploring the integration of Electroencephalography (EEG) signals with deep learning classification models to establish direct Brain-Computer Interfaces (BCI) for real-time control of Unmanned Aerial Vehicles (UAVs). The work addresses artifact removal, neural signal feature extraction, and low-latency navigation mapping under sustainable development paradigms.</i>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📜 Certifications & Hackathons
 
 <p align="center">
@@ -190,6 +213,49 @@
 
 ---
 
+## 🛠 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪑 <a href="https://github.com/bvthz5/Seat-Sync">Seat-Sync</a></h3>
+      <p><i>Smart seating plan visualization and real-time synchronization system. Features dynamic drag-and-drop grids and automated exam seating allocations.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-90%25-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20WS-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/bvthz5/thazio-labs">Thazio Labs</a></h3>
+      <p><i>Experimental playground and sandbox for advanced web technologies. Explores high-fidelity voice pipelines and interactive micro-animations.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active%20R%26D-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20AI%20Pipelines-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/bvthz5/Smart-Blood-Connect">Smart Blood Connect</a></h3>
+      <p><i>Real-time donor matchmaking and alert platform. Streamlines emergency donation queries, location mapping, and donor availability status.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node%20%7C%20MySQL-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/bvthz5/realestate">Real Estate Marketplace</a></h3>
+      <p><i>Full-scale digital real estate portal. Enables property listings, spatial searches, client booking interfaces, and secure agent dashboards.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Express%20%7C%20SQL-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 Skills & Tools
 
 <p align="center">
@@ -207,6 +273,31 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
+---
+
+## 🎯 Current Focus & Learning Path
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Active Research & Updates</h4>
+      <ul>
+        <li><b>Retrieval-Augmented Generation (RAG):</b> Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</li>
+        <li><b>Autonomous AI Agents:</b> Investigating multi-agent collaboration frameworks using the ReAct paradigm, dynamic tool-use coordination, and contextual memory models.</li>
+        <li><b>BCI Navigation Systems:</b> Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Advanced Tech Updates & Roadmap</h4>
+      <ul>
+        <li><b>Neural Signal Processing & Deep Learning:</b> Training sequential time-series model architectures for classification of neural features.</li>
+        <li><b>Vector Databases & LLM Integration:</b> Exploring advanced indexing in databases like PgVector/Pinecone for high-fidelity agent tools.</li>
+        <li><b>System Orchestration:</b> Mastering Kubernetes clusters, multi-tier Docker environments, and modern CI/CD deployment pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -277,98 +368,7 @@
        style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
 </p>
 
----
 
-## 📚 Publications & Research
-
-<table width="100%">
-  <tr>
-    <td>
-      <div align="left">
-        <h3>🧠 EEG-based Brain-Computer Interface (BCI) for Unmanned Aerial Vehicle (UAV) Control</h3>
-        <p><strong>Published in:</strong> <i>Global Perspectives on AI and Sustainable Development 2.0 (GPAISD 2.0)</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Publication-Research%20Paper-blueviolet?style=flat-square" alt="Research Paper Badge">
-          <img src="https://img.shields.io/badge/Topic-BCI%20%7C%20UAV%20Control%20%7C%20EEG-blue?style=flat-square" alt="Topic Badge">
-          <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
-        </p>
-        <p>
-          <i>An advanced research paper exploring the integration of Electroencephalography (EEG) signals with deep learning classification models to establish direct Brain-Computer Interfaces (BCI) for real-time control of Unmanned Aerial Vehicles (UAVs). The work addresses artifact removal, neural signal feature extraction, and low-latency navigation mapping under sustainable development paradigms.</i>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪑 <a href="https://github.com/bvthz5/Seat-Sync">Seat-Sync</a></h3>
-      <p><i>Smart seating plan visualization and real-time synchronization system. Features dynamic drag-and-drop grids and automated exam seating allocations.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-90%25-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20WS-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/bvthz5/thazio-labs">Thazio Labs</a></h3>
-      <p><i>Experimental playground and sandbox for advanced web technologies. Explores high-fidelity voice pipelines and interactive micro-animations.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Active%20R%26D-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20AI%20Pipelines-purple?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩸 <a href="https://github.com/bvthz5/Smart-Blood-Connect">Smart Blood Connect</a></h3>
-      <p><i>Real-time donor matchmaking and alert platform. Streamlines emergency donation queries, location mapping, and donor availability status.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node%20%7C%20MySQL-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/bvthz5/realestate">Real Estate Marketplace</a></h3>
-      <p><i>Full-scale digital real estate portal. Enables property listings, spatial searches, client booking interfaces, and secure agent dashboards.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Express%20%7C%20SQL-yellow?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Current Focus & Learning Path
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Active Research & Updates</h4>
-      <ul>
-        <li><b>Retrieval-Augmented Generation (RAG):</b> Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</li>
-        <li><b>Autonomous AI Agents:</b> Investigating multi-agent collaboration frameworks using the ReAct paradigm, dynamic tool-use coordination, and contextual memory models.</li>
-        <li><b>BCI Navigation Systems:</b> Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Advanced Tech Updates & Roadmap</h4>
-      <ul>
-        <li><b>Neural Signal Processing & Deep Learning:</b> Training sequential time-series model architectures for classification of neural features.</li>
-        <li><b>Vector Databases & LLM Integration:</b> Exploring advanced indexing in databases like PgVector/Pinecone for high-fidelity agent tools.</li>
-        <li><b>System Orchestration:</b> Mastering Kubernetes clusters, multi-tier Docker environments, and modern CI/CD deployment pipelines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🚀 Extras
 
