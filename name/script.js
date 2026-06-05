@@ -13,13 +13,15 @@ const passions = [
     "I am dedicated to mastering DevOps practices."
 ];
 
-let nameIndex = 0;
+let nameIndex = 1;
 let passionIndex = 0;
 const nameDisplay = document.getElementById("nameDisplay");
 const passionStatement = document.getElementById("passionStatement");
 
 // Function to Change Name
 function changeName() {
+    nameDisplay.classList.remove("curtain");
+    void nameDisplay.offsetWidth; // Trigger reflow to restart CSS animation
     nameDisplay.classList.add("curtain");
     setTimeout(() => {
         nameDisplay.textContent = names[nameIndex];

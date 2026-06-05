@@ -64,7 +64,7 @@
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
+  <img src="https://github-stats-extended.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150"><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&area_color=000000"/>
 </p>
@@ -74,7 +74,7 @@
 ### 📊 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvthz5&layout=compact&theme=radical">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bvthz5&layout=compact&theme=radical">
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githack.com/bvthz5/bvthz5/main/assets/snake.svg" width="700" height="300">
+  <img src="assets/snake.svg" width="700" height="300">
 </p>
 
 ---
@@ -194,13 +194,17 @@
 
 ## 🏆 GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.devomb.com/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## 🎵 Spotify Now Playing
 
-<p align="center"> <a href="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true"> <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /> </a> </p>
+<p align="center">
+  <a href="https://open.spotify.com/user/binilvincent5" target="_blank">
+    <img src="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
@@ -231,7 +235,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bvthaz&theme=radical"
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=bvthaz&theme=radical"
        alt="WakaTime Stats"
        style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
 </p>
