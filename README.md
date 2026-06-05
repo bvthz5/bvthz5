@@ -187,7 +187,7 @@
           <img src="https://img.shields.io/badge/Topic-EEG--based%20BCI%20for%20UAV%20Control-blue?style=flat-square" alt="Topic Badge">
           <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
         </p>
-        <p>
+        <p align="justify">
           <i>An advanced research paper exploring the integration of Electroencephalography (EEG) signals with deep learning classification models to establish direct Brain-Computer Interfaces (BCI) for real-time control of Unmanned Aerial Vehicles (UAVs). The work addresses artifact removal, neural signal feature extraction, and low-latency navigation mapping under sustainable development paradigms.</i>
         </p>
       </div>
@@ -315,7 +315,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="justify">
       <h4>🚀 Active Research & Updates</h4>
       <ul>
         <li><b>Retrieval-Augmented Generation (RAG):</b> Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</li>
@@ -323,7 +323,7 @@
         <li><b>BCI Navigation Systems:</b> Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="justify">
       <h4>📚 Advanced Tech Updates & Roadmap</h4>
       <ul>
         <li><b>Neural Signal Processing & Deep Learning:</b> Training sequential time-series model architectures for classification of neural features.</li>
