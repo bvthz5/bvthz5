@@ -5213,7 +5213,7 @@
   </g>
   <g class="cell-group-370">
     <rect x="1080" y="155" width="16" height="16" rx="2" class="cell-bg-370" fill="#161b22" />
-    <path d="M 1084.5 157 L 1087.5 157 L 1087.5 161.5 L 1084.5 161.5 Z M 1080 160.5 L 1082.5 159 L 1084 162.5 L 1081.5 164 Z M 1089.5 159 L 1092 160.5 L 1090.5 164 L 1088 162.5 Z M 1083.5 164.5 L 1088.5 164.5 L 1088 169 L 1084 169 Z" class="cell-footprint-370" fill="#161b22" />
+    <path d="M 1084.5 157 L 1087.5 157 L 1087.5 161.5 L 1084.5 161.5 Z M 1080 160.5 L 1082.5 159 L 1084 162.5 L 1081.5 164 Z M 1089.5 159 L 1092 160.5 L 1090.5 164 L 1088 162.5 Z M 1083.5 164.5 L 1088.5 164.5 L 1088 169 L 1084 169 Z" class="cell-footprint-370" fill="#0e4429" />
   </g>
   <text x="10" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Mon</text>
   <text x="10" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" fill="#8b949e" text-anchor="start">Wed</text>
