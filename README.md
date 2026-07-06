@@ -381,49 +381,46 @@
 
 ## 🎯 Current Focus & Learning Path
 
-<table width="100%">
-  <thead>
-    <tr align="left">
-      <th width="30%">🔍 Focus & Topic</th>
-      <th width="20%">🏷️ Domain</th>
-      <th width="50%">🎯 Objectives & R&D</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Retrieval-Augmented Gen</b></td>
-      <td><img src="https://img.shields.io/badge/AI%20%7C%20LLM%20Ops-blueviolet?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Designing high-performance indexing, semantic chunking, and multi-query expansion algorithms to optimize retrieval accuracy.</td>
-    </tr>
-    <tr>
-      <td><b>Autonomous AI Agents</b></td>
-      <td><img src="https://img.shields.io/badge/Agentic%20AI-blue?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Investigating multi-agent collaboration frameworks using the ReAct paradigm, dynamic tool-use coordination, and contextual memory models.</td>
-    </tr>
-    <tr>
-      <td><b>BCI Navigation Systems</b></td>
-      <td><img src="https://img.shields.io/badge/Neurotechnology-success?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Mapping non-invasive EEG signals to low-latency control instructions for unmanned aerial vehicle (UAV) flight dynamics.</td>
-    </tr>
-    <tr>
-      <td><b>Neural Signal Processing</b></td>
-      <td><img src="https://img.shields.io/badge/Deep%20Learning-orange?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Training sequential time-series model architectures for classification of neural features.</td>
-    </tr>
-    <tr>
-      <td><b>Vector Databases</b></td>
-      <td><img src="https://img.shields.io/badge/Data%20Eng-yellow?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Exploring advanced indexing in databases like PgVector/Pinecone for high-fidelity agent tools.</td>
-    </tr>
-    <tr>
-      <td><b>System Orchestration</b></td>
-      <td><img src="https://img.shields.io/badge/DevOps%20%7C%20MLOps-grey?style=flat-square" alt="Domain Badge" /></td>
-      <td align="justify">Mastering Kubernetes clusters, multi-tier Docker environments, and modern CI/CD deployment pipelines.</td>
-    </tr>
-  </tbody>
-</table>
+<!-- START_TRENDS -->
+<p align="center">
+  <img src="assets/trends.svg" width="100%" alt="Tech Trends Slideshow" />
+</p>
 
----
+### 🔍 Interactive Trend Explorer (Read at your own pace)
+<p align="center">
+  <sub>Click on a trend below to expand and read details slowly. Hover over the slideshow above to pause it.</sub>
+</p>
+
+<details>
+  <summary><b>1️⃣ China’s Biren seeks US$...</b> &nbsp;|&nbsp; 🏷️ <i>Hardware & GPU Tech</i></summary>
+  <br>
+  <blockquote>
+    <b>What it is:</b> China’s Biren seeks US$900m to fund GPU push and challenge Nvidia&nbsp;&nbsp;South China Morning Post<br>
+    <b>How it's used:</b> Optimizing parallel workloads, distributed model training configurations, and GPU virtualization.<br>
+    <b>Market Impact:</b> Dramatically improves model throughput and optimizes operational infrastructure costs.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Key Technology Trends t...</b> &nbsp;|&nbsp; 🏷️ <i>Hardware & GPU Tech</i></summary>
+  <br>
+  <blockquote>
+    <b>What it is:</b> Key Technology Trends to Watch in Advanced Semiconductor Packaging&nbsp;&nbsp;IDTechEx<br>
+    <b>How it's used:</b> Optimizing parallel workloads, distributed model training configurations, and GPU virtualization.<br>
+    <b>Market Impact:</b> Dramatically improves model throughput and optimizes operational infrastructure costs.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ The Download: HR Techno...</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote>
+    <b>What it is:</b> The Download: HR Technology Trends, July 2026&nbsp;&nbsp;SHRM<br>
+    <b>How it's used:</b> Applying The tools to modern development pipelines.<br>
+    <b>Market Impact:</b> Boosts system efficiency using new engineering frameworks.
+  </blockquote>
+</details>
+<!-- END_TRENDS -->
 
 ## 🌍 Connect with Me
 
