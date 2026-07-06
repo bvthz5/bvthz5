@@ -392,32 +392,32 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ China’s Biren seeks US$...</b> &nbsp;|&nbsp; 🏷️ <i>Hardware & GPU Tech</i></summary>
+  <summary><b>1️⃣ For software engineers,...</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote>
-    <b>What it is:</b> China’s Biren seeks US$900m to fund GPU push and challenge Nvidia&nbsp;&nbsp;South China Morning Post<br>
-    <b>How it's used:</b> Optimizing parallel workloads, distributed model training configurations, and GPU virtualization.<br>
-    <b>Market Impact:</b> Dramatically improves model throughput and optimizes operational infrastructure costs.
+    <b>What it is:</b> For software engineers, AI isn't just changing coding. It's changing careers, confidence, and identity.&nbsp;&nbsp;Bu...<br>
+    <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Key Technology Trends t...</b> &nbsp;|&nbsp; 🏷️ <i>Hardware & GPU Tech</i></summary>
+  <summary><b>2️⃣ Wu Zengxin, Assistant L...</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote>
-    <b>What it is:</b> Key Technology Trends to Watch in Advanced Semiconductor Packaging&nbsp;&nbsp;IDTechEx<br>
-    <b>How it's used:</b> Optimizing parallel workloads, distributed model training configurations, and GPU virtualization.<br>
-    <b>Market Impact:</b> Dramatically improves model throughput and optimizes operational infrastructure costs.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ The Download: HR Techno...</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote>
-    <b>What it is:</b> The Download: HR Technology Trends, July 2026&nbsp;&nbsp;SHRM<br>
-    <b>How it's used:</b> Applying The tools to modern development pipelines.<br>
+    <b>What it is:</b> Wu Zengxin, Assistant Lead Engineer, Software Engineering & Enterprise Tooling-Software Engineering (SEET), Synapxe&n...<br>
+    <b>How it's used:</b> Applying Wu tools to modern development pipelines.<br>
     <b>Market Impact:</b> Boosts system efficiency using new engineering frameworks.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ 'Devin-kun': Japan embr...</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote>
+    <b>What it is:</b> 'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI softwar...<br>
+    <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.
   </blockquote>
 </details>
 <!-- END_TRENDS -->
