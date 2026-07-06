@@ -27,12 +27,48 @@ const fallbackTrends = [
     }
 ];
 
-// List of public technology RSS feeds
+// List of public technology RSS feeds focusing on core software engineering and architecture
 const techFeeds = [
-    "https://news.google.com/rss/search?q=technology+trends+OR+software+engineering&hl=en-US&gl=US&ceid=US:en",
-    "https://techcrunch.com/feed/",
-    "https://hnrss.org/newest?q=orchestration+OR+architecture+OR+agent+OR+framework"
+    "https://news.google.com/rss/search?q=%22software+engineering%22+OR+%22loop+engineering%22+OR+%22software+architecture%22+OR+%22agentic+orchestration%22+-hiring+-appointed+-appoints+-joins+-career+-interview&hl=en-US&gl=US&ceid=US:en",
+    "https://hnrss.org/frontpage?q=orchestration+OR+architecture+OR+agent+OR+framework+OR+devops+OR+compiler+OR+database",
+    "https://feed.infoq.com/architecture-design",
+    "https://feed.infoq.com/ai-ml-data-eng"
 ];
+
+// Helper to filter out non-technical business, corporate appointments, or personal profile news
+function isHighlyTechnical(title, description) {
+    const text = (title + ' ' + (description || '')).toLowerCase();
+    
+    // Check if it matches a personal profile format (e.g. "Name, Assistant Lead Engineer...")
+    const personalProfileRegex = /, (assistant|lead|vp|cto|ceo|cfo|director|software|senior|principal|staff|manager|head|founder)/i;
+    if (personalProfileRegex.test(title)) {
+        return false;
+    }
+
+    const technicalKeywords = [
+        'software', 'developer', 'engineer', 'engineering', 'architecture', 
+        'framework', 'agent', 'orchestration', 'database', 'cloud', 
+        'devops', 'compiler', 'programming', 'loop', 'microservices', 
+        'kubernetes', 'serverless', 'llm', 'ai', 'ml', 'code', 
+        'git', 'api', 'model', 'neural', 'computing', 'ledger', 'blockchain',
+        'semiconductor', 'chip', 'gpu', 'quantum', 'cybersecurity', 'security',
+        'system', 'tooling', 'pipeline'
+    ];
+    
+    const excludeKeywords = [
+        'stock', 'shares', 'revenue', 'hiring', 'acquisition', 'merger', 
+        'funding round', 'series a', 'series b', 'venture capital', 'vc', 
+        'profit', 'quarterly', 'market share', 'ceo', 'cfo', 'founder',
+        'lawsuit', 'sues', 'court', 'ftc', 'antitrust', 'hired', 'promoted',
+        'job openings', 'recruiting', 'appointment', 'appoints', 'appointed',
+        'joins', 'leaves', 'interview with', 'career trajectory', 'retires'
+    ];
+    
+    const hasTech = technicalKeywords.some(kw => text.includes(kw));
+    const hasExclude = excludeKeywords.some(kw => text.includes(kw));
+    
+    return hasTech && !hasExclude;
+}
 
 // Helper to perform HTTP GET requests
 function fetchUrl(url) {
@@ -461,8 +497,9 @@ async function main() {
                 const xml = await fetchUrl(feedUrl);
                 const items = parseRSS(xml);
                 if (items.length > 0) {
-                    headlinePool = headlinePool.concat(items);
-                    console.log(`Successfully parsed ${items.length} stories from ${feedUrl}`);
+                    const filteredItems = items.filter(item => isHighlyTechnical(item.title, item.description));
+                    headlinePool = headlinePool.concat(filteredItems);
+                    console.log(`Successfully parsed ${filteredItems.length} (filtered from ${items.length}) stories from ${feedUrl}`);
                 }
             } catch (e) {
                 console.warn(`Could not fetch feed ${feedUrl}: ${e.message}`);

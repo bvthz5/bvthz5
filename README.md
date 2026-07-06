@@ -392,35 +392,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ For software engineers, AI isn't just changing coding. It's changing careers, confidence, and identity.</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>What it is:</b> For software engineers, AI isn't just changing coding. It's changing careers, confidence, and identity.&nbsp;&nbsp;Business Insider<br>
-    <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjVnWElZSW1DX18tTHBQejBUU25EQ2x2ZmN1Mm52SFIxdlpnLWxlelFXZ0JNZnRFOW1IRWZBalM5NTBDMUoyc0ZPcFp0RVRHRldYQXAyS2JqSm1YVmd3ZzBnV29NODkwUENaRnVQWkdCdEVxZU5XbWY1ekJuUzZ1aGlQOFRsWTh3VkE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Wu Zengxin, Assistant Lead Engineer, Software Engineering & Enterprise Tooling-Software Engineering (SEET), Synapxe</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>What it is:</b> Wu Zengxin, Assistant Lead Engineer, Software Engineering & Enterprise Tooling-Software Engineering (SEET), Synapxe&nbsp;&nbsp;GovInsider<br>
-    <b>How it's used:</b> Applying Wu tools to modern development pipelines.<br>
+    <b>What it is:</b> Loop Engineering&nbsp;&nbsp;O'Reilly Media<br>
+    <b>How it's used:</b> Applying Loop tools to modern development pipelines.<br>
     <b>Market Impact:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeWR3OHFHbklaVm0zcV9rdnVYcFZMT1g2NFF2UXpTclJDX3JMUVE3bG5NZUVROXFtbEs4aGtLY21adGlodDdIRUMzSUVaT21mLWZTcjAtZ0ZYQlZ4NmZPOEFFT2FPa25pRjF4a1VvYlFkVHk0ZjJBemVQR0Y4TWk4T2pZU0RZanlnNWVRbzdMMnlrVmd3ME5MNEc1amtQQmdoTDk0bmFVNDQ1NEtjT0htWE9vVEFDMkZGN1dZY01PZzNuRUhJOGtzOEt4R1FoNm4ySXFnRHVzRldBdlFvcGZjVzR0M3pzUlk?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ 'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>What it is:</b> 'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer&nbsp;&nbsp;Fortune<br>
+    <b>What it is:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat&nbsp;&nbsp;ADTmag<br>
     <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkd5RF92Q2hTdW9ibms2cFBobXE4VmM0c3RtUzVfdm5odTNSejdoazJWR3E3NEZZdjBwcFJLeFZDd0xwbEQzUE10T1FhSUR3QzJpY0d0cThNekFHUUVqaEpHakFBUXZWS0JzbmFQelhtRTdBQXhXMkpqVkZ3c3BuRQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering Gets Newly Applied To AI Mental Health Chats</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>What it is:</b> Loop Engineering Gets Newly Applied To AI Mental Health Chats&nbsp;&nbsp;Forbes<br>
+    <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWozbUw5NUVtdVNtT2s2dU1pbkR0ZDVYdlI0WWZzNm4yNGNjdFFQOXEzYXE5c0FmdnhRSVg5bjRsSXV1T05fdk01ZFZkSDlVbWNXb1k0anZvWlRCbXJQV3JTQUlhMUlhb1lmUjBLell3TTd0TXRpN1BERUpMWk1aUTVxdUVfTzI3Zk03bmdDMnI5OHNzM1lSTlhGcUlsNEU5NVh5Z2hjaVVmbGdEZ0RHOWt6OA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
