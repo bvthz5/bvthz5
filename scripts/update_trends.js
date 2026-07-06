@@ -138,19 +138,17 @@ function heuristicMapTrend(rawTitle, rawDesc) {
         impact = 'Dramatically improves model throughput and optimizes operational costs.';
     }
 
-    let description;
+    let description = rawDesc;
     if (rawDesc && !rawDesc.toLowerCase().startsWith(title.toLowerCase().slice(0, 10))) {
-        description = truncate(`${title}: ${rawDesc}`, 120);
-    } else if (rawDesc) {
-        description = truncate(rawDesc, 120);
-    } else {
-        description = truncate(`${title} - latest breakthrough in emerging technology.`, 120);
+        description = `${title}: ${rawDesc}`;
+    } else if (!rawDesc) {
+        description = `${title} - latest breakthrough in emerging technology.`;
     }
 
     return {
-        title: truncate(title, 26),
+        title, // Full title
         domain,
-        description,
+        description, // Full description
         useCase,
         impact
     };
@@ -165,11 +163,11 @@ ${JSON.stringify(headlines, null, 2)}
 Identify the top 3 most important emerging software engineering or technology trends represented in these headlines (e.g., Loop Engineering, Agentic Orchestration, AI Hardware, Web3, next-gen databases, or other innovative paradigms). 
 For each trend, synthesize a structured object. The result MUST be a valid JSON array of exactly 3 objects.
 Each object must have these exact keys:
-1. "title": A short, catchy title of the trend (maximum 26 characters).
+1. "title": The full title of the trend/news (maximum 60 characters).
 2. "domain": The broad technical domain (maximum 25 characters, e.g., "Artificial Intelligence", "Software Architecture", "Data Engineering", etc.).
-3. "description": A concise, clear explanation of what this trend is (maximum 120 characters).
-4. "useCase": A practical use case of how a developer applies this trend in a project (maximum 120 characters).
-5. "impact": The strategic or market impact of adopting this trend (maximum 120 characters).
+3. "description": A complete, detailed explanation of what this trend/news is (maximum 250 characters).
+4. "useCase": A practical use case of how a developer applies this trend in a project (maximum 150 characters).
+5. "impact": The strategic or market impact of adopting this trend (maximum 150 characters).
 
 Return ONLY the raw JSON array. Do not include markdown code block formatting (like \`\`\`json) or any extra conversational text.`;
 
@@ -240,21 +238,56 @@ function wrapText(text, maxChars = 85) {
     return [text.slice(0, splitPoint).trim(), text.slice(splitPoint).trim()];
 }
 
+// Compute coordinates dynamically depending on title height
+function getSlideLayout(trend) {
+    const titleLines = wrapText(trend.title, 42);
+    const title2 = titleLines[1] ? truncate(titleLines[1], 45) : '';
+
+    const descLines = wrapText(trend.description, 90);
+    const desc2 = descLines[1] ? truncate(descLines[1], 90) : '';
+
+    const useLines = wrapText(trend.useCase, 90);
+    const use2 = useLines[1] ? truncate(useLines[1], 90) : '';
+
+    const impLines = wrapText(trend.impact, 90);
+    const imp2 = impLines[1] ? truncate(impLines[1], 90) : '';
+
+    const hasSecondTitleLine = title2.length > 0;
+    const title2Offset = hasSecondTitleLine ? 22 : 0;
+
+    return {
+        title1: titleLines[0],
+        title2: title2,
+        desc1: descLines[0],
+        desc2: desc2,
+        use1: useLines[0],
+        use2: use2,
+        imp1: impLines[0],
+        imp2: imp2,
+        coords: {
+            title1: 90,
+            title2: 112,
+            badgeY: 110 + title2Offset,
+            badgeTextY: 125 + title2Offset,
+            desc1: 150 + title2Offset,
+            desc2: 167 + title2Offset,
+            useLabel: 194 + title2Offset,
+            use1: 211 + title2Offset,
+            use2: 228 + title2Offset,
+            impLabel: 256 + title2Offset,
+            imp1: 273 + title2Offset,
+            imp2: 290 + title2Offset
+        }
+    };
+}
+
 // Generate the SVG content
 function generateSVG(trends) {
-    const slide1Desc = wrapText(trends[0].description, 85);
-    const slide1Use = wrapText(trends[0].useCase, 85);
-    const slide1Imp = wrapText(trends[0].impact, 85);
+    const layout1 = getSlideLayout(trends[0]);
+    const layout2 = getSlideLayout(trends[1]);
+    const layout3 = getSlideLayout(trends[2]);
 
-    const slide2Desc = wrapText(trends[1].description, 85);
-    const slide2Use = wrapText(trends[1].useCase, 85);
-    const slide2Imp = wrapText(trends[1].impact, 85);
-
-    const slide3Desc = wrapText(trends[2].description, 85);
-    const slide3Use = wrapText(trends[2].useCase, 85);
-    const slide3Imp = wrapText(trends[2].impact, 85);
-
-    return `<svg width="850" height="350" viewBox="0 0 850 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+    return `<svg width="850" height="350" viewBox="0 0 850 350" fill="none" xmlns="http://www.w3.org/2000/svg" pointer-events="all">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f19" />
@@ -274,38 +307,45 @@ function generateSVG(trends) {
       .heading-label { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 13px; fill: #4b5563; letter-spacing: 2px; text-transform: uppercase; }
       
       @keyframes slideShow {
-        0%, 28% { opacity: 1; transform: translate(0, 0); visibility: visible; }
-        31%, 97% { opacity: 0; transform: translate(0, 10px); visibility: hidden; }
+        0%, 29% { opacity: 1; transform: translate(0, 0); visibility: visible; }
+        32%, 97% { opacity: 0; transform: translate(0, 10px); visibility: hidden; }
         100% { opacity: 1; transform: translate(0, 0); visibility: visible; }
       }
       .slide-group {
-        animation: slideShow 18s infinite ease-in-out;
+        animation: slideShow 27s infinite ease-in-out;
+        pointer-events: all;
       }
       .slide-1 { animation-delay: 0s; }
-      .slide-2 { animation-delay: 6s; }
-      .slide-3 { animation-delay: 12s; }
+      .slide-2 { animation-delay: 9s; }
+      .slide-3 { animation-delay: 18s; }
       
-      svg:hover .slide-group {
+      :root:hover .slide-group,
+      svg:hover .slide-group,
+      g:hover .slide-group,
+      .slide-group:hover {
         animation-play-state: paused !important;
       }
       
       @keyframes indProgress {
         0% { transform: translateX(0px); }
-        33% { transform: translateX(25px); }
-        66% { transform: translateX(50px); }
+        33.3% { transform: translateX(25px); }
+        66.6% { transform: translateX(50px); }
         100% { transform: translateX(0px); }
       }
       .indicator-dot {
-        animation: indProgress 18s infinite steps(1);
+        animation: indProgress 27s infinite steps(1);
       }
-      svg:hover .indicator-dot {
+      :root:hover .indicator-dot,
+      svg:hover .indicator-dot,
+      g:hover .indicator-dot,
+      .indicator-dot:hover {
         animation-play-state: paused !important;
       }
     </style>
   </defs>
 
   <!-- Outer container with glow border -->
-  <rect width="850" height="350" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" />
+  <rect width="850" height="350" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" pointer-events="all" />
   <rect x="10" y="10" width="830" height="330" rx="12" fill="none" stroke="#6366f1" stroke-opacity="0.1" stroke-width="1" />
 
   <!-- Neon Accent Light -->
@@ -313,67 +353,73 @@ function generateSVG(trends) {
   <circle cx="50" cy="300" r="80" fill="#00ffff" filter="blur(60px)" opacity="0.1" />
 
   <!-- Slide 1 -->
-  <g class="slide-group slide-1">
+  <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="95" class="title-text">${escapeXML(trends[0].title)}</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">${escapeXML(trends[0].domain)}</text>
+    <text x="50" y="${layout1.coords.title1}" class="title-text">${escapeXML(layout1.title1)}</text>
+    <text x="50" y="${layout1.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout1.title2)}</text>
     
-    <text x="50" y="165" class="body-text">${escapeXML(slide1Desc[0])}</text>
-    <text x="50" y="183" class="body-text">${escapeXML(slide1Desc[1])}</text>
+    <rect x="50" y="${layout1.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="${layout1.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout1.domain)}</text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">${escapeXML(slide1Use[0])}</text>
-    <text x="50" y="248" class="body-text">${escapeXML(slide1Use[1])}</text>
+    <text x="50" y="${layout1.coords.desc1}" class="body-text">${escapeXML(layout1.desc1)}</text>
+    <text x="50" y="${layout1.coords.desc2}" class="body-text">${escapeXML(layout1.desc2)}</text>
     
-    <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
-    <text x="50" y="295" class="body-text">${escapeXML(slide1Imp[0])}</text>
-    <text x="50" y="313" class="body-text">${escapeXML(slide1Imp[1])}</text>
+    <text x="50" y="${layout1.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout1.coords.use1}" class="body-text">${escapeXML(layout1.use1)}</text>
+    <text x="50" y="${layout1.coords.use2}" class="body-text">${escapeXML(layout1.use2)}</text>
+    
+    <text x="50" y="${layout1.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout1.coords.imp1}" class="body-text">${escapeXML(layout1.imp1)}</text>
+    <text x="50" y="${layout1.coords.imp2}" class="body-text">${escapeXML(layout1.imp2)}</text>
   </g>
 
   <!-- Slide 2 -->
-  <g class="slide-group slide-2">
+  <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="95" class="title-text">${escapeXML(trends[1].title)}</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">${escapeXML(trends[1].domain)}</text>
+    <text x="50" y="${layout2.coords.title1}" class="title-text">${escapeXML(layout2.title1)}</text>
+    <text x="50" y="${layout2.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout2.title2)}</text>
     
-    <text x="50" y="165" class="body-text">${escapeXML(slide2Desc[0])}</text>
-    <text x="50" y="183" class="body-text">${escapeXML(slide2Desc[1])}</text>
+    <rect x="50" y="${layout2.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="${layout2.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout2.domain)}</text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">${escapeXML(slide2Use[0])}</text>
-    <text x="50" y="248" class="body-text">${escapeXML(slide2Use[1])}</text>
+    <text x="50" y="${layout2.coords.desc1}" class="body-text">${escapeXML(layout2.desc1)}</text>
+    <text x="50" y="${layout2.coords.desc2}" class="body-text">${escapeXML(layout2.desc2)}</text>
     
-    <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
-    <text x="50" y="295" class="body-text">${escapeXML(slide2Imp[0])}</text>
-    <text x="50" y="313" class="body-text">${escapeXML(slide2Imp[1])}</text>
+    <text x="50" y="${layout2.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout2.coords.use1}" class="body-text">${escapeXML(layout2.use1)}</text>
+    <text x="50" y="${layout2.coords.use2}" class="body-text">${escapeXML(layout2.use2)}</text>
+    
+    <text x="50" y="${layout2.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout2.coords.imp1}" class="body-text">${escapeXML(layout2.imp1)}</text>
+    <text x="50" y="${layout2.coords.imp2}" class="body-text">${escapeXML(layout2.imp2)}</text>
   </g>
 
   <!-- Slide 3 -->
-  <g class="slide-group slide-3">
+  <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="95" class="title-text">${escapeXML(trends[2].title)}</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">${escapeXML(trends[2].domain)}</text>
+    <text x="50" y="${layout3.coords.title1}" class="title-text">${escapeXML(layout3.title1)}</text>
+    <text x="50" y="${layout3.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout3.title2)}</text>
     
-    <text x="50" y="165" class="body-text">${escapeXML(slide3Desc[0])}</text>
-    <text x="50" y="183" class="body-text">${escapeXML(slide3Desc[1])}</text>
+    <rect x="50" y="${layout3.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="${layout3.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout3.domain)}</text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">${escapeXML(slide3Use[0])}</text>
-    <text x="50" y="248" class="body-text">${escapeXML(slide3Use[1])}</text>
+    <text x="50" y="${layout3.coords.desc1}" class="body-text">${escapeXML(layout3.desc1)}</text>
+    <text x="50" y="${layout3.coords.desc2}" class="body-text">${escapeXML(layout3.desc2)}</text>
     
-    <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
-    <text x="50" y="295" class="body-text">${escapeXML(slide3Imp[0])}</text>
-    <text x="50" y="313" class="body-text">${escapeXML(slide3Imp[1])}</text>
+    <text x="50" y="${layout3.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout3.coords.use1}" class="body-text">${escapeXML(layout3.use1)}</text>
+    <text x="50" y="${layout3.coords.use2}" class="body-text">${escapeXML(layout3.use2)}</text>
+    
+    <text x="50" y="${layout3.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout3.coords.imp1}" class="body-text">${escapeXML(layout3.imp1)}</text>
+    <text x="50" y="${layout3.coords.imp2}" class="body-text">${escapeXML(layout3.imp2)}</text>
   </g>
 
   <!-- Footer control indicators -->
-  <g opacity="0.8">
+  <g opacity="0.8" pointer-events="none">
     <text x="425" y="335" font-family="'Outfit', sans-serif" font-weight="600" font-size="11" fill="#4b5563" text-anchor="middle">⏸ HOVER TO PAUSE SLIDESHOW</text>
     <circle cx="760" cy="331" r="3" fill="#374151" />
     <circle cx="772" cy="331" r="3" fill="#374151" />
@@ -393,7 +439,8 @@ function generateMarkdownDetails(trends) {
   <blockquote style="text-align: justify;">
     <b>What it is:</b> ${t.description}<br>
     <b>How it's used:</b> ${t.useCase}<br>
-    <b>Market Impact:</b> ${t.impact}
+    <b>Market Impact:</b> ${t.impact}<br>
+    ${t.link ? `<br>🔗 <a href="${t.link}" target="_blank"><b>Read the full article on the market trends page</b></a>` : ''}
   </blockquote>
 </details>\n\n`;
     });
