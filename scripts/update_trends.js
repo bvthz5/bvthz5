@@ -240,20 +240,20 @@ function wrapText(text, maxChars = 85) {
 
 // Compute coordinates dynamically depending on title height
 function getSlideLayout(trend) {
-    const titleLines = wrapText(trend.title, 42);
-    const title2 = titleLines[1] ? truncate(titleLines[1], 45) : '';
+    const titleLines = wrapText(trend.title, 48); // Wrap title at 48 chars at 24px font size
+    const title2 = titleLines[1] ? truncate(titleLines[1], 50) : '';
 
-    const descLines = wrapText(trend.description, 90);
-    const desc2 = descLines[1] ? truncate(descLines[1], 90) : '';
+    const descLines = wrapText(trend.description, 95);
+    const desc2 = descLines[1] ? truncate(descLines[1], 95) : '';
 
-    const useLines = wrapText(trend.useCase, 90);
-    const use2 = useLines[1] ? truncate(useLines[1], 90) : '';
+    const useLines = wrapText(trend.useCase, 95);
+    const use2 = useLines[1] ? truncate(useLines[1], 95) : '';
 
-    const impLines = wrapText(trend.impact, 90);
-    const imp2 = impLines[1] ? truncate(impLines[1], 90) : '';
+    const impLines = wrapText(trend.impact, 95);
+    const imp2 = impLines[1] ? truncate(impLines[1], 95) : '';
 
     const hasSecondTitleLine = title2.length > 0;
-    const title2Offset = hasSecondTitleLine ? 22 : 0;
+    const title2Offset = hasSecondTitleLine ? 24 : 0;
 
     return {
         title1: titleLines[0],
@@ -265,15 +265,15 @@ function getSlideLayout(trend) {
         imp1: impLines[0],
         imp2: imp2,
         coords: {
-            title1: 90,
-            title2: 112,
-            badgeY: 110 + title2Offset,
-            badgeTextY: 125 + title2Offset,
-            desc1: 150 + title2Offset,
-            desc2: 167 + title2Offset,
-            useLabel: 194 + title2Offset,
-            use1: 211 + title2Offset,
-            use2: 228 + title2Offset,
+            title1: 85,
+            title2: 108,
+            badgeY: 106 + title2Offset,
+            badgeTextY: 121 + title2Offset,
+            desc1: 146 + title2Offset,
+            desc2: 163 + title2Offset,
+            useLabel: 192 + title2Offset,
+            use1: 209 + title2Offset,
+            use2: 226 + title2Offset,
             impLabel: 256 + title2Offset,
             imp1: 273 + title2Offset,
             imp2: 290 + title2Offset
@@ -287,7 +287,7 @@ function generateSVG(trends) {
     const layout2 = getSlideLayout(trends[1]);
     const layout3 = getSlideLayout(trends[2]);
 
-    return `<svg width="850" height="350" viewBox="0 0 850 350" fill="none" xmlns="http://www.w3.org/2000/svg" pointer-events="all">
+    return `<svg width="850" height="380" viewBox="0 0 850 380" fill="none" xmlns="http://www.w3.org/2000/svg" pointer-events="all">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f19" />
@@ -300,7 +300,7 @@ function generateSVG(trends) {
     </linearGradient>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
-      .title-text { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 32px; fill: url(#glow-grad); }
+      .title-text { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 24px; fill: url(#glow-grad); }
       .body-text { font-family: 'Outfit', sans-serif; font-weight: 400; font-size: 14px; fill: #9ca3af; }
       .badge-text { font-family: 'Outfit', sans-serif; font-weight: 600; font-size: 11px; fill: #ffffff; }
       .label-text { font-family: 'Outfit', sans-serif; font-weight: 600; font-size: 13px; fill: #6366f1; }
@@ -312,6 +312,8 @@ function generateSVG(trends) {
         100% { opacity: 1; transform: translate(0, 0); visibility: visible; }
       }
       .slide-group {
+        opacity: 0;
+        visibility: hidden;
         animation: slideShow 27s infinite ease-in-out;
         pointer-events: all;
       }
@@ -345,19 +347,19 @@ function generateSVG(trends) {
   </defs>
 
   <!-- Outer container with glow border -->
-  <rect width="850" height="350" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" pointer-events="all" />
-  <rect x="10" y="10" width="830" height="330" rx="12" fill="none" stroke="#6366f1" stroke-opacity="0.1" stroke-width="1" />
+  <rect width="850" height="380" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" pointer-events="all" />
+  <rect x="10" y="10" width="830" height="360" rx="12" fill="none" stroke="#6366f1" stroke-opacity="0.1" stroke-width="1" />
 
   <!-- Neon Accent Light -->
   <circle cx="800" cy="50" r="100" fill="#6366f1" filter="blur(80px)" opacity="0.15" />
-  <circle cx="50" cy="300" r="80" fill="#00ffff" filter="blur(60px)" opacity="0.1" />
+  <circle cx="50" cy="330" r="80" fill="#00ffff" filter="blur(60px)" opacity="0.1" />
 
   <!-- Slide 1 -->
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
     <text x="50" y="${layout1.coords.title1}" class="title-text">${escapeXML(layout1.title1)}</text>
-    <text x="50" y="${layout1.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout1.title2)}</text>
+    <text x="50" y="${layout1.coords.title2}" class="title-text" font-size="18" opacity="0.8">${escapeXML(layout1.title2)}</text>
     
     <rect x="50" y="${layout1.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="${layout1.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout1.domain)}</text>
@@ -379,7 +381,7 @@ function generateSVG(trends) {
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
     <text x="50" y="${layout2.coords.title1}" class="title-text">${escapeXML(layout2.title1)}</text>
-    <text x="50" y="${layout2.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout2.title2)}</text>
+    <text x="50" y="${layout2.coords.title2}" class="title-text" font-size="18" opacity="0.8">${escapeXML(layout2.title2)}</text>
     
     <rect x="50" y="${layout2.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="${layout2.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout2.domain)}</text>
@@ -401,7 +403,7 @@ function generateSVG(trends) {
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
     <text x="50" y="${layout3.coords.title1}" class="title-text">${escapeXML(layout3.title1)}</text>
-    <text x="50" y="${layout3.coords.title2}" class="title-text" font-size="20" opacity="0.8">${escapeXML(layout3.title2)}</text>
+    <text x="50" y="${layout3.coords.title2}" class="title-text" font-size="18" opacity="0.8">${escapeXML(layout3.title2)}</text>
     
     <rect x="50" y="${layout3.coords.badgeY}" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="${layout3.coords.badgeTextY}" class="badge-text" text-anchor="middle">${escapeXML(layout3.domain)}</text>
@@ -420,11 +422,11 @@ function generateSVG(trends) {
 
   <!-- Footer control indicators -->
   <g opacity="0.8" pointer-events="none">
-    <text x="425" y="335" font-family="'Outfit', sans-serif" font-weight="600" font-size="11" fill="#4b5563" text-anchor="middle">⏸ HOVER TO PAUSE SLIDESHOW</text>
-    <circle cx="760" cy="331" r="3" fill="#374151" />
-    <circle cx="772" cy="331" r="3" fill="#374151" />
-    <circle cx="784" cy="331" r="3" fill="#374151" />
-    <circle class="indicator-dot" cx="760" cy="331" r="3.5" fill="#00ffff" />
+    <text x="425" y="362" font-family="'Outfit', sans-serif" font-weight="600" font-size="11" fill="#4b5563" text-anchor="middle">⏸ HOVER TO PAUSE SLIDESHOW</text>
+    <circle cx="760" cy="358" r="3" fill="#374151" />
+    <circle cx="772" cy="358" r="3" fill="#374151" />
+    <circle cx="784" cy="358" r="3" fill="#374151" />
+    <circle class="indicator-dot" cx="760" cy="358" r="3.5" fill="#00ffff" />
   </g>
 </svg>`;
 }
