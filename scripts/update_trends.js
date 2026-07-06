@@ -481,6 +481,17 @@ async function main() {
                     description: h.description
                 }));
                 selectedTrends = await callGemini(apiKey, compactHeadlines);
+                
+                // Match links back from original headlinePool
+                selectedTrends.forEach(trend => {
+                    const matched = headlinePool.find(h => 
+                        h.title.toLowerCase().includes(trend.title.toLowerCase().slice(0, 15)) ||
+                        trend.title.toLowerCase().includes(h.title.toLowerCase().slice(0, 15))
+                    );
+                    if (matched) {
+                        trend.link = matched.link;
+                    }
+                });
                 console.log("Successfully synthesized trends via Gemini API!");
             } catch (geminiError) {
                 console.error("Gemini synthesis failed, falling back to heuristics:", geminiError.message);
@@ -493,6 +504,7 @@ async function main() {
             const seenTitles = new Set();
             for (const item of headlinePool) {
                 const trend = heuristicMapTrend(item.title, item.description);
+                trend.link = item.link; // Copy link
                 if (!seenTitles.has(trend.title.toLowerCase())) {
                     selectedTrends.push(trend);
                     seenTitles.add(trend.title.toLowerCase());

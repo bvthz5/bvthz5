@@ -1,4 +1,4 @@
-<svg width="850" height="350" viewBox="0 0 850 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="350" viewBox="0 0 850 350" fill="none" xmlns="http://www.w3.org/2000/svg" pointer-events="all">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f19" />
@@ -18,38 +18,45 @@
       .heading-label { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 13px; fill: #4b5563; letter-spacing: 2px; text-transform: uppercase; }
       
       @keyframes slideShow {
-        0%, 28% { opacity: 1; transform: translate(0, 0); visibility: visible; }
-        31%, 97% { opacity: 0; transform: translate(0, 10px); visibility: hidden; }
+        0%, 29% { opacity: 1; transform: translate(0, 0); visibility: visible; }
+        32%, 97% { opacity: 0; transform: translate(0, 10px); visibility: hidden; }
         100% { opacity: 1; transform: translate(0, 0); visibility: visible; }
       }
       .slide-group {
-        animation: slideShow 18s infinite ease-in-out;
+        animation: slideShow 27s infinite ease-in-out;
+        pointer-events: all;
       }
       .slide-1 { animation-delay: 0s; }
-      .slide-2 { animation-delay: 6s; }
-      .slide-3 { animation-delay: 12s; }
+      .slide-2 { animation-delay: 9s; }
+      .slide-3 { animation-delay: 18s; }
       
-      svg:hover .slide-group {
+      :root:hover .slide-group,
+      svg:hover .slide-group,
+      g:hover .slide-group,
+      .slide-group:hover {
         animation-play-state: paused !important;
       }
       
       @keyframes indProgress {
         0% { transform: translateX(0px); }
-        33% { transform: translateX(25px); }
-        66% { transform: translateX(50px); }
+        33.3% { transform: translateX(25px); }
+        66.6% { transform: translateX(50px); }
         100% { transform: translateX(0px); }
       }
       .indicator-dot {
-        animation: indProgress 18s infinite steps(1);
+        animation: indProgress 27s infinite steps(1);
       }
-      svg:hover .indicator-dot {
+      :root:hover .indicator-dot,
+      svg:hover .indicator-dot,
+      g:hover .indicator-dot,
+      .indicator-dot:hover {
         animation-play-state: paused !important;
       }
     </style>
   </defs>
 
   <!-- Outer container with glow border -->
-  <rect width="850" height="350" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" />
+  <rect width="850" height="350" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2" pointer-events="all" />
   <rect x="10" y="10" width="830" height="330" rx="12" fill="none" stroke="#6366f1" stroke-opacity="0.1" stroke-width="1" />
 
   <!-- Neon Accent Light -->
@@ -57,67 +64,73 @@
   <circle cx="50" cy="300" r="80" fill="#00ffff" filter="blur(60px)" opacity="0.1" />
 
   <!-- Slide 1 -->
-  <g class="slide-group slide-1">
+  <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="95" class="title-text">For software engineers,...</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">Artificial Intelligence</text>
+    <text x="50" y="90" class="title-text">For software engineers, AI isn&apos;t just</text>
+    <text x="50" y="112" class="title-text" font-size="20" opacity="0.8">changing coding. It&apos;s changing careers, co...</text>
     
-    <text x="50" y="165" class="body-text">For software engineers, AI isn&apos;t just changing coding. It&apos;s changing careers,</text>
-    <text x="50" y="183" class="body-text">confidence, and identity.&amp;nbsp;&amp;nbsp;Bu...</text>
+    <rect x="50" y="132" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="147" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
-    <text x="50" y="248" class="body-text"></text>
+    <text x="50" y="172" class="body-text">For software engineers, AI isn&apos;t just changing coding. It&apos;s changing careers, confidence,</text>
+    <text x="50" y="189" class="body-text">and identity.&amp;nbsp;&amp;nbsp;Business Insider</text>
+    
+    <text x="50" y="216" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
     <text x="50" y="295" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
-    <text x="50" y="313" class="body-text"></text>
+    <text x="50" y="312" class="body-text"></text>
   </g>
 
   <!-- Slide 2 -->
-  <g class="slide-group slide-2">
+  <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="95" class="title-text">Wu Zengxin, Assistant L...</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">Emerging Tech</text>
+    <text x="50" y="90" class="title-text">Wu Zengxin, Assistant Lead Engineer,</text>
+    <text x="50" y="112" class="title-text" font-size="20" opacity="0.8">Software Engineering &amp; Enterprise Tooling-...</text>
     
-    <text x="50" y="165" class="body-text">Wu Zengxin, Assistant Lead Engineer, Software Engineering &amp; Enterprise</text>
-    <text x="50" y="183" class="body-text">Tooling-Software Engineering (SEET), Synapxe&amp;n...</text>
+    <rect x="50" y="132" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="147" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">Applying Wu tools to modern development pipelines.</text>
-    <text x="50" y="248" class="body-text"></text>
+    <text x="50" y="172" class="body-text">Wu Zengxin, Assistant Lead Engineer, Software Engineering &amp; Enterprise Tooling-Software</text>
+    <text x="50" y="189" class="body-text">Engineering (SEET), Synapxe&amp;nbsp;&amp;nbsp;GovInsider</text>
+    
+    <text x="50" y="216" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="233" class="body-text">Applying Wu tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
     <text x="50" y="295" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="313" class="body-text"></text>
+    <text x="50" y="312" class="body-text"></text>
   </g>
 
   <!-- Slide 3 -->
-  <g class="slide-group slide-3">
+  <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="95" class="title-text">&apos;Devin-kun&apos;: Japan embr...</text>
-    <rect x="50" y="112" width="220" height="24" rx="12" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="128" class="badge-text" text-anchor="middle">Artificial Intelligence</text>
+    <text x="50" y="90" class="title-text">&apos;Devin-kun&apos;: Japan embraces agents as</text>
+    <text x="50" y="112" class="title-text" font-size="20" opacity="0.8">legacy code and a shrinking workforce crea...</text>
     
-    <text x="50" y="165" class="body-text">&apos;Devin-kun&apos;: Japan embraces agents as legacy code and a shrinking workforce create a</text>
-    <text x="50" y="183" class="body-text">perfect market for an AI softwar...</text>
+    <rect x="50" y="132" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="147" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="212" class="label-text">💡 Practical Application:</text>
-    <text x="50" y="230" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
-    <text x="50" y="248" class="body-text"></text>
+    <text x="50" y="172" class="body-text">&apos;Devin-kun&apos;: Japan embraces agents as legacy code and a shrinking workforce create a</text>
+    <text x="50" y="189" class="body-text">perfect market for an AI software engineer&amp;nbsp;&amp;nbsp;Fortune</text>
+    
+    <text x="50" y="216" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="278" class="label-text">⚡ Strategic Impact:</text>
     <text x="50" y="295" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
-    <text x="50" y="313" class="body-text"></text>
+    <text x="50" y="312" class="body-text"></text>
   </g>
 
   <!-- Footer control indicators -->
-  <g opacity="0.8">
+  <g opacity="0.8" pointer-events="none">
     <text x="425" y="335" font-family="'Outfit', sans-serif" font-weight="600" font-size="11" fill="#4b5563" text-anchor="middle">⏸ HOVER TO PAUSE SLIDESHOW</text>
     <circle cx="760" cy="331" r="3" fill="#374151" />
     <circle cx="772" cy="331" r="3" fill="#374151" />
