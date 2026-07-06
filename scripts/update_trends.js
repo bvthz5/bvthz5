@@ -2,8 +2,8 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-// Curated modern tech trends (base / fallbacks)
-const curatedTrends = [
+// Curated modern tech trends (offline fallback)
+const fallbackTrends = [
     {
         title: "Loop Engineering",
         domain: "Software Architecture & DevX",
@@ -24,45 +24,45 @@ const curatedTrends = [
         description: "Mimicking the neuro-biological architectures of the human nervous system to build ultra-efficient computing hardware.",
         useCase: "Low-latency edge intelligence, spiking neural networks, and real-time biological brain simulation.",
         impact: "Reduces AI model training/inference power consumption by up to 1000x."
-    },
-    {
-        title: "Post-Quantum Cryptography",
-        domain: "Cybersecurity & Cryptography",
-        description: "Cryptographic algorithms designed to be secure against attacks by both classical and quantum computers.",
-        useCase: "Securing end-to-end communication channels, digital signatures, and banking infrastructure for the quantum era.",
-        impact: "Protects sensitive global data from future quantum decryption threats."
-    },
-    {
-        title: "Retrieval-Augmented Gen",
-        domain: "AI & LLM Ops",
-        description: "Optimizing the output of large language models by querying authoritative external knowledge bases before generating responses.",
-        useCase: "Enterprise semantic search engines, domain-specific AI chat assistants, and real-time knowledge synthesis.",
-        impact: "Significantly reduces model hallucinations and provides verifiable citations."
     }
 ];
 
-// Fetch RSS Feed
-function fetchRSS(url) {
+// List of public technology RSS feeds
+const techFeeds = [
+    "https://news.google.com/rss/search?q=technology+trends+OR+software+engineering&hl=en-US&gl=US&ceid=US:en",
+    "https://techcrunch.com/feed/",
+    "https://hnrss.org/newest?q=orchestration+OR+architecture+OR+agent+OR+framework"
+];
+
+// Helper to perform HTTP GET requests
+function fetchUrl(url) {
     return new Promise((resolve, reject) => {
         const options = {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-            }
+            },
+            timeout: 5000
         };
         https.get(url, options, (res) => {
             let data = '';
             res.on('data', (chunk) => { data += chunk; });
-            res.on('end', () => { resolve(data); });
+            res.on('end', () => {
+                if (res.statusCode >= 200 && res.statusCode < 300) {
+                    resolve(data);
+                } else {
+                    reject(new Error(`HTTP Status ${res.statusCode}`));
+                }
+            });
         }).on('error', (err) => { reject(err); });
     });
 }
 
-// Simple RSS/XML parsing helper
+// Simple XML parser to extract headlines and descriptions
 function parseRSS(xml) {
     const items = [];
     const itemRegex = /<item>([\s\S]*?)<\/item>/g;
     let match;
-    while ((match = itemRegex.exec(xml)) !== null && items.length < 5) {
+    while ((match = itemRegex.exec(xml)) !== null && items.length < 15) {
         const content = match[1];
         const titleMatch = content.match(/<title>([\s\S]*?)<\/title>/);
         const linkMatch = content.match(/<link>([\s\S]*?)<\/link>/);
@@ -72,10 +72,7 @@ function parseRSS(xml) {
             const title = cleanText(titleMatch[1]);
             const link = linkMatch[1].trim();
             const rawDesc = descMatch ? cleanText(descMatch[1]) : '';
-            
-            const trendDetails = mapTrendDetails(title, rawDesc);
-            trendDetails.link = link;
-            items.push(trendDetails);
+            items.push({ title, description: rawDesc, link });
         }
     }
     return items;
@@ -97,12 +94,12 @@ function truncate(str, len) {
     return str.length > len ? str.slice(0, len - 3) + '...' : str;
 }
 
-function mapTrendDetails(rawTitle, rawDesc) {
-    // Strip sources like "- TechCrunch", " | Wired", "&nbsp;&nbsp;Source", etc.
+// Heuristic trend-mapper if Gemini is not available
+function heuristicMapTrend(rawTitle, rawDesc) {
     let title = rawTitle
         .split(/\s+-\s+/)[0]
         .split(/\s+\|\s+/)[0]
-        .split('  ')[0] // remove double space prefixes from Google News
+        .split('  ')[0]
         .split(' - ')[0]
         .trim();
 
@@ -123,22 +120,22 @@ function mapTrendDetails(rawTitle, rawDesc) {
         domain = 'Cybersecurity';
         useCase = 'Auditing vulnerability vectors, threat mapping, and zero-trust standards.';
         impact = 'Hardens platform interfaces and shields user assets from edge vulnerabilities.';
-    } else if (t.includes('database') || t.includes('sql') || t.includes('data') || t.includes('lakehouse') || t.includes('postgres')) {
+    } else if (t.includes('database') || t.includes('sql') || t.includes('data') || t.includes('lakehouse') || t.includes('postgres') || t.includes('vector')) {
         domain = 'Data Engineering';
         useCase = 'Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.';
         impact = 'Ensures high throughput and ultra-low latency for analytical queries.';
     } else if (t.includes('cloud') || t.includes('aws') || t.includes('docker') || t.includes('kubernetes') || t.includes('devops') || t.includes('serverless')) {
         domain = 'Cloud & DevOps';
         useCase = 'Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.';
-        impact = 'Reduces operational overhead and ensures automatic scalability under high traffic.';
+        impact = 'Reduces operational overhead and ensures automatic scalability under traffic.';
     } else if (t.includes('blockchain') || t.includes('web3') || t.includes('ethereum') || t.includes('solidity')) {
         domain = 'Web3 / Blockchain';
-        useCase = 'Developing smart contract protocols and scaling high-fidelity decentralized ledger tools.';
+        useCase = 'Developing smart contract protocols and scaling decentralized ledger tools.';
         impact = 'Builds trustless transactions and implements decentralized identity frameworks.';
     } else if (t.includes('gpu') || t.includes('chip') || t.includes('semiconductor') || t.includes('nvidia') || t.includes('hardware') || t.includes('packaging')) {
         domain = 'Hardware & GPU Tech';
-        useCase = 'Optimizing parallel workloads, distributed model training configurations, and GPU virtualization.';
-        impact = 'Dramatically improves model throughput and optimizes operational infrastructure costs.';
+        useCase = 'Optimizing parallel workloads, distributed model training, and GPU virtualization.';
+        impact = 'Dramatically improves model throughput and optimizes operational costs.';
     }
 
     let description;
@@ -157,6 +154,68 @@ function mapTrendDetails(rawTitle, rawDesc) {
         useCase,
         impact
     };
+}
+
+// Call Google Gemini API (using native https to avoid dependency installation)
+function callGemini(apiKey, headlines) {
+    return new Promise((resolve, reject) => {
+        const prompt = `You are a tech-trend synthesizer. Analyze these recent tech headlines and summaries:
+${JSON.stringify(headlines, null, 2)}
+
+Identify the top 3 most important emerging software engineering or technology trends represented in these headlines (e.g., Loop Engineering, Agentic Orchestration, AI Hardware, Web3, next-gen databases, or other innovative paradigms). 
+For each trend, synthesize a structured object. The result MUST be a valid JSON array of exactly 3 objects.
+Each object must have these exact keys:
+1. "title": A short, catchy title of the trend (maximum 26 characters).
+2. "domain": The broad technical domain (maximum 25 characters, e.g., "Artificial Intelligence", "Software Architecture", "Data Engineering", etc.).
+3. "description": A concise, clear explanation of what this trend is (maximum 120 characters).
+4. "useCase": A practical use case of how a developer applies this trend in a project (maximum 120 characters).
+5. "impact": The strategic or market impact of adopting this trend (maximum 120 characters).
+
+Return ONLY the raw JSON array. Do not include markdown code block formatting (like \`\`\`json) or any extra conversational text.`;
+
+        const payload = JSON.stringify({
+            contents: [{
+                parts: [{ text: prompt }]
+            }],
+            generationConfig: {
+                responseMimeType: "application/json"
+            }
+        });
+
+        const options = {
+            hostname: 'generativelanguage.googleapis.com',
+            path: `/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(payload)
+            },
+            timeout: 10000
+        };
+
+        const req = https.request(options, (res) => {
+            let body = '';
+            res.on('data', (chunk) => { body += chunk; });
+            res.on('end', () => {
+                if (res.statusCode >= 200 && res.statusCode < 300) {
+                    try {
+                        const responseJson = JSON.parse(body);
+                        const responseText = responseJson.candidates[0].content.parts[0].text;
+                        const cleanedJSON = responseText.replace(/```json/g, '').replace(/```/g, '').trim();
+                        resolve(JSON.parse(cleanedJSON));
+                    } catch (e) {
+                        reject(new Error(`Failed to parse Gemini response: ${e.message}. Raw: ${body}`));
+                    }
+                } else {
+                    reject(new Error(`Gemini API error (Status ${res.statusCode}): ${body}`));
+                }
+            });
+        });
+
+        req.on('error', (e) => { reject(e); });
+        req.write(payload);
+        req.end();
+    });
 }
 
 // Generate the SVG content
@@ -272,7 +331,7 @@ function generateSVG(trends) {
 </svg>`;
 }
 
-// Generate the Markdown elements for details
+// Generate markdown representation of details list
 function generateMarkdownDetails(trends) {
     let md = '';
     trends.forEach((t, i) => {
@@ -291,39 +350,64 @@ function generateMarkdownDetails(trends) {
 
 async function main() {
     try {
-        console.log("Fetching latest technology trends from Google News RSS...");
-        // Fetch technology news RSS
-        const rssUrl = "https://news.google.com/rss/search?q=technology+trends&hl=en-US&gl=US&ceid=US:en";
-        let xml = '';
-        try {
-            xml = await fetchRSS(rssUrl);
-        } catch (e) {
-            console.warn("Network request failed, falling back to curated trends:", e.message);
-        }
-
-        const rssTrends = xml ? parseRSS(xml) : [];
-        console.log(`Parsed ${rssTrends.length} live trends from Google News.`);
-
-        // Combine live trends with curated trends
-        // Make sure we have 3 unique trends
-        const selectedTrends = [];
-        const seenTitles = new Set();
-
-        // 1. Add fresh RSS trends first
-        for (const item of rssTrends) {
-            if (!seenTitles.has(item.title.toLowerCase())) {
-                selectedTrends.push(item);
-                seenTitles.add(item.title.toLowerCase());
+        console.log("Fetching live news items from RSS feeds...");
+        
+        let headlinePool = [];
+        
+        // Fetch from feeds sequentially until we get good data
+        for (const feedUrl of techFeeds) {
+            try {
+                const xml = await fetchUrl(feedUrl);
+                const items = parseRSS(xml);
+                if (items.length > 0) {
+                    headlinePool = headlinePool.concat(items);
+                    console.log(`Successfully parsed ${items.length} stories from ${feedUrl}`);
+                }
+            } catch (e) {
+                console.warn(`Could not fetch feed ${feedUrl}: ${e.message}`);
             }
-            if (selectedTrends.length >= 3) break;
         }
 
-        // 2. Fill rest with curated trends
-        for (const item of curatedTrends) {
-            if (selectedTrends.length >= 3) break;
-            if (!seenTitles.has(item.title.toLowerCase())) {
-                selectedTrends.push(item);
-                seenTitles.add(item.title.toLowerCase());
+        console.log(`Total live articles collected: ${headlinePool.length}`);
+
+        let selectedTrends = [];
+
+        const apiKey = process.env.GEMINI_API_KEY;
+        if (apiKey) {
+            console.log("GEMINI_API_KEY detected. Utilizing AI-driven real-time trends synthesis...");
+            try {
+                // Limit headline items sent to Gemini to keep payload compact
+                const compactHeadlines = headlinePool.slice(0, 10).map(h => ({
+                    title: h.title,
+                    description: h.description
+                }));
+                selectedTrends = await callGemini(apiKey, compactHeadlines);
+                console.log("Successfully synthesized trends via Gemini API!");
+            } catch (geminiError) {
+                console.error("Gemini synthesis failed, falling back to heuristics:", geminiError.message);
+            }
+        }
+
+        // If Gemini is not set up or failed, fall back to heuristic mapping
+        if (selectedTrends.length < 3) {
+            console.log("Using heuristic-based parser for real-time headlines...");
+            const seenTitles = new Set();
+            for (const item of headlinePool) {
+                const trend = heuristicMapTrend(item.title, item.description);
+                if (!seenTitles.has(trend.title.toLowerCase())) {
+                    selectedTrends.push(trend);
+                    seenTitles.add(trend.title.toLowerCase());
+                }
+                if (selectedTrends.length >= 3) break;
+            }
+
+            // If we still don't have 3, use static fallbacks
+            for (const item of fallbackTrends) {
+                if (selectedTrends.length >= 3) break;
+                if (!seenTitles.has(item.title.toLowerCase())) {
+                    selectedTrends.push(item);
+                    seenTitles.add(item.title.toLowerCase());
+                }
             }
         }
 
@@ -344,7 +428,6 @@ async function main() {
         const readmePath = path.join(__dirname, '../README.md');
         let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
-        // Prepare the block to insert
         const trendsBlock = `<!-- START_TRENDS -->
 <p align="center">
   <img src="assets/trends.svg" width="100%" alt="Tech Trends Slideshow" />
@@ -358,18 +441,15 @@ async function main() {
 ${generateMarkdownDetails(selectedTrends)}
 <!-- END_TRENDS -->`;
 
-        // Check if START_TRENDS and END_TRENDS markers exist
         if (readmeContent.includes('<!-- START_TRENDS -->') && readmeContent.includes('<!-- END_TRENDS -->')) {
             const startIdx = readmeContent.indexOf('<!-- START_TRENDS -->');
             const endIdx = readmeContent.indexOf('<!-- END_TRENDS -->') + '<!-- END_TRENDS -->'.length;
             readmeContent = readmeContent.slice(0, startIdx) + trendsBlock + readmeContent.slice(endIdx);
             console.log("Updated README.md trends section using markers.");
         } else {
-            // Find "## 🎯 Current Focus & Learning Path" and replace it and the subsequent table
             const headerStr = '## 🎯 Current Focus & Learning Path';
             const headerIdx = readmeContent.indexOf(headerStr);
             if (headerIdx !== -1) {
-                // Find where the next section starts, e.g. "## 🌍 Connect with Me"
                 const nextSectionStr = '## 🌍 Connect with Me';
                 const nextSectionIdx = readmeContent.indexOf(nextSectionStr);
                 
@@ -377,12 +457,11 @@ ${generateMarkdownDetails(selectedTrends)}
                     readmeContent = readmeContent.slice(0, headerIdx) + headerStr + '\n\n' + trendsBlock + '\n\n' + readmeContent.slice(nextSectionIdx);
                     console.log("Initialised trends section with markers in README.md.");
                 } else {
-                    // Fallback to replacing just after the header
                     readmeContent = readmeContent.slice(0, headerIdx) + headerStr + '\n\n' + trendsBlock;
                     console.log("Initialised trends section at end of README.md.");
                 }
             } else {
-                console.error("Could not find '## 🎯 Current Focus & Learning Path' in README.md");
+                console.error("Could not find section header in README.md");
                 return;
             }
         }
