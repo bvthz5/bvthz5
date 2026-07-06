@@ -117,6 +117,9 @@ function parseRSS(xml) {
 function cleanText(text) {
     return text
         .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+        .replace(/&amp;nbsp;/g, ' ')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/\u00A0/g, ' ')
         .replace(/&amp;/g, '&')
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
@@ -260,9 +263,7 @@ function escapeXML(text) {
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
-        .replace(/'/g, '&apos;')
-        .replace(/\u00A0/g, ' ')
-        .replace(/&nbsp;/g, ' ');
+        .replace(/'/g, '&apos;');
 }
 
 // Helper to wrap long text to two lines
@@ -403,11 +404,11 @@ function generateSVG(trends) {
     <text x="50" y="${layout1.coords.desc1}" class="body-text">${escapeXML(layout1.desc1)}</text>
     <text x="50" y="${layout1.coords.desc2}" class="body-text">${escapeXML(layout1.desc2)}</text>
     
-    <text x="50" y="${layout1.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout1.coords.useLabel}" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="${layout1.coords.use1}" class="body-text">${escapeXML(layout1.use1)}</text>
     <text x="50" y="${layout1.coords.use2}" class="body-text">${escapeXML(layout1.use2)}</text>
     
-    <text x="50" y="${layout1.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout1.coords.impLabel}" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="${layout1.coords.imp1}" class="body-text">${escapeXML(layout1.imp1)}</text>
     <text x="50" y="${layout1.coords.imp2}" class="body-text">${escapeXML(layout1.imp2)}</text>
   </g>
@@ -425,11 +426,11 @@ function generateSVG(trends) {
     <text x="50" y="${layout2.coords.desc1}" class="body-text">${escapeXML(layout2.desc1)}</text>
     <text x="50" y="${layout2.coords.desc2}" class="body-text">${escapeXML(layout2.desc2)}</text>
     
-    <text x="50" y="${layout2.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout2.coords.useLabel}" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="${layout2.coords.use1}" class="body-text">${escapeXML(layout2.use1)}</text>
     <text x="50" y="${layout2.coords.use2}" class="body-text">${escapeXML(layout2.use2)}</text>
     
-    <text x="50" y="${layout2.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout2.coords.impLabel}" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="${layout2.coords.imp1}" class="body-text">${escapeXML(layout2.imp1)}</text>
     <text x="50" y="${layout2.coords.imp2}" class="body-text">${escapeXML(layout2.imp2)}</text>
   </g>
@@ -447,11 +448,11 @@ function generateSVG(trends) {
     <text x="50" y="${layout3.coords.desc1}" class="body-text">${escapeXML(layout3.desc1)}</text>
     <text x="50" y="${layout3.coords.desc2}" class="body-text">${escapeXML(layout3.desc2)}</text>
     
-    <text x="50" y="${layout3.coords.useLabel}" class="label-text">💡 Practical Application:</text>
+    <text x="50" y="${layout3.coords.useLabel}" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="${layout3.coords.use1}" class="body-text">${escapeXML(layout3.use1)}</text>
     <text x="50" y="${layout3.coords.use2}" class="body-text">${escapeXML(layout3.use2)}</text>
     
-    <text x="50" y="${layout3.coords.impLabel}" class="label-text">⚡ Strategic Impact:</text>
+    <text x="50" y="${layout3.coords.impLabel}" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="${layout3.coords.imp1}" class="body-text">${escapeXML(layout3.imp1)}</text>
     <text x="50" y="${layout3.coords.imp2}" class="body-text">${escapeXML(layout3.imp2)}</text>
   </g>
@@ -475,9 +476,9 @@ function generateMarkdownDetails(trends) {
   <summary><b>${i + 1}️⃣ ${t.title}</b> &nbsp;|&nbsp; 🏷️ <i>${t.domain}</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>What it is:</b> ${t.description}<br>
-    <b>How it's used:</b> ${t.useCase}<br>
-    <b>Market Impact:</b> ${t.impact}<br>
+    <b>Concept Overview:</b> ${t.description}<br>
+    <b>Implementation Use Case:</b> ${t.useCase}<br>
+    <b>Strategic Value:</b> ${t.impact}<br>
     ${t.link ? `<br>🔗 <a href="${t.link}" target="_blank"><b>Read the full article on the market trends page</b></a>` : ''}
   </blockquote>
 </details>\n\n`;
