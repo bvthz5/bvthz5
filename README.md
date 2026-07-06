@@ -394,7 +394,7 @@
 <details>
   <summary><b>1️⃣ For software engineers,...</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     <b>What it is:</b> For software engineers, AI isn't just changing coding. It's changing careers, confidence, and identity.&nbsp;&nbsp;Bu...<br>
     <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.
@@ -404,7 +404,7 @@
 <details>
   <summary><b>2️⃣ Wu Zengxin, Assistant L...</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     <b>What it is:</b> Wu Zengxin, Assistant Lead Engineer, Software Engineering & Enterprise Tooling-Software Engineering (SEET), Synapxe&n...<br>
     <b>How it's used:</b> Applying Wu tools to modern development pipelines.<br>
     <b>Market Impact:</b> Boosts system efficiency using new engineering frameworks.
@@ -414,7 +414,7 @@
 <details>
   <summary><b>3️⃣ 'Devin-kun': Japan embr...</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     <b>What it is:</b> 'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI softwar...<br>
     <b>How it's used:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Market Impact:</b> Reduces manual process complexity and automates multi-step pipelines.
