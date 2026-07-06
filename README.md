@@ -361,6 +361,7 @@
   <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6F59?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Testing
