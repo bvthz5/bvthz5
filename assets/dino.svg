@@ -5193,7 +5193,7 @@
   </g>
   <g class="cell-group-365">
     <rect x="1080" y="55" width="16" height="16" rx="2" class="cell-bg-365" fill="#161b22" />
-    <path d="M 1088.5 57 L 1091.5 57 L 1091.5 61.5 L 1088.5 61.5 Z M 1084 60.5 L 1086.5 59 L 1088 62.5 L 1085.5 64 Z M 1093.5 59 L 1096 60.5 L 1094.5 64 L 1092 62.5 Z M 1087.5 64.5 L 1092.5 64.5 L 1092 69 L 1088 69 Z" class="cell-footprint-365" fill="#161b22" />
+    <path d="M 1088.5 57 L 1091.5 57 L 1091.5 61.5 L 1088.5 61.5 Z M 1084 60.5 L 1086.5 59 L 1088 62.5 L 1085.5 64 Z M 1093.5 59 L 1096 60.5 L 1094.5 64 L 1092 62.5 Z M 1087.5 64.5 L 1092.5 64.5 L 1092 69 L 1088 69 Z" class="cell-footprint-365" fill="#26a641" />
   </g>
   <g class="cell-group-366">
     <rect x="1080" y="75" width="16" height="16" rx="2" class="cell-bg-366" fill="#161b22" />
