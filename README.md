@@ -393,7 +393,18 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online  PRWeb<br>
+    <b>Implementation Use Case:</b> Applying iSAQB tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTBGLS0wRHFDRERZUUdXQ1BZVGh2bVVzV18zYzk0bFplZEdKX0UyTjAtOXNuZlJ6YmlFNEd3b3ktY1lMdS1RLTR2c3VIbU1yZVpGVm56bnFDX0NQYjBwV3NHdVBLQTREbmxlZmFBSW9iVy10Qm9NVEUwX0tuWnh2My14OHZRU2tyMnZXWnd3LUctdEFZSG1lRjdQYTVFbnF5V1p6Qy1pN0poZF9rcGp4UDByZjNmcW1KbU1USTRqYUVOc0dYdXpQclZraFcxRkF2TW1MdW9ZZ2JlcDBaTTU3WkF5NHo2Q0xOMUU2X3JDOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
@@ -404,24 +415,13 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Capgemini CTO: AI puts QA in the driving seat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> Capgemini CTO: AI puts QA in the driving seat  QA Financial<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Loop Engineering: A Guide for Engineers and Practitioners</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering: A Guide for Engineers and Practitioners | by Adnan Masood, PhD. | Jun, 2026  Medium<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEQ3WXlOYk91M3c4NG03M3ZPSjlPN3VsTTRseG40UWZEZldrMmFsM2t6cC1ld1lYamtJQ2RpcEw2WEx1QlNSelpEWWZkOHcyR20xN19zRHJwRzZzV3lUMXd6aUxFbGh3VDV0ZWhWT1Q4WGJTdXY3NGkxV3laXzR5TzA3Rno3a2xxOTFMY21kM0wza2h0SHJoZVlvTnFyWTdzWmE4?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGtFbzdWSnJiNFhWYVFFYzBBLXgyUXhDTnhoMnNELWc0eUt1YjVtQnR1UWZHNTRIX2dJX1JIdzNnSlZGaDJrcXNqNVUzTjVNdkRqNmVEWVVOQXg5MXBZYjZGT3N4RWNfWUI2TUpWT1d5b09Lb2Vzdmp5NDZzX2h5VkloQU1FTDNhUlBkc1Z6d2tDRnBlX2FUamE3dmkwb0k?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
