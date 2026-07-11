@@ -158,13 +158,13 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-530.09%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-491.65%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=plastic" alt="Public Repos Badge">
+            <img src="https://img.shields.io/badge/Public%20Repos-20-blue?style=plastic" alt="Public Repos Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Private%20Repos-07-red?style=plastic" alt="Private Repos Badge">
+            <img src="https://img.shields.io/badge/Private%20Repos-00-red?style=plastic" alt="Private Repos Badge">
         </td>
     </tr>
 </table>
@@ -525,7 +525,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 13:41 UTC_
+_Last updated: 2026-07-11 13:45 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
