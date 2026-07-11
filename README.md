@@ -427,6 +427,39 @@
 <!-- END_TRENDS -->
 
 <!-- START:NOT_FOLLOWING_BACK -->
+
+## 📊 GitHub Follow Stats
+
+**Followers:** 355
+
+**Following:** 354
+
+**Not following back:** 15
+
+## 👀 People I Follow Who Don't Follow Me Back
+
+_Last updated: 2026-07-11 13:14 UTC_
+
+| Avatar | Username |
+|--------|----------|
+| <img src="https://avatars.githubusercontent.com/u/101954795?v=4" width="40"/> | [A-Hemeda](https://github.com/A-Hemeda) |
+| <img src="https://avatars.githubusercontent.com/u/265220422?v=4" width="40"/> | [aatifaaofficial](https://github.com/aatifaaofficial) |
+| <img src="https://avatars.githubusercontent.com/u/255503177?v=4" width="40"/> | [AnkitSaini491](https://github.com/AnkitSaini491) |
+| <img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="40"/> | [Aymane-001](https://github.com/Aymane-001) |
+| <img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="40"/> | [bigmacman1129](https://github.com/bigmacman1129) |
+| <img src="https://avatars.githubusercontent.com/u/81581566?v=4" width="40"/> | [Cimorexave](https://github.com/Cimorexave) |
+| <img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="40"/> | [diegobassan](https://github.com/diegobassan) |
+| <img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="40"/> | [hamzazahid01](https://github.com/hamzazahid01) |
+| <img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="40"/> | [milad-hub](https://github.com/milad-hub) |
+| <img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="40"/> | [Mustafakzlyy](https://github.com/Mustafakzlyy) |
+| <img src="https://avatars.githubusercontent.com/u/189593596?v=4" width="40"/> | [Rorychhattish](https://github.com/Rorychhattish) |
+| <img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="40"/> | [samiul796](https://github.com/samiul796) |
+| <img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="40"/> | [tejas-ae](https://github.com/tejas-ae) |
+| <img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="40"/> | [thisisvaishnav](https://github.com/thisisvaishnav) |
+| <img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="40"/> | [XIIsenna](https://github.com/XIIsenna) |
+
+**Total: 15**
+
 <!-- END:NOT_FOLLOWING_BACK -->
 
 ---
