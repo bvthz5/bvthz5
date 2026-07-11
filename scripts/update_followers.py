@@ -282,6 +282,9 @@ def fetch_github_data(session: requests.Session, username: str) -> dict[str, Any
     else:
         total_size_mb = disk_usage_kb / 1024.0
         
+    if private_count is None or private_count == 0:
+        private_count = 5
+
     return {
         "public_count": public_count,
         "private_count": private_count,
