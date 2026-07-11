@@ -465,35 +465,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Controversy arises over differing approaches to agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Controversy arises over differing approaches to agentic orchestration  Yahoo Tech<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEJEclNZc09TMDR5RV9NZ2RlM194WEc4OVhQbEFpZ3J0RENwRDZOYnJWTGpJN2JDTlNwVEJfcmlfUWlfdUtpbFZKd2RkaVlpR0hHVGtVUGpjeWRvWU83c3VCRkJaTWpSc28zaS1Ub2NpUENJZzhqX09yY1BqQUU1Q210dXVsV3cycHBreU5hcWZ4d0lJNmRJRjl3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online: Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework. They discuss shifting key-value abstractions from stateless to stateful to move terabytes of bulk data safely. Software architects will learn to exploit data access patterns, use "Pathfinder" prototypes, and maintain a 99% faster rollout. By Rajasekhar Ummadisetty, Ken Kurzweil<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering: A Guide for Engineers and Practitioners</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering: A Guide for Engineers and Practitioners | by Adnan Masood, PhD. | Jun, 2026  Medium<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEQ3WXlOYk91M3c4NG03M3ZPSjlPN3VsTTRseG40UWZEZldrMmFsM2t6cC1ld1lYamtJQ2RpcEw2WEx1QlNSelpEWWZkOHcyR20xN19zRHJwRzZzV3lUMXd6aUxFbGh3VDV0ZWhWT1Q4WGJTdXY3NGkxV3laXzR5TzA3Rno3a2xxOTFMY21kM0wza2h0SHJoZVlvTnFyWTdzWmE4?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production: Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -506,19 +506,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **355** | **352** | **13** |
+| **355** | **344** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 14:20 UTC_
+_Last updated: 2026-07-11 14:32 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/101954795?v=4" width="50" style="border-radius: 50%;" alt="A-Hemeda"/><br><sub>**A-Hemeda**</sub>](https://github.com/A-Hemeda) | [<img src="https://avatars.githubusercontent.com/u/255503177?v=4" width="50" style="border-radius: 50%;" alt="AnkitSaini491"/><br><sub>**AnkitSaini491**</sub>](https://github.com/AnkitSaini491) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/81581566?v=4" width="50" style="border-radius: 50%;" alt="Cimorexave"/><br><sub>**Cimorexave**</sub>](https://github.com/Cimorexave) |
-| [<img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="50" style="border-radius: 50%;" alt="diegobassan"/><br><sub>**diegobassan**</sub>](https://github.com/diegobassan) | [<img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="50" style="border-radius: 50%;" alt="hamzazahid01"/><br><sub>**hamzazahid01**</sub>](https://github.com/hamzazahid01) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) | [<img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="50" style="border-radius: 50%;" alt="samiul796"/><br><sub>**samiul796**</sub>](https://github.com/samiul796) |
-| [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) | [<img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="50" style="border-radius: 50%;" alt="thisisvaishnav"/><br><sub>**thisisvaishnav**</sub>](https://github.com/thisisvaishnav) | [<img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="50" style="border-radius: 50%;" alt="XIIsenna"/><br><sub>**XIIsenna**</sub>](https://github.com/XIIsenna) |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |
 
-**Total: 13**
+**Total: 5**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
