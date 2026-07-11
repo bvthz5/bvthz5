@@ -1,5 +1,6 @@
 name: Update Followers README
 
+# Trigger comment to run workflow after token update
 on:
   schedule:
     # Runs every day at 00:00 UTC
