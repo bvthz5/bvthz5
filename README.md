@@ -497,22 +497,6 @@
   </blockquote>
 </details>
 <!-- END_TRENDS -->
-
-
-
-### 🚀 Extras
-
-<p align="center">
-  <strong>🔹 Interests : </strong> AI | Blockchain | Cybersecurity | Animation | Storytelling <br>
-  <strong>🎯 Hobbies : </strong> Coding | Writing | Exploring New Tech Trends | Gaming
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-FFD700?style=for-the-badge&logo=smile&logoColor=black" />
-  <img src="https://img.shields.io/badge/Happy%20Coding!-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀%20Keep%20Exploring!-0077B5?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
 ---
 
 <!-- START:NOT_FOLLOWING_BACK -->
@@ -536,6 +520,21 @@ _Last updated: 2026-07-11 14:03 UTC_
 **Total: 14**
 
 <!-- END:NOT_FOLLOWING_BACK -->
+
+---
+
+### 🚀 Extras
+
+<p align="center">
+  <strong>🔹 Interests : </strong> AI | Blockchain | Cybersecurity | Animation | Storytelling <br>
+  <strong>🎯 Hobbies : </strong> Coding | Writing | Exploring New Tech Trends | Gaming
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-FFD700?style=for-the-badge&logo=smile&logoColor=black" />
+  <img src="https://img.shields.io/badge/Happy%20Coding!-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20Keep%20Exploring!-0077B5?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 ---
 
