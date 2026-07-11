@@ -213,16 +213,29 @@ def generate_markdown(
         lines.append("")
         lines.append(f"_Last updated: {now}_")
         lines.append("")
-        lines.append("| Avatar | Username |")
-        lines.append("|--------|----------|")
-        for user in not_following_back:
-            login = user["login"]
-            avatar = user["avatar_url"]
-            profile = user["html_url"]
-            lines.append(
-                f'| <img src="{avatar}" width="40"/> '
-                f"| [{login}]({profile}) |"
-            )
+        
+        cols = 5
+        # Create table header
+        lines.append("| " + " | ".join([" "] * cols) + " |")
+        lines.append("| " + " | ".join([":---:"] * cols) + " |")
+        
+        # Chunk users list into rows of size cols
+        for i in range(0, len(not_following_back), cols):
+            chunk = not_following_back[i : i + cols]
+            row_items = []
+            for user in chunk:
+                login = user["login"]
+                avatar = user["avatar_url"]
+                profile = user["html_url"]
+                cell = f'[<img src="{avatar}" width="50" style="border-radius: 50%;" alt="{login}"/><br><sub>**{login}**</sub>]({profile})'
+                row_items.append(cell)
+            
+            # Pad the row if it's the last one and has fewer items than cols
+            if len(row_items) < cols:
+                row_items.extend([" "] * (cols - len(row_items)))
+                
+            lines.append("| " + " | ".join(row_items) + " |")
+            
         lines.append("")
         lines.append(f"**Total: {len(not_following_back)}**")
         lines.append("")
