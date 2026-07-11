@@ -48,79 +48,6 @@
 
 ---
 
-## 🌐 Developer Profiles
-
-<h4 align="center">🏆 Competitive Programming & Coding Challenges</h4>
-
-<p align="center">
-  <a href="https://leetcode.com/u/thothaz/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/binilvincent80"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a>&nbsp;
-  <a href="https://www.hackerearth.com/@Bvtom/"><img src="https://img.shields.io/badge/-HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/Bvthz"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/bvthz5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codewars.com/users/bvthz5"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" /></a>&nbsp;
-  <a href="https://www.spoj.com/users/bvthz"><img src="https://img.shields.io/badge/-SPOJ-1E90FF?style=flat-square&logo=sphere-online-judge&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codingame.com/profile/524762e26f3860fb7fdd40741fa651617910196"><img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=white" /></a>&nbsp;
-  <a href="https://www.naukri.com/code360/profile/9821d669-c852-43b1-8b7d-ab9b111f1b70"><img src="https://img.shields.io/badge/-Code360-F28D1A?style=flat-square&logo=codingninjas&logoColor=white" /></a>&nbsp;
-  <a href="https://open.kattis.com/users/bvthz"><img src="https://img.shields.io/badge/-Kattis-000000?style=flat-square&logo=kattis&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🛡️ Cybersecurity & CTF</h4>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/BV05"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>&nbsp;
-  <a href="https://app.hackthebox.com/profile/bvthz"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" /></a>&nbsp;
-  <a href="https://www.root-me.org/Binil-Vincent?lang=en"><img src="https://img.shields.io/badge/-Root%20Me-000000?style=flat-square&logo=rootme&logoColor=white" /></a>&nbsp;
-  <a href="https://learn.cylabacademy.org/users/Bvthazzzzzzzzzzzzzzzzz"><img src="https://img.shields.io/badge/-CyLab%20Academy-C41E3A?style=flat-square&logo=shield&logoColor=white" /></a>
-</p>
-
-<h4 align="center">☁️ Cloud & Enterprise</h4>
-
-<p align="center">
-  <a href="https://me.developers.google.com/u/108841439837843973335"><img src="https://img.shields.io/badge/-Google%20Dev%20Program-4285F4?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles"><img src="https://img.shields.io/badge/-Google%20Skills%20Boost-FBBC04?style=flat-square&logo=googlecloud&logoColor=white" /></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/binilvincent-9244/"><img src="https://img.shields.io/badge/-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></a>&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/profile/zhvao1zemekwbhsyx8"><img src="https://img.shields.io/badge/-Salesforce%20Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🎨 Frontend & Design</h4>
-
-<p align="center">
-  <a href="https://www.frontendmentor.io/profile/bvthz5"><img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white" /></a>&nbsp;
-  <a href="https://cssbattle.dev/player/bvthz"><img src="https://img.shields.io/badge/-CSSBattle-FFDF00?style=flat-square&logo=css3&logoColor=white" /></a>
-</p>
-
-<h4 align="center">📊 Data Science & ML</h4>
-
-<p align="center">
-  <a href="https://kaggle.com/binilvincent"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🔗 Web3 & Blockchain</h4>
-
-<p align="center">
-  <a href="https://learnweb3.io/u/TenuousFisherman/"><img src="https://img.shields.io/badge/-LearnWeb3-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" /></a>&nbsp;
-  <a href="https://speedrunethereum.com/builders/0x9Ea388a07B25dc2E8618a8413346A4962C75d2c8"><img src="https://img.shields.io/badge/-SpeedRun%20Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" /></a>
-</p>
-
-<h4 align="center">📚 Learning Platforms</h4>
-
-<p align="center">
-  <a href="https://freecodecamp.org/bvthz5"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /></a>&nbsp;
-  <a href="https://www.w3profile.com/bvthaz"><img src="https://img.shields.io/badge/-W3Schools-04AA6D?style=flat-square&logo=w3schools&logoColor=white" /></a>&nbsp;
-  <a href="https://exercism.org/profiles/bvthz5"><img src="https://img.shields.io/badge/-Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" /></a>&nbsp;
-  <a href="https://codedex.io/@binilvincent801772"><img src="https://img.shields.io/badge/-Codédex-6366F1?style=flat-square&logo=codio&logoColor=white" /></a>&nbsp;
-  <a href="https://coddy.tech/user/bvthz"><img src="https://img.shields.io/badge/-Coddy-FF6B6B?style=flat-square&logo=codecademy&logoColor=white" /></a>&nbsp;
-  <a href="https://edabit.com/user/nEJ6x8FovsKAp366v"><img src="https://img.shields.io/badge/-Edabit-38B000?style=flat-square&logo=edx&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🧩 Coding Practice</h4>
-
-<p align="center">
-  <a href="https://www.interviewbit.com/"><img src="https://img.shields.io/badge/-InterviewBit-87CEEB?style=flat-square&logo=interviewbit&logoColor=white" /></a>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -243,6 +170,106 @@
 
 ---
 
+## 🚀 WakaTime Stats  
+
+<p align="center">
+  <a href="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc"
+     style="
+     display: inline-block;
+     padding: 12px 24px;
+     background: rgba(0, 255, 255, 0.15);
+     border: 2px solid cyan;
+     border-radius: 12px;
+     box-shadow: 0px 0px 20px cyan;
+     text-align: center;
+     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+     animation: glow 1.5s infinite alternate;">
+    <img src="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc.svg"
+         style="filter: drop-shadow(0px 0px 10px cyan);" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=bvthaz&theme=radical"
+       alt="WakaTime Stats"
+       style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
+</p>
+
+---
+
+## 🌐 Developer Profiles
+
+<h4 align="center">🏆 Competitive Programming & Coding Challenges</h4>
+
+<p align="center">
+  <a href="https://leetcode.com/u/thothaz/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/binilvincent80"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a>&nbsp;
+  <a href="https://www.hackerearth.com/@Bvtom/"><img src="https://img.shields.io/badge/-HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white" /></a>&nbsp;
+  <a href="https://codeforces.com/profile/Bvthz"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
+  <a href="https://www.codechef.com/users/bvthz5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>&nbsp;
+  <a href="https://www.codewars.com/users/bvthz5"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" /></a>&nbsp;
+  <a href="https://www.spoj.com/users/bvthz"><img src="https://img.shields.io/badge/-SPOJ-1E90FF?style=flat-square&logo=sphere-online-judge&logoColor=white" /></a>&nbsp;
+  <a href="https://www.codingame.com/profile/524762e26f3860fb7fdd40741fa651617910196"><img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=white" /></a>&nbsp;
+  <a href="https://www.naukri.com/code360/profile/9821d669-c852-43b1-8b7d-ab9b111f1b70"><img src="https://img.shields.io/badge/-Code360-F28D1A?style=flat-square&logo=codingninjas&logoColor=white" /></a>&nbsp;
+  <a href="https://open.kattis.com/users/bvthz"><img src="https://img.shields.io/badge/-Kattis-000000?style=flat-square&logo=kattis&logoColor=white" /></a>
+</p>
+
+<h4 align="center">🛡️ Cybersecurity & CTF</h4>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/BV05"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>&nbsp;
+  <a href="https://app.hackthebox.com/profile/bvthz"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" /></a>&nbsp;
+  <a href="https://www.root-me.org/Binil-Vincent?lang=en"><img src="https://img.shields.io/badge/-Root%20Me-000000?style=flat-square&logo=rootme&logoColor=white" /></a>&nbsp;
+  <a href="https://learn.cylabacademy.org/users/Bvthazzzzzzzzzzzzzzzzz"><img src="https://img.shields.io/badge/-CyLab%20Academy-C41E3A?style=flat-square&logo=shield&logoColor=white" /></a>
+</p>
+
+<h4 align="center">☁️ Cloud & Enterprise</h4>
+
+<p align="center">
+  <a href="https://me.developers.google.com/u/108841439837843973335"><img src="https://img.shields.io/badge/-Google%20Dev%20Program-4285F4?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles"><img src="https://img.shields.io/badge/-Google%20Skills%20Boost-FBBC04?style=flat-square&logo=googlecloud&logoColor=white" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/binilvincent-9244/"><img src="https://img.shields.io/badge/-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></a>&nbsp;
+  <a href="https://www.salesforce.com/trailblazer/profile/zhvao1zemekwbhsyx8"><img src="https://img.shields.io/badge/-Salesforce%20Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
+</p>
+
+<h4 align="center">🎨 Frontend & Design</h4>
+
+<p align="center">
+  <a href="https://www.frontendmentor.io/profile/bvthz5"><img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white" /></a>&nbsp;
+  <a href="https://cssbattle.dev/player/bvthz"><img src="https://img.shields.io/badge/-CSSBattle-FFDF00?style=flat-square&logo=css3&logoColor=white" /></a>
+</p>
+
+<h4 align="center">📊 Data Science & ML</h4>
+
+<p align="center">
+  <a href="https://kaggle.com/binilvincent"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+</p>
+
+<h4 align="center">🔗 Web3 & Blockchain</h4>
+
+<p align="center">
+  <a href="https://learnweb3.io/u/TenuousFisherman/"><img src="https://img.shields.io/badge/-LearnWeb3-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" /></a>&nbsp;
+  <a href="https://speedrunethereum.com/builders/0x9Ea388a07B25dc2E8618a8413346A4962C75d2c8"><img src="https://img.shields.io/badge/-SpeedRun%20Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" /></a>
+</p>
+
+<h4 align="center">📚 Learning Platforms</h4>
+
+<p align="center">
+  <a href="https://freecodecamp.org/bvthz5"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /></a>&nbsp;
+  <a href="https://www.w3profile.com/bvthaz"><img src="https://img.shields.io/badge/-W3Schools-04AA6D?style=flat-square&logo=w3schools&logoColor=white" /></a>&nbsp;
+  <a href="https://exercism.org/profiles/bvthz5"><img src="https://img.shields.io/badge/-Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" /></a>&nbsp;
+  <a href="https://codedex.io/@binilvincent801772"><img src="https://img.shields.io/badge/-Codédex-6366F1?style=flat-square&logo=codio&logoColor=white" /></a>&nbsp;
+  <a href="https://coddy.tech/user/bvthz"><img src="https://img.shields.io/badge/-Coddy-FF6B6B?style=flat-square&logo=codecademy&logoColor=white" /></a>&nbsp;
+  <a href="https://edabit.com/user/nEJ6x8FovsKAp366v"><img src="https://img.shields.io/badge/-Edabit-38B000?style=flat-square&logo=edx&logoColor=white" /></a>
+</p>
+
+<h4 align="center">🧩 Coding Practice</h4>
+
+<p align="center">
+  <a href="https://www.interviewbit.com/"><img src="https://img.shields.io/badge/-InterviewBit-87CEEB?style=flat-square&logo=interviewbit&logoColor=white" /></a>
+</p>
+
+---
 ## 📚 Publications & Research
 
 <table width="100%">
@@ -467,36 +494,6 @@
 
 <p align="center">
   <img src="./gif/bird.gif" width="500" height="300">
-
----
-
-## 🚀 WakaTime Stats  
-
-<p align="center">
-  <a href="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc"
-     style="
-     display: inline-block;
-     padding: 12px 24px;
-     background: rgba(0, 255, 255, 0.15);
-     border: 2px solid cyan;
-     border-radius: 12px;
-     box-shadow: 0px 0px 20px cyan;
-     text-align: center;
-     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-     animation: glow 1.5s infinite alternate;">
-    <img src="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc.svg"
-         style="filter: drop-shadow(0px 0px 10px cyan);" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=bvthaz&theme=radical"
-       alt="WakaTime Stats"
-       style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
-</p>
-
-
-
 
 
 ### 🚀 Extras
