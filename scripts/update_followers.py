@@ -152,9 +152,16 @@ def _fetch_all_pages(
 
 
 def get_authenticated_user(session: requests.Session) -> str:
-    """Return the username of the authenticated user."""
+    """Return the username of the authenticated user and log token scopes."""
     response = session.get(f"{GITHUB_API_BASE}/user")
     response.raise_for_status()
+    
+    scopes = response.headers.get("X-OAuth-Scopes")
+    if scopes is not None:
+        logger.info("Token scopes (X-OAuth-Scopes): %s", scopes)
+    else:
+        logger.info("Token scopes: None (likely a fine-grained token)")
+        
     username: str = response.json()["login"]
     logger.info("Authenticated as: %s", username)
     return username
