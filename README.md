@@ -407,6 +407,49 @@
 
 ---
 
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
+  </a>
+  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
+  </a>
+  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
+  </a>
+  <a href="https://discord.gg/rVdFFxfG" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+![](https://github-trophies.devomb.com/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🎵 Spotify Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/binilvincent5" target="_blank">
+    <img src="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+## 🎭 Fun Animation
+
+<p align="center">
+  <img src="./gif/bird.gif" width="500" height="300">
+</p>
+
+---
+
 ## 🎯 Current Focus & Learning Path
 
 <!-- START_TRENDS -->
@@ -453,47 +496,6 @@
 </details>
 <!-- END_TRENDS -->
 
-
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
-  </a>
-  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
-  </a>
-  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
-  </a>
-  <a href="https://discord.gg/rVdFFxfG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-![](https://github-trophies.devomb.com/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/binilvincent5" target="_blank">
-    <img src="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 🎭 Fun Animation
-
-<p align="center">
-  <img src="./gif/bird.gif" width="500" height="300">
 
 
 ### 🚀 Extras
