@@ -465,35 +465,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ AI-assisted Software Engineering Is Creating A New Delivery Paradox</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFlHaldvRXhCN0w3blB4X2R2emhKeWUzQTZxN1BZRHdsMHltQ2luOHBSR0wxdTdRWURzSEFFMy1FSmJQY3dBaDduSWpaU3ZTY19qcUdtQjVQeFBwQTFfYlhHOE9Yd3VWUEVEMDhTYmVNdmRscXBsY1pWaTNGeGQtdXVpMFpnaGNmWEVZbkpQOEVpVTZzeU5ubllVY2ZPU2NNeUxwVUtFd3JrcVppYmVjY3JVYmRFXzdHQzJibEFIS0l0UQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZmNZNmUzSXdqWkpvTngxWlc2aEpudU05NEVhb0Y5UmdQTDJfZlFrdWVBMGQ0NHZ6eDF4U25JNUtxTHRwcmpOanAxZ1VLWmJtazkzUGFnU2RBWEtQR0N3YXE1aDVnMjEwWk9LTnFpYnZUQ24xcmNfTw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Cloudflare and AWS Embed x402 Agent Payments at the Edge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare and AWS both implemented x402 stablecoin micropayments at their edge networks within two weeks. The open protocol under the Linux Foundation revives HTTP 402 for agent-to-service payments with sub-cent transaction costs. Coinbase reports 169 million transactions in year one. Enterprise tax and invoicing gaps remain unresolved. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery: Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -506,19 +506,19 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **355** | **353** | **14** |
+| **355** | **352** | **13** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 14:12 UTC_
+_Last updated: 2026-07-11 14:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/101954795?v=4" width="50" style="border-radius: 50%;" alt="A-Hemeda"/><br><sub>**A-Hemeda**</sub>](https://github.com/A-Hemeda) | [<img src="https://avatars.githubusercontent.com/u/255503177?v=4" width="50" style="border-radius: 50%;" alt="AnkitSaini491"/><br><sub>**AnkitSaini491**</sub>](https://github.com/AnkitSaini491) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/81581566?v=4" width="50" style="border-radius: 50%;" alt="Cimorexave"/><br><sub>**Cimorexave**</sub>](https://github.com/Cimorexave) |
-| [<img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="50" style="border-radius: 50%;" alt="diegobassan"/><br><sub>**diegobassan**</sub>](https://github.com/diegobassan) | [<img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="50" style="border-radius: 50%;" alt="hamzazahid01"/><br><sub>**hamzazahid01**</sub>](https://github.com/hamzazahid01) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) | [<img src="https://avatars.githubusercontent.com/u/189593596?v=4" width="50" style="border-radius: 50%;" alt="Rorychhattish"/><br><sub>**Rorychhattish**</sub>](https://github.com/Rorychhattish) |
-| [<img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="50" style="border-radius: 50%;" alt="samiul796"/><br><sub>**samiul796**</sub>](https://github.com/samiul796) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) | [<img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="50" style="border-radius: 50%;" alt="thisisvaishnav"/><br><sub>**thisisvaishnav**</sub>](https://github.com/thisisvaishnav) | [<img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="50" style="border-radius: 50%;" alt="XIIsenna"/><br><sub>**XIIsenna**</sub>](https://github.com/XIIsenna) |   |
+| [<img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="50" style="border-radius: 50%;" alt="diegobassan"/><br><sub>**diegobassan**</sub>](https://github.com/diegobassan) | [<img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="50" style="border-radius: 50%;" alt="hamzazahid01"/><br><sub>**hamzazahid01**</sub>](https://github.com/hamzazahid01) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) | [<img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="50" style="border-radius: 50%;" alt="samiul796"/><br><sub>**samiul796**</sub>](https://github.com/samiul796) |
+| [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) | [<img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="50" style="border-radius: 50%;" alt="thisisvaishnav"/><br><sub>**thisisvaishnav**</sub>](https://github.com/thisisvaishnav) | [<img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="50" style="border-radius: 50%;" alt="XIIsenna"/><br><sub>**XIIsenna**</sub>](https://github.com/XIIsenna) |   |   |
 
-**Total: 14**
+**Total: 13**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
