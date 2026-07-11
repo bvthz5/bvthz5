@@ -143,6 +143,7 @@
 
 ---
 
+<!-- START:MY_GITHUB_DATA -->
 ## 📦 My GitHub Data
 
 <table align="center" border="1" cellspacing="0" cellpadding="10">
@@ -167,6 +168,7 @@
         </td>
     </tr>
 </table>
+<!-- END:MY_GITHUB_DATA -->
 
 ---
 

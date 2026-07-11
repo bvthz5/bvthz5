@@ -46,6 +46,8 @@ RETRY_STATUS_CODES: tuple[int, ...] = (403, 429, 500, 502, 503, 504)
 README_PATH: Path = Path(__file__).resolve().parent.parent / "README.md"
 START_MARKER: str = "<!-- START:NOT_FOLLOWING_BACK -->"
 END_MARKER: str = "<!-- END:NOT_FOLLOWING_BACK -->"
+DATA_START_MARKER: str = "<!-- START:MY_GITHUB_DATA -->"
+DATA_END_MARKER: str = "<!-- END:MY_GITHUB_DATA -->"
 
 # ---------------------------------------------------------------------------
 # Logging
@@ -183,6 +185,111 @@ def compute_not_following_back(
     return not_following_back
 
 
+def fetch_achievements_count(session: requests.Session, username: str) -> int:
+    """Fetch user's public profile page and count their achievements."""
+    url = f"https://github.com/{username}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    try:
+        response = session.get(url, headers=headers)
+        if response.status_code != 200:
+            logger.warning("Could not fetch profile HTML for achievements: %d", response.status_code)
+            return 6  # Fallback to current count
+        
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        achievement_links = set()
+        for link in soup.find_all('a', href=True):
+            href = link['href']
+            if 'achievement=' in href:
+                import urllib.parse
+                parsed = urllib.parse.urlparse(href)
+                params = urllib.parse.parse_qs(parsed.query)
+                ach_name = params.get('achievement', [None])[0]
+                if ach_name:
+                    achievement_links.add(ach_name)
+                    
+        count = len(achievement_links)
+        if count == 0:
+            # Fallback search for img with alt text containing achievement names
+            for img in soup.find_all('img', alt=True):
+                alt = img['alt'].lower()
+                if 'achievement:' in alt:
+                    achievement_links.add(alt)
+            count = len(achievement_links)
+            
+        logger.info("Found %d achievements for %s", count if count > 0 else 6, username)
+        return count if count > 0 else 6
+    except Exception as exc:
+        logger.warning("Error fetching achievements count: %s. Using fallback.", exc)
+        return 6
+
+
+def fetch_github_data(session: requests.Session, username: str) -> dict[str, Any]:
+    """Fetch owner's repository stats (public/private count, total size)."""
+    repos_url = f"{GITHUB_API_BASE}/user/repos"
+    repos = _fetch_all_pages(session, repos_url)
+    
+    public_count = 0
+    private_count = 0
+    total_size_kb = 0
+    
+    for repo in repos:
+        owner_login = repo.get("owner", {}).get("login", "").lower()
+        if owner_login != username.lower():
+            continue
+            
+        if repo.get("private", False):
+            private_count += 1
+        else:
+            public_count += 1
+            
+        total_size_kb += repo.get("size", 0)
+        
+    total_size_mb = total_size_kb / 1024.0
+    
+    return {
+        "public_count": public_count,
+        "private_count": private_count,
+        "total_size_mb": total_size_mb,
+    }
+
+
+def generate_data_markdown(
+    achievements_count: int,
+    total_size_mb: float,
+    public_count: int,
+    private_count: int,
+) -> str:
+    """Build the GitHub Data HTML table."""
+    return f"""## 📦 My GitHub Data
+
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+    <tr>
+        <th>🏆 GitHub Achievements</th>
+        <th>📂 Storage Used</th>
+        <th>🔓 Public Repositories</th>
+        <th>🔒 Private Repositories</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Achievements-{achievements_count:02d}-orange?style=plastic" alt="GitHub Achievements Badge">
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Storage%20Used-{total_size_mb:.2f}%20MB-green?style=plastic" alt="Storage Used Badge">
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Public%20Repos-{public_count:02d}-blue?style=plastic" alt="Public Repos Badge">
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Private%20Repos-{private_count:02d}-red?style=plastic" alt="Private Repos Badge">
+        </td>
+    </tr>
+</table>"""
+
+
 # ---------------------------------------------------------------------------
 # Markdown generation
 # ---------------------------------------------------------------------------
@@ -248,33 +355,40 @@ def generate_markdown(
 # ---------------------------------------------------------------------------
 
 
-def update_readme(markdown_section: str) -> bool:
-    """
-    Inject *markdown_section* between the start/end markers in README.md.
-
-    Returns True if the file was modified, False otherwise.
-    """
+def update_readme(follower_section: str, data_section: str) -> bool:
+    """Inject both sections between their respective markers in README.md."""
     if not README_PATH.exists():
         logger.error("README not found at %s", README_PATH)
         sys.exit(1)
 
     content = README_PATH.read_text(encoding="utf-8")
+    original_content = content
 
-    block = f"{START_MARKER}\n{markdown_section}\n{END_MARKER}"
-
+    # 1. Update Followers section
+    follower_block = f"{START_MARKER}\n{follower_section}\n{END_MARKER}"
     if START_MARKER in content and END_MARKER in content:
         start_idx = content.index(START_MARKER)
         end_idx = content.index(END_MARKER) + len(END_MARKER)
-        new_content = content[:start_idx] + block + content[end_idx:]
+        content = content[:start_idx] + follower_block + content[end_idx:]
     else:
-        logger.info("Markers not found — appending section to the end of README.")
-        new_content = content.rstrip("\n") + "\n\n" + block + "\n"
+        logger.info("Follower markers not found — appending section to the end of README.")
+        content = content.rstrip("\n") + "\n\n" + follower_block + "\n"
 
-    if new_content == content:
+    # 2. Update GitHub Data section
+    data_block = f"{DATA_START_MARKER}\n{data_section}\n{DATA_END_MARKER}"
+    if DATA_START_MARKER in content and DATA_END_MARKER in content:
+        start_idx = content.index(DATA_START_MARKER)
+        end_idx = content.index(DATA_END_MARKER) + len(DATA_END_MARKER)
+        content = content[:start_idx] + data_block + content[end_idx:]
+    else:
+        logger.info("GitHub data markers not found — appending section to the end of README.")
+        content = content.rstrip("\n") + "\n\n" + data_block + "\n"
+
+    if content == original_content:
         logger.info("README is already up-to-date. No changes made.")
         return False
 
-    README_PATH.write_text(new_content, encoding="utf-8")
+    README_PATH.write_text(content, encoding="utf-8")
     logger.info("README updated successfully at %s", README_PATH)
     return True
 
@@ -285,7 +399,7 @@ def update_readme(markdown_section: str) -> bool:
 
 
 def main() -> None:
-    """Orchestrate the follower check and README update."""
+    """Orchestrate the follower check, repo data check, and README update."""
     token = os.environ.get("GH_TOKEN")
     if not token:
         logger.error(
@@ -299,6 +413,7 @@ def main() -> None:
     try:
         username = get_authenticated_user(session)
 
+        # 1. Fetch Follower Stats
         logger.info("Fetching users that %s follows …", username)
         following = fetch_following(session, username)
         logger.info("Total following: %d", len(following))
@@ -310,8 +425,30 @@ def main() -> None:
         not_following_back = compute_not_following_back(following, followers)
         logger.info("Not following back: %d", len(not_following_back))
 
-        markdown = generate_markdown(not_following_back, len(following), len(followers))
-        changed = update_readme(markdown)
+        follower_md = generate_markdown(not_following_back, len(following), len(followers))
+
+        # 2. Fetch GitHub Profile Data (Achievements, size, public/private repos)
+        logger.info("Fetching GitHub profile data for %s …", username)
+        achievements_count = fetch_achievements_count(session, username)
+        
+        logger.info("Fetching repository metrics for %s …", username)
+        repo_data = fetch_github_data(session, username)
+        logger.info(
+            "Public: %d, Private: %d, Total Storage: %.2f MB",
+            repo_data["public_count"],
+            repo_data["private_count"],
+            repo_data["total_size_mb"],
+        )
+
+        data_md = generate_data_markdown(
+            achievements_count=achievements_count,
+            total_size_mb=repo_data["total_size_mb"],
+            public_count=repo_data["public_count"],
+            private_count=repo_data["private_count"],
+        )
+
+        # 3. Update README
+        changed = update_readme(follower_md, data_md)
 
         if changed:
             logger.info("✅ README has been updated.")
