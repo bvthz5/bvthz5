@@ -133,6 +133,15 @@ function truncate(str, len) {
     return str.length > len ? str.slice(0, len - 3) + '...' : str;
 }
 
+// Fisher-Yates shuffle
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 // Heuristic trend-mapper if Gemini is not available
 function heuristicMapTrend(rawTitle, rawDesc) {
     let title = rawTitle
@@ -508,6 +517,9 @@ async function main() {
         }
 
         console.log(`Total live articles collected: ${headlinePool.length}`);
+
+        // Shuffle the pool to ensure variety on each run
+        shuffle(headlinePool);
 
         let selectedTrends = [];
 
