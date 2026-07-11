@@ -8,9 +8,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'scripts/**'
-      - '.github/workflows/profile-updater.yml'
 
 jobs:
   update-profile:
