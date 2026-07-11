@@ -200,11 +200,9 @@ def generate_markdown(
     lines.append("")
     lines.append("## 📊 GitHub Follow Stats")
     lines.append("")
-    lines.append(f"**Followers:** {total_followers}")
-    lines.append("")
-    lines.append(f"**Following:** {total_following}")
-    lines.append("")
-    lines.append(f"**Not following back:** {len(not_following_back)}")
+    lines.append("| 👥 Followers | 👤 Following | 🚫 Not Following Back |")
+    lines.append("|:---:|:---:|:---:|")
+    lines.append(f"| **{total_followers}** | **{total_following}** | **{len(not_following_back)}** |")
     lines.append("")
 
     if not not_following_back:
