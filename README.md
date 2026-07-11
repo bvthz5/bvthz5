@@ -426,6 +426,11 @@
 </details>
 <!-- END_TRENDS -->
 
+<!-- START:NOT_FOLLOWING_BACK -->
+<!-- END:NOT_FOLLOWING_BACK -->
+
+---
+
 ## 🌍 Connect with Me
 
 <p align="center">
