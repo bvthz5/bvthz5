@@ -465,35 +465,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AI-assisted Software Engineering Is Creating A New Delivery Paradox</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Controversy arises over differing approaches to agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz<br>
+    <b>Concept Overview:</b> Controversy arises over differing approaches to agentic orchestration  Yahoo Tech<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZmNZNmUzSXdqWkpvTngxWlc2aEpudU05NEVhb0Y5UmdQTDJfZlFrdWVBMGQ0NHZ6eDF4U25JNUtxTHRwcmpOanAxZ1VLWmJtazkzUGFnU2RBWEtQR0N3YXE1aDVnMjEwWk9LTnFpYnZUQ24xcmNfTw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEJEclNZc09TMDR5RV9NZ2RlM194WEc4OVhQbEFpZ3J0RENwRDZOYnJWTGpJN2JDTlNwVEJfcmlfUWlfdUtpbFZKd2RkaVlpR0hHVGtVUGpjeWRvWU83c3VCRkJaTWpSc28zaS1Ub2NpUENJZzhqX09yY1BqQUU1Q210dXVsV3cycHBreU5hcWZ4d0lJNmRJRjl3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare and AWS Embed x402 Agent Payments at the Edge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Loop Engineering: A Guide for Engineers and Practitioners</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare and AWS both implemented x402 stablecoin micropayments at their edge networks within two weeks. The open protocol under the Linux Foundation revives HTTP 402 for agent-to-service payments with sub-cent transaction costs. Coinbase reports 169 million transactions in year one. Enterprise tax and invoicing gaps remain unresolved. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Loop Engineering: A Guide for Engineers and Practitioners | by Adnan Masood, PhD. | Jun, 2026  Medium<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEQ3WXlOYk91M3c4NG03M3ZPSjlPN3VsTTRseG40UWZEZldrMmFsM2t6cC1ld1lYamtJQ2RpcEw2WEx1QlNSelpEWWZkOHcyR20xN19zRHJwRzZzV3lUMXd6aUxFbGh3VDV0ZWhWT1Q4WGJTdXY3NGkxV3laXzR5TzA3Rno3a2xxOTFMY21kM0wza2h0SHJoZVlvTnFyWTdzWmE4?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery: Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson<br>
+    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,7 +510,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 14:19 UTC_
+_Last updated: 2026-07-11 14:20 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
