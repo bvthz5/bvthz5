@@ -1,6 +1,6 @@
 name: Update Followers README
 
-# Trigger run 2 after token update confirmation
+# Trigger run 3 after token update confirmation
 on:
   schedule:
     # Runs every day at 00:00 UTC
