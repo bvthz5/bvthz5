@@ -113,13 +113,13 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AI-assisted Software Engineering Is Creating A</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">New Delivery Paradox</text>
+    <text x="50" y="85" class="title-text">Loop Engineering Emerges as Developers Put AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Agents on Repeat</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz</text>
+    <text x="50" y="170" class="body-text">Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag</text>
     <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
