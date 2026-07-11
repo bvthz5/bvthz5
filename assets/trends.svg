@@ -69,14 +69,36 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">AWS Expands DevOps Agent with AI-Powered Release</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Management to Validate Code before Production</text>
+    <text x="50" y="85" class="title-text">Samuel Schroeder: Outstanding senior in software</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production:</text>
-    <text x="50" y="187" class="body-text">Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introduci...</text>
+    <text x="50" y="170" class="body-text">Samuel Schroeder: Outstanding senior in software engineering  Iowa State University</text>
+    <text x="50" y="187" class="body-text"></text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Applying Samuel tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 2 -->
+  <g class="slide-group slide-2" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
+    <text x="50" y="85" class="title-text">OpenAI Fixes 18-Year-Old GNU libunwind Bug by</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Treating Crash Debugging Like Epidemiology</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology:</text>
+    <text x="50" y="187" class="body-text">OpenAI found two unrelated bugs masquerading as one in ChatGPT&apos;s data infrastructure. Silent...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -87,39 +109,17 @@
     <text x="50" y="314" class="body-text"></text>
   </g>
 
-  <!-- Slide 2 -->
-  <g class="slide-group slide-2" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Netflix Cuts Cassandra Read Latency from Seconds</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">to Milliseconds with Dynamic Partition Splitting</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition</text>
-    <text x="50" y="187" class="body-text">Splitting: Netflix engineers introduced dynamic partition splitting for Cassandra to address...</text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Netflix tools to modern development pipelines.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
   <!-- Slide 3 -->
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Demystifying loop engineering: Get more from AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">agents, avoid loopmaxxing</text>
+    <text x="50" y="85" class="title-text">AI-assisted Software Engineering Is Creating A</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">New Delivery Paradox</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks</text>
+    <text x="50" y="170" class="body-text">AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz</text>
     <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
