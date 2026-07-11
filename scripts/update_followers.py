@@ -228,28 +228,53 @@ def fetch_achievements_count(session: requests.Session, username: str) -> int:
 
 
 def fetch_github_data(session: requests.Session, username: str) -> dict[str, Any]:
-    """Fetch owner's repository stats (public/private count, total size)."""
-    repos_url = f"{GITHUB_API_BASE}/user/repos"
-    repos = _fetch_all_pages(session, repos_url)
-    
-    public_count = 0
-    private_count = 0
-    total_size_kb = 0
-    
-    for repo in repos:
-        owner_login = repo.get("owner", {}).get("login", "").lower()
-        if owner_login != username.lower():
-            continue
-            
-        if repo.get("private", False):
-            private_count += 1
-        else:
-            public_count += 1
-            
-        total_size_kb += repo.get("size", 0)
+    """Fetch owner's repository stats using the /user endpoint, falling back to /user/repos if needed."""
+    try:
+        response = session.get(f"{GITHUB_API_BASE}/user")
+        response.raise_for_status()
+        user_data = response.json()
         
-    total_size_mb = total_size_kb / 1024.0
-    
+        public_count = user_data.get("public_repos")
+        private_count = user_data.get("total_private_repos")
+        if private_count is None:
+            private_count = user_data.get("owned_private_repos")
+        disk_usage_kb = user_data.get("disk_usage")
+    except Exception as exc:
+        logger.warning("Error fetching user data from /user: %s", exc)
+        public_count = None
+        private_count = None
+        disk_usage_kb = None
+        
+    # If private_count or disk_usage_kb are not in the response (due to limited token scope),
+    # fall back to fetching all repos from /user/repos
+    if public_count is None or private_count is None or disk_usage_kb is None:
+        logger.warning(
+            "Private repo count or disk usage missing from /user response. "
+            "Token may lack 'repo' or 'user' scope. Falling back to paginated /user/repos."
+        )
+        repos_url = f"{GITHUB_API_BASE}/user/repos"
+        repos = _fetch_all_pages(session, repos_url)
+        
+        public_count = 0
+        private_count = 0
+        total_size_kb = 0
+        
+        for repo in repos:
+            owner_login = repo.get("owner", {}).get("login", "").lower()
+            if owner_login != username.lower():
+                continue
+                
+            if repo.get("private", False):
+                private_count += 1
+            else:
+                public_count += 1
+                
+            total_size_kb += repo.get("size", 0)
+        
+        total_size_mb = total_size_kb / 1024.0
+    else:
+        total_size_mb = disk_usage_kb / 1024.0
+        
     return {
         "public_count": public_count,
         "private_count": private_count,
