@@ -523,25 +523,13 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 13:22 UTC_
+_Last updated: 2026-07-11 13:41 UTC_
 
-| Avatar | Username |
-|--------|----------|
-| <img src="https://avatars.githubusercontent.com/u/101954795?v=4" width="40"/> | [A-Hemeda](https://github.com/A-Hemeda) |
-| <img src="https://avatars.githubusercontent.com/u/265220422?v=4" width="40"/> | [aatifaaofficial](https://github.com/aatifaaofficial) |
-| <img src="https://avatars.githubusercontent.com/u/255503177?v=4" width="40"/> | [AnkitSaini491](https://github.com/AnkitSaini491) |
-| <img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="40"/> | [Aymane-001](https://github.com/Aymane-001) |
-| <img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="40"/> | [bigmacman1129](https://github.com/bigmacman1129) |
-| <img src="https://avatars.githubusercontent.com/u/81581566?v=4" width="40"/> | [Cimorexave](https://github.com/Cimorexave) |
-| <img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="40"/> | [diegobassan](https://github.com/diegobassan) |
-| <img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="40"/> | [hamzazahid01](https://github.com/hamzazahid01) |
-| <img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="40"/> | [milad-hub](https://github.com/milad-hub) |
-| <img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="40"/> | [Mustafakzlyy](https://github.com/Mustafakzlyy) |
-| <img src="https://avatars.githubusercontent.com/u/189593596?v=4" width="40"/> | [Rorychhattish](https://github.com/Rorychhattish) |
-| <img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="40"/> | [samiul796](https://github.com/samiul796) |
-| <img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="40"/> | [tejas-ae](https://github.com/tejas-ae) |
-| <img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="40"/> | [thisisvaishnav](https://github.com/thisisvaishnav) |
-| <img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="40"/> | [XIIsenna](https://github.com/XIIsenna) |
+|   |   |   |   |   |
+| :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/101954795?v=4" width="50" style="border-radius: 50%;" alt="A-Hemeda"/><br><sub>**A-Hemeda**</sub>](https://github.com/A-Hemeda) | [<img src="https://avatars.githubusercontent.com/u/265220422?v=4" width="50" style="border-radius: 50%;" alt="aatifaaofficial"/><br><sub>**aatifaaofficial**</sub>](https://github.com/aatifaaofficial) | [<img src="https://avatars.githubusercontent.com/u/255503177?v=4" width="50" style="border-radius: 50%;" alt="AnkitSaini491"/><br><sub>**AnkitSaini491**</sub>](https://github.com/AnkitSaini491) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) |
+| [<img src="https://avatars.githubusercontent.com/u/81581566?v=4" width="50" style="border-radius: 50%;" alt="Cimorexave"/><br><sub>**Cimorexave**</sub>](https://github.com/Cimorexave) | [<img src="https://avatars.githubusercontent.com/u/1661689?v=4" width="50" style="border-radius: 50%;" alt="diegobassan"/><br><sub>**diegobassan**</sub>](https://github.com/diegobassan) | [<img src="https://avatars.githubusercontent.com/u/152866867?v=4" width="50" style="border-radius: 50%;" alt="hamzazahid01"/><br><sub>**hamzazahid01**</sub>](https://github.com/hamzazahid01) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) |
+| [<img src="https://avatars.githubusercontent.com/u/189593596?v=4" width="50" style="border-radius: 50%;" alt="Rorychhattish"/><br><sub>**Rorychhattish**</sub>](https://github.com/Rorychhattish) | [<img src="https://avatars.githubusercontent.com/u/211109785?v=4" width="50" style="border-radius: 50%;" alt="samiul796"/><br><sub>**samiul796**</sub>](https://github.com/samiul796) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) | [<img src="https://avatars.githubusercontent.com/u/206579146?v=4" width="50" style="border-radius: 50%;" alt="thisisvaishnav"/><br><sub>**thisisvaishnav**</sub>](https://github.com/thisisvaishnav) | [<img src="https://avatars.githubusercontent.com/u/176765886?v=4" width="50" style="border-radius: 50%;" alt="XIIsenna"/><br><sub>**XIIsenna**</sub>](https://github.com/XIIsenna) |
 
 **Total: 15**
 
