@@ -465,35 +465,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ AI-assisted Software Engineering Is Creating A New Delivery Paradox</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZmNZNmUzSXdqWkpvTngxWlc2aEpudU05NEVhb0Y5UmdQTDJfZlFrdWVBMGQ0NHZ6eDF4U25JNUtxTHRwcmpOanAxZ1VLWmJtazkzUGFnU2RBWEtQR0N3YXE1aDVnMjEwWk9LTnFpYnZUQ24xcmNfTw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability: Momentic, the company behind an AI-driven software testing platform, recently rearchitected its caching system to handle over 2 million queries per day across 20 billion total entries, while maintaining an average response latency of around 250 ms. This improvement was made possible by transitioning from PostgreSQL to the column-oriented database ClickHouse. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery: Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson<br>
+    <b>Concept Overview:</b> AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production: Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -506,11 +506,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **356** | **345** | **5** |
+| **357** | **346** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 17:04 UTC_
+_Last updated: 2026-07-11 19:05 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
