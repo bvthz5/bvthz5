@@ -1,6 +1,14 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="GitHub Profile Banner" src="./dark.svg">
+  </picture>
+</p>
+
+<p align="center">
   <!-- Profile Views -->
  <img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 
