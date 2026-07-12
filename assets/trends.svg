@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Cloudflare Details Unified Data Platform Where</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Billing Workloads Account for 53% of Queries</text>
+    <text x="50" y="85" class="title-text">AWS Details How One Customer Scaled to One</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Million Lambda Functions</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Cloudflare details Town Lake, an internal unified data platform, and Skipper, an AI analytics</text>
-    <text x="50" y="187" class="body-text">agent unifying access to operational, billing, security, and business data. The platform pro...</text>
+    <text x="50" y="170" class="body-text">AWS Details How One Customer Scaled to One Million Lambda Functions: AWS has outlined how</text>
+    <text x="50" y="187" class="body-text">ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run m...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Slack Introduces Agent Driven End-to-End Testing</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">to Improve Resilience in UI Test Automation</text>
+    <text x="50" y="85" class="title-text">Loop Engineering Is Fully Making The Rounds For</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Boosting Generative AI And Agentic AI</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation:</text>
-    <text x="50" y="187" class="body-text">Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack e...</text>
+    <text x="50" y="170" class="body-text">Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Show HN: Agent Draw: An agent draws while you</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">talk, built on TLDraw</text>
+    <text x="50" y="85" class="title-text">AWS Expands DevOps Agent with AI-Powered Release</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Management to Validate Code before Production</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Show HN: Agent Draw: An agent draws while you talk, built on TLDraw: We recently built 2draw, a</text>
-    <text x="50" y="187" class="body-text">Drawful-style game where players draw on a shared canvas and race to guess each other&apos;s draw...</text>
+    <text x="50" y="170" class="body-text">AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production:</text>
+    <text x="50" y="187" class="body-text">Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introduci...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
