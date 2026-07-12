@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering Emerges as Developers Put AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Agents on Repeat</text>
+    <text x="50" y="85" class="title-text">Loop Engineering for Hierarchical Retrieval:</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Reading a Long Document by Its Table of Contents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents</text>
+    <text x="50" y="187" class="body-text">Towards Data Science</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Loop tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Cloudflare and AWS Embed x402 Agent Payments at</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">the Edge</text>
+    <text x="50" y="85" class="title-text">How Datadog Used Claude and Cursor for</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Test-Driven Production Migration</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Cloudflare and AWS both implemented x402 stablecoin micropayments at their edge networks within</text>
-    <text x="50" y="187" class="body-text">two weeks. The open protocol under the Linux Foundation revives HTTP 402 for agent-to-servic...</text>
+    <text x="50" y="170" class="body-text">How Datadog Used Claude and Cursor for Test-Driven Production Migration: In a recent article,</text>
+    <text x="50" y="187" class="body-text">Datadog engineer Arnold Wakim shared what worked, what didn&apos;t, and the lessons they learned ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
