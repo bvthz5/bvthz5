@@ -158,7 +158,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-491.80%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-491.69%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-20-blue?style=plastic" alt="Public Repos Badge">
@@ -465,35 +465,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online: Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework. They discuss shifting key-value abstractions from stateless to stateful to move terabytes of bulk data safely. Software architects will learn to exploit data access patterns, use "Pathfinder" prototypes, and maintain a 99% faster rollout. By Rajasekhar Ummadisetty, Ken Kurzweil<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
-    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production: Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ AI-assisted Software Engineering Is Creating A New Delivery Paradox</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> AI-assisted Software Engineering Is Creating A New Delivery Paradox  Information Security Buzz<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZmNZNmUzSXdqWkpvTngxWlc2aEpudU05NEVhb0Y5UmdQTDJfZlFrdWVBMGQ0NHZ6eDF4U25JNUtxTHRwcmpOanAxZ1VLWmJtazkzUGFnU2RBWEtQR0N3YXE1aDVnMjEwWk9LTnFpYnZUQ24xcmNfTw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability: Momentic, the company behind an AI-driven software testing platform, recently rearchitected its caching system to handle over 2 million queries per day across 20 billion total entries, while maintaining an average response latency of around 250 ms. This improvement was made possible by transitioning from PostgreSQL to the column-oriented database ClickHouse. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -506,11 +506,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **355** | **344** | **5** |
+| **358** | **347** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-11 14:32 UTC_
+_Last updated: 2026-07-12 14:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
