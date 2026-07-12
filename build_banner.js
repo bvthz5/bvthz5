@@ -68,7 +68,7 @@ function generateSvg(theme = 'dark') {
     
     svg.push('<style>');
     svg.push(`
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+
         * { font-family: 'Inter', system-ui, sans-serif; }
         .code { font-family: 'Fira Code', monospace; }
         .pill { transition: all 0.3s ease; cursor: pointer; }

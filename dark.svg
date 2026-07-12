@@ -1,5 +1,5 @@
 <svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg">\n<style>\n
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+
         * { font-family: 'Inter', system-ui, sans-serif; }
         .code { font-family: 'Fira Code', monospace; }
         .pill { transition: all 0.3s ease; cursor: pointer; }
