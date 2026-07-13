@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvthz5/bvthz5/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bvthz5/bvthz5/main/light.svg">
-    <img alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="GitHub Profile Banner" src="./dark.svg">
   </picture>
 </p>
 
