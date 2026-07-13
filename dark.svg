@@ -2715,7 +2715,7 @@
 
             <g opacity="0" transform="translate(20, 101)">
                 <text x="0" y="0" fill="#94A3B8" class="code" font-size="14" font-weight="500">Role...........</text>
-                <text x="160" y="0" fill="#F8FAFC" class="code" font-size="14">AI/ML Developer & Full-Stack</text>
+                <text x="160" y="0" fill="#F8FAFC" class="code" font-size="14">AI/ML Developer &amp; Full-Stack</text>
                 <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="0.7s" fill="freeze"/>
                 <animateTransform attributeName="transform" type="translate" values="20, 109; 20, 101" dur="0.4s" begin="0.7s" fill="freeze"/>
             </g>
@@ -2780,12 +2780,12 @@
                 <animate attributeName="opacity" values="0; 1; 1; 0; 0" keyTimes="0; 0.09999999999999999; 0.20833333333333334; 0.25; 1" dur="12s" begin="6s" repeatCount="indefinite" />
                 
                 <g clip-path="url(#type-clip-2)">
-                    <text x="0" y="12" fill="#22D3EE" class="code" font-size="14">Learning DevOps & Blockchain...</text>
+                    <text x="0" y="12" fill="#22D3EE" class="code" font-size="14">Learning DevOps &amp; Blockchain...</text>
                 </g>
                 
                 <!-- Typing block cursor -->
                 <rect x="0" y="0" width="8" height="14" fill="#22D3EE">
-                    <animate attributeName="x" values="0; 260.40000000000003; 260.40000000000003" keyTimes="0; 0.39999999999999997; 1" dur="3s" repeatCount="indefinite" />
+                    <animate attributeName="x" values="0; 294; 294" keyTimes="0; 0.39999999999999997; 1" dur="3s" repeatCount="indefinite" />
                     <animate attributeName="opacity" values="1; 0; 1" dur="1s" repeatCount="indefinite" />
                 </rect>
             </g>
@@ -2966,7 +2966,6 @@
                 </g>
             </a>
         
-</g>
 </g>
 </g>
 </g>

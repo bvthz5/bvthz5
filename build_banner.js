@@ -11,7 +11,7 @@ function getTypingPhrases() {
     return [
         "Decoding Neural Networks...",
         "Building scalable systems...",
-        "Learning DevOps & Blockchain...",
+        "Learning DevOps &amp; Blockchain...",
         "Storytelling with animation..."
     ];
 }
@@ -213,7 +213,7 @@ function generateSvg(theme = 'dark') {
     // Specs Content
     const system_specs = [
         ["Subject", "Binil Vincent"],
-        ["Role", "AI/ML Developer & Full-Stack"],
+        ["Role", "AI/ML Developer &amp; Full-Stack"],
         ["Origin", "Kerala, India"],
         ["Education", "Computer Science Student"]
     ];
@@ -377,7 +377,6 @@ function generateSvg(theme = 'dark') {
     
     svg.push('</g>'); // End Socials Footer
 
-    svg.push('</g>'); // End Terminal Content
     svg.push('</g>'); // End RIGHT PANEL
 
     svg.push('</g>'); // End Canvas clip
