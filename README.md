@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery: Aaron Erickson explains how NVIDIA designs and tests purpose-built AI agent hierarchies. For senior developers and architects, he outlines why balancing deterministic tools with agentic discovery is crucial. Discover how to leverage rare context, implement LLM-as-a-judge test pyramids, and avoid the paradox of choice to build highly reliable, production-grade AI systems at scale. By Aaron Erickson<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst: This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of GraalVM, JReleaser, RefactorFirst and Java Operator SDK; maintenance releases of GlassFish and Micronaut; the second milestone release of Grails 8.0; and the beta release of Open Liberty 26.0.0.7. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ AWS Introduces Amazon S3 Annotations</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Introduces Amazon S3 Annotations: AWS recently announced Amazon S3 Annotations, a feature that lets teams attach rich, searchable context such as summaries, classifications, compliance data, or AI-generated insights directly to S3 objects. Annotations can be updated independently of the object and queried across datasets, reducing the need for separate metadata systems. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Presentation: Accelerating Netflix Data: a Cross-Team Journey from Offline to Online</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Accelerating Netflix Data: a Cross-Team Journey from Offline to Online: Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework. They discuss shifting key-value abstractions from stateless to stateful to move terabytes of bulk data safely. Software architects will learn to exploit data access patterns, use "Pathfinder" prototypes, and maintain a 99% faster rollout. By Rajasekhar Ummadisetty, Ken Kurzweil<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +514,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-13 06:47 UTC_
+_Last updated: 2026-07-13 06:54 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
