@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: Accelerating Netflix Data: a</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Cross-Team Journey from Offline to Online</text>
+    <text x="50" y="85" class="title-text">AlloyDB Ships Proxy Models That Replace LLM</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Calls with Local Inference inside the Database</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: Accelerating Netflix Data: a Cross-Team Journey from Offline to Online: Raj</text>
-    <text x="50" y="187" class="body-text">Ummadisetty and Ken Kurzweil share Netflix&apos;s architectural pivot to CloudStream, a repeatabl...</text>
+    <text x="50" y="170" class="body-text">AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database:</text>
+    <text x="50" y="187" class="body-text">Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightwe...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,43 +91,43 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">What’s Happening in Software Architecture</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8"></text>
+    <text x="50" y="85" class="title-text">Article: Removing a Hidden Round Trip from a</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Multi-Region AWS API</text>
     
-    <rect x="50" y="106" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="121" class="badge-text" text-anchor="middle"></text>
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="146" class="body-text">What’s Happening in Software Architecture  O&apos;Reilly Media</text>
-    <text x="50" y="163" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional</text>
+    <text x="50" y="187" class="body-text">outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to ...</text>
     
-    <text x="50" y="192" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="209" class="body-text">Applying What’s tools to modern development pipelines.</text>
-    <text x="50" y="226" class="body-text"></text>
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
+    <text x="50" y="250" class="body-text"></text>
     
-    <text x="50" y="256" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="273" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="290" class="body-text"></text>
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
+    <text x="50" y="314" class="body-text"></text>
   </g>
 
   <!-- Slide 3 -->
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">iSAQB Software Architecture Gathering 2026:</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Program for International Software Architecture...</text>
+    <text x="50" y="85" class="title-text">Loop Engineering Emerges as Developers Put AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Agents on Repeat</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">iSAQB Software Architecture Gathering 2026: Program for International Software Architecture</text>
-    <text x="50" y="187" class="body-text">Conference Now Online  PRWeb</text>
+    <text x="50" y="170" class="body-text">Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying iSAQB tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 

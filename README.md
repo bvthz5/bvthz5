@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Accelerating Netflix Data: a Cross-Team Journey from Offline to Online</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Accelerating Netflix Data: a Cross-Team Journey from Offline to Online: Raj Ummadisetty and Ken Kurzweil share Netflix's architectural pivot to CloudStream, a repeatable capture, conversion, and deployment framework. They discuss shifting key-value abstractions from stateless to stateful to move terabytes of bulk data safely. Software architects will learn to exploit data access patterns, use "Pathfinder" prototypes, and maintain a 99% faster rollout. By Rajasekhar Ummadisetty, Ken Kurzweil<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ What’s Happening in Software Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Article: Removing a Hidden Round Trip from a Multi-Region AWS API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What’s Happening in Software Architecture  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying What’s tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGJsamF2RHNHQ014Wm90eThuRi1tcWQ2Skp4V2tGUmxQSXdSN0loYk1RcEE2TFJFSGRodXJWM2RIREoxdEI3UUczS3Y4c2N5MmZvQzJxLWU4RFhYVDVLOVJtakhlekxUblo2YjM2amhub1hMUjRFNEk4TFJKakYxTFVZa0JPWVU2TUJOUDQ3cFA4NDg3MC1JUW5WQzhmUmliSTF4QVJDQ2M?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight discovery call baked into every client session years earlier as the only available option. This article describes what it took to remove it, and what the rollout actually cost. By Suresh Gururajan<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online  PRWeb<br>
-    <b>Implementation Use Case:</b> Applying iSAQB tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTBGLS0wRHFDRERZUUdXQ1BZVGh2bVVzV18zYzk0bFplZEdKX0UyTjAtOXNuZlJ6YmlFNEd3b3ktY1lMdS1RLTR2c3VIbU1yZVpGVm56bnFDX0NQYjBwV3NHdVBLQTREbmxlZmFBSW9iVy10Qm9NVEUwX0tuWnh2My14OHZRU2tyMnZXWnd3LUctdEFZSG1lRjdQYTVFbnF5V1p6Qy1pN0poZF9rcGp4UDByZjNmcW1KbU1USTRqYUVOc0dYdXpQclZraFcxRkF2TW1MdW9ZZ2JlcDBaTTU3WkF5NHo2Q0xOMUU2X3JDOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,17 +510,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **360** | **347** | **3** |
+| **359** | **347** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-13 10:28 UTC_
+_Last updated: 2026-07-13 16:35 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/26324340?v=4" width="50" style="border-radius: 50%;" alt="0xcryptosei"/><br><sub>**0xcryptosei**</sub>](https://github.com/0xcryptosei) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="3162venus"/><br><sub>**3162venus**</sub>](https://github.com/3162venus) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/177239411?v=4" width="50" style="border-radius: 50%;" alt="faizankhan1428"/><br><sub>**faizankhan1428**</sub>](https://github.com/faizankhan1428) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |
 
-**Total: 3**
+**Total: 5**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
