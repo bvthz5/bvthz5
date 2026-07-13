@@ -1,3 +1,5 @@
-
 # Test Companion onboarding (local, per-machine)
 .test-companion/
+
+# Node dependencies
+node_modules/
