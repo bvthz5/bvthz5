@@ -165,25 +165,25 @@ function generateSvg(theme = 'dark') {
     // Avatar Clip containing both Fallback and Real Image
     svg.push(`<g clip-path="url(#avatar-clip)">`);
     
-    // Sleek vector default avatar fallback
+    // Sleek Vector Monogram (100% GitHub Supported)
     svg.push(`
-        <circle cx="200" cy="230" r="48" fill="none" stroke="url(#ascii-grad)" stroke-width="4" opacity="0.6"/>
-        <path d="M120,330 C120,285 155,270 200,270 C245,270 280,285 280,330" fill="none" stroke="url(#ascii-grad)" stroke-width="4" opacity="0.6"/>
-    `);
-    
-    // Real profile image (graceful overlay, embedded as base64 for GitHub support)
-    let imageHref = "profile.png";
-    try {
-        if (fs.existsSync("profile.png")) {
-            const imageBase64 = fs.readFileSync("profile.png").toString('base64');
-            imageHref = `data:image/png;base64,${imageBase64}`;
-        }
-    } catch (e) {
-        console.error("Error reading profile.png:", e);
-    }
-    
-    svg.push(`
-        <image href="${imageHref}" x="90" y="140" width="220" height="220" preserveAspectRatio="xMidYMid slice"/>
+        <!-- Inner glowing circle -->
+        <circle cx="200" cy="250" r="70" fill="rgba(0,0,0,0.2)" stroke="url(#ascii-grad)" stroke-width="3"/>
+        
+        <!-- Rotating dashed tech ring -->
+        <circle cx="200" cy="250" r="85" fill="none" stroke="url(#border-grad)" stroke-width="2" stroke-dasharray="6 12">
+            <animateTransform attributeName="transform" type="rotate" values="0 200 250; 360 200 250" dur="20s" repeatCount="indefinite"/>
+        </circle>
+        
+        <!-- Monogram Text -->
+        <text x="200" y="275" fill="${primary_text}" font-size="72" font-weight="900" text-anchor="middle" letter-spacing="-4px">
+            B<tspan fill="${accent_2}">V</tspan>
+        </text>
+        
+        <!-- Pulsing accent dot -->
+        <circle cx="255" cy="205" r="6" fill="${accent_1}" filter="url(#soft-shadow)">
+            <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+        </circle>
     `);
     
     svg.push('</g>'); // End avatar clip
