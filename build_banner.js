@@ -179,8 +179,8 @@ function generateSvg(theme = 'dark') {
         <text x="20" y="30" fill="${accent_2}" class="code" font-size="14" font-weight="700" letter-spacing="1">AI.MAP</text>
     `);
     
-    // Halftone Dots Portrait (Centered at offset 22, 50)
-    svg.push(`<g transform="translate(22, 50)">`);
+    // Halftone Dots Portrait (Centered at offset 30, 40)
+    svg.push(`<g transform="translate(30, 40)">`);
     svg.push(dotsSvg);
     svg.push('</g>');
     

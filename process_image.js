@@ -6,13 +6,15 @@ async function processImage() {
         console.log("Loading image assets/bv.jpeg...");
         const image = await Jimp.read('assets/bv.jpeg');
         
-        // Output dimensions
-        const cols = 48;
-        const rows = 58;
+        // Higher resolution for perfect details (60 columns x 75 rows)
+        const cols = 60;
+        const rows = 75;
         
-        // Resize and grayscale
+        // Resize
         image.resize({ w: cols, h: rows });
+        
         let svgDots = [];
+        
         // Sample background color from corner (top-left)
         const bgPixel = image.getPixelColor(0, 0);
         const bgR = (bgPixel >> 24) & 0xff;
@@ -32,42 +34,37 @@ async function processImage() {
                 // Grayscale intensity
                 const val = 0.299 * r + 0.587 * g + 0.114 * b;
                 
-                // Background subtraction: Gray background in the photo has a specific range
-                if (Math.abs(val - bgVal) < 20) {
+                // Background subtraction with slightly higher tolerance to remove wall shadows
+                if (Math.abs(val - bgVal) < 32) {
                     continue;
                 }
                 
-                // Map grayscale value to 3-level halftone dot size
-                // Darker pixels (hair, beard, shirt) -> larger dots
-                // Brighter pixels (face skin) -> smaller dots
-                let radius = 0;
-                if (r < 80) {
-                    radius = 3.2; // Hair, beard, shirt
-                } else if (r < 150) {
-                    radius = 2.0; // Shading, shadows
-                } else {
-                    radius = 0.8; // Face highlights
-                }
+                // Continuous radius mapping for smooth halftone detailing:
+                // Darker pixels (hair, beard, shirt) get larger dots.
+                // Brighter pixels (face skin) get smaller dots.
+                // Range: 0.5px (brightest highlights) to 2.8px (darkest shadows)
+                const intensity = (255 - val) / 255;
+                const radius = (intensity * 2.3 + 0.5).toFixed(1);
                 
-                // Calculate position with 8px spacing
-                const cx = x * 8 + 4;
-                const cy = y * 8 + 4;
+                // Position with 6px spacing
+                const cx = x * 6 + 3;
+                const cy = y * 6 + 3;
                 
                 rowCircles.push(`<circle cx="${cx}" cy="${cy}" r="${radius}" fill="url(#ascii-grad)"/>`);
             }
             
             if (rowCircles.length > 0) {
-                const delay = (y * 0.04).toFixed(2);
+                const delay = (y * 0.035).toFixed(3);
                 svgDots.push(`  <g opacity="0">`);
                 svgDots.push(`    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1;1" dur="100s" begin="${delay}s" fill="freeze"/>`);
-                svgDots.push(`    <animateTransform attributeName="transform" type="translate" values="0,10; 0,0" dur="0.5s" begin="${delay}s" fill="freeze"/>`);
+                svgDots.push(`    <animateTransform attributeName="transform" type="translate" values="0,8; 0,0" dur="0.4s" begin="${delay}s" fill="freeze"/>`);
                 svgDots.push(`    ` + rowCircles.join('\n    '));
                 svgDots.push(`  </g>`);
             }
         }
         
         fs.writeFileSync('assets/dots.txt', svgDots.join('\n'));
-        console.log("Successfully generated assets/dots.txt with SVG circles!");
+        console.log("Successfully generated assets/dots.txt with high-resolution SVG circles!");
     } catch (err) {
         console.error("Error processing image:", err);
     }
