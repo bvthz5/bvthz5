@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
+    <b>Concept Overview:</b> Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation: Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering. It uses AI agents that execute workflows based on intent rather than fixed scripts, adapting to UI and system changes at runtime. The approach aims to reduce brittle tests in distributed systems while complementing deterministic unit, integration, and E2E testing strategies. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting: Netflix engineers introduced dynamic partition splitting for Cassandra to address wide partitions in time series workloads. The metadata-driven approach detects oversized partitions, splits them smaller units, and routes reads across child partitions. Netflix reported lower read latency from seconds to milliseconds, reduced timeouts, and improved cluster stability while maintaining transparency. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Netflix tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries: InfoQ has opened enrollment for a five-week AI Security & Privacy Engineering cohort for senior engineers and architects in regulated industries, focused on applying security, privacy, threat modeling, observability, and governance practices to production AI systems. By Artenisa Chatziou<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +514,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-13 06:21 UTC_
+_Last updated: 2026-07-13 06:40 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
