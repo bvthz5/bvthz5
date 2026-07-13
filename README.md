@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ How Datadog Used Claude and Cursor for Test-Driven Production Migration</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> How Datadog Used Claude and Cursor for Test-Driven Production Migration: In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ AWS Introduces Amazon S3 Annotations</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting: Netflix engineers introduced dynamic partition splitting for Cassandra to address wide partitions in time series workloads. The metadata-driven approach detects oversized partitions, splits them smaller units, and routes reads across child partitions. Netflix reported lower read latency from seconds to milliseconds, reduced timeouts, and improved cluster stability while maintaining transparency. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Netflix tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Introduces Amazon S3 Annotations: AWS recently announced Amazon S3 Annotations, a feature that lets teams attach rich, searchable context such as summaries, classifications, compliance data, or AI-generated insights directly to S3 objects. Annotations can be updated independently of the object and queried across datasets, reducing the need for separate metadata systems. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries: InfoQ has opened enrollment for a five-week AI Security & Privacy Engineering cohort for senior engineers and architects in regulated industries, focused on applying security, privacy, threat modeling, observability, and governance practices to production AI systems. By Artenisa Chatziou<br>
+    <b>Concept Overview:</b> CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise  Carnegie Mellon University<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbERTek1JVGdsY3NqQlYzRUZlNkN5WTFKdUNsamRUT2RHYXI3NTZhazRJWjV5M1hEUUhIWkFkQldqbDBKVEZOLVcxN3c3dWZKck1SYjNVeDVBY0ROa0x4VjR6TS1tbDdfWmhxVVJjUjJvYzFGT2FuczBhTVhKSk9ZbFUtczhDWWE1ekcxOWRWZEhrTE84ZXJqNHBkVmRaNng1bEViUDg1bm5xWlpaTV9QQ2tiLWRhMkdOd2t1TFgxQ192RXFSWU9NV3NDMTRaZ25JNmFkWjhyeTBfdTFEV1E?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
