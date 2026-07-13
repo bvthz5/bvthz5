@@ -171,9 +171,19 @@ function generateSvg(theme = 'dark') {
         <path d="M120,330 C120,285 155,270 200,270 C245,270 280,285 280,330" fill="none" stroke="url(#ascii-grad)" stroke-width="4" opacity="0.6"/>
     `);
     
-    // Real profile image (graceful overlay, relative link)
+    // Real profile image (graceful overlay, embedded as base64 for GitHub support)
+    let imageHref = "profile.png";
+    try {
+        if (fs.existsSync("profile.png")) {
+            const imageBase64 = fs.readFileSync("profile.png").toString('base64');
+            imageHref = `data:image/png;base64,${imageBase64}`;
+        }
+    } catch (e) {
+        console.error("Error reading profile.png:", e);
+    }
+    
     svg.push(`
-        <image href="profile.png" x="90" y="140" width="220" height="220" preserveAspectRatio="xMidYMid slice"/>
+        <image href="${imageHref}" x="90" y="140" width="220" height="220" preserveAspectRatio="xMidYMid slice"/>
     `);
     
     svg.push('</g>'); // End avatar clip
