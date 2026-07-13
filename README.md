@@ -1,11 +1,7 @@
 ## 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bvthz5/bvthz5/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bvthz5/bvthz5/main/light.svg">
-    <img alt="GitHub Profile Banner" src="https://raw.githubusercontent.com/bvthz5/bvthz5/main/dark.svg">
-  </picture>
+  <img alt="GitHub Profile Banner" src="./dark.svg" width="100%">
 </p>
 
 <p align="center">
