@@ -473,35 +473,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Details How One Customer Scaled to One Million Lambda Functions</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Details How One Customer Scaled to One Million Lambda Functions: AWS has outlined how ProGlove, an industrial-wearables manufacturer, was able to scale its SaaS platform to run more than one million AWS Lambda functions spread across thousands of dedicated customer accounts. By Matt Foster<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java News Roundup: Strict Field Initialization, GlassFish, GraalVM, JReleaser, RefactorFirst: This week's Java roundup for June 29th, 2026, features news highlighting: a new JEP candidate, Strict Field Initialization; point releases of GraalVM, JReleaser, RefactorFirst and Java Operator SDK; maintenance releases of GlassFish and Micronaut; the second milestone release of Grails 8.0; and the beta release of Open Liberty 26.0.0.7. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jun29-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
+    <b>Concept Overview:</b> Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production: Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It: Claude models reached GA on Microsoft Foundry with Azure-native billing and governance, but no European data zone exists. Anthropic's own documentation confirms data residency guarantees apply to Bedrock and Vertex AI but not Foundry. European practitioners from banking and healthcare report the offering is unapproved for production. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Applying Claude tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,18 +514,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **358** | **347** | **6** |
+| **360** | **347** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-12 23:56 UTC_
+_Last updated: 2026-07-13 03:20 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) | [<img src="https://avatars.githubusercontent.com/u/126729110?v=4" width="50" style="border-radius: 50%;" alt="Pelwebdev"/><br><sub>**Pelwebdev**</sub>](https://github.com/Pelwebdev) |
-| [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="Aymane-001"/><br><sub>**Aymane-001**</sub>](https://github.com/Aymane-001) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/156370366?v=4" width="50" style="border-radius: 50%;" alt="Dani-8"/><br><sub>**Dani-8**</sub>](https://github.com/Dani-8) | [<img src="https://avatars.githubusercontent.com/u/139052081?v=4" width="50" style="border-radius: 50%;" alt="milad-hub"/><br><sub>**milad-hub**</sub>](https://github.com/milad-hub) | [<img src="https://avatars.githubusercontent.com/u/235863405?v=4" width="50" style="border-radius: 50%;" alt="Mustafakzlyy"/><br><sub>**Mustafakzlyy**</sub>](https://github.com/Mustafakzlyy) |
+| [<img src="https://avatars.githubusercontent.com/u/126729110?v=4" width="50" style="border-radius: 50%;" alt="Pelwebdev"/><br><sub>**Pelwebdev**</sub>](https://github.com/Pelwebdev) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |   |   |
 
-**Total: 6**
+**Total: 7**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
