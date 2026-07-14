@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Podcast: Governance in the Age of AI: A Conversation with Sarah Wells</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. Governance enables teams to work effectively by establishing procedures that minimize system complexity, improve security, and reduce repetitive tasks. Targeted checklists help engineers by reducing the stress over these procedures. By Sarah Wells<br>
+    <b>Concept Overview:</b> Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture: AI makes the first 80% of development feel fast, but hides architectural complexity until it's too late. To prevent system instability, engineering leaders must shift from raw throughput to systemic comprehension. By unifying spec-anchored SDD, TDD, and automated fitness functions into a repo-bound "Context Store," teams can ensure AI agents and human reviewers evolve code safely. By Stella Berhe, Stephan Bragner, Vikram Maran, Anand Jayaraman<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Why customer care needs agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database: Google shipped AlloyDB AI functions GA with a proxy model architecture that trains a lightweight local model from LLM outputs, then runs queries at database speed without external calls. Smart batching delivers 2,400x throughput improvement. The proxy model reaches 100,000 rows per second in preview, but benchmark numbers apply only to ai.if in internal testing. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Why customer care needs agentic orchestration  IBM<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGZfekFDWUJyMUl2VTNtUjBIM29kMi1NMmVURzBfeE52SG5sSG1xV3BCRW50WjdTVGw4UW53NldGTEw1QmxjbGNxRG8zdzgya01Fbm5NN3VFOTJXa29OTWs2ZV93VXY4WG1yc0M5YWNZb25sb1I2VHVaTko4dTVPN3ZjbFRXV00?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Controversy arises over differing approaches to agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Controversy arises over differing approaches to agentic orchestration  Yahoo Tech<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEJEclNZc09TMDR5RV9NZ2RlM194WEc4OVhQbEFpZ3J0RENwRDZOYnJWTGpJN2JDTlNwVEJfcmlfUWlfdUtpbFZKd2RkaVlpR0hHVGtVUGpjeWRvWU83c3VCRkJaTWpSc28zaS1Ub2NpUENJZzhqX09yY1BqQUU1Q210dXVsV3cycHBreU5hcWZ4d0lJNmRJRjl3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +514,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-14 16:16 UTC_
+_Last updated: 2026-07-14 18:04 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
