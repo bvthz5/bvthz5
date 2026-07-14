@@ -162,7 +162,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-502.92%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-502.93%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture: AI makes the first 80% of development feel fast, but hides architectural complexity until it's too late. To prevent system instability, engineering leaders must shift from raw throughput to systemic comprehension. By unifying spec-anchored SDD, TDD, and automated fitness functions into a repo-bound "Context Store," teams can ensure AI agents and human reviewers evolve code safely. By Stella Berhe, Stephan Bragner, Vikram Maran, Anand Jayaraman<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility: Drawing from the enduring adaptability of HTML and HTTP,  Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Why customer care needs agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why customer care needs agentic orchestration  IBM<br>
+    <b>Concept Overview:</b> Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation: Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering. It uses AI agents that execute workflows based on intent rather than fixed scripts, adapting to UI and system changes at runtime. The approach aims to reduce brittle tests in distributed systems while complementing deterministic unit, integration, and E2E testing strategies. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGZfekFDWUJyMUl2VTNtUjBIM29kMi1NMmVURzBfeE52SG5sSG1xV3BCRW50WjdTVGw4UW53NldGTEw1QmxjbGNxRG8zdzgya01Fbm5NN3VFOTJXa29OTWs2ZV93VXY4WG1yc0M5YWNZb25sb1I2VHVaTko4dTVPN3ZjbFRXV00?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Controversy arises over differing approaches to agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Controversy arises over differing approaches to agentic orchestration  Yahoo Tech<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEJEclNZc09TMDR5RV9NZ2RlM194WEc4OVhQbEFpZ3J0RENwRDZOYnJWTGpJN2JDTlNwVEJfcmlfUWlfdUtpbFZKd2RkaVlpR0hHVGtVUGpjeWRvWU83c3VCRkJaTWpSc28zaS1Ub2NpUENJZzhqX09yY1BqQUU1Q210dXVsV3cycHBreU5hcWZ4d0lJNmRJRjl3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,17 +510,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **351** | **338** | **3** |
+| **351** | **339** | **4** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-14 18:04 UTC_
+_Last updated: 2026-07-14 20:13 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/177239411?v=4" width="50" style="border-radius: 50%;" alt="faizankhan1428"/><br><sub>**faizankhan1428**</sub>](https://github.com/faizankhan1428) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/177239411?v=4" width="50" style="border-radius: 50%;" alt="faizankhan1428"/><br><sub>**faizankhan1428**</sub>](https://github.com/faizankhan1428) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |
 
-**Total: 3**
+**Total: 4**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
