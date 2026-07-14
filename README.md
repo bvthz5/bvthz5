@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
+    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFlHaldvRXhCN0w3blB4X2R2emhKeWUzQTZxN1BZRHdsMHltQ2luOHBSR0wxdTdRWURzSEFFMy1FSmJQY3dBaDduSWpaU3ZTY19qcUdtQjVQeFBwQTFfYlhHOE9Yd3VWUEVEMDhTYmVNdmRscXBsY1pWaTNGeGQtdXVpMFpnaGNmWEVZbkpQOEVpVTZzeU5ubllVY2ZPU2NNeUxwVUtFd3JrcVppYmVjY3JVYmRFXzdHQzJibEFIS0l0UQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ How Datadog Used Claude and Cursor for Test-Driven Production Migration</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How Datadog Used Claude and Cursor for Test-Driven Production Migration: In a recent article, Datadog engineer Arnold Wakim shared what worked, what didn't, and the lessons they learned while evolving a critical production system using AI to overcome hard limits in its storage backend and significantly improve performance. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online  PRWeb<br>
-    <b>Implementation Use Case:</b> Applying iSAQB tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTBGLS0wRHFDRERZUUdXQ1BZVGh2bVVzV18zYzk0bFplZEdKX0UyTjAtOXNuZlJ6YmlFNEd3b3ktY1lMdS1RLTR2c3VIbU1yZVpGVm56bnFDX0NQYjBwV3NHdVBLQTREbmxlZmFBSW9iVy10Qm9NVEUwX0tuWnh2My14OHZRU2tyMnZXWnd3LUctdEFZSG1lRjdQYTVFbnF5V1p6Qy1pN0poZF9rcGp4UDByZjNmcW1KbU1USTRqYUVOc0dYdXpQclZraFcxRkF2TW1MdW9ZZ2JlcDBaTTU3WkF5NHo2Q0xOMUU2X3JDOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production: Amazon Web Services (AWS) has announced a major expansion of its AWS DevOps Agent, introducing new release management capabilities designed to assess code changes and autonomously test software before it reaches production. By Craig Risi<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,17 +510,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **361** | **350** | **5** |
+| **361** | **350** | **6** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-14 08:07 UTC_
+_Last updated: 2026-07-14 10:48 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/26324340?v=4" width="50" style="border-radius: 50%;" alt="0xcryptosei"/><br><sub>**0xcryptosei**</sub>](https://github.com/0xcryptosei) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="3162venus"/><br><sub>**3162venus**</sub>](https://github.com/3162venus) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/177239411?v=4" width="50" style="border-radius: 50%;" alt="faizankhan1428"/><br><sub>**faizankhan1428**</sub>](https://github.com/faizankhan1428) | [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |
+| [<img src="https://avatars.githubusercontent.com/u/26324340?v=4" width="50" style="border-radius: 50%;" alt="0xcryptosei"/><br><sub>**0xcryptosei**</sub>](https://github.com/0xcryptosei) | [<img src="https://avatars.githubusercontent.com/u/221594347?v=4" width="50" style="border-radius: 50%;" alt="3162venus"/><br><sub>**3162venus**</sub>](https://github.com/3162venus) | [<img src="https://avatars.githubusercontent.com/u/7506572?v=4" width="50" style="border-radius: 50%;" alt="bigmacman1129"/><br><sub>**bigmacman1129**</sub>](https://github.com/bigmacman1129) | [<img src="https://avatars.githubusercontent.com/u/177239411?v=4" width="50" style="border-radius: 50%;" alt="faizankhan1428"/><br><sub>**faizankhan1428**</sub>](https://github.com/faizankhan1428) | [<img src="https://avatars.githubusercontent.com/u/205861273?v=4" width="50" style="border-radius: 50%;" alt="iliasNdm"/><br><sub>**iliasNdm**</sub>](https://github.com/iliasNdm) |
+| [<img src="https://avatars.githubusercontent.com/u/201814263?v=4" width="50" style="border-radius: 50%;" alt="tejas-ae"/><br><sub>**tejas-ae**</sub>](https://github.com/tejas-ae) |   |   |   |   |
 
-**Total: 5**
+**Total: 6**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
