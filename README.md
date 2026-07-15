@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Controversy arises over differing approaches to agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ How to Build More Resilient Local-First Applications With AT Protocol Infrastructure</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Controversy arises over differing approaches to agentic orchestration  Yahoo Tech<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEJEclNZc09TMDR5RV9NZ2RlM194WEc4OVhQbEFpZ3J0RENwRDZOYnJWTGpJN2JDTlNwVEJfcmlfUWlfdUtpbFZKd2RkaVlpR0hHVGtVUGpjeWRvWU83c3VCRkJaTWpSc28zaS1Ub2NpUENJZzhqX09yY1BqQUU1Q210dXVsV3cycHBreU5hcWZ4d0lJNmRJRjl3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> How to Build More Resilient Local-First Applications With AT Protocol Infrastructure: Jake Lazaroff discussed the AT Protocol as a framework for distributed applications beyond social networking. He emphasised a local-first architecture where users maintain data in PDSs while leveraging shared infrastructure for synchronisation and updates. The presentation included experiments showcasing collaborative tools and highlighted the benefits of reduced reliance on app-specific backends. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Applying How tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Guide to Loop Engineering: How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Guide to Loop Engineering: How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops  MarkTechPost<br>
+    <b>Concept Overview:</b> How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone: DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based tooling, and an intelligence layer with persistent consumer memory and live backend data. Early results show up to 24% higher checkout conversion, 17% larger baskets, and improved intent accuracy using memory-backed sessions. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBLcklHTEdNTkdXSllNR2hZSnkyNVcxLUJuLU9wVlpaVmZGN1BsdXBuZmRsUTZXeUpBVzR2c3hSUFUwTTU2ODE4UEs3b09KS2hMZEwwUVZFQThFTEtxOWp5TUxrWFZVdWVIY3lsNnUxSGlVRk1G0gF6QVVfeXFMUEUzQnVtS3JNZTdxOXBmTDJ6WnAwQmhMMEw4TGtDUUFpSmhtdVo4OXFQWkR0c2ZiNFFMWmwyMHppV1lfbnRGVmFRdWRmcTBnWHhjbnpBYTFsdXh1Mm9ycGVpeHhZbksxY2NhNU43dC1kMkJoY3hxaWpYeEE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,11 +510,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **351** | **339** | **4** |
+| **350** | **338** | **4** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-14 23:04 UTC_
+_Last updated: 2026-07-15 02:33 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
