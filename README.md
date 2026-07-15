@@ -162,7 +162,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.00%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.01%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has recently introduced temporary accounts that let AI agents deploy Cloudflare Workers immediately, without first creating or authenticating with a permanent account. If left unclaimed, the accounts and their deployments expire automatically after 60 minutes. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Podcast: Governance in the Age of AI: A Conversation with Sarah Wells</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. Governance enables teams to work effectively by establishing procedures that minimize system complexity, improve security, and reduce repetitive tasks. Targeted checklists help engineers by reducing the stress over these procedures. By Sarah Wells<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility: Drawing from the enduring adaptability of HTML and HTTP,  Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AI changing economics of software engineering: Wipro’s Premji</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI changing economics of software engineering: Wipro’s Premji  The Times of India<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU045cGlGVWJCV0UySlBRZF91UEZyTGN3NU1CS3RuNU01Ync4WDRJQm41WTloOVk1MHV6Z2F2alR5azhiWkJVbWRkbzJxM3hlV1FQbHVwZ1VvazZvRWNDVUpRR0NzSVhpTFNndjlTRndocWE4VThPU0ViOU1zak1fSG4zcnlOR0lxSklqVkJQYjQtalNKNGpxWGNOVkJDYW5BTC13WGhlZXk2RGVvdmM1THVRdlVMTnZHelU5X2NfMFR4bWFJOVlhLVpRZUVWZThuV1HSAdcBQVVfeXFMUGcwaHc5d0I5T2pjWnJKSnlhTnVqbHAyNGFSSlJXSXlWZWFXY3pLSHFjcTBPRTRvV0lTRWhqUlU5cHVKODRlUElyN0dmWjd5bFZFNWkxZ3BwdlVVOGhZcXNQRkpSaVBBZnNUbG1XcFFodUdyYUV2MTdwMmhvTktuR0hrNXp5Q0JlQmRZZDVDZ083RnUzSkFqOWkxSTVXel9mM1FyVGJBbm94YUxHeXg1LTRLUUdpSFZwam54ZVUzeVl6VlZoczg3TFpwalFZM3JNTHJxX1pVazA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF  TradingView<br>
+    <b>Implementation Use Case:</b> Applying Enterprise tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnBLYTVpODlMczdMWW9NZ0t2V3UxWDJaQnN2Mno2emcwUVlSQjJUcjcyOEE1cW4tQWlzVGZHQUE2NmpzMlBOYXdLSUJ3T0JhX0xFWDBDbXdBUHNPekh1RklnODR5NWhyZGFHSnBBZGNxR2N1WkxPaUZlZjlzczI3VHowQzFQZDFZSDdpYnhzbG9mVEFNZlhKV2pDa1hUMFpSY2RyQmROVnI?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +514,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-15 20:10 UTC_
+_Last updated: 2026-07-15 22:02 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
