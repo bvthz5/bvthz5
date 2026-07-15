@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation: Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkout workflows. The study examines end-to-end software engineering capability, focusing on execution, testing, and validation gaps in agentic systems under production-like constraints. By Leela Kumili<br>
+    <b>Concept Overview:</b> Cloudflare has recently introduced temporary accounts that let AI agents deploy Cloudflare Workers immediately, without first creating or authenticating with a permanent account. If left unclaimed, the accounts and their deployments expire automatically after 60 minutes. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Podcast: Governance in the Age of AI: A Conversation with Sarah Wells</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. Governance enables teams to work effectively by establishing procedures that minimize system complexity, improve security, and reduce repetitive tasks. Targeted checklists help engineers by reducing the stress over these procedures. By Sarah Wells<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ AI changing economics of software engineering: Wipro’s Premji</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq: This week's Java roundup for July 6th, 2026, features news highlighting: the GA release of TornadoVM 5.0; point releases of JHipster, Keycloak and Google ADK; maintenance releases of GraalVM Native Build Tools and Micronaut; the OmniFish Build of Payara and introducing Vidocq, a new implementation of the Jakarta EE 11 Core Profile and MicroProfile 7.1. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> iSAQB Software Architecture Gathering 2026: Program for International Software Architecture Conference Now Online  PRWeb<br>
-    <b>Implementation Use Case:</b> Applying iSAQB tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcTBGLS0wRHFDRERZUUdXQ1BZVGh2bVVzV18zYzk0bFplZEdKX0UyTjAtOXNuZlJ6YmlFNEd3b3ktY1lMdS1RLTR2c3VIbU1yZVpGVm56bnFDX0NQYjBwV3NHdVBLQTREbmxlZmFBSW9iVy10Qm9NVEUwX0tuWnh2My14OHZRU2tyMnZXWnd3LUctdEFZSG1lRjdQYTVFbnF5V1p6Qy1pN0poZF9rcGp4UDByZjNmcW1KbU1USTRqYUVOc0dYdXpQclZraFcxRkF2TW1MdW9ZZ2JlcDBaTTU3WkF5NHo2Q0xOMUU2X3JDOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AI changing economics of software engineering: Wipro’s Premji  The Times of India<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU045cGlGVWJCV0UySlBRZF91UEZyTGN3NU1CS3RuNU01Ync4WDRJQm41WTloOVk1MHV6Z2F2alR5azhiWkJVbWRkbzJxM3hlV1FQbHVwZ1VvazZvRWNDVUpRR0NzSVhpTFNndjlTRndocWE4VThPU0ViOU1zak1fSG4zcnlOR0lxSklqVkJQYjQtalNKNGpxWGNOVkJDYW5BTC13WGhlZXk2RGVvdmM1THVRdlVMTnZHelU5X2NfMFR4bWFJOVlhLVpRZUVWZThuV1HSAdcBQVVfeXFMUGcwaHc5d0I5T2pjWnJKSnlhTnVqbHAyNGFSSlJXSXlWZWFXY3pLSHFjcTBPRTRvV0lTRWhqUlU5cHVKODRlUElyN0dmWjd5bFZFNWkxZ3BwdlVVOGhZcXNQRkpSaVBBZnNUbG1XcFFodUdyYUV2MTdwMmhvTktuR0hrNXp5Q0JlQmRZZDVDZ083RnUzSkFqOWkxSTVXel9mM1FyVGJBbm94YUxHeXg1LTRLUUdpSFZwam54ZVUzeVl6VlZoczg3TFpwalFZM3JNTHJxX1pVazA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -510,17 +510,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **347** | **332** | **1** |
+| **346** | **332** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-15 18:08 UTC_
+_Last updated: 2026-07-15 20:10 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/156427330?v=4" width="50" style="border-radius: 50%;" alt="He-Cat-E"/><br><sub>**He-Cat-E**</sub>](https://github.com/He-Cat-E) |   |   |   |
 
-**Total: 1**
+**Total: 2**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
