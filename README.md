@@ -469,35 +469,39 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation: Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering. It uses AI agents that execute workflows based on intent rather than fixed scripts, adapting to UI and system changes at runtime. The approach aims to reduce brittle tests in distributed systems while complementing deterministic unit, integration, and E2E testing strategies. By Leela Kumili<br>
+    <b>Concept Overview:</b> Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE: Hello HN, I don't post on here much, but wanted to get some eyes on a new project I'm just launching. I think we definitely need one more AI code agent..I'm a long-term C++ dev, and over 30+ years I've created some successful audio dev tools (JUCE, the Tracktion DAW, the Cmajor DSP language). All of these came from me getting annoyed with something I had to use, and deciding to have a go at my own take on whatever it was.So Juggler is my attempt at an AI code agent, after spending too many hours loving what the models could do, but hating the CLI experience, and having some opinions of what a better UX might be for this stuff.Lots more blurb on the website and github, but a quick tech dump which might grab your attention if you're into these things:A session is a document, not a log file. Each conversation is a Yjs CRDT tree. It can branch into sub-threads (recursively), and you can drill down, backtrack, edit, undo/redo, and inspect everything: tool calls, approvals, and the raw context JSON going to the model, etc. The UI is based around Finder-style Miller columns rather than a big doom-scroll, and is quick to navigate.Because it's a CRDT behind a local web server, multiple clients can attach P2P to a live session: the native desktop app, a browser tab, or your phone. Run the headless server on the box where the code lives, view it from wherever.Almost everything is a JavaScript plugin: every item in the context (read/write/bash/etc.), the LLM loop strategies, slash commands, and their UIs. You can inspect, fork, or replace any of them. I don't do much agent customisation myself, but lots of people do, and I'd love to see what they think of with this plugin API.Go backend, Wails for windowing (no Electron), plain type-checked JS (strict JSDoc), Yjs for the documents. Usual BYOK provider support: Claude (CLI or API), OpenAI/Codex, Gemini, Ollama, OpenRouter, DeepSeek, etc.The app's AGPLv3; the extension SDK and bundled extensions are Apache-2.0, so extensions have no copyleft strings attached. No signup, no telemetry, trying to make it frictionless for people to try it out..It's very much a beta, and is a one-man side project. It hasn't yet had a proper kicking from the real world, but I'm confident some people with similar preferences to my own will like it!https://juggler.studio
+
+Comments URL: https://news.ycombinator.com/item?id=48883305
+Points: 224
+# Comments: 100<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://github.com/juggler-ai/juggler" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ OX Security Named a Sample Vendor in the Gartner® Hype Cycle™ for Secure Software Engineering, 2026</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>3️⃣ Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> OX Security Named a Sample Vendor in the Gartner® Hype Cycle™ for Secure Software Engineering, 2026  OX Security<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0FoVW95TzlkQVVwY0s4YUJmVnhJN3pfZEVhNUdHZDRzejBhZ09mVVdCREJVR1dwSS14YkZ2bXFpRktVeldPSjhCZm5mVDRMcVI4Y09ETTAtOWQ4cGF2TzR0VC1SUmNNaXVUZmcyVnpieHhCUTk3a0NRWXA0QkZaejBpc0lnVzlUSGsyNER2Nno1NHE3R1pXaEVNbk9UOFZnd2J3Tm52cGtPajRuWEpIZ3lGemxhTmR6VVRQeUg2NElwZUg1?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture: AI makes the first 80% of development feel fast, but hides architectural complexity until it's too late. To prevent system instability, engineering leaders must shift from raw throughput to systemic comprehension. By unifying spec-anchored SDD, TDD, and automated fitness functions into a repo-bound "Context Store," teams can ensure AI agents and human reviewers evolve code safely. By Stella Berhe, Stephan Bragner, Vikram Maran, Anand Jayaraman<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +518,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-15 05:33 UTC_
+_Last updated: 2026-07-15 08:12 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
