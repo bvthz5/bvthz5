@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
+    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
+  <summary><b>2️⃣ Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
-    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy: Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (EEG) or magnetoencephalography (MEG) signals from the brain. In evaluations, the system achieved a word accuracy rate 61% on average, compared to 8% for other non-invasive methods. By Anthony Alford<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ OX Security Named a Sample Vendor in the Gartner® Hype Cycle™ for Secure Software Engineering, 2026</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> OX Security Named a Sample Vendor in the Gartner® Hype Cycle™ for Secure Software Engineering, 2026  OX Security<br>
+    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
+    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0FoVW95TzlkQVVwY0s4YUJmVnhJN3pfZEVhNUdHZDRzejBhZ09mVVdCREJVR1dwSS14YkZ2bXFpRktVeldPSjhCZm5mVDRMcVI4Y09ETTAtOWQ4cGF2TzR0VC1SUmNNaXVUZmcyVnpieHhCUTk3a0NRWXA0QkZaejBpc0lnVzlUSGsyNER2Nno1NHE3R1pXaEVNbk9UOFZnd2J3Tm52cGtPajRuWEpIZ3lGemxhTmR6VVRQeUg2NElwZUg1?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-16 12:17 UTC_
+_Last updated: 2026-07-16 12:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
