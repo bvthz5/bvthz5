@@ -162,7 +162,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.02%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.03%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -469,35 +469,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop: AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ How to Build More Resilient Local-First Applications with AT Protocol Infrastructure</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How to Build More Resilient Local-First Applications with AT Protocol Infrastructure: Jake Lazaroff discussed the AT Protocol as a framework for distributed applications beyond social networking. He emphasised a local-first architecture where users maintain data in PDSs while leveraging shared infrastructure for synchronisation and updates. The presentation included experiments showcasing collaborative tools and highlighted the benefits of reduced reliance on app-specific backends. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Applying How tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Guide to Loop Engineering: How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Guide to Loop Engineering: How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops  MarkTechPost<br>
+    <b>Concept Overview:</b> Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation: Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkout workflows. The study examines end-to-end software engineering capability, focusing on execution, testing, and validation gaps in agentic systems under production-like constraints. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBLcklHTEdNTkdXSllNR2hZSnkyNVcxLUJuLU9wVlpaVmZGN1BsdXBuZmRsUTZXeUpBVzR2c3hSUFUwTTU2ODE4UEs3b09KS2hMZEwwUVZFQThFTEtxOWp5TUxrWFZVdWVIY3lsNnUxSGlVRk1G?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029  Apple World Today<br>
+    <b>Implementation Use Case:</b> Applying Gartner: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlU0WjR0SGptN3FxbzFMVEZ6bGJsN1dyOGg5a2dsQnJENmVjVUdQRlB2dkctSVlIYXVSV0dGSDVVajFKaVJXSHNvQmE2bXFEREtMMHBCem1iUmxwTTk3eWpDNXlTQXI2cWxibDFMQ2NIMjhrREwzRUk2cUFJYkhpX3dlbmctNG9iZGl4bW5zNUR0VXR4b2xLd2dnakRGRzFOSV9hQmF0bThnWW5CcElzbmI2SHkyUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -514,7 +514,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-16 03:28 UTC_
+_Last updated: 2026-07-16 06:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |

@@ -69,58 +69,36 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8"></text>
+    <text x="50" y="85" class="title-text">AWS Ships Claude Apps Gateway as Self-Hosted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Control Plane for Claude Code and Claude Desktop</text>
     
-    <rect x="50" y="106" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="121" class="badge-text" text-anchor="middle"></text>
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="146" class="body-text">Loop Engineering  O&apos;Reilly Media</text>
-    <text x="50" y="163" class="body-text"></text>
+    <text x="50" y="170" class="body-text">AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop:</text>
+    <text x="50" y="187" class="body-text">AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane...</text>
     
-    <text x="50" y="192" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="209" class="body-text">Applying Loop tools to modern development pipelines.</text>
-    <text x="50" y="226" class="body-text"></text>
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
+    <text x="50" y="250" class="body-text"></text>
     
-    <text x="50" y="256" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="273" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="290" class="body-text"></text>
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
+    <text x="50" y="314" class="body-text"></text>
   </g>
 
   <!-- Slide 2 -->
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">How to Build More Resilient Local-First</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Applications with AT Protocol Infrastructure</text>
+    <text x="50" y="85" class="title-text">Stripe Benchmark Shows AI Agents Build</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Integrations but Struggle with Validation</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">How to Build More Resilient Local-First Applications with AT Protocol Infrastructure: Jake</text>
-    <text x="50" y="187" class="body-text">Lazaroff discussed the AT Protocol as a framework for distributed applications beyond social...</text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying How tools to modern development pipelines.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
-  <!-- Slide 3 -->
-  <g class="slide-group slide-3" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Guide to Loop Engineering: How &apos;autoresearch&apos;</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">and &apos;Bilevel Autoresearch&apos; Turn AI Agents Into ...</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">Guide to Loop Engineering: How &apos;autoresearch&apos; and &apos;Bilevel Autoresearch&apos; Turn AI Agents Into</text>
-    <text x="50" y="187" class="body-text">Autonomous Machine Learning ML Research Loops  MarkTechPost</text>
+    <text x="50" y="170" class="body-text">Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation: Stripe</text>
+    <text x="50" y="187" class="body-text">introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -128,6 +106,28 @@
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 3 -->
+  <g class="slide-group slide-3" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
+    <text x="50" y="85" class="title-text">Gartner: 60% of Organizations Will Adopt Smaller</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering Teams by 2029</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029  Apple</text>
+    <text x="50" y="187" class="body-text">World Today</text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Applying Gartner: tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
