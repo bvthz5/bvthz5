@@ -62,7 +62,7 @@
 <table style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: white; text-align: left; border-collapse: collapse; width: 100%;">
   <tr>
     <td style="padding: 10px; vertical-align: middle; color: white;">
-      <p style="margin: 5px 0;">🎓 <span style="color: white;">I’m currently a</span> <span style="color: #FFD700;">student</span>, <span style="color: white;">always eager to learn and grow!</span></p>
+      <p style="margin: 5px 0;">🎓 <span style="color: white;">I’m currently a</span> <span style="color: #FFD700;">Developer &amp; Lifelong Student of Technology</span>, <span style="color: white;">always eager to learn and grow!</span></p>
       <p style="margin: 5px 0;">🌱 <span style="color: white;">I’m currently learning</span> <span style="color: #00FF7F;">Blockchain, DevOps, and AI</span>.</p>
       <p style="margin: 5px 0;">💡 <span style="color: white;">I enjoy</span> <span style="color: #1E90FF;">solving real-world problems</span> <span style="color: white;">through technology.</span></p>
       <p style="margin: 5px 0;">⚡ <span style="color: white;">Fun fact: I love designing</span> <span style="color: #FF4500;">futuristic worlds</span> <span style="color: white;">and storytelling through animation.</span></p>
@@ -80,6 +80,14 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bvthz5&theme=radical&column=7&margin-w=15" alt="GitHub Profile Trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&bg_color=141414&color=7C3AED&line=22D3EE&point=10B981&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
 ---
