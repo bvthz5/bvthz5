@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">AI Agents with Cloud Credentials Are Outrunning</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Billing Guardrails Built for Human-Speed Mistakes</text>
+    <text x="50" y="85" class="title-text">Slack Introduces Agent Driven End-to-End Testing</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">to Improve Resilience in UI Test Automation</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed</text>
-    <text x="50" y="187" class="body-text">Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extra...</text>
+    <text x="50" y="170" class="body-text">Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation:</text>
+    <text x="50" y="187" class="body-text">Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack e...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">What software engineering just taught medicine</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">about AI</text>
+    <text x="50" y="85" class="title-text">Article: Removing a Hidden Round Trip from a</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Multi-Region AWS API</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">What software engineering just taught medicine about AI  KevinMD.com</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional</text>
+    <text x="50" y="187" class="body-text">outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Podcast: Governance in the Age of AI: A</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Conversation with Sarah Wells</text>
+    <text x="50" y="85" class="title-text">Google&apos;s Genkit Ships Agents API with Detached</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Turns and Human-in-the-Loop for TypeScript and Go</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael</text>
-    <text x="50" y="187" class="body-text">Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. ...</text>
+    <text x="50" y="170" class="body-text">Google&apos;s Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and</text>
+    <text x="50" y="187" class="body-text">Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>

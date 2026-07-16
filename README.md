@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation: Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering. It uses AI agents that execute workflows based on intent rather than fixed scripts, adapting to UI and system changes at runtime. The approach aims to reduce brittle tests in distributed systems while complementing deterministic unit, integration, and E2E testing strategies. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ What software engineering just taught medicine about AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Article: Removing a Hidden Round Trip from a Multi-Region AWS API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What software engineering just taught medicine about AI  KevinMD.com<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUZNMjNlTUc4WkR4TW5BbHh0eDIzZ1ViU3l6UlJRcHNPQmQtdXVaakNMUnBWX3JOUjYxYnpSTVg4NG1wcUE0NDF5TEZudE92OU1IaG9zLUVfSEtxaUxCM0p5VFVyQTFlSVhDSmZwd1U4M1RUSkxaNkhfbUs1aGlKNWdrSlRkS2ZCNW12VVRhTkRKZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight discovery call baked into every client session years earlier as the only available option. This article describes what it took to remove it, and what the rollout actually cost. By Suresh Gururajan<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Podcast: Governance in the Age of AI: A Conversation with Sarah Wells</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. Governance enables teams to work effectively by establishing procedures that minimize system complexity, improve security, and reduce repetitive tasks. Targeted checklists help engineers by reducing the stress over these procedures. By Sarah Wells<br>
+    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **346** | **331** | **2** |
+| **346** | **330** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-16 17:18 UTC_
+_Last updated: 2026-07-16 19:13 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/170369524?v=4" width="50" style="border-radius: 50%;" alt="waelodeh98"/><br><sub>**waelodeh98**</sub>](https://github.com/waelodeh98) |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
 
-**Total: 2**
+**Total: 1**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
