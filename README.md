@@ -83,7 +83,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bvthz5&theme=radical&column=7&margin-w=15" alt="GitHub Profile Trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvthz5&theme=radical" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bvthz5&theme=radical" height="180">
 </p>
 
 <p align="center">
