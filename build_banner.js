@@ -229,7 +229,7 @@ function generateSvg(theme = 'dark') {
             <g opacity="0" transform="translate(20, ${start_y + (i * spacing_y)})">
                 <text x="0" y="0" fill="${muted_text}" class="code" font-size="14" font-weight="500">${key}</text>
                 <text x="160" y="0" fill="${primary_text}" class="code" font-size="14">${spec[1]}</text>
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="${delay}s" fill="freeze"/>
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="${delay}s" fill="freeze"/>
                 <animateTransform attributeName="transform" type="translate" values="20, ${start_y + (i * spacing_y) + 8}; 20, ${start_y + (i * spacing_y)}" dur="0.4s" begin="${delay}s" fill="freeze"/>
             </g>
         `);
@@ -243,7 +243,7 @@ function generateSvg(theme = 'dark') {
     svg.push(`
         <g opacity="0" transform="translate(20, ${status_y})">
             <text x="0" y="0" fill="${muted_text}" class="code" font-size="14" font-weight="500">${status_key}</text>
-            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="${status_delay}s" fill="freeze"/>
+            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="${status_delay}s" fill="freeze"/>
             <animateTransform attributeName="transform" type="translate" values="20, ${status_y + 8}; 20, ${status_y}" dur="0.4s" begin="${status_delay}s" fill="freeze"/>
             
             <!-- Type loop group offset exactly after dots (160px) -->
@@ -283,7 +283,7 @@ function generateSvg(theme = 'dark') {
     svg.push(`
         <text x="20" y="${core_header_y}" fill="${accent_1}" class="code" font-size="14" font-weight="700" opacity="0">
             CORE.STACK
-            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="1.6s" fill="freeze" />
+            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="1.6s" fill="freeze" />
         </text>
     `);
 
@@ -303,7 +303,7 @@ function generateSvg(theme = 'dark') {
             <g opacity="0" transform="translate(20, ${core_start_y + (i * spacing_y)})">
                 <text x="0" y="0" fill="${muted_text}" class="code" font-size="14" font-weight="500">${key}</text>
                 <text x="160" y="0" fill="${primary_text}" class="code" font-size="14">${spec[1]}</text>
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="${delay}s" fill="freeze"/>
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="${delay}s" fill="freeze"/>
                 <animateTransform attributeName="transform" type="translate" values="20, ${core_start_y + (i * spacing_y) + 8}; 20, ${core_start_y + (i * spacing_y)}" dur="0.4s" begin="${delay}s" fill="freeze"/>
             </g>
         `);
@@ -314,7 +314,7 @@ function generateSvg(theme = 'dark') {
     svg.push(`
         <text x="20" y="${skills_y}" fill="${primary_text}" font-size="14" font-weight="600" opacity="0">
             Tech Stack &amp; Tools
-            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="2.6s" fill="freeze" />
+            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="2.6s" fill="freeze" />
         </text>
     `);
 
@@ -335,7 +335,7 @@ function generateSvg(theme = 'dark') {
             <g class="pill" transform="translate(${pill_x}, ${pill_y})" opacity="0">
                 <rect class="pill-bg" width="${pill_width}" height="${pill_height}" rx="14" fill="${pill_fill}" stroke="${pill_border}" stroke-width="1"/>
                 <text x="${pill_width/2}" y="${pill_height/2 + 4}" fill="${muted_text}" font-size="12" font-weight="500" text-anchor="middle">${skill}</text>
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="${delay}s" fill="freeze" />
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="${delay}s" fill="freeze" />
             </g>
         `);
         pill_x += pill_width + margin_x;
@@ -344,12 +344,12 @@ function generateSvg(theme = 'dark') {
     // Horizontal divider above footer
     svg.push(`
         <line x1="20" y1="465" x2="620" y2="465" stroke="${border_color}" stroke-width="1" opacity="0"/>
-        <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="3.2s" fill="freeze"/>
+        <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="3.2s" fill="freeze"/>
     `);
 
     // Social Buttons Footer (Row of glowing icon buttons)
     svg.push(`<g transform="translate(20, 480)" opacity="0">`);
-    svg.push(`<animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="3.5s" fill="freeze" />`);
+    svg.push(`<animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="3.5s" fill="freeze" />`);
     
     const github_path = "M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.603-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.579.688.481C19.137 20.162 22 16.418 22 12c0-5.523-4.477-10-10-10z";
     const linkedin_path = "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764.783-1.764 1.75-1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z";

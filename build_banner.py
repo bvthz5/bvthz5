@@ -217,7 +217,7 @@ def generate_svg(theme='dark'):
         svg.append(f'''
             <text x="20" y="{ascii_start_y + i * line_height}" class="code" fill="url(#ascii-grad)" font-size="14" font-weight="600" opacity="0" letter-spacing="2">
                 {safe_line}
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="{delay}s" fill="freeze" />
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="{delay}s" fill="freeze" />
             </text>
         ''')
     
@@ -290,7 +290,7 @@ def generate_svg(theme='dark'):
             <g opacity="0" transform="translate(0, {info_start_y + (i * 30)})">
                 <text x="0" y="0" fill="{muted_text}" class="code" font-size="16">{label}:</text>
                 <text x="140" y="0" fill="{primary_text}" class="code" font-size="16">{value}</text>
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="{delay}s" fill="freeze" />
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="{delay}s" fill="freeze" />
                 <animateTransform attributeName="transform" type="translate" values="0, {info_start_y + (i * 30) + 10}; 0, {info_start_y + (i * 30)}" dur="0.4s" begin="{delay}s" fill="freeze" />
             </g>
         ''')
@@ -299,7 +299,7 @@ def generate_svg(theme='dark'):
     svg.append(f'''
         <text x="0" y="340" fill="{primary_text}" font-size="18" font-weight="600" opacity="0">
             Tech Stack &amp; Tools
-            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="3.5s" fill="freeze" />
+            <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="3.5s" fill="freeze" />
         </text>
     ''')
 
@@ -327,7 +327,7 @@ def generate_svg(theme='dark'):
             <g class="pill" transform="translate({pill_x}, {pill_y})" opacity="0">
                 <rect class="pill-bg" width="{pill_width}" height="{pill_height}" rx="18" fill="{pill_fill}" stroke="{pill_border}" stroke-width="1"/>
                 <text x="{pill_width/2}" y="{pill_height/2 + 5}" fill="{muted_text}" font-size="14" font-weight="500" text-anchor="middle">{skill}</text>
-                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="{delay}s" fill="freeze" />
+                <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="{delay}s" fill="freeze" />
             </g>
         ''')
         pill_x += pill_width + margin_x
@@ -337,7 +337,7 @@ def generate_svg(theme='dark'):
 
     # Social Icons at the bottom (x=440, y=560)
     svg.append(f'<g transform="translate(440, 550)" opacity="0">')
-    svg.append(f'<animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.1; 1" dur="100s" begin="5.5s" fill="freeze" />')
+    svg.append(f'<animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.005; 1" dur="100s" begin="5.5s" fill="freeze" />')
     
     socials = ["GitHub", "LinkedIn", "Twitter", "Portfolio"]
     for i, social in enumerate(socials):
