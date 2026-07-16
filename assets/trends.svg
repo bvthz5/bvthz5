@@ -91,13 +91,13 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering Is Fully Making The Rounds For</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Boosting Generative AI And Agentic AI</text>
+    <text x="50" y="85" class="title-text">What software engineering just taught medicine</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">about AI</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes</text>
+    <text x="50" y="170" class="body-text">What software engineering just taught medicine about AI  KevinMD.com</text>
     <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Linux Foundation Launches Akrites to Protect</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Critical Open Source Software from AI-Powered</text>
+    <text x="50" y="85" class="title-text">Podcast: Governance in the Age of AI: A</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Conversation with Sarah Wells</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The</text>
-    <text x="50" y="187" class="body-text">Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the...</text>
+    <text x="50" y="170" class="body-text">Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael</text>
+    <text x="50" y="187" class="body-text">Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
