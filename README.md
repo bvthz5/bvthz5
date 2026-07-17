@@ -478,38 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ LM Studio Bionic: the AI agent for open models</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> LM Studio Bionic: the AI agent for open models: Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
-Comments URL: https://news.ycombinator.com/item?id=48939662
-Points: 251
-# Comments: 89<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://lmstudio.ai/blog/introducing-lm-studio-bionic" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF  TradingView<br>
-    <b>Implementation Use Case:</b> Applying Enterprise tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq: This week's Java roundup for July 6th, 2026, features news highlighting: the GA release of TornadoVM 5.0; point releases of JHipster, Keycloak and Google ADK; maintenance releases of GraalVM Native Build Tools and Micronaut; the OmniFish Build of Payara and introducing Vidocq, a new implementation of the Jakarta EE 11 Core Profile and MicroProfile 7.1. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnBLYTVpODlMczdMWW9NZ0t2V3UxWDJaQnN2Mno2emcwUVlSQjJUcjcyOEE1cW4tQWlzVGZHQUE2NmpzMlBOYXdLSUJ3T0JhX0xFWDBDbXdBUHNPekh1RklnODR5NWhyZGFHSnBBZGNxR2N1WkxPaUZlZjlzczI3VHowQzFQZDFZSDdpYnhzbG9mVEFNZlhKV2pDa1hUMFpSY2RyQmROVnI?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Boris Cherny says AI prompt era ending, loop engineering next</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Boris Cherny says AI prompt era ending, loop engineering next  MSN<br>
+    <b>Concept Overview:</b> Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Why customer care needs agentic orchestration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Why customer care needs agentic orchestration  IBM<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMGRMaGxnaUJZSHVIanNnUk5DS0FNWnBHemxKYl8tUTlHQzJsa2lpTWtBTDJYQ1lWdVItZHhfbzhCckI5UDUweXJxUzBmYU5pdjlEQ2RlVXROY0dFNmxuLXpHQkdVanJHaldqWVJRd0VKXzZMV01IUU9VUU0zRzdmV3dGMHJDY0c3SzFoMlZkbGpKZjhRVzd5RWlrNUgtQXlfNTJkSjc4OWRlbVdWYk5jME1lQnI4RnE1cWljSTRESzVKYjc1WE5JOFZmOXBpdnVIY0dtUnJVYkZ2MlZRVXI4Y3k1ZXlDZllpSU56Zi1LUDRvc2Mz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGZfekFDWUJyMUl2VTNtUjBIM29kMi1NMmVURzBfeE52SG5sSG1xV3BCRW50WjdTVGw4UW53NldGTEw1QmxjbGNxRG8zdzgya01Fbm5NN3VFOTJXa29OTWs2ZV93VXY4WG1yc0M5YWNZb25sb1I2VHVaTko4dTVPN3ZjbFRXV00?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -526,7 +523,7 @@ Points: 251
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-17 09:58 UTC_
+_Last updated: 2026-07-17 11:26 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
