@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.12%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.13%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,7 +478,21 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ LM Studio Bionic: the AI agent for open models</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> LM Studio Bionic: the AI agent for open models: Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
+Comments URL: https://news.ycombinator.com/item?id=48939662
+Points: 251
+# Comments: 89<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://lmstudio.ai/blog/introducing-lm-studio-bionic" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Enterprise value to EBIT forward of Tdc Software Engineering Inc. – OTC:TDCSF  TradingView<br>
@@ -489,24 +503,13 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Boris Cherny says AI prompt era ending, loop engineering next</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy: Meta recently open-sourced Brain2Qwerty v2, a noninvasive Brain–Computer Interface (BCI) that can decode sentences from thoughts using electroencephalography (EEG) or magnetoencephalography (MEG) signals from the brain. In evaluations, the system achieved a word accuracy rate 61% on average, compared to 8% for other non-invasive methods. By Anthony Alford<br>
+    <b>Concept Overview:</b> Boris Cherny says AI prompt era ending, loop engineering next  MSN<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMGRMaGxnaUJZSHVIanNnUk5DS0FNWnBHemxKYl8tUTlHQzJsa2lpTWtBTDJYQ1lWdVItZHhfbzhCckI5UDUweXJxUzBmYU5pdjlEQ2RlVXROY0dFNmxuLXpHQkdVanJHaldqWVJRd0VKXzZMV01IUU9VUU0zRzdmV3dGMHJDY0c3SzFoMlZkbGpKZjhRVzd5RWlrNUgtQXlfNTJkSjc4OWRlbVdWYk5jME1lQnI4RnE1cWljSTRESzVKYjc1WE5JOFZmOXBpdnVIY0dtUnJVYkZ2MlZRVXI4Y3k1ZXlDZllpSU56Zi1LUDRvc2Mz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +522,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **346** | **330** | **1** |
+| **347** | **330** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-17 07:17 UTC_
+_Last updated: 2026-07-17 09:58 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
