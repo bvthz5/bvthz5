@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.10%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.12%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029  Apple World Today<br>
-    <b>Implementation Use Case:</b> Applying Gartner: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlU0WjR0SGptN3FxbzFMVEZ6bGJsN1dyOGg5a2dsQnJENmVjVUdQRlB2dkctSVlIYXVSV0dGSDVVajFKaVJXSHNvQmE2bXFEREtMMHBCem1iUmxwTTk3eWpDNXlTQXI2cWxibDFMQ2NIMjhrREwzRUk2cUFJYkhpX3dlbmctNG9iZGl4bW5zNUR0VXR4b2xLd2dnakRGRzFOSV9hQmF0bThnWW5CcElzbmI2SHkyUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Evolutionary Data through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Evolutionary Data through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility: Drawing from the enduring adaptability of HTML and HTTP,  Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  Venturebeat<br>
+    <b>Concept Overview:</b> Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered: The Linux Foundation has launched Akrites, a new industry-wide initiative aimed at defending the world's most critical open source software against a rapidly evolving generation of AI-enabled cyber threats. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation: Agentic testing is an AI-driven approach to end-to-end test automation introduced by Slack engineering. It uses AI agents that execute workflows based on intent rather than fixed scripts, adapting to UI and system changes at runtime. The approach aims to reduce brittle tests in distributed systems while complementing deterministic unit, integration, and E2E testing strategies. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-17 00:03 UTC_
+_Last updated: 2026-07-17 04:07 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
