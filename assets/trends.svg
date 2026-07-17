@@ -69,39 +69,17 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Article: Removing a Hidden Round Trip from a</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Multi-Region AWS API</text>
+    <text x="50" y="85" class="title-text">Gartner: 60% of Organizations Will Adopt Smaller</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering Teams by 2029</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional</text>
-    <text x="50" y="187" class="body-text">outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to ...</text>
+    <text x="50" y="170" class="body-text">Gartner: 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029  Apple</text>
+    <text x="50" y="187" class="body-text">World Today</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
-  <!-- Slide 2 -->
-  <g class="slide-group slide-2" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">6 Trends Shaping Technology Adoption ROI for</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner</text>
-    <text x="50" y="187" class="body-text"></text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying 6 tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Applying Gartner: tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
@@ -109,18 +87,40 @@
     <text x="50" y="314" class="body-text"></text>
   </g>
 
-  <!-- Slide 3 -->
-  <g class="slide-group slide-3" pointer-events="all">
+  <!-- Slide 2 -->
+  <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">What software engineering just taught medicine</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">about AI</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
+    <text x="50" y="85" class="title-text">Evolutionary Data through Schemaboi: Achieving</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Forward, Backwards, and Sideways Compatibility</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">What software engineering just taught medicine about AI  KevinMD.com</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Evolutionary Data through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility:</text>
+    <text x="50" y="187" class="body-text">Drawing from the enduring adaptability of HTML and HTTP,  Seph Gentle proposes embedding sel...</text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 3 -->
+  <g class="slide-group slide-3" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
+    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations have a deployment problem, not a ...</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform</text>
+    <text x="50" y="187" class="body-text">problem — and most are calling chatbots agents  Venturebeat</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
