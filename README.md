@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Evolutionary Data through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Evolutionary Data through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility: Drawing from the enduring adaptability of HTML and HTTP,  Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ iSAQB and INTACS strengthen Collaboration in Software Architecture and Process Assessment</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> iSAQB and INTACS strengthen Collaboration in Software Architecture and Process Assessment  PRWeb<br>
-    <b>Implementation Use Case:</b> Applying iSAQB tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSWVqc3JheGRCU3dUbXIxZmtWZmJiMTREaGw3b3V3WjhNZ2hzcTNMdEZiY0FweE4yMTZOaWlsZEFsRUM5OGtlbUxabDhRbmlmNWN4eHR4aXhPV3IzWk5jTHE0cndZM0o0dlpnS3ZLeFU5SGNtWUdyQVRDZ1ZzMWd4X19kMUY4RWdCckRzbXpHWDNhM3VRRWhLM0lWdm9KQmd5MTZVU3NDNDdOOG5XWVhlaEozNmc0RjV4bFF3UUNNMmdfWHp2OWtiSFo1dENlMzM3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents  WBOC TV<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMingJBVV95cUxNTWhTYnVfaXdGUUZ4LTg3Mzh1ZjVRMVhsVmlGbHhzYVRRdlFXcUpwbk5iNFFwLV9ubENiUlAwYzBJdk0yTjkxOTZiSGpvcVJKamlpUWlXbnhyZC0zcExBU25iTndsZjBXWnlZVmNncnRlRHM1ZlZ3SGRQaHVZZkloVXEyTU1YZFhRQzU3ZVB2X2FKVmxqYTZMT1pPWW9sTVJxTFpQWU84VkhFcGlPUW0xVUlQRW9QdHJkZUJpZ1h2RU4za3Y0ODZQNFNkbXUtdVhncEJTb1I2eXppYzliSGNoX0VCUlZDMllPbmdaMVhzV2xBOTJlOG84V2xnT3NEVEFkbjFURjc5UmNHendtbVp5TVZreEFvSXFLT3ZsYm93?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI: A new technical analysis published by the Cloud Native Computing Foundation (CNCF) argues that the future of agentic AI will be built not on entirely new infrastructure, but on the mature cloud-native ecosystem that already powers modern distributed applications By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cncf-trustworthy-agentic-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **348** | **330** | **4** |
+| **349** | **330** | **3** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-18 10:19 UTC_
+_Last updated: 2026-07-18 11:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) | [<img src="https://avatars.githubusercontent.com/u/198766034?v=4" width="50" style="border-radius: 50%;" alt="Resolutefemi"/><br><sub>**Resolutefemi**</sub>](https://github.com/Resolutefemi) |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) |   |   |
 
-**Total: 4**
+**Total: 3**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
