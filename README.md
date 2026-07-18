@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a "harness" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Podcast: Governance in the Age of AI: A Conversation with Sarah Wells</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Governance in the Age of AI: A Conversation with Sarah Wells: In this podcast, Michael Stiefel spoke to Sarah Wells about the relationship of governance to software architecture. Governance enables teams to work effectively by establishing procedures that minimize system complexity, improve security, and reduce repetitive tasks. Targeted checklists help engineers by reducing the stress over these procedures. By Sarah Wells<br>
+    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform  citybiz<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlMtUFIza2FqRjJwWEFpVU5rT3RVZ3B5dHhZRkdqRWE5RUNvWjJXTVp6MnU4YVZZMzVpYkZWeFR5ajh0WVhnSHJjV1k3SE9fem1TVk41bjVHQkVaZm9uTmlMbVgzQ1JaRjQzUUN4OVBRUnEtbllNZlRlSkktYXJvaExQRTd3U1JHa19JRTREUDlrTkFQR0xYbm5DdVlBUmc3emhCclNmdmo4OVJ1X3NSUlpGa2JXeFRlOHdMNVItNW1qUUQ3cFdz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone: DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based tooling, and an intelligence layer with persistent consumer memory and live backend data. Early results show up to 24% higher checkout conversion, 17% larger baskets, and improved intent accuracy using memory-backed sessions. By Leela Kumili<br>
+    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-18 15:58 UTC_
+_Last updated: 2026-07-18 17:06 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
