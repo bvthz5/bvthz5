@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation: Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkout workflows. The study examines end-to-end software engineering capability, focusing on execution, testing, and validation gaps in agentic systems under production-like constraints. By Leela Kumili<br>
+    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ Article: Removing a Hidden Round Trip from a Multi-Region AWS API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that enables developers to connect their local IDE directly to managed Jupyter notebook environments on Google Cloud. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight discovery call baked into every client session years earlier as the only available option. This article describes what it took to remove it, and what the rollout actually cost. By Suresh Gururajan<br>
     <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
     <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a "harness" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko<br>
+    <b>Concept Overview:</b> Cloud Native Infrastructure Emerges as the Foundation for Trustworthy Agentic AI: A new technical analysis published by the Cloud Native Computing Foundation (CNCF) argues that the future of agentic AI will be built not on entirely new infrastructure, but on the mature cloud-native ecosystem that already powers modern distributed applications By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/cncf-trustworthy-agentic-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-17 23:58 UTC_
+_Last updated: 2026-07-18 03:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
