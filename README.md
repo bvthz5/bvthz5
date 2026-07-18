@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.05%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.06%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a "harness" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform  citybiz<br>
+    <b>Concept Overview:</b> How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone: DoorDash details the architecture behind Ask DoorDash, its AI-powered conversational shopping assistant, combining LLMs, specialized AI agents, MCP-based tooling, and an intelligence layer with persistent consumer memory and live backend data. Early results show up to 24% higher checkout conversion, 17% larger baskets, and improved intent accuracy using memory-backed sessions. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlMtUFIza2FqRjJwWEFpVU5rT3RVZ3B5dHhZRkdqRWE5RUNvWjJXTVp6MnU4YVZZMzVpYkZWeFR5ajh0WVhnSHJjV1k3SE9fem1TVk41bjVHQkVaZm9uTmlMbVgzQ1JaRjQzUUN4OVBRUnEtbllNZlRlSkktYXJvaExQRTd3U1JHa19JRTREUDlrTkFQR0xYbm5DdVlBUmc3emhCclNmdmo4OVJ1X3NSUlpGa2JXeFRlOHdMNVItNW1qUUQ3cFdz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ AI's AI Reckoning Hits Software Engineers</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
+    <b>Concept Overview:</b> AI's AI Reckoning Hits Software Engineers  StartupHub.ai<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnotaGRBa2ZsWVJ0cG5sUWs0X0ZHVTM2c0VQbGhRQ3M3QVpjYWZ6a0JhdFpoNGt6VTVXbXlHckM4NEJrRzY5SzZtU21yaXJvZjBQYXU4U01Tdmdoa3NxSXhEQWo4VzVXT1UzQnFOMGp6TUs5dWJDNGtWeWZwampmX2czSS1YZnB5S3F4V3hQTzRrczI5YTVoUlI5YWp0WmZKakZOUXRPOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-18 17:06 UTC_
+_Last updated: 2026-07-18 19:05 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
