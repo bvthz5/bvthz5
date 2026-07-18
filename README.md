@@ -489,24 +489,24 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation: Stripe introduces a benchmark suite to evaluate whether AI agents can build real-world Stripe integrations across backend, frontend, and browser-based checkout workflows. The study examines end-to-end software engineering capability, focusing on execution, testing, and validation gaps in agentic systems under production-like constraints. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ QCon AI Boston: Production AI Moves Beyond Prompts to Platforms, Harnesses, and Evals</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Article: Removing a Hidden Round Trip from a Multi-Region AWS API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon AI Boston 2026 focused on the operational challenges of deploying AI agents, emphasizing the need for robust production infrastructure. Key themes included improving context management, ensuring security through a "harness" around agents, and adopting a comprehensive engineering model for AI. By Tatiana Fesenko<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/production-ai-platforms-evals/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Removing a Hidden Round Trip from a Multi-Region AWS API: When a series of regional outages forced a rethink of a multi-region AWS API, the team discovered that an obstacle to global failover was hiding in plain sight: a pre-flight discovery call baked into every client session years earlier as the only available option. This article describes what it took to remove it, and what the rollout actually cost. By Suresh Gururajan<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-18 21:52 UTC_
+_Last updated: 2026-07-18 22:51 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
