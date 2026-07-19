@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Google Cloud Workbench Notebooks Extension</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Connects VS Code to Google Cloud&apos;s Jupyter Note...</text>
+    <text x="50" y="85" class="title-text">AWS Ships Claude Apps Gateway as Self-Hosted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Control Plane for Claude Code and Claude Desktop</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud&apos;s Jupyter</text>
-    <text x="50" y="187" class="body-text">Notebooks: The Google Cloud Workbench Notebooks extension for VS Code is a new tool that ena...</text>
+    <text x="50" y="170" class="body-text">AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop:</text>
+    <text x="50" y="187" class="body-text">AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Demystifying loop engineering: Get more from AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">agents, avoid loopmaxxing</text>
+    <text x="50" y="85" class="title-text">AI Agents with Cloud Credentials Are Outrunning</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Billing Guardrails Built for Human-Speed Mistakes</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed</text>
+    <text x="50" y="187" class="body-text">Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extra...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">6 Trends Shaping Technology Adoption ROI for</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
+    <text x="50" y="85" class="title-text">The Path to Sovereign Data: Challenges and</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Priorities in Local-First Computing</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data</text>
+    <text x="50" y="187" class="body-text">ownership challenged the definition of &quot;ownership,&quot; arguing it must extend beyond simple acc...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying 6 tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Experimenting with quantum circuit models and post-quantum encryption.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Prepares data architectures for high-speed secure cryptography.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
