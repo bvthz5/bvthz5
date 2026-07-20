@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop: AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
+  <summary><b>2️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
     <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
     <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-19 22:54 UTC_
+_Last updated: 2026-07-20 02:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
