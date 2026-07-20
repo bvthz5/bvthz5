@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.18%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.19%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry: Ben O'Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go beyond standard rule-based checkers. He explains how to instrument AI agents natively with OpenTelemetry to track concrete user actions (accepting, dismissing, or regenerating code fixes) as implicit labels, creating a continuous data flywheel to distill frontier capabilities into cheaper, local SLMs. By Ben O'Mahony<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ The Path to Sovereign Data: Challenges and Priorities in Local-First Computing</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
+  <summary><b>2️⃣ Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> The Path to Sovereign Data: Challenges and Priorities in Local-First Computing: A panel on data ownership challenged the definition of "ownership," arguing it must extend beyond simple account control to include structural independence, interoperability, and community governance. Speakers like Zenna Fiscella, Paul Frazee, Boris Mann, and Robin Berjon emphasised the need for shared standards, unbundled platforms, and better tools to support user sovereignty. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
-    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform  citybiz<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlMtUFIza2FqRjJwWEFpVU5rT3RVZ3B5dHhZRkdqRWE5RUNvWjJXTVp6MnU4YVZZMzVpYkZWeFR5ajh0WVhnSHJjV1k3SE9fem1TVk41bjVHQkVaZm9uTmlMbVgzQ1JaRjQzUUN4OVBRUnEtbllNZlRlSkktYXJvaExQRTd3U1JHa19JRTREUDlrTkFQR0xYbm5DdVlBUmc3emhCclNmdmo4OVJ1X3NSUlpGa2JXeFRlOHdMNVItNW1qUUQ3cFdz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents: Now generally available, Pinecone Nexus is a "knowledge engine" for AI agents that transforms enterprise data into a structured layer agents can query directly. It enables teams to ingest and curate business context once for all, making it reusable across agents and reducing token costs while improving accuracy. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-20 02:53 UTC_
+_Last updated: 2026-07-20 03:54 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
