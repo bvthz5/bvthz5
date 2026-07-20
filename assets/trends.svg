@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations have a deployment problem, not a ...</text>
+    <text x="50" y="85" class="title-text">Artificial Intelligence for Software</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering: From Probable to Provable</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform</text>
-    <text x="50" y="187" class="body-text">problem — and most are calling chatbots agents  Venturebeat</text>
+    <text x="50" y="170" class="body-text">Artificial Intelligence for Software Engineering: From Probable to Provable  Communications of</text>
+    <text x="50" y="187" class="body-text">the ACM</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering with Adaptive Parsing in</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Action: Parsing Flat Tables with Azure and Figu...</text>
+    <text x="50" y="85" class="title-text">Presentation: From OTEL to SLMs: Distilling</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Frontier Model Behaviour from Production Telemetry</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures</text>
-    <text x="50" y="187" class="body-text">with a Vision LLM  towardsdatascience.com</text>
+    <text x="50" y="170" class="body-text">Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry:</text>
+    <text x="50" y="187" class="body-text">Ben O&apos;Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go b...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AI Agents with Cloud Credentials Are Outrunning</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Billing Guardrails Built for Human-Speed Mistakes</text>
+    <text x="50" y="85" class="title-text">Scrums.com Acquires TechLeaders.io to Deepen</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering Data for AI Coding Agents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed</text>
-    <text x="50" y="187" class="body-text">Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extra...</text>
+    <text x="50" y="170" class="body-text">Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents</text>
+    <text x="50" y="187" class="body-text">WBOC TV</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
