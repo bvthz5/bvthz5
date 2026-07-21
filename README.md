@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.26%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.27%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,24 +478,24 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google and industry partners announced Agentic Resource Discovery (ARD) Specification, an open standard for publishing, discovering, and verifying AI tools, APIs, and agents. ARD introduces a discovery layer built on catalogs and registries, enabling dynamic capability discovery while leveraging existing protocols such as MCP and OpenAPI for execution and emphasizing trust and interoperability. By Leela Kumili<br>
+    <b>Concept Overview:</b> Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio: This week's Java roundup for July 13th, 2026, features news highlighting: a reintroduction of Value Objects (Preview); the GA release of WildFly 41; the July 2026 edition of Open Liberty 26.0.0.7; point releases of TornadoVM, Apache TomEE, Java Operator SDK and LangChain4j; a maintenance release of Micronaut; a new extension, Quarkus Shim; and a new Oracle AI Agent Studio for Fusion Applications. By Michael Redlich<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul13-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes: A three-person agency received a $14,000 AWS bill in one day after attackers extracted static access keys and burned Claude invocations on Bedrock. Combined with May's DN42 incident, where an autonomous agent provisioned $6,531 of oversized infrastructure in 24 hours, practitioners warn that cloud billing lags roughly a day behind agent-speed spend. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -519,18 +519,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **347** | **329** | **6** |
+| **346** | **329** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-21 06:29 UTC_
+_Last updated: 2026-07-21 09:27 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/201297711?v=4" width="50" style="border-radius: 50%;" alt="Andrey-Enrique-GM"/><br><sub>**Andrey-Enrique-GM**</sub>](https://github.com/Andrey-Enrique-GM) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) | [<img src="https://avatars.githubusercontent.com/u/190903174?v=4" width="50" style="border-radius: 50%;" alt="KaranRathore05"/><br><sub>**KaranRathore05**</sub>](https://github.com/KaranRathore05) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) |
-| [<img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="50" style="border-radius: 50%;" alt="sahils0"/><br><sub>**sahils0**</sub>](https://github.com/sahils0) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/201297711?v=4" width="50" style="border-radius: 50%;" alt="Andrey-Enrique-GM"/><br><sub>**Andrey-Enrique-GM**</sub>](https://github.com/Andrey-Enrique-GM) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/147947828?v=4" width="50" style="border-radius: 50%;" alt="bencheayoub"/><br><sub>**bencheayoub**</sub>](https://github.com/bencheayoub) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) | [<img src="https://avatars.githubusercontent.com/u/190903174?v=4" width="50" style="border-radius: 50%;" alt="KaranRathore05"/><br><sub>**KaranRathore05**</sub>](https://github.com/KaranRathore05) |
+| [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) | [<img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="50" style="border-radius: 50%;" alt="sahils0"/><br><sub>**sahils0**</sub>](https://github.com/sahils0) |   |   |   |
 
-**Total: 6**
+**Total: 7**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
