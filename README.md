@@ -489,24 +489,24 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
+    <b>Concept Overview:</b> Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go: Google released the Genkit Agents API in preview for TypeScript and Go. The open-source framework packages message history, tool loops, streaming, and state persistence behind a single chat() interface. Detached turns let agents work after clients disconnect. Interruptible tools provide human-in-the-loop control with anti-forgery validation on resume. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents  WBOC TV<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMingJBVV95cUxNTWhTYnVfaXdGUUZ4LTg3Mzh1ZjVRMVhsVmlGbHhzYVRRdlFXcUpwbk5iNFFwLV9ubENiUlAwYzBJdk0yTjkxOTZiSGpvcVJKamlpUWlXbnhyZC0zcExBU25iTndsZjBXWnlZVmNncnRlRHM1ZlZ3SGRQaHVZZkloVXEyTU1YZFhRQzU3ZVB2X2FKVmxqYTZMT1pPWW9sTVJxTFpQWU84VkhFcGlPUW0xVUlQRW9QdHJkZUJpZ1h2RU4za3Y0ODZQNFNkbXUtdVhncEJTb1I2eXppYzliSGNoX0VCUlZDMllPbmdaMVhzV2xBOTJlOG84V2xnT3NEVEFkbjFURjc5UmNHendtbVp5TVZreEFvSXFLT3ZsYm93?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-21 15:44 UTC_
+_Last updated: 2026-07-21 17:21 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
