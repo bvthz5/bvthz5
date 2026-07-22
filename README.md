@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.09%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.10%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,7 +478,18 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval  Towards Data Science<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHg2eVhPeTJQUjNXdHZBMFRoUkFKbzBXSG8xSTdxbmN2VGhfMjlfNG03eDlmVnVIWmNlN0Z4R1VwZ2ltMjJ1R3luQmt4UlFtUmltRU9QcGJ4VGs2VHMtQUx5T2JJRzdGN25DRVVnYmFOdkRNR3FTeVVzRmJ5VlVGaXRUSXRvRW8tODk2R3pUd3dwWUhOWWNmVE5tNWhWNHpWNkNydGVMVDhYUGE3QnpJYWFHMEdtUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
@@ -489,24 +500,13 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents: Now generally available, Pinecone Nexus is a "knowledge engine" for AI agents that transforms enterprise data into a structured layer agents can query directly. It enables teams to ingest and curate business context once for all, making it reusable across agents and reducing token costs while improving accuracy. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Software Engineering Is More Like Batting Than Coding</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Software Engineering Is More Like Batting Than Coding  HackerNoon<br>
-    <b>Implementation Use Case:</b> Applying Software tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzNhbmdvV01SYVo0TXVFVVpyU01iMFBicldVZl9ZS3g2ekxSYlBPejVrcW9ZMnEwelQwOFVTUXBRajg5d253X1Q0Z0ExOGNfRFF2ZTlvTFhEbGRVTEU5TUt1ekVQZ1BfVW1aSTdnVUl6NFkwVURXRURlNmVFZk82UUFR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop: AWS and Anthropic have released the Claude apps gateway for AWS, a self-hosted control plane that centralizes identity, policy, telemetry, routing, and spend caps for Claude Code and Claude Desktop. The gateway runs as a single stateless container and routes inference to Amazon Bedrock or Claude Platform on AWS. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-22 15:45 UTC_
+_Last updated: 2026-07-22 17:21 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
