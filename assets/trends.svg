@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering Is Fully Making The Rounds For</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Boosting Generative AI And Agentic AI</text>
+    <text x="50" y="85" class="title-text">How Netflix Built GenPage: a Single GenAI Model</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">to Build Personalized Homepages</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a</text>
+    <text x="50" y="187" class="body-text">generative AI system developed by Netflix to replace its traditional multi-stage recommendat...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Three InfoQ Certification Cohorts Start This</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">August: Meet the Facilitators</text>
+    <text x="50" y="85" class="title-text">Loop Engineering with Adaptive Parsing in</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Action: Parsing Flat Tables with Azure and Figu...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Three InfoQ Certification Cohorts Start This August: Meet the Facilitators: InfoQ has opened</text>
-    <text x="50" y="187" class="body-text">enrollment for three five-week online certification cohorts starting in August, each led by ...</text>
+    <text x="50" y="170" class="body-text">Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures</text>
+    <text x="50" y="187" class="body-text">with a Vision LLM  Towards Data Science</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Three tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Version Controlled SQL Database Dolt Releases</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">2.0 with Automatic Storage Cleanup and Compression</text>
+    <text x="50" y="85" class="title-text">Yelp Unifies ML Model Training with Training</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Orchestrator</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and</text>
-    <text x="50" y="187" class="body-text">Compression: DoltHub has recently released Dolt 2.0, a major update to the open source versi...</text>
+    <text x="50" y="170" class="body-text">Yelp Unifies ML Model Training with Training Orchestrator: Yelp has launched Training</text>
+    <text x="50" y="187" class="body-text">Orchestrator. This new internal framework replaces individual team Spark training scripts. N...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
