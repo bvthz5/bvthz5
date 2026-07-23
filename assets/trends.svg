@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">What Is Loop Engineering? The New AI Coding</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Shift Explained</text>
+    <text x="50" y="85" class="title-text">Java News Roundup: Value Objects, WildFly 41,</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">TornadoVM, LangChain4j, Oracle AI Agent Studio</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">What Is Loop Engineering? The New AI Coding Shift Explained  Memeburn</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Java News Roundup: Value Objects, WildFly 41, TornadoVM, LangChain4j, Oracle AI Agent Studio:</text>
+    <text x="50" y="187" class="body-text">This week&apos;s Java roundup for July 13th, 2026, features news highlighting: a reintroduction o...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Three InfoQ Certification Cohorts Start This</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">August: Meet the Facilitators</text>
+    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations have a deployment problem, not a ...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Three InfoQ Certification Cohorts Start This August: Meet the Facilitators: InfoQ has opened</text>
-    <text x="50" y="187" class="body-text">enrollment for three five-week online certification cohorts starting in August, each led by ...</text>
+    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform</text>
+    <text x="50" y="187" class="body-text">problem — and most are calling chatbots agents  VentureBeat</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Three tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Samuel Schroeder: Outstanding senior in software</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">engineering</text>
+    <text x="50" y="85" class="title-text">Presentation: Compiling Workflows into</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Databases: The Architecture That Shouldn&apos;t Work...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Samuel Schroeder: Outstanding senior in software engineering  Iowa State University</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Presentation: Compiling Workflows into Databases: The Architecture That Shouldn&apos;t Work (But</text>
+    <text x="50" y="187" class="body-text">Does): Jeremy Edberg &amp; Qian Li discuss why external orchestrators decrease reliability and h...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Samuel tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
