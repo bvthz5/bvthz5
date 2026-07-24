@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.19%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.21%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  VentureBeat<br>
+    <b>Concept Overview:</b> QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport. Six tracks on production AI, chaired by Eder Ignatowicz with Faye Zhang and Wes Reisz. First sessions announced in August, full program by November. By Artenisa Chatziou<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Three InfoQ Certification Cohorts Start This August: Meet the Facilitators</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Three InfoQ Certification Cohorts Start This August: Meet the Facilitators: InfoQ has opened enrollment for three five-week online certification cohorts starting in August, each led by a senior practitioner applying QCon talk frameworks to participants' own work: architecture with Luca Mezzalira, engineering leadership with Michelle Brush, and AI security and privacy with Katharine Jarmul. By Artenisa Chatziou<br>
-    <b>Implementation Use Case:</b> Applying Three tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
+    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/infoq-online-cohorts-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability: DoorDash has developed Entity Cache, a transparent proxy caching platform built on Envoy and Valkey to reduce redundant service-to-service requests across its microservices architecture. Operating within DoorDash’s service mesh, the platform serves over 1.5M requests per second with 99.99999% availability through caching, event-driven invalidation, failure handling, and performance optimizations. By Leela Kumili<br>
+    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,18 +519,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **348** | **330** | **9** |
+| **347** | **330** | **10** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-24 07:32 UTC_
+_Last updated: 2026-07-24 10:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/201297711?v=4" width="50" style="border-radius: 50%;" alt="Andrey-Enrique-GM"/><br><sub>**Andrey-Enrique-GM**</sub>](https://github.com/Andrey-Enrique-GM) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/228955865?v=4" width="50" style="border-radius: 50%;" alt="AshiteshSingh"/><br><sub>**AshiteshSingh**</sub>](https://github.com/AshiteshSingh) | [<img src="https://avatars.githubusercontent.com/u/147947828?v=4" width="50" style="border-radius: 50%;" alt="bencheayoub"/><br><sub>**bencheayoub**</sub>](https://github.com/bencheayoub) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) |
-| [<img src="https://avatars.githubusercontent.com/u/190903174?v=4" width="50" style="border-radius: 50%;" alt="KaranRathore05"/><br><sub>**KaranRathore05**</sub>](https://github.com/KaranRathore05) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) | [<img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="50" style="border-radius: 50%;" alt="sahils0"/><br><sub>**sahils0**</sub>](https://github.com/sahils0) | [<img src="https://avatars.githubusercontent.com/u/195157135?v=4" width="50" style="border-radius: 50%;" alt="shaaravraghu"/><br><sub>**shaaravraghu**</sub>](https://github.com/shaaravraghu) |   |
+| [<img src="https://avatars.githubusercontent.com/u/69351423?v=4" width="50" style="border-radius: 50%;" alt="humayrakhanomrime"/><br><sub>**humayrakhanomrime**</sub>](https://github.com/humayrakhanomrime) | [<img src="https://avatars.githubusercontent.com/u/190903174?v=4" width="50" style="border-radius: 50%;" alt="KaranRathore05"/><br><sub>**KaranRathore05**</sub>](https://github.com/KaranRathore05) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) | [<img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="50" style="border-radius: 50%;" alt="sahils0"/><br><sub>**sahils0**</sub>](https://github.com/sahils0) | [<img src="https://avatars.githubusercontent.com/u/195157135?v=4" width="50" style="border-radius: 50%;" alt="shaaravraghu"/><br><sub>**shaaravraghu**</sub>](https://github.com/shaaravraghu) |
 
-**Total: 9**
+**Total: 10**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
