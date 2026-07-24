@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Anthropic Details How It Contains Claude Across Web, Code, and Cowork</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Anthropic detailed the containment architectures it uses for Claude across its products. It argues that agent safety depends on placing deterministic limits on an agent’s filesystem, network, and execution environment rather than on permission prompts or safeguards. Most notably, it examines failures at trust boundaries and along permitted egress paths that led Anthropic to revise those designs. By Eran Stiller<br>
+    <b>Concept Overview:</b> How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does): Jeremy Edberg & Qian Li discuss why external orchestrators decrease reliability and how to use your existing database for durable execution. They share how DBOS Transact uses standard tables, SKIP LOCKED queues, and unique primary keys to manage complex, fault-tolerant AI workflows with minimal latency, all without the operational overhead of separate distributed systems. By Jeremy Edberg, Qian Li<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry: Ben O'Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go beyond standard rule-based checkers. He explains how to instrument AI agents natively with OpenTelemetry to track concrete user actions (accepting, dismissing, or regenerating code fixes) as implicit labels, creating a continuous data flywheel to distill frontier capabilities into cheaper, local SLMs. By Ben O'Mahony<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/otel-slm-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core: The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-engineering team's ability to keep the rule base aligned with a threat landscape that evolves faster than rules can be written. Learn how  multi-agent system for production security operations has reduced mean times to detect and to respond by 40% and compressed the human work required by 12x. By Willem Berroubache<br>
+    <b>Concept Overview:</b> Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents: Now generally available, Pinecone Nexus is a "knowledge engine" for AI agents that transforms enterprise data into a structured layer agents can query directly. It enables teams to ingest and curate business context once for all, making it reusable across agents and reducing token costs while improving accuracy. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-24 18:18 UTC_
+_Last updated: 2026-07-24 20:20 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
