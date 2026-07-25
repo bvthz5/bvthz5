@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.27%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.29%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS released Loom, an open-source reference platform on AWS Labs for governing AI agents at scale. Built on Strands Agents and Bedrock AgentCore Runtime, it implements RFC 8693 token exchange for identity propagation through delegated actor chains, config-driven deployments without runtime code generation, and mandatory tagging. AWS positions it as an example, not a managed service. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents: Now generally available, Pinecone Nexus is a "knowledge engine" for AI agents that transforms enterprise data into a structured layer agents can query directly. It enables teams to ingest and curate business context once for all, making it reusable across agents and reducing token costs while improving accuracy. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Anthropic Details How it Contains Claude across Web, Code, and Cowork</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Anthropic detailed the containment architectures it uses for Claude across its products. It argues that agent safety depends on placing deterministic limits on an agent’s filesystem, network, and execution environment rather than on permission prompts or safeguards. Most notably, it examines failures at trust boundaries and along permitted egress paths that led Anthropic to revise those designs. By Eran Stiller<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
+    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Yelp Unifies ML Model Training with Training Orchestrator</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation: Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service telemetry and LLMs. Built with FastAPI, Datadog, Celery, Redis, and Langfuse, STAR follows structured workflows to analyze telemetry, generate root cause assessments, and support incident response while keeping engineers in the loop. By Leela Kumili<br>
+    <b>Concept Overview:</b> Yelp Unifies ML Model Training with Training Orchestrator: Yelp has launched Training Orchestrator. This new internal framework replaces individual team Spark training scripts. Now, it uses a configuration-driven, DAG-based execution model. By Claudio Masolo<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/yelp-ai-model-training/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-25 11:11 UTC_
+_Last updated: 2026-07-25 13:28 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
