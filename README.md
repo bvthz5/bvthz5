@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.29%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.30%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,18 +478,7 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Software Engineering students participate in Pan-African student dialogues in Ghana</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Software Engineering students participate in Pan-African student dialogues in Ghana  Nelson Mandela University<br>
-    <b>Implementation Use Case:</b> Applying Software tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1JkMmYzMWtYQ29hcFlINl9leXY1V2FNemYyb0VYRkp1MENIQ250V0czNHJPeWp5LTNRX19rQV9yTGlXZy1iNVhzbmd0ZFpQNHc0WHhvaW44QmlMMV9udzFEVktEd1VoS01OR1UxN2VzZjZqcEZVNG0yOUo1MjlxLTdXVXJEazBmNEE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ What is open-source AI? A software engineering researcher explains</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ What is open-source AI? A software engineering researcher explains</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> What is open-source AI? A software engineering researcher explains  The Conversation<br>
@@ -500,13 +489,24 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender: Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation alongside technical capability. Airbus frames it as complementing multi-cloud, not exiting AWS. Practitioners note the pattern is spreading past hyperscalers to small US SaaS vendors, and that sovereignty claims still require verifiable controls. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> DoorDash Uses Envoy and Valkey for a 1.5M RPS Proxy Cache with 99.99999% Availability: DoorDash has developed Entity Cache, a transparent proxy caching platform built on Envoy and Valkey to reduce redundant service-to-service requests across its microservices architecture. Operating within DoorDash’s service mesh, the platform serves over 1.5M requests per second with 99.99999% availability through caching, event-driven invalidation, failure handling, and performance optimizations. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/doordash-entity-cache-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ AI is reshaping software engineering, here's what developers say</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> AI is reshaping software engineering, here's what developers say  The News International<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOclotQVBSVE9venBvTHQ4OXUzUTFfZi1wUFZVZVFvMkNfUElSQ2hlWHRKOFVmUlBtdW5hS0RvSjFnOHQwU1BTUjB5MTdKRmxrdzNoX2hLZDktZ3daSGF1b3lSZEJNWjV1S3BjZW14X09BZ0NUNDFjSHBmMFJsdzE1Rjk0b2lKV0FuZUpkaTNhb01pbG90eDFUTjRabUZHUmI1TnJzNHZoOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-25 15:03 UTC_
+_Last updated: 2026-07-25 16:59 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
