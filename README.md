@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.31%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.33%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Article: The Self-Building Agent: A LangChain4j Experiment</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
-    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOHNhdWhIUEJzZy02RVJSN2VsMnF5RFAxZ1JFMEdlbE9SUDNyMDFMbEhLMW1wUUhnSzJINmc0Z2VJOGdkV2UwVWZiaFNsRFlDbTAxMVJITWlBbDU2RHhPMjRCU1dBekJhM2FZWHlnT1YtVktVLTAyMUVHV1lUcUthX3BRTFFNZzhjUEtFRkIxd2g1RGFDQ0lZLUdtM0NwdDF4dFU2UXgyNHhoNzJORnFZUkFVejNjaTJLLWtUcndhYktzRkhma3NGa3Z1bW9feHZPQlBYVzI5VVBpME1pd0stOVJVcmJhSGFy?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: The Self-Building Agent: A LangChain4j Experiment: The article discusses an experiment where a code assistant had to design an agentic system using LangChain4j documentation. The assistant created a coding framework capable of writing, testing, and debugging code autonomously. Results showed that two architectural patterns—supervisor and workflow—offered different trade-offs between flexibility and execution speed during debugging tasks. By Kevin Dubois, Mario Fusco<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform  citybiz<br>
+    <b>Concept Overview:</b> Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation: Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service telemetry and LLMs. Built with FastAPI, Datadog, Celery, Redis, and Langfuse, STAR follows structured workflows to analyze telemetry, generate root cause assessments, and support incident response while keeping engineers in the loop. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlMtUFIza2FqRjJwWEFpVU5rT3RVZ3B5dHhZRkdqRWE5RUNvWjJXTVp6MnU4YVZZMzVpYkZWeFR5ajh0WVhnSHJjV1k3SE9fem1TVk41bjVHQkVaZm9uTmlMbVgzQ1JaRjQzUUN4OVBRUnEtbllNZlRlSkktYXJvaExQRTd3U1JHa19JRTREUDlrTkFQR0xYbm5DdVlBUmc3emhCclNmdmo4OVJ1X3NSUlpGa2JXeFRlOHdMNVItNW1qUUQ3cFdz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages: GenPage is a generative AI system developed by Netflix to replace its traditional multi-stage recommendation pipeline by directly generating personalized user homepages. GenPage leverages user history and request context as a prompt to produce the entire page, resulting in improved user engagement and reduced serving latency. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Loop Engineering Is Fully Making The Rounds For Boosting Generative AI And Agentic AI  Forbes<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEpkOXNoWnA3MERWWm1KQVRNenVURHE4ZjhzTHExVmo5dmVTdjJMbDNYXzVoWnBwRTFZVXNrOGR3RGd3NGp1Q2hfNHhpQUYwdGE0dkVJaWZnR1ZRcmRXMzNBZVU3c2lQaUtfaC11dERTQWVINU9fSlpZcS12ZmYzUGtHd3hrV0w0T1U2Z2JxZ0xNYU5fZVRfYW5qWlZtRUxvaDc0dDFsb1FtUS1uQlJuUWFwQ2lOOXV5UENmZFhUemRKNVBhVEtuaUVYQmNBdlc4bDlJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-25 21:57 UTC_
+_Last updated: 2026-07-25 22:59 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
