@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Scrums.com Acquires TechLeaders.io to Strengthen</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">AI-Powered Software Engineering Platform</text>
+    <text x="50" y="85" class="title-text">Yelp Unifies ML Model Training with Training</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Orchestrator</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Scrums.com Acquires TechLeaders.io to Strengthen AI-Powered Software Engineering Platform</text>
-    <text x="50" y="187" class="body-text">citybiz</text>
+    <text x="50" y="170" class="body-text">Yelp Unifies ML Model Training with Training Orchestrator: Yelp has launched Training</text>
+    <text x="50" y="187" class="body-text">Orchestrator. This new internal framework replaces individual team Spark training scripts. N...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AWS Billing Bug Shows Customers Trillion-Dollar</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Estimates While Its Own Cost Alarms Fail to Act</text>
+    <text x="50" y="85" class="title-text">Article: Multi-Agent AI for Production Security</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Operations: An A2A and MCP Architecture in a 5G...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to</text>
-    <text x="50" y="187" class="body-text">Act: A configuration change in AWS&apos;s bill computation system showed customers estimated bill...</text>
+    <text x="50" y="170" class="body-text">Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G</text>
+    <text x="50" y="187" class="body-text">Core: The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-e...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
