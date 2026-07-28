@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation: Expedia Group has introduced STAR, an internal AI-assisted observability platform that helps engineers investigate production incidents using service telemetry and LLMs. Built with FastAPI, Datadog, Celery, Redis, and Langfuse, STAR follows structured workflows to analyze telemetry, generate root cause assessments, and support incident response while keeping engineers in the loop. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Anthropic Details How it Contains Claude across Web, Code, and Cowork</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Anthropic detailed the containment architectures it uses for Claude across its products. It argues that agent safety depends on placing deterministic limits on an agent’s filesystem, network, and execution environment rather than on permission prompts or safeguards. Most notably, it examines failures at trust boundaries and along permitted egress paths that led Anthropic to revise those designs. By Eran Stiller<br>
+    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  VentureBeat<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage: AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-28 10:36 UTC_
+_Last updated: 2026-07-28 12:54 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
