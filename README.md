@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.17%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.18%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ What Is Loop Engineering? The New AI Coding Shift Explained</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ What is open-source AI? A software engineering researcher explains</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What Is Loop Engineering? The New AI Coding Shift Explained  Memeburn<br>
+    <b>Concept Overview:</b> What is open-source AI? A software engineering researcher explains  Caledonian Record<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfN3ktRzhIYzR3WnJrdUNPTlR2Q0lSbDRHQkNiT3hkUFN5Nkk1M3lob3Y3ZjROOFlKSzRuSldhNTl0bXdvM0pVOXFOYm5pUmh6ckxzeUdsVDgwdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa21KdVY2dElidnc3VlVwR0tCV2dSZ3M1cWlKOXBPN3IwZmFWUU1QendJRjJxUXFoYXFUaWJQaTctZGN0eTBkNGRPUE56VlVFTURDLTRWWks0NDFiQjZHZjZKV0dQVGRhVEtZeWtkNWZoOXJlNDQzRF9jYmdWRkxQUTk4ZVYzUDNGSFpRTmxSMUE5OTJrV255MHZmbmZCb2NDUEpkQTVWYkF2R0Y2d2tXdWJaUDZ2ZGZMM1Q1UGxJM1dPRjU5cGhTTjRSbUgtWEhXblltZHRwMWNwTTNYUjNmbVF5Sm1JeVFFZHZBY0ZLbkZMbXl4VDhzNUJkMVRzdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  Venturebeat<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Article: The Self-Building Agent: a LangChain4j Experiment</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: The Self-Building Agent: a LangChain4j Experiment: The article discusses an experiment where a code assistant had to design an agentic system using LangChain4j documentation. The assistant created a coding framework capable of writing, testing, and debugging code autonomously. Results showed that two architectural patterns—supervisor and workflow—offered different trade-offs between flexibility and execution speed during debugging tasks. By Kevin Dubois, Mario Fusco<br>
+    <b>Concept Overview:</b> Scrums.com Acquires TechLeaders.io to Deepen Software Engineering Data for AI Coding Agents  The Norfolk Daily News<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNEVRS3BqOXpxczlreXBldFBvZkVubFNkQUUwZkxJSl9nTngyUFJibnc3Tll6YzRyVGw1bDljUXEyWXBXTFpjdVptQTJ6cGkybE1QZWkxY21Qak5aTDJyaVVRcXhyckZmY1hnQUtMOVVta0t1UmRnYm96eFVXX0hqc2ctRG15a0tabWdNZFNFSF9jUmxPcXNDekdNWmFoOG0tSVEtU1lleU4tV3NvemM5aVY2RDRxR1d1MTlFYWlKWGlRNVpsLXBzUTZEeTNCSlFGRHpWTXB3WnBPQ19kd21iMVY5UVB1cW9RSkVDZ3JkZmplRGtnQThJNGpWRWo3ODRHemRPeFdJWXZxX09XYXE0ZDV1dnRGSmYyY2ZfM3BQanVqY1F5dUFPaA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **351** | **330** | **13** |
+| **352** | **330** | **13** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-27 22:08 UTC_
+_Last updated: 2026-07-28 00:03 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
