@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Anthropic Details How it Contains Claude across</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Web, Code, and Cowork</text>
+    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations have a deployment problem, not a ...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Anthropic detailed the containment architectures it uses for Claude across its products. It</text>
-    <text x="50" y="187" class="body-text">argues that agent safety depends on placing deterministic limits on an agent’s filesystem, n...</text>
+    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform</text>
+    <text x="50" y="187" class="body-text">problem — and most are calling chatbots agents  VentureBeat</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Article: The Hard-Stop Rule: From 3 HCM</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Monoliths to 120 Domain Microservices</text>
+    <text x="50" y="85" class="title-text">Yelp Unifies ML Model Training with Training</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Orchestrator</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices: A payroll and HR</text>
-    <text x="50" y="187" class="body-text">software team rebuilt three monoliths into over 120 smaller services over five years, with n...</text>
+    <text x="50" y="170" class="body-text">Yelp Unifies ML Model Training with Training Orchestrator: Yelp has launched Training</text>
+    <text x="50" y="187" class="body-text">Orchestrator. This new internal framework replaces individual team Spark training scripts. N...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Demystifying loop engineering: Get more from AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">agents, avoid loopmaxxing</text>
+    <text x="50" y="85" class="title-text">Article: Multi-Agent AI for Production Security</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Operations: an A2A and MCP Architecture in a 5G...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Article: Multi-Agent AI for Production Security Operations: an A2A and MCP Architecture in a 5G</text>
+    <text x="50" y="187" class="body-text">Core: The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-e...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
