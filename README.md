@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.25%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.26%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Airbus Makes Protection from Extraterritorial Law a Scored Criterion in its Cloud Tender</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy  The University of Virginia<br>
-    <b>Implementation Use Case:</b> Applying UVA tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZkhPNGlDUEhaRUZEQnlSTUZ0bWhxWGNkWmsxR3c3OGVwMk5NbzVGWWp6VHFlTXAzY3pqZkQyUDIwS2FpeF9BcXhURm5ubzdpa3BtN3dqejNGTldvTTh4Z3FDR0tINGlKY0hPSm5OWmc5VEpzQ3VyRjJaejctbW5aUm5FaDNTbUFKYUlaMVp3UUROaGpJbHBYZm9zZEZpLTlfY21IOEc1bHl6N1AzbDlDaFBNX01qRGxHZFZXQlFrU0dKa0xrdmJnUEcycko0WDNWTld4LXF2NWlubExjZ0FhTUxLQ05DeWtkYmNyMDNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage: AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Airbus Makes Protection from Extraterritorial Law a Scored Criterion in its Cloud Tender: Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation alongside technical capability. Airbus frames it as complementing multi-cloud, not exiting AWS. Practitioners note the pattern is spreading past hyperscalers to small US SaaS vendors, and that sovereignty claims still require verifiable controls. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Netflix Details its In-House LLM Serving Platform with Triton and vLLM</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Netflix Details its In-House LLM Serving Platform with Triton and vLLM: Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model sizes, hardware requirements, and rapidly evolving inference engines. By Matt Foster<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change: Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable. By Joe Price, Branimir Đurek, Pavlos Migkiros, Trevor Dearham<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-29 04:13 UTC_
+_Last updated: 2026-07-29 07:43 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
