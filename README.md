@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.32%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.33%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ New Continuous Delivery Loop Framework From Coherent Solutions Closes the AI Value Gap for Software Engineering Teams Moving From AI-Assisted to AI-Native Development</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> New Continuous Delivery Loop Framework From Coherent Solutions Closes the AI Value Gap for Software Engineering Teams Moving From AI-Assisted to AI-Native Development  01net.it<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ1VzTUxJenBubG9fRFJxUWs3aFdQWENTOVRxVXBoSnNVdER2RE1iYWFJRFlnRklGSkxuYWRpRFdfTkpUWjVfZ3U4N1VTcVk0M1R1dFk2NFpSLWVydjR2THNXdFZranpnTW1pYXoybWg4OTNla1FXRjhJZGdtcGZ6U0tiNG9JMTdRWERLYUlBeGhTYVRPWDctUnVWOHVJYzJwWV80X0lkMjBTMDd3djlHZWgtSlREZkNQSXRSVUkyOHNDRmROSDZMSkQzT3NEN282Z2xZRWdVNjR1QzFlLTllMUMza2tGanZpMXRSVlVsUG12LUNDdU9RV2lwZTM5bE9Qc0VMM0NKWEpsX29HUlB3YlU0QVo4Qmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost: Uber's "Zero Growth Stack" focuses on scalable infrastructure that separates capacity growth from business demand, reducing hardware needs while enhancing service scaling. Central to this is garbage collection optimisation. Additionally, generative AI is integrated into development, elevating developer productivity while introducing cost management measures to maintain economic efficiency. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/efficient-ai-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
+    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
+    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOHNhdWhIUEJzZy02RVJSN2VsMnF5RFAxZ1JFMEdlbE9SUDNyMDFMbEhLMW1wUUhnSzJINmc0Z2VJOGdkV2UwVWZiaFNsRFlDbTAxMVJITWlBbDU2RHhPMjRCU1dBekJhM2FZWHlnT1YtVktVLTAyMUVHV1lUcUthX3BRTFFNZzhjUEtFRkIxd2g1RGFDQ0lZLUdtM0NwdDF4dFU2UXgyNHhoNzJORnFZUkFVejNjaTJLLWtUcndhYktzRkhma3NGa3Z1bW9feHZPQlBYVzI5VVBpME1pd0stOVJVcmJhSGFy?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Airbus Makes Protection from Extraterritorial Law a Scored Criterion in its Cloud Tender</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Airbus Makes Protection from Extraterritorial Law a Scored Criterion in its Cloud Tender: Airbus selected Scaleway as its sovereign cloud provider after a tender that scored protection against non-European extraterritorial legislation alongside technical capability. Airbus frames it as complementing multi-cloud, not exiting AWS. Practitioners note the pattern is spreading past hyperscalers to small US SaaS vendors, and that sovereignty claims still require verifiable controls. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,19 +519,19 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **358** | **328** | **12** |
+| **357** | **328** | **13** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-30 03:57 UTC_
+_Last updated: 2026-07-30 06:34 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/201297711?v=4" width="50" style="border-radius: 50%;" alt="Andrey-Enrique-GM"/><br><sub>**Andrey-Enrique-GM**</sub>](https://github.com/Andrey-Enrique-GM) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/147947828?v=4" width="50" style="border-radius: 50%;" alt="bencheayoub"/><br><sub>**bencheayoub**</sub>](https://github.com/bencheayoub) | [<img src="https://avatars.githubusercontent.com/u/176455968?v=4" width="50" style="border-radius: 50%;" alt="faisalorakzai-lab"/><br><sub>**faisalorakzai-lab**</sub>](https://github.com/faisalorakzai-lab) | [<img src="https://avatars.githubusercontent.com/u/151635250?v=4" width="50" style="border-radius: 50%;" alt="hamse122"/><br><sub>**hamse122**</sub>](https://github.com/hamse122) |
 | [<img src="https://avatars.githubusercontent.com/u/69351423?v=4" width="50" style="border-radius: 50%;" alt="humayrakhanomrime"/><br><sub>**humayrakhanomrime**</sub>](https://github.com/humayrakhanomrime) | [<img src="https://avatars.githubusercontent.com/u/190903174?v=4" width="50" style="border-radius: 50%;" alt="KaranRathore05"/><br><sub>**KaranRathore05**</sub>](https://github.com/KaranRathore05) | [<img src="https://avatars.githubusercontent.com/u/155298917?v=4" width="50" style="border-radius: 50%;" alt="nayeem-miah"/><br><sub>**nayeem-miah**</sub>](https://github.com/nayeem-miah) | [<img src="https://avatars.githubusercontent.com/u/198766034?v=4" width="50" style="border-radius: 50%;" alt="Resolutefemi"/><br><sub>**Resolutefemi**</sub>](https://github.com/Resolutefemi) | [<img src="https://avatars.githubusercontent.com/u/96993695?v=4" width="50" style="border-radius: 50%;" alt="sahils0"/><br><sub>**sahils0**</sub>](https://github.com/sahils0) |
-| [<img src="https://avatars.githubusercontent.com/u/195157135?v=4" width="50" style="border-radius: 50%;" alt="shaaravraghu"/><br><sub>**shaaravraghu**</sub>](https://github.com/shaaravraghu) | [<img src="https://avatars.githubusercontent.com/u/142750760?v=4" width="50" style="border-radius: 50%;" alt="YeamimHossainSajid"/><br><sub>**YeamimHossainSajid**</sub>](https://github.com/YeamimHossainSajid) |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/195157135?v=4" width="50" style="border-radius: 50%;" alt="shaaravraghu"/><br><sub>**shaaravraghu**</sub>](https://github.com/shaaravraghu) | [<img src="https://avatars.githubusercontent.com/u/183125688?v=4" width="50" style="border-radius: 50%;" alt="talash88"/><br><sub>**talash88**</sub>](https://github.com/talash88) | [<img src="https://avatars.githubusercontent.com/u/142750760?v=4" width="50" style="border-radius: 50%;" alt="YeamimHossainSajid"/><br><sub>**YeamimHossainSajid**</sub>](https://github.com/YeamimHossainSajid) |   |   |
 
-**Total: 12**
+**Total: 13**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
