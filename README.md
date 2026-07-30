@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.37%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.38%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage: AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Java News Roundup: Simple JSON API, JEPs for JDK 28, Oracle CPUs, Embabel 1.0, Azul Payara, Helidon: This week's Java roundup for July 20th, 2026, features news highlighting: two JEPs proposed to target for JDK 28; new JEPs 540 and 541, Simple JSON API (Incubator) and Deprecate the macOS/x64 Port for Removal, respectively; the July 2026 Critical Patch Update; the GA release of Embable 1.0; Azul Payara 7.2.0; and Helidon 4.5.1. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/java-news-roundup-jul20-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  Venturebeat<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>3️⃣ AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Lambda can now reference deployment packages directly in customer-owned S3 buckets, removing the per-Region code storage quota and raising the managed default from 75 GB to 300 GB. Per-function package limits are unchanged, and UpdateFunctionCode is still required after replacing an object. Terraform provider support remains an open enhancement request. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
-    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering: Engineers are increasingly arguing that modern LLMs can already reason through root cause analysis once given correctly prepared context, shifting the hard problem to the pipelines that correlate telemetry. A Coroot experiment across eleven models offers early evidence for the claim. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-30 20:15 UTC_
+_Last updated: 2026-07-30 22:07 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
