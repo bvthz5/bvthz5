@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.31%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.32%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,24 +478,24 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ New Continuous Delivery Loop Framework From Coherent Solutions Closes the AI Value Gap for Software Engineering Teams Moving From AI-Assisted to AI-Native Development</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VTN3BYZGlwTXVCZVVQT1BsOVJSVXhERGN6ckpDV2REbGpDaWx4NGw1bEdDYjM3TExnUkJQMlJYZTYzU1JPc2FBMTlZa0NxeGhWSTd1dEh2ZVEzQW5TX2hWenpjOXlPek1ldmhTQUtoYjBpNWR4c3VmenRLc24tOGtPYVllanZjbmM5Qm43ZmpxME5oWlkyNlgwRk4tbVg2UFlNYWZxZFB6QUF1ckVLamMtUVFlTnRCMnVOYnVlUDZZbWpwSFHSAcsBQVVfeXFMTmNxMjVUUVlZYTRKOEI0MDdPb0x0Vk5VVXhIVlBDNms4YjVvRFZCNGl3RXQwRjdVb09FSGE1al9FbkljQTdMdkU4Ym9Ic2d4V0hLd3Y0WXZ4ZnZ0dmZYSGtSeFJCVjNVRnU4T3NrWHNZc0FETEpsRnRrQ090V1pZTFphdWVFcVhkdWktbmtzZG5aMjd2WDJWWUtEQXF1b1lEcVBULWVEYW5vY2luOWtUempqNVZibnlsbDhZX0RpM2hVN3JnaE1zWGFYLUU?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> New Continuous Delivery Loop Framework From Coherent Solutions Closes the AI Value Gap for Software Engineering Teams Moving From AI-Assisted to AI-Native Development  01net.it<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ1VzTUxJenBubG9fRFJxUWs3aFdQWENTOVRxVXBoSnNVdER2RE1iYWFJRFlnRklGSkxuYWRpRFdfTkpUWjVfZ3U4N1VTcVk0M1R1dFk2NFpSLWVydjR2THNXdFZranpnTW1pYXoybWg4OTNla1FXRjhJZGdtcGZ6U0tiNG9JMTdRWERLYUlBeGhTYVRPWDctUnVWOHVJYzJwWV80X0lkMjBTMDd3djlHZWgtSlREZkNQSXRSVUkyOHNDRmROSDZMSkQzT3NEN282Z2xZRWdVNjR1QzFlLTllMUMza2tGanZpMXRSVlVsUG12LUNDdU9RV2lwZTM5bE9Qc0VMM0NKWEpsX29HUlB3YlU0QVo4Qmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Compiling Workflows into Databases: the Architecture That Shouldn't Work (But Does)</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Compiling Workflows into Databases: the Architecture That Shouldn't Work (But Does): Jeremy Edberg & Qian Li discuss why external orchestrators decrease reliability and how to use your existing database for durable execution. They share how DBOS Transact uses standard tables, SKIP LOCKED queues, and unique primary keys to manage complex, fault-tolerant AI workflows with minimal latency, all without the operational overhead of separate distributed systems. By Jeremy Edberg, Qian Li<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost: Uber's "Zero Growth Stack" focuses on scalable infrastructure that separates capacity growth from business demand, reducing hardware needs while enhancing service scaling. Central to this is garbage collection optimisation. Additionally, generative AI is integrated into development, elevating developer productivity while introducing cost management measures to maintain economic efficiency. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/efficient-ai-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-07-30 00:00 UTC_
+_Last updated: 2026-07-30 03:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
