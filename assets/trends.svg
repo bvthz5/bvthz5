@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations have a deployment problem, not a ...</text>
+    <text x="50" y="85" class="title-text">Cloudflare Makes Internal DNS Generally</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Available</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform</text>
-    <text x="50" y="187" class="body-text">problem — and most are calling chatbots agents  VentureBeat</text>
+    <text x="50" y="170" class="body-text">Cloudflare has launched its Internal DNS service, providing authoritative and recursive DNS for</text>
+    <text x="50" y="187" class="body-text">private networks. This service simplifies DNS management by consolidating private and public...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Uber’s Zero Growth Stack: Scaling Services,</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">While Optimising Infrastructure and AI Cost</text>
+    <text x="50" y="85" class="title-text">Communities of Practice: Software Engineering &amp;</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Development</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost: Uber&apos;s</text>
-    <text x="50" y="187" class="body-text">&quot;Zero Growth Stack&quot; focuses on scalable infrastructure that separates capacity growth from b...</text>
+    <text x="50" y="170" class="body-text">Communities of Practice: Software Engineering &amp; Development  channeleye.media</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Communities tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Article: Securing MCP in Production:</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Defense-in-Depth Beyond the Gateway</text>
+    <text x="50" y="85" class="title-text">Netflix Details its In-House LLM Serving</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Platform with Triton and vLLM</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway: This article presents</text>
-    <text x="50" y="187" class="body-text">a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in product...</text>
+    <text x="50" y="170" class="body-text">Netflix Details its In-House LLM Serving Platform with Triton and vLLM: Netflix has described</text>
+    <text x="50" y="187" class="body-text">the production lessons behind bringing LLM inference into its internal serving platform, inc...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Article: tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
