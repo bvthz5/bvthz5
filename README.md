@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.28%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.29%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy  The University of Virginia<br>
-    <b>Implementation Use Case:</b> Applying UVA tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval  Towards Data Science<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZkhPNGlDUEhaRUZEQnlSTUZ0bWhxWGNkWmsxR3c3OGVwMk5NbzVGWWp6VHFlTXAzY3pqZkQyUDIwS2FpeF9BcXhURm5ubzdpa3BtN3dqejNGTldvTTh4Z3FDR0tINGlKY0hPSm5OWmc5VEpzQ3VyRjJaejctbW5aUm5FaDNTbUFKYUlaMVp3UUROaGpJbHBYZm9zZEZpLTlfY21IOEc1bHl6N1AzbDlDaFBNX01qRGxHZFZXQlFrU0dKa0xrdmJnUEcycko0WDNWTld4LXF2NWlubExjZ0FhTUxLQ05DeWtkYmNyMDNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHg2eVhPeTJQUjNXdHZBMFRoUkFKbzBXSG8xSTdxbmN2VGhfMjlfNG03eDlmVnVIWmNlN0Z4R1VwZ2ltMjJ1R3luQmt4UlFtUmltRU9QcGJ4VGs2VHMtQUx5T2JJRzdGN25DRVVnYmFOdkRNR3FTeVVzRmJ5VlVGaXRUSXRvRW8tODk2R3pUd3dwWUhOWWNmVE5tNWhWNHpWNkNydGVMVDhYUGE3QnpJYWFHMEdtUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: Virtual Threads After JDK 24: What Changed for Production Java</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Virtual Threads After JDK 24: What Changed for Production Java: JDK 24 removed the monitor-related carrier-thread pinning that stalled Netflix and similar teams on Java 21. What has replaced it on JDK 25 LTS is downstream-resource saturation: The bottleneck moved and now demands explicit bounding in application code. This article maps the failure modes that surface after virtual-thread adoption and gives a practical sequence backed by a public benchmark. By Sandeep Bharadwaj<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Article: Multi-Agent AI for Production Security Operations: an A2A and MCP Architecture in a 5G Core</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Multi-Agent AI for Production Security Operations: an A2A and MCP Architecture in a 5G Core: The bottleneck in a mature SOC is rarely analyst triage; rather, it is the detection-engineering team's ability to keep the rule base aligned with a threat landscape that evolves faster than rules can be written. Learn how  multi-agent system for production security operations has reduced mean times to detect and to respond by 40% and compressed the human work required by 12x. By Willem Berroubache<br>
+    <b>Concept Overview:</b> QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport. Six tracks on production AI, chaired by Eder Ignatowicz with Faye Zhang and Wes Reisz. First sessions announced in August, full program by November. By Artenisa Chatziou<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,11 +523,11 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-02 13:23 UTC_
+_Last updated: 2026-08-02 15:03 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/85108775?v=4" width="50" style="border-radius: 50%;" alt="eafirsov"/><br><sub>**eafirsov**</sub>](https://github.com/eafirsov) | [<img src="https://avatars.githubusercontent.com/u/14098375?v=4" width="50" style="border-radius: 50%;" alt="lokiwyler"/><br><sub>**lokiwyler**</sub>](https://github.com/lokiwyler) | [<img src="https://avatars.githubusercontent.com/u/93459737?v=4" width="50" style="border-radius: 50%;" alt="magicdevstar"/><br><sub>**magicdevstar**</sub>](https://github.com/magicdevstar) |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/85108775?v=4" width="50" style="border-radius: 50%;" alt="eafirsov"/><br><sub>**eafirsov**</sub>](https://github.com/eafirsov) | [<img src="https://avatars.githubusercontent.com/u/14098375?v=4" width="50" style="border-radius: 50%;" alt="FrBrennan"/><br><sub>**FrBrennan**</sub>](https://github.com/FrBrennan) | [<img src="https://avatars.githubusercontent.com/u/93459737?v=4" width="50" style="border-radius: 50%;" alt="magicdevstar"/><br><sub>**magicdevstar**</sub>](https://github.com/magicdevstar) |   |
 
 **Total: 4**
 
