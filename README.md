@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents  VentureBeat<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change: Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable. By Joe Price, Branimir Đurek, Pavlos Migkiros, Trevor Dearham<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare recently introduced Meerkat, an internal globally consistent control-plane service based on the QuePaxa consensus algorithm. Unlike Raft, it allows leaderless writes while preserving strong consistency, improving availability across Cloudflare's global network. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-02 07:32 UTC_
+_Last updated: 2026-08-02 09:58 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
