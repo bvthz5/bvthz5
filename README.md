@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Anthropic Details How it Contains Claude across Web, Code, and Cowork</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHg2eVhPeTJQUjNXdHZBMFRoUkFKbzBXSG8xSTdxbmN2VGhfMjlfNG03eDlmVnVIWmNlN0Z4R1VwZ2ltMjJ1R3luQmt4UlFtUmltRU9QcGJ4VGs2VHMtQUx5T2JJRzdGN25DRVVnYmFOdkRNR3FTeVVzRmJ5VlVGaXRUSXRvRW8tODk2R3pUd3dwWUhOWWNmVE5tNWhWNHpWNkNydGVMVDhYUGE3QnpJYWFHMEdtUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon AI New York 2026 (Dec 15-16) has opened registration at The Westin Jersey City Newport. Six tracks on production AI, chaired by Eder Ignatowicz with Faye Zhang and Wes Reisz. First sessions announced in August, full program by November. By Artenisa Chatziou<br>
+    <b>Concept Overview:</b> Anthropic detailed the containment architectures it uses for Claude across its products. It argues that agent safety depends on placing deterministic limits on an agent’s filesystem, network, and execution environment rather than on permission prompts or safeguards. Most notably, it examines failures at trust boundaries and along permitted egress paths that led Anthropic to revise those designs. By Eran Stiller<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
-    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices: A payroll and HR software team rebuilt three monoliths into over 120 smaller services over five years, with no dedicated migration budget. Every new feature was built as its own service instead of changing the old ones. The article covers the pull-based migration, the tools that made this possible, how costs were kept down, and the problems the team ran into along the way. By Prashanth Pasham<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy  The University of Virginia<br>
+    <b>Implementation Use Case:</b> Applying UVA tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZkhPNGlDUEhaRUZEQnlSTUZ0bWhxWGNkWmsxR3c3OGVwMk5NbzVGWWp6VHFlTXAzY3pqZkQyUDIwS2FpeF9BcXhURm5ubzdpa3BtN3dqejNGTldvTTh4Z3FDR0tINGlKY0hPSm5OWmc5VEpzQ3VyRjJaejctbW5aUm5FaDNTbUFKYUlaMVp3UUROaGpJbHBYZm9zZEZpLTlfY21IOEc1bHl6N1AzbDlDaFBNX01qRGxHZFZXQlFrU0dKa0xrdmJnUEcycko0WDNWTld4LXF2NWlubExjZ0FhTUxLQ05DeWtkYmNyMDNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-02 15:03 UTC_
+_Last updated: 2026-08-02 17:00 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
