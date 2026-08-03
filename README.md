@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ HashiCorp Ships Public Beta of Vault Kubernetes Key Management</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ How agentic orchestration can help solve health care's workforce challenge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> HashiCorp has released a public beta of Vault Kubernetes key management, a KMS v2-compatible plugin that lets the Kubernetes API server delegate envelope encryption to Vault Enterprise, moving the key encryption keys that protect etcd data out of the cluster and into a separately governed trust domain. By Mark Silvester<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> How agentic orchestration can help solve health care's workforce challenge  Hospital + Healthcare<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHdZaGhTclZZWHUxa3RxV2pDbTk0NUJDSldMODVlUEMzZ0dYeEppSXhVVDdRanAyV01PdURwZFdwN2NDdjNlamdxZzRTeVQxTldSaVRhMzB5TXVnZ0lrdGhoemotTVNQMXBENVQ5LVpkYXY4WGtfMDhDbEVrLUZDRGNSWFh4V1NTLU9TUm84WWRrTWFqTV94cURZUU96SFExdEJUSm54M1B1YjBWR0RhMmI2a3JNcmc0N1FRV1YxZ2ozTWN1UmlUT2pab09PbkQwajlFTkYyVlF0UjdKN2w4?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Communities of Practice: Software Engineering & Development</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Communities of Practice: Software Engineering & Development  channeleye.media<br>
-    <b>Implementation Use Case:</b> Applying Communities tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven: This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA release of GPULlama3.java 1.0; point releases of Micronaut, Quarkus and JobRunr; a maintenance release of JDKUpdater; the sixth release candidate of Maven 4.0; and the first milestone release of Jakarta Agentic AI 1.0. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXpJbWljdno3emJZSFlvcFkwVTdBb25YSFJMN29UNjNIdnVQcDc5QlJPbGZNUWEyMU9VSUFvNDVRYVh4Q3RCNEl6OUFnQ2hOX0dBd3VHUzQ3OG9SRHpfNFRtNVRXYnJLRzBlN1J3NzN0R2tSZVBHUzRvTi1WRVdVUmNxY0tKSDBqdmFMN1dnSE5YUWs?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Embabel Agent Framework Reaches 1.0</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
-    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWxXbVoxT1AwNnIxbkdjR3hLSnY2ZDVxdUdmNUxzWVBlSWdkSWFDTmhGYUI2RHd4d3BOZTJITFlzZ2tXRGZ1UEc3MGkzd2ZxUVA1TlpjVnZ4TDY2NGJjaDZKcjZvNC1zY2g3aDFWQjJMcmhYNEs2MFpydkFkZDJkVWtEbGNzUURPNmd0dVh5TFdjaUM5d0I4Z0lJNkxWZFZMZkFiVzQtMnBaS1E1Wk8yVVZkYmxyemdBa1BxTnFxNS1pZWNyQVRURnh3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Embabel Agent Framework Reaches 1.0: Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,18 +519,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **356** | **316** | **6** |
+| **356** | **316** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-03 16:26 UTC_
+_Last updated: 2026-08-03 18:51 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/257843481?v=4" width="50" style="border-radius: 50%;" alt="alekzandren"/><br><sub>**alekzandren**</sub>](https://github.com/alekzandren) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/85108775?v=4" width="50" style="border-radius: 50%;" alt="eafirsov"/><br><sub>**eafirsov**</sub>](https://github.com/eafirsov) | [<img src="https://avatars.githubusercontent.com/u/14098375?v=4" width="50" style="border-radius: 50%;" alt="FrBrennan"/><br><sub>**FrBrennan**</sub>](https://github.com/FrBrennan) | [<img src="https://avatars.githubusercontent.com/u/93459737?v=4" width="50" style="border-radius: 50%;" alt="magicdevstar"/><br><sub>**magicdevstar**</sub>](https://github.com/magicdevstar) |
-| [<img src="https://avatars.githubusercontent.com/u/88831350?v=4" width="50" style="border-radius: 50%;" alt="Mattral"/><br><sub>**Mattral**</sub>](https://github.com/Mattral) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/88831350?v=4" width="50" style="border-radius: 50%;" alt="Mattral"/><br><sub>**Mattral**</sub>](https://github.com/Mattral) | [<img src="https://avatars.githubusercontent.com/u/243355600?v=4" width="50" style="border-radius: 50%;" alt="subham-hq"/><br><sub>**subham-hq**</sub>](https://github.com/subham-hq) |   |   |   |
 
-**Total: 6**
+**Total: 7**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
