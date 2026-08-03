@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.34%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.36%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Microsoft Agent Framework Harness and Hosted Agents Reach General Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ HashiCorp Ships Public Beta of Vault Kubernetes Key Management</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> HashiCorp has released a public beta of Vault Kubernetes key management, a KMS v2-compatible plugin that lets the Kubernetes API server delegate envelope encryption to Vault Enterprise, moving the key encryption keys that protect etcd data out of the cluster and into a separately governed trust domain. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>2️⃣ Communities of Practice: Software Engineering & Development</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review: Dropbox has integrated Model Context Protocol (MCP) with its internal knowledge platform, Dash, to surface security design context during AI assisted code reviews. The system retrieves threat models and security requirements for pull requests, helping reviewers validate implementation against design intent. An InfoQ Q&A explores the architecture and key lessons learned. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Communities of Practice: Software Engineering & Development  channeleye.media<br>
+    <b>Implementation Use Case:</b> Applying Communities tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXpJbWljdno3emJZSFlvcFkwVTdBb25YSFJMN29UNjNIdnVQcDc5QlJPbGZNUWEyMU9VSUFvNDVRYVh4Q3RCNEl6OUFnQ2hOX0dBd3VHUzQ3OG9SRHpfNFRtNVRXYnJLRzBlN1J3NzN0R2tSZVBHUzRvTi1WRVdVUmNxY0tKSDBqdmFMN1dnSE5YUWs?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
+    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWxXbVoxT1AwNnIxbkdjR3hLSnY2ZDVxdUdmNUxzWVBlSWdkSWFDTmhGYUI2RHd4d3BOZTJITFlzZ2tXRGZ1UEc3MGkzd2ZxUVA1TlpjVnZ4TDY2NGJjaDZKcjZvNC1zY2g3aDFWQjJMcmhYNEs2MFpydkFkZDJkVWtEbGNzUURPNmd0dVh5TFdjaUM5d0I4Z0lJNkxWZFZMZkFiVzQtMnBaS1E1Wk8yVVZkYmxyemdBa1BxTnFxNS1pZWNyQVRURnh3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-03 13:41 UTC_
+_Last updated: 2026-08-03 16:26 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
