@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.36%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.37%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ How agentic orchestration can help solve health care's workforce challenge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Netflix Details its In-House LLM Serving Platform with Triton and vLLM</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How agentic orchestration can help solve health care's workforce challenge  Hospital + Healthcare<br>
+    <b>Concept Overview:</b> Netflix Details its In-House LLM Serving Platform with Triton and vLLM: Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model sizes, hardware requirements, and rapidly evolving inference engines. By Matt Foster<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHdZaGhTclZZWHUxa3RxV2pDbTk0NUJDSldMODVlUEMzZ0dYeEppSXhVVDdRanAyV01PdURwZFdwN2NDdjNlamdxZzRTeVQxTldSaVRhMzB5TXVnZ0lrdGhoemotTVNQMXBENVQ5LVpkYXY4WGtfMDhDbEVrLUZDRGNSWFh4V1NTLU9TUm84WWRrTWFqTV94cURZUU96SFExdEJUSm54M1B1YjBWR0RhMmI2a3JNcmc0N1FRV1YxZ2ozTWN1UmlUT2pab09PbkQwajlFTkYyVlF0UjdKN2w4?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/netflix-llm-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven: This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA release of GPULlama3.java 1.0; point releases of Micronaut, Quarkus and JobRunr; a maintenance release of JDKUpdater; the sixth release candidate of Maven 4.0; and the first milestone release of Jakarta Agentic AI 1.0. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review: Dropbox has integrated Model Context Protocol (MCP) with its internal knowledge platform, Dash, to surface security design context during AI assisted code reviews. The system retrieves threat models and security requirements for pull requests, helping reviewers validate implementation against design intent. An InfoQ Q&A explores the architecture and key lessons learned. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
+    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Embabel Agent Framework Reaches 1.0</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Embabel Agent Framework Reaches 1.0: Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow<br>
+    <b>Concept Overview:</b> Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent: In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and other approaches when building AI systems, emphasizing reusability, simplicity, and long-term maintainability. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-03 18:51 UTC_
+_Last updated: 2026-08-03 20:27 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
