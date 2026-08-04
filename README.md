@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive: Andrea Peruffo discusses the evolution of WebAssembly beyond the browser and its growing role on the server-side JVM. He covers performance advancements in Wasm runtimes, moving from interpreters to efficient JIT compilation, and explores real-world production use cases ranging from edge computing platforms to modular plugin architectures. By Andrea Peruffo<br>
-    <b>Implementation Use Case:</b> Applying Podcast: tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval  Towards Data Science<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHg2eVhPeTJQUjNXdHZBMFRoUkFKbzBXSG8xSTdxbmN2VGhfMjlfNG03eDlmVnVIWmNlN0Z4R1VwZ2ltMjJ1R3luQmt4UlFtUmltRU9QcGJ4VGs2VHMtQUx5T2JJRzdGN25DRVVnYmFOdkRNR3FTeVVzRmJ5VlVGaXRUSXRvRW8tODk2R3pUd3dwWUhOWWNmVE5tNWhWNHpWNkNydGVMVDhYUGE3QnpJYWFHMEdtUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Presentation: The Free-Lunch Guide to Idea Circularity</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
-    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Presentation: The Free-Lunch Guide to Idea Circularity: Holly Cummins discusses why "nothing is new under the sun" in tech. She maps historical architectural tradeoffs to modern cloud, microservices, and AI hype cycles. She connects financial debt (post-ZIRP) and technical debt to epistemic and sleep debt, showing engineering leaders how to navigate shifts in assumptions, embrace sustainability, and revive proven engineering disciplines. By Holly Cummins<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWxXbVoxT1AwNnIxbkdjR3hLSnY2ZDVxdUdmNUxzWVBlSWdkSWFDTmhGYUI2RHd4d3BOZTJITFlzZ2tXRGZ1UEc3MGkzd2ZxUVA1TlpjVnZ4TDY2NGJjaDZKcjZvNC1zY2g3aDFWQjJMcmhYNEs2MFpydkFkZDJkVWtEbGNzUURPNmd0dVh5TFdjaUM5d0I4Z0lJNkxWZFZMZkFiVzQtMnBaS1E1Wk8yVVZkYmxyemdBa1BxTnFxNS1pZWNyQVRURnh3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway: This article presents a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in production. It outlines four architectural control layers: safe execution, management infrastructure, outbound trust, and semantic integrity, arguing that production security requires enforcement beyond the gateway at the earliest trustworthy control points. By Nik Kale<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change: Traditional API gateways assume deterministic services and simple schemas - assumptions agentic AI breaks. Discover why enterprise engineering leaders are adopting AI Gateways as an evolutionary architecture seam. Centralize guardrails, model routing, agent identity, action policy, and semantic audit within a single control plane to prevent costly incidents while keeping core platforms stable. By Joe Price, Branimir Đurek, Pavlos Migkiros, Trevor Dearham<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **357** | **317** | **7** |
+| **359** | **317** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-04 18:28 UTC_
+_Last updated: 2026-08-04 20:26 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
