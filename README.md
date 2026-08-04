@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.42%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.43%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Software Engineering Help</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Software Engineering Help  Trend Hunter<br>
-    <b>Implementation Use Case:</b> Applying Software tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive: Andrea Peruffo discusses the evolution of WebAssembly beyond the browser and its growing role on the server-side JVM. He covers performance advancements in Wasm runtimes, moving from interpreters to efficient JIT compilation, and explores real-world production use cases ranging from edge computing platforms to modular plugin architectures. By Andrea Peruffo<br>
+    <b>Implementation Use Case:</b> Applying Podcast: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE80YTVXN1JkVG1VZXdrV3ZpZ3pjWTJxS0JPNjVvMWRYSWJfa0xMQlZjLUZhSTBvRlpDbldXRTgtVV91cl9JUEZnd1hodm9oTWwxNlpj0gFYQVVfeXFMT0JmZEVlUDBoNExLOHB6d2hJWW1KT1ROVV9OUDhleXVqRE9HVFcwOG56WjRjUHREdUMtQW04aENtRW01VzY4Ry13bUIyazVPZ1l0eUJzU3Z6eg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ HubSpot Redesigns JITA Authorization with Rule Engine Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> HubSpot Redesigns JITA Authorization with Rule Engine Architecture: HubSpot has redesigned its Just-In-Time Access (JITA) authorization system using a rule engine architecture. The system evaluates access requests through independent rules organized as a directed acyclic graph, adding structured decision metadata, rule-level observability, and governance workflows to replace complex conditional authorization logic. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying HubSpot tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
+    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWxXbVoxT1AwNnIxbkdjR3hLSnY2ZDVxdUdmNUxzWVBlSWdkSWFDTmhGYUI2RHd4d3BOZTJITFlzZ2tXRGZ1UEc3MGkzd2ZxUVA1TlpjVnZ4TDY2NGJjaDZKcjZvNC1zY2g3aDFWQjJMcmhYNEs2MFpydkFkZDJkVWtEbGNzUURPNmd0dVh5TFdjaUM5d0I4Z0lJNkxWZFZMZkFiVzQtMnBaS1E1Wk8yVVZkYmxyemdBa1BxTnFxNS1pZWNyQVRURnh3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway: This article presents a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in production. It outlines four architectural control layers: safe execution, management infrastructure, outbound trust, and semantic integrity, arguing that production security requires enforcement beyond the gateway at the earliest trustworthy control points. By Nik Kale<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHg2eVhPeTJQUjNXdHZBMFRoUkFKbzBXSG8xSTdxbmN2VGhfMjlfNG03eDlmVnVIWmNlN0Z4R1VwZ2ltMjJ1R3luQmt4UlFtUmltRU9QcGJ4VGs2VHMtQUx5T2JJRzdGN25DRVVnYmFOdkRNR3FTeVVzRmJ5VlVGaXRUSXRvRW8tODk2R3pUd3dwWUhOWWNmVE5tNWhWNHpWNkNydGVMVDhYUGE3QnpJYWFHMEdtUQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **356** | **317** | **7** |
+| **357** | **317** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-04 16:12 UTC_
+_Last updated: 2026-08-04 18:28 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
