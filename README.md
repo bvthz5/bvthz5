@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.48%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.49%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>1️⃣ Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review: Dropbox has integrated Model Context Protocol (MCP) with its internal knowledge platform, Dash, to surface security design context during AI assisted code reviews. The system retrieves threat models and security requirements for pull requests, helping reviewers validate implementation against design intent. An InfoQ Q&A explores the architecture and key lessons learned. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare recently introduced Meerkat, an internal globally consistent control-plane service based on the QuePaxa consensus algorithm. Unlike Raft, it allows leaderless writes while preserving strong consistency, improving availability across Cloudflare's global network. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven: This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA release of GPULlama3.java 1.0; point releases of Micronaut, Quarkus and JobRunr; a maintenance release of JDKUpdater; the sixth release candidate of Maven 4.0; and the first milestone release of Jakarta Agentic AI 1.0. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational value, according to Perforce Software's 2026 Platform Engineering Report. By Craig Risi<br>
+    <b>Concept Overview:</b> Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent: In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and other approaches when building AI systems, emphasizing reusability, simplicity, and long-term maintainability. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Navy preps recompete for American Systems software engineering contract</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Navy preps recompete for American Systems software engineering contract  Washington Technology<br>
+    <b>Implementation Use Case:</b> Applying Navy tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWxXbVoxT1AwNnIxbkdjR3hLSnY2ZDVxdUdmNUxzWVBlSWdkSWFDTmhGYUI2RHd4d3BOZTJITFlzZ2tXRGZ1UEc3MGkzd2ZxUVA1TlpjVnZ4TDY2NGJjaDZKcjZvNC1zY2g3aDFWQjJMcmhYNEs2MFpydkFkZDJkVWtEbGNzUURPNmd0dVh5TFdjaUM5d0I4Z0lJNkxWZFZMZkFiVzQtMnBaS1E1Wk8yVVZkYmxyemdBa1BxTnFxNS1pZWNyQVRURnh3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-05 17:38 UTC_
+_Last updated: 2026-08-05 19:36 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
