@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ HubSpot Redesigns JITA Authorization with Rule Engine Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ HashiCorp Ships Public Beta of Vault Kubernetes Key Management</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> HubSpot Redesigns JITA Authorization with Rule Engine Architecture: HubSpot has redesigned its Just-In-Time Access (JITA) authorization system using a rule engine architecture. The system evaluates access requests through independent rules organized as a directed acyclic graph, adding structured decision metadata, rule-level observability, and governance workflows to replace complex conditional authorization logic. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying HubSpot tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> HashiCorp has released a public beta of Vault Kubernetes key management, a KMS v2-compatible plugin that lets the Kubernetes API server delegate envelope encryption to Vault Enterprise, moving the key encryption keys that protect etcd data out of the cluster and into a separately governed trust domain. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Microsoft Agent Framework Harness and Hosted Agents Reach General Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
-    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage: AWS released a public preview of the GuardDuty investigation agent, which correlates findings, 90-day activity logs, and resource topologies into structured reports with risk ratings, confidence scores, and MITRE ATT&CK classification. It is reachable through the AWS MCP Server, so investigations can run from agentic tooling. Preview quotas cap usage at 10 investigations per account per day. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Article: Securing MCP in Production: Defense-in-Depth beyond the Gateway: This article presents a defense-in-depth approach for securing Model Context Protocol (MCP) deployments in production. It outlines four architectural control layers: safe execution, management infrastructure, outbound trust, and semantic integrity, arguing that production security requires enforcement beyond the gateway at the earliest trustworthy control points. By Nik Kale<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **358** | **317** | **7** |
+| **360** | **317** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-05 10:36 UTC_
+_Last updated: 2026-08-05 12:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
