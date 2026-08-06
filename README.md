@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.51%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.28%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,38 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Prime Agent: A self-improving RLM agent</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prime Agent: A self-improving RLM agent: Article URL: https://www.primeintellect.ai/blog/prime-agent
-Comments URL: https://news.ycombinator.com/item?id=49189075
-Points: 74
-# Comments: 10<br>
+    <b>Concept Overview:</b> Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures  Telecompaper<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.primeintellect.ai/blog/prime-agent" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGNiWVVMRGthdUVKRy1Bd1UtRFVBa0kzY0xsNUo5TG1DMk5zc1NOUlBtRnVpd1ZxbTNKNGNiWEg3T1FmOWVnR1hpZ1I2YndwZkNzSVVkUmFNRl8zbmFMSHZHbFNaMnFPVXpzY3NzYUp2MG54OUtyeGhraXZ0Ry0wYi1Cd1hTc1Z5RVRMdFJ1ZTBrN05xU3psemtlT3BQUElJcWY5bC10YTAxNHY4QnkwTnZoQVp4c3JPbzFIYTF2WHB3R2VMb0JzdDlR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>2️⃣ Embabel Agent Framework Reaches 1.0</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review: Dropbox has integrated Model Context Protocol (MCP) with its internal knowledge platform, Dash, to surface security design context during AI assisted code reviews. The system retrieves threat models and security requirements for pull requests, helping reviewers validate implementation against design intent. An InfoQ Q&A explores the architecture and key lessons learned. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Embabel Agent Framework Reaches 1.0: Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Microsoft Agent Framework Harness and Hosted Agents Reach General Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -526,7 +523,7 @@ Points: 74
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-06 00:07 UTC_
+_Last updated: 2026-08-06 04:13 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
