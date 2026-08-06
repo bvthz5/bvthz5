@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">What is open-source AI? A software engineering</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">researcher explains</text>
+    <text x="50" y="85" class="title-text">Microsoft Agent Framework Harness and Hosted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Agents Reach General Availability</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">What is open-source AI? A software engineering researcher explains  The Conversation</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft&apos;s</text>
+    <text x="50" y="187" class="body-text">Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the Git...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Article: Runtime-Agnostic AI Workflows: A</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Pattern for Production Durability and Fast Eval...</text>
+    <text x="50" y="85" class="title-text">Azure and Community Guidelines on Choosing</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">between a Skill or a Sub-Agent</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval</text>
-    <text x="50" y="187" class="body-text">Iteration: AI workflows have two needs that trade off directly. Running reliably in producti...</text>
+    <text x="50" y="170" class="body-text">Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent: In a recent Azure</text>
+    <text x="50" y="187" class="body-text">Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Vercel Labs Ships Zero: A Graph-First Language</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Built So Agents Write the Code</text>
+    <text x="50" y="85" class="title-text">JioHotstar Explains the Distributed Engineering</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Behind Personalized Ad Requests at Streaming Scale</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI</text>
-    <text x="50" y="187" class="body-text">rather than human users. It employs unique features like a specific toolchain contract and s...</text>
+    <text x="50" y="170" class="body-text">JioHotstar explains the distributed architecture behind its real-time ad request workflow,</text>
+    <text x="50" y="187" class="body-text">covering ad decisioning, waterfall tiering, pacing algorithms, latency optimization, and ser...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>

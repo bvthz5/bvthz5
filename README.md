@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.54%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.55%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ What is open-source AI? A software engineering researcher explains</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Microsoft Agent Framework Harness and Hosted Agents Reach General Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What is open-source AI? A software engineering researcher explains  The Conversation<br>
+    <b>Concept Overview:</b> Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration: AI workflows have two needs that trade off directly. Running reliably in production requires persisting and distributing every step so it survives crashes, deploys, and restarts. But that same machinery is what makes runs too heavy for the fast, throwaway loop you need to check an LLM's output quality. The properties that buy durability are the ones that kill iteration speed. By Mateus Moury<br>
+    <b>Concept Overview:</b> Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent: In a recent Azure Architecture blog article, Azure lead engineer Kishorekumar Pattabiraman outlines practical criteria for choosing between skills, sub-agents, and other approaches when building AI systems, emphasizing reusability, simplicity, and long-term maintainability. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Vercel Labs Ships Zero: A Graph-First Language Built So Agents Write the Code</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI rather than human users. It employs unique features like a specific toolchain contract and structured error messages. Reaching version 0.3.4, it compiles to native binaries for major operating systems. The language prioritizes size, speed, and agent usability, though it is still in development. By Daniel Curtis<br>
+    <b>Concept Overview:</b> JioHotstar explains the distributed architecture behind its real-time ad request workflow, covering ad decisioning, waterfall tiering, pacing algorithms, latency optimization, and service coordination required to select and deliver personalized advertisements during streaming playback at scale. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **360** | **317** | **8** |
+| **358** | **317** | **8** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-06 10:40 UTC_
+_Last updated: 2026-08-06 12:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
