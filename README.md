@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.28%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-503.54%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Hackathons showed this former wallflower the real-world impact of software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>1️⃣ What is open-source AI? A software engineering researcher explains</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Hackathons showed this former wallflower the real-world impact of software engineering  HTX | Home Team Science and Technology Agency<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQS09DRVIwMG4xZ1NOTHFENWhmeFo1dm1pV3JPaC01azg0d2oyeHZoYzdQUmRtN0NsWUFNdnFqMl9GbkdHV0lqVEc4bDhDMGo2WURveXNGXzdEMFZjN0Y4d0U4VE13UlE1SXF1QXhKUEI3UFRRbTdnaHc4cnltcjI0RGtUNnByOVdwb2ZNSE1CX24xQ3V4OGV6NFQ5aVphOUtMQWlORVNwRGdkUkI1czR4TDhrR1A0Njh1dmZlN2xldGhuaEdWM213TnNQaVVQb1E?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> What is open-source AI? A software engineering researcher explains  The Conversation<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Microsoft Agent Framework Harness and Hosted Agents Reach General Availability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft's Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the GitHub Copilot and Claude Agent SDK connectors, and the orchestration patterns to stable release; the harness and Foundry Hosted Agents have since reached GA. The shift is from an SDK for building agents to a governed platform for running them. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration: AI workflows have two needs that trade off directly. Running reliably in production requires persisting and distributing every step so it survives crashes, deploys, and restarts. But that same machinery is what makes runs too heavy for the fast, throwaway loop you need to check an LLM's output quality. The properties that buy durability are the ones that kill iteration speed. By Mateus Moury<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/ai-workflow-pattern/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Embabel Agent Framework Reaches 1.0</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Vercel Labs Ships Zero: A Graph-First Language Built So Agents Write the Code</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Embabel Agent Framework Reaches 1.0: Embabel has reached its 1.0 release, providing a framework for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain objects. Built on Spring AI, Embabel supports multiple model providers and combines planning with predefined state machines, offering flexibility for agent workflows. By Erik Costlow<br>
+    <b>Concept Overview:</b> Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI rather than human users. It employs unique features like a specific toolchain contract and structured error messages. Reaching version 0.3.4, it compiles to native binaries for major operating systems. The language prioritizes size, speed, and agent usability, though it is still in development. By Daniel Curtis<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,18 +519,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **361** | **317** | **7** |
+| **360** | **317** | **8** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-06 07:40 UTC_
+_Last updated: 2026-08-06 10:40 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/257843481?v=4" width="50" style="border-radius: 50%;" alt="alekzandren"/><br><sub>**alekzandren**</sub>](https://github.com/alekzandren) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/85108775?v=4" width="50" style="border-radius: 50%;" alt="eafirsov"/><br><sub>**eafirsov**</sub>](https://github.com/eafirsov) | [<img src="https://avatars.githubusercontent.com/u/14098375?v=4" width="50" style="border-radius: 50%;" alt="FrBrennan"/><br><sub>**FrBrennan**</sub>](https://github.com/FrBrennan) | [<img src="https://avatars.githubusercontent.com/u/93459737?v=4" width="50" style="border-radius: 50%;" alt="magicdevstar"/><br><sub>**magicdevstar**</sub>](https://github.com/magicdevstar) |
-| [<img src="https://avatars.githubusercontent.com/u/88831350?v=4" width="50" style="border-radius: 50%;" alt="Mattral"/><br><sub>**Mattral**</sub>](https://github.com/Mattral) | [<img src="https://avatars.githubusercontent.com/u/243355600?v=4" width="50" style="border-radius: 50%;" alt="subham-hq"/><br><sub>**subham-hq**</sub>](https://github.com/subham-hq) |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/88831350?v=4" width="50" style="border-radius: 50%;" alt="Mattral"/><br><sub>**Mattral**</sub>](https://github.com/Mattral) | [<img src="https://avatars.githubusercontent.com/u/57155681?v=4" width="50" style="border-radius: 50%;" alt="mvtandas"/><br><sub>**mvtandas**</sub>](https://github.com/mvtandas) | [<img src="https://avatars.githubusercontent.com/u/243355600?v=4" width="50" style="border-radius: 50%;" alt="subham-hq"/><br><sub>**subham-hq**</sub>](https://github.com/subham-hq) |   |   |
 
-**Total: 7**
+**Total: 8**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 

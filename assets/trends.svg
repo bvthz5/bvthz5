@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Hackathons showed this former wallflower the</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">real-world impact of software engineering</text>
+    <text x="50" y="85" class="title-text">What is open-source AI? A software engineering</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">researcher explains</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Hackathons showed this former wallflower the real-world impact of software engineering  HTX |</text>
-    <text x="50" y="187" class="body-text">Home Team Science and Technology Agency</text>
+    <text x="50" y="170" class="body-text">What is open-source AI? A software engineering researcher explains  The Conversation</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Auditing vulnerability vectors, threat mapping, and zero-trust standards.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Hardens platform interfaces and shields user assets from edge vulnerabilities.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Microsoft Agent Framework Harness and Hosted</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Agents Reach General Availability</text>
+    <text x="50" y="85" class="title-text">Article: Runtime-Agnostic AI Workflows: A</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Pattern for Production Durability and Fast Eval...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Microsoft Agent Framework Harness and Hosted Agents Reach General Availability: Microsoft&apos;s</text>
-    <text x="50" y="187" class="body-text">Agent Framework now ships a supported runtime. Build 2026 brought the Agent Harness, the Git...</text>
+    <text x="50" y="170" class="body-text">Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval</text>
+    <text x="50" y="187" class="body-text">Iteration: AI workflows have two needs that trade off directly. Running reliably in producti...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,22 +113,22 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Embabel Agent Framework Reaches 1.0</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8"></text>
+    <text x="50" y="85" class="title-text">Vercel Labs Ships Zero: A Graph-First Language</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Built So Agents Write the Code</text>
     
-    <rect x="50" y="106" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="121" class="badge-text" text-anchor="middle"></text>
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="146" class="body-text">Embabel Agent Framework Reaches 1.0: Embabel has reached its 1.0 release, providing a framework</text>
-    <text x="50" y="163" class="body-text">for AI agents on Java It allows Java and Kotlin developers to define agents as typed domain ...</text>
+    <text x="50" y="170" class="body-text">Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI</text>
+    <text x="50" y="187" class="body-text">rather than human users. It employs unique features like a specific toolchain contract and s...</text>
     
-    <text x="50" y="192" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="209" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
-    <text x="50" y="226" class="body-text"></text>
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="250" class="body-text"></text>
     
-    <text x="50" y="256" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="273" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
-    <text x="50" y="290" class="body-text"></text>
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="314" class="body-text"></text>
   </g>
 
   <!-- Footer control indicators -->
