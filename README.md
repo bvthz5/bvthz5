@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-503.55%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.65%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Special Issue on AI-Native Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures  telecompaper.com<br>
+    <b>Concept Overview:</b> Special Issue on AI-Native Software Engineering  Wiley Online Library<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGNiWVVMRGthdUVKRy1Bd1UtRFVBa0kzY0xsNUo5TG1DMk5zc1NOUlBtRnVpd1ZxbTNKNGNiWEg3T1FmOWVnR1hpZ1I2YndwZkNzSVVkUmFNRl8zbmFMSHZHbFNaMnFPVXpzY3NzYUp2MG54OUtyeGhraXZ0Ry0wYi1Cd1hTc1Z5RVRMdFJ1ZTBrN05xU3psemtlT3BQUElJcWY5bC10YTAxNHY4QnkwTnZoQVp4c3JPbzFIYTF2WHB3R2VMb0JzdDlR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3RoYVAtTU9vMnNYTlhKUHc5dzQxWFBTbmpzNWRwNWdfTDNseWhKNHdhU3VXM1ZwS1lUd0lmT3BUek5ULUZuZ2N0ZVpyQmF0eHFCWUwxUDFBaU9WUFp4djI0NzloR0gyUFZlWFFMMnlDYXozbVhXNWJ6MllFajR3b3BGNHI4SG5WRFZDWg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face: Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop<br>
+    <b>Concept Overview:</b> Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks  India Today<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVpLVmF6Ym1qLW5PNFdadjNTOVNtWjFObTBGbm55SXgtSTg2SThjckxqcVBkY21PUEhsWnlWNWhkUnF4QllWVGZfZkJnYnppMEVMdHlZejVvZGhsLWwtMy03bkpzU3I1V3dxd2xzQWVSQWlSdmhzdG9WRDRxa0J3aUNrR0FwSmQzNjF0Wm4zVmRGSVJXd2xiM3g4QXh3dEJqWEhUNnE5ZHRtM25xNVpyeTctaVVXNndF0gG-AUFVX3lxTE4tZ3IzUkVwQXE3RVFQX1VCN29OQktMalpTZ0RjU0oybXJDaTExZHJKLVMxZExhTXNEQnZUckIwN2FjVUIyVk1kbmF2ZVAzTVljbWtZckpvdUtDNWg5dEgxaEpSYlh6ZktKRDZnd2ZtWS1XaVJZcVRuS0YydHhTbnhBUWlDT1NaNGwwNFEzOXpvZk9Rb3YtSS1QbEp5SFZlWkpfdUViOC1CeEVPVlpJOGl4bkdMRXRkeXJzaVFOS3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Vercel Labs Ships Zero: A Graph-First Language Built So Agents Write the Code</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI rather than human users. It employs unique features like a specific toolchain contract and structured error messages. Reaching version 0.3.4, it compiles to native binaries for major operating systems. The language prioritizes size, speed, and agent usability, though it is still in development. By Daniel Curtis<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality: Why do simple features suddenly require cross-team negotiations? In this article, explore how boundary drift quietly destroys change locality and increases cognitive load across teams. Learn practical sociotechnical strategies - redistributing mechanics, exposing essential policy, and rehearsing exception paths - to restore domain boundaries and enable a truly evolutionary software architecture. By Michael Fischer, Nicholas Lawrence, Monica Karekar<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-06 15:22 UTC_
+_Last updated: 2026-08-07 00:02 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
