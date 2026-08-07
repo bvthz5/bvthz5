@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational value, according to Perforce Software's 2026 Platform Engineering Report. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Rewriting All of Spotify's Code Base, All the Time: Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created "Honk," an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools: Microsoft released a dedicated AI Gateway tier of Azure API Management in public preview, with a control plane built around models, MCP servers and tools rather than APIs. It fronts Foundry, Bedrock, Vertex AI and OpenAI behind one endpoint, with policy cards instead of XML. Architects welcomed the consolidation while questioning where the governance boundary sits. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Concept Overview:</b> Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI: Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-07 18:58 UTC_
+_Last updated: 2026-08-07 19:54 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
