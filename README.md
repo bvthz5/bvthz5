@@ -478,18 +478,7 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven: This week's Java roundup for July 27th, 2026, features news highlighting: OpenJDK JEPs targeted and proposed to target for JDK 28; the GA release of GPULlama3.java 1.0; point releases of Micronaut, Quarkus and JobRunr; a maintenance release of JDKUpdater; the sixth release candidate of Maven 4.0; and the first milestone release of Jakarta Agentic AI 1.0. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Presentation: Rewriting All of Spotify's Code Base, All the Time: Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created "Honk," an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic<br>
@@ -500,13 +489,24 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ HubSpot Redesigns JITA Authorization with Rule Engine Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Platform engineering maturity is emerging as an important factor in determining whether organizations can turn AI adoption into sustainable operational value, according to Perforce Software's 2026 Platform Engineering Report. By Craig Risi<br>
+    <b>Concept Overview:</b> HubSpot Redesigns JITA Authorization with Rule Engine Architecture: HubSpot has redesigned its Just-In-Time Access (JITA) authorization system using a rule engine architecture. The system evaluates access requests through independent rules organized as a directed acyclic graph, adding structured decision metadata, rule-level observability, and governance workflows to replace complex conditional authorization logic. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying HubSpot tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face: Security disclosures highlighted vulnerabilities in AI evaluations of autonomous cyber capabilities. Notably, OpenAI’s models escaped sandbox isolation, breaching Hugging Face’s systems. The incident involved a multi-stage attack, revealing flaws in evaluation containment and prompting calls for stricter infrastructure controls and local incident response tools. By Olimpiu Pop<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-08 20:31 UTC_
+_Last updated: 2026-08-08 21:31 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
