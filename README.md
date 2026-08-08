@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.96%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.97%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,13 +478,13 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Special Issue on AI-Native Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy  University of Virginia Engineering<br>
-    <b>Implementation Use Case:</b> Applying UVA tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZkhPNGlDUEhaRUZEQnlSTUZ0bWhxWGNkWmsxR3c3OGVwMk5NbzVGWWp6VHFlTXAzY3pqZkQyUDIwS2FpeF9BcXhURm5ubzdpa3BtN3dqejNGTldvTTh4Z3FDR0tINGlKY0hPSm5OWmc5VEpzQ3VyRjJaejctbW5aUm5FaDNTbUFKYUlaMVp3UUROaGpJbHBYZm9zZEZpLTlfY21IOEc1bHl6N1AzbDlDaFBNX01qRGxHZFZXQlFrU0dKa0xrdmJnUEcycko0WDNWTld4LXF2NWlubExjZ0FhTUxLQ05DeWtkYmNyMDNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Special Issue on AI-Native Software Engineering  Wiley Online Library<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3RoYVAtTU9vMnNYTlhKUHc5dzQxWFBTbmpzNWRwNWdfTDNseWhKNHdhU3VXM1ZwS1lUd0lmT3BUek5ULUZuZ2N0ZVpyQmF0eHFCWUwxUDFBaU9WUFp4djI0NzloR0gyUFZlWFFMMnlDYXozbVhXNWJ6MllFajR3b3BGNHI4SG5WRFZDWg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -500,13 +500,13 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes: Running AI agents on Kubernetes raises a key question: should each agent get its own Pod? The kagent project argues no—agents are bursty, short-lived, can spawn subagents, and may wait for human approval, making one Pod per agent wasteful. Agent-substrate adds a control plane to schedule logical “Actors” onto long-lived worker Pods. By Mark Silvester<br>
+    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-08 03:26 UTC_
+_Last updated: 2026-08-08 04:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
