@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-504.77%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-504.78%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Rewriting All of Spotify's Code Base, All the Time: Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created "Honk," an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic<br>
-    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real "computer" instead of just ephemeral containers. It leverages Cloudflare isolates for fast serverless execution, making agents cheaper, faster, and more scalable, according to the company. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
+    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AI Is Transforming Incident Response</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Is Transforming Incident Response: Artificial intelligence is rapidly changing how engineering teams respond to production incidents, offering the ability to summarize incident channels, analyze unfamiliar code, suggest remediation steps, generate pull requests, and increasingly assist with diagnosis. By Craig Risi<br>
+    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks  India Today<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVpLVmF6Ym1qLW5PNFdadjNTOVNtWjFObTBGbm55SXgtSTg2SThjckxqcVBkY21PUEhsWnlWNWhkUnF4QllWVGZfZkJnYnppMEVMdHlZejVvZGhsLWwtMy03bkpzU3I1V3dxd2xzQWVSQWlSdmhzdG9WRDRxa0J3aUNrR0FwSmQzNjF0Wm4zVmRGSVJXd2xiM3g4QXh3dEJqWEhUNnE5ZHRtM25xNVpyeTctaVVXNndF0gG-AUFVX3lxTE4tZ3IzUkVwQXE3RVFQX1VCN29OQktMalpTZ0RjU0oybXJDaTExZHJKLVMxZExhTXNEQnZUckIwN2FjVUIyVk1kbmF2ZVAzTVljbWtZckpvdUtDNWg5dEgxaEpSYlh6ZktKRDZnd2ZtWS1XaVJZcVRuS0YydHhTbnhBUWlDT1NaNGwwNFEzOXpvZk9Rb3YtSS1QbEp5SFZlWkpfdUViOC1CeEVPVlpJOGl4bkdMRXRkeXJzaVFOS3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-08 22:29 UTC_
+_Last updated: 2026-08-08 23:29 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
