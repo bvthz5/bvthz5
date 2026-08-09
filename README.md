@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Wiz Discloses CosmosEscape, and Practitioners Debate What Customers Could Have Done: Wiz Research disclosed CosmosEscape, a chain that escaped Azure Cosmos DB's Gremlin sandbox and reached a platform-wide key granting read and write access to every database on the service. Microsoft blocked the entry point within two days but took until July 2026 to remove the key. Practitioners debated shared responsibility and what that rearchitecture actually cost. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Wiz tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cosmosescape-master-key/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes: Running AI agents on Kubernetes raises a key question: should each agent get its own Pod? The kagent project argues no—agents are bursty, short-lived, can spawn subagents, and may wait for human approval, making one Pod per agent wasteful. Agent-substrate adds a control plane to schedule logical “Actors” onto long-lived worker Pods. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Vercel Labs Ships Zero: a Graph-First Language Built So Agents Write the Code</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently introduced Precursor, a client-side behavioral analysis engine that continuously evaluates session interactions, such as mouse movements and keyboard timing, to improve detection of sophisticated bots and AI agents without relying solely on one-time challenges like CAPTCHAs. By Renato Losio<br>
+    <b>Concept Overview:</b> Vercel Labs has introduced Zero, an experimental systems programming language aimed at AI rather than human users. It employs unique features like a specific toolchain contract and structured error messages. Reaching version 0.3.4, it compiles to native binaries for major operating systems. The language prioritizes size, speed, and agent usability, though it is still in development. By Daniel Curtis<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-ships-zero-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Comarch introduces agentic orchestration platform for 5G, FTTH and cloud infrastructures  Telecompaper<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGNiWVVMRGthdUVKRy1Bd1UtRFVBa0kzY0xsNUo5TG1DMk5zc1NOUlBtRnVpd1ZxbTNKNGNiWEg3T1FmOWVnR1hpZ1I2YndwZkNzSVVkUmFNRl8zbmFMSHZHbFNaMnFPVXpzY3NzYUp2MG54OUtyeGhraXZ0Ry0wYi1Cd1hTc1Z5RVRMdFJ1ZTBrN05xU3psemtlT3BQUElJcWY5bC10YTAxNHY4QnkwTnZoQVp4c3JPbzFIYTF2WHB3R2VMb0JzdDlR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **358** | **317** | **9** |
+| **355** | **317** | **9** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-09 20:33 UTC_
+_Last updated: 2026-08-09 21:32 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
