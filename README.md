@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely: As AI commoditizes code output, system comprehension silently decays, creating cognitive debt that threatens safe architectural evolution. This article explores why human understanding must be treated as an essential architectural characteristic, offering actionable strategies, socio-technical metrics, and design checkpoints to preserve intent across modern engineering teams. By Jacobus Meintjes, Narayana Rengaswamy, Paul Katsande, Sureshbabu Bikki<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Buildpacks Move the Container Hardening Control Point Away From the Dockerfile</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  adtmag.com<br>
+    <b>Concept Overview:</b> Buildpacks Move the Container Hardening Control Point Away From the Dockerfile: Cloud Native Buildpacks, which graduated within the CNCF in July 2026, move base image choice out of per-service Dockerfiles into a single builder owned by platform engineering, enabling fleet-wide patching. BellSoft's hardened Paketo builder is the latest sign that vendors now treat the builder, not the Dockerfile, as the container security control point. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/buildpacks-dockerfile-patching/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI: Dumanshu Goyal discusses optimizing data layers for low-latency workloads like AI feature stores. Drawing lessons from NASA's Space Shuttle, he explains how proxy architectures introduce hidden CPU costs, elevated tail latencies, and blast-radius risks. He demonstrates how direct-access Valkey architectures achieve microsecond latency, improve resilience, and slash infrastructure costs. By Dumanshu Goyal<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-11 21:49 UTC_
+_Last updated: 2026-08-11 22:42 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
