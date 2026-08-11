@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-504.81%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-504.83%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
     <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
     <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Leveraging Adversary Emulation for GenAI Red Teaming</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Leveraging Adversary Emulation for GenAI Red Teaming: Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS. He explains how engineering leaders and architects can bridge traditional cloud security with MITRE ATLAS frameworks to proactively identify vulnerabilities, implement guardrails, and secure production AI applications. By Kennedy Torkura<br>
+    <b>Concept Overview:</b> Presentation: Rewriting All of Spotify's Code Base, All the Time: Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created "Honk," an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **354** | **308** | **1** |
+| **354** | **308** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-11 16:05 UTC_
+_Last updated: 2026-08-11 17:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50" style="border-radius: 50%;" alt="giladfuchs"/><br><sub>**giladfuchs**</sub>](https://github.com/giladfuchs) |   |   |   |
 
-**Total: 1**
+**Total: 2**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
