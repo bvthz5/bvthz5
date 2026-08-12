@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-504.97%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-504.99%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ AI Reshapes Software Engineering as Autonomous Coding Tools Raise New Security Concerns</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> AI Reshapes Software Engineering as Autonomous Coding Tools Raise New Security Concerns  The Tribune<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeThtVEFOOVdsVFpvVjgteDlXa1R0VWRDSW5RNmVKR2R4d2stcmJzWTlGVTFNdUc2QVQxa2V4QkpXMnNGNHM4eG8zN0t5S1k5bXRLTEE2VWZPLTB2T2FYZFpRUzBoSkpWX0JuckhvNnVvcXZWei1MWTRtc0EwUGlVbTBoc2hFSjhVaktSR3pwek9tZzBZamVJRld6TUI1d2lVbUZkaDd5VUQ1bGVBSks3b3BOTFI4aVZFNW1rUGJZYWw4ZlRmaFIxWkpvSno1d2xrcmJLNNIB1AFBVV95cUxOeThtVEFOOVdsVFpvVjgteDlXa1R0VWRDSW5RNmVKR2R4d2stcmJzWTlGVTFNdUc2QVQxa2V4QkpXMnNGNHM4eG8zN0t5S1k5bXRLTEE2VWZPLTB2T2FYZFpRUzBoSkpWX0JuckhvNnVvcXZWei1MWTRtc0EwUGlVbTBoc2hFSjhVaktSR3pwek9tZzBZamVJRld6TUI1d2lVbUZkaDd5VUQ1bGVBSks3b3BOTFI4aVZFNW1rUGJZYWw4ZlRmaFIxWkpvSno1d2xrcmJLNA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ How Netflix Scaled Its Real-Time Service Map</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> How Netflix Scaled Its Real-Time Service Map: Netflix has described how it redesigned the streaming pipeline behind Service Topology, its real-time service dependencies map, to support production scale. The system uses three stages to separate intermediary resolution from enrichment and persistence, propagates backpressure to Kafka rather than dropping records, and uses server-sent events instead of gRPC for high-volume internal transfers. By Eran Stiller<br>
+    <b>Implementation Use Case:</b> Applying How tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ TraceLink Builds on Transformative 2025 to Scale Agentic Orchestration Across the Global Life Sciences Supply Chain in 2026 (PR Newswire)</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> JetBrains has described how it began centralising AI usage after development-related spending increased roughly tenfold in six months. Rather than restricting engineers to a small set of approved tools, the company built a shared access and accounting layer intended to preserve tool choice while giving teams greater visibility and control over consumption. By Matt Foster<br>
+    <b>Concept Overview:</b> TraceLink Builds on Transformative 2025 to Scale Agentic Orchestration Across the Global Life Sciences Supply Chain in 2026 (PR Newswire)  Aktiellt<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI: David Chisnall discusses how the CHERI hardware architecture redefines pointer safety to solve isolation and sharing challenges. He explains how CHERI enables spatial and temporal memory safety for C/C++, scales down to microcontrollers with CHERIoT, and replaces costly OS-level RPC mechanisms with lightweight, auditable compartmentalization - all without requiring massive codebase rewrites. By David Chisnall<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xajdjeVhqUHM2Y0JxelNUaXZDYmJqNnVyOUtiR1g1Y0hVQS16OEVVVEhqLUpPTjBSZzRkcjJwWHVvUFJMOXdDYWlMTGdESHUwX21TVGVIVkRUYUNKcXVV?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-12 16:03 UTC_
+_Last updated: 2026-08-12 17:57 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
