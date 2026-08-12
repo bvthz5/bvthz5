@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Pods as Workers, Not Agents: Rethinking the Deployment Unit for AI Agents on Kubernetes: Running AI agents on Kubernetes raises a key question: should each agent get its own Pod? The kagent project argues no—agents are bursty, short-lived, can spawn subagents, and may wait for human approval, making one Pod per agent wasteful. Agent-substrate adds a control plane to schedule logical “Actors” onto long-lived worker Pods. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy  engineering.virginia.edu<br>
+    <b>Implementation Use Case:</b> Applying UVA tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZkhPNGlDUEhaRUZEQnlSTUZ0bWhxWGNkWmsxR3c3OGVwMk5NbzVGWWp6VHFlTXAzY3pqZkQyUDIwS2FpeF9BcXhURm5ubzdpa3BtN3dqejNGTldvTTh4Z3FDR0tINGlKY0hPSm5OWmc5VEpzQ3VyRjJaejctbW5aUm5FaDNTbUFKYUlaMVp3UUROaGpJbHBYZm9zZEZpLTlfY21IOEc1bHl6N1AzbDlDaFBNX01qRGxHZFZXQlFrU0dKa0xrdmJnUEcycko0WDNWTld4LXF2NWlubExjZ0FhTUxLQ05DeWtkYmNyMDNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
     <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
     <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  cacm.acm.org<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ JetBrains Details Its First Steps to Bring Rapidly Growing AI Spend Under Control</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> JetBrains has described how it began centralising AI usage after development-related spending increased roughly tenfold in six months. Rather than restricting engineers to a small set of approved tools, the company built a shared access and accounting layer intended to preserve tool choice while giving teams greater visibility and control over consumption. By Matt Foster<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **356** | **308** | **2** |
+| **355** | **308** | **3** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-12 02:00 UTC_
+_Last updated: 2026-08-12 04:47 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50" style="border-radius: 50%;" alt="giladfuchs"/><br><sub>**giladfuchs**</sub>](https://github.com/giladfuchs) |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/149141354?v=4" width="50" style="border-radius: 50%;" alt="AneeshVRao"/><br><sub>**AneeshVRao**</sub>](https://github.com/AneeshVRao) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50" style="border-radius: 50%;" alt="giladfuchs"/><br><sub>**giladfuchs**</sub>](https://github.com/giladfuchs) |   |   |
 
-**Total: 2**
+**Total: 3**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
