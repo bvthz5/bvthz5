@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-504.87%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-504.88%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ How Netflix Scaled its Real-Time Service Map</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> How Netflix Scaled its Real-Time Service Map: Netflix has described how it redesigned the streaming pipeline behind Service Topology, its real-time service dependencies map, to support production scale. The system uses three stages to separate intermediary resolution from enrichment and persistence, propagates backpressure to Kafka rather than dropping records, and uses server-sent events instead of gRPC for high-volume internal transfers. By Eran Stiller<br>
+    <b>Implementation Use Case:</b> Applying How tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again: The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent traffic without parsing JSON. Reaction split between developers calling it a rediscovery of REST and those arguing the standard itself was always the point. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake: Spotify introduced  external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
     <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Vercel Launches v0 API for Headless App Building</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Vercel Launches v0 API for Headless App Building: Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls. By Daniel Dominguez<br>
-    <b>Implementation Use Case:</b> Applying Vercel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  VentureBeat<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjZkQ28xQlVGbnV5TUl0MnZBZG85dDhueUlqbU9Nb3dscGpzdUJ2S2dlM1JFRHhYUUJxdGhWSG5uQWdYU2o0X2E3OUZJckVHbU1oREJycjNaazNsNGxHbG9xSXctWW1YTHJ4dkpHQlhYc2JHSUNhWVd6RTBGWWpiXy1odXlvTWpkSjlpaHFKU1BRN1gtOE1hb1JqX3FCX1d3T290WVZ4T2tobXlhWG45MzJFVWdyS053Tlpzamw2UGZpRTd3WnRqSTJBTXMyY1FpU1ZuME1LNVQ4X1FzVVE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-13 22:42 UTC_
+_Last updated: 2026-08-13 23:41 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
