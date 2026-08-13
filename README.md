@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-504.72%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-504.73%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,18 +478,7 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ CloudFlare Previews Automatic WebMCP Support for Web Pages</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch. This allows browser-based AI agents to interact with unmodified web pages through structured tools instead of scraping or guessing, keeping human traffic and control on the original site. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Presentation: Rewriting All of Spotify's Code Base, All the Time</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Presentation: Rewriting All of Spotify's Code Base, All the Time: Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created "Honk," an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories. By Jo Kelly-Fenton, Aleksandar Mitic<br>
@@ -500,13 +489,24 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Beyond Consensus: the Fragmentation of AI Policy across the Linux Ecosystem</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Software Engineering At The Tipping Point Georgia (9WbynTt6Ox)</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond Consensus: the Fragmentation of AI Policy across the Linux Ecosystem: The AI policies across the Linux ecosystem are very heterogeneous, ranging from the GCC’s restrictiveness, the Linux kernel’s pragmatism, to the more open disclosure-based utility model of Kubernetes' landscape. From core infrastructure to high-level orchestration, these distinct approaches highlight a shared commitment: ensuring the human maintainer remains the indispensable guardian of the code. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Software Engineering At The Tipping Point Georgia (9WbynTt6Ox)  Mshale<br>
+    <b>Implementation Use Case:</b> Applying Software tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVkp0Q0gyTU5oVTRBQU1Pa3gwZVJwbnNNYlBZYTQycGlDWGdNdHl0VTVOaGExLTFyWkcxTHZvSDB1eGJDX3dSc28xeEszV3B6R1Q4bURoeTJKa00?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-13 08:21 UTC_
+_Last updated: 2026-08-13 10:07 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
