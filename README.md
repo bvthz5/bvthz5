@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake: Spotify introduced  external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Vercel Launches v0 API for Headless App Building</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Vercel Launches v0 API for Headless App Building: Vercel has made the v0 API generally available, enabling developers and AI agents to programmatically generate, iterate on, preview, and deploy applications through API calls. By Daniel Dominguez<br>
-    <b>Implementation Use Case:</b> Applying Vercel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again: The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent traffic without parsing JSON. Reaction split between developers calling it a rediscovery of REST and those arguing the standard itself was always the point. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Remcom updates XFdtd electromagnetic simulation software</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Buildpacks Move the Container Hardening Control Point Away from the Dockerfile</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Remcom updates XFdtd electromagnetic simulation software  Engineering.com<br>
-    <b>Implementation Use Case:</b> Applying Remcom tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0NucThYVzVqTTlrN0JZak4xX05DQ1kyUTd3aHdJdTFoVExNTkdEZ09oVVF1d0xVOVB5ODV5NVJOV1hKSmxSUklTalI2YW1CUXB1eVRhQTVsMjRKT2M4YjljRlZoQmpReklfYm5tT2VOYzZkLXF4dEVEam9FeXgtb3NscFhPY3V3MmJ1cDZ3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Buildpacks Move the Container Hardening Control Point Away from the Dockerfile: Cloud Native Buildpacks, which graduated within the CNCF in July 2026, move base image choice out of per-service Dockerfiles into a single builder owned by platform engineering, enabling fleet-wide patching. BellSoft's hardened Paketo builder is the latest sign that vendors now treat the builder, not the Dockerfile, as the container security control point. By Mark Silvester<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/buildpacks-dockerfile-patching/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-14 16:54 UTC_
+_Last updated: 2026-08-14 17:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
