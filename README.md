@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.27%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.28%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,41 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Show HN: Mole – Deep research agent for your terminal</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ JetBrains Details its First Steps to Bring Rapidly Growing AI Spend under Control</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Show HN: Mole – Deep research agent for your terminal: Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.1. Never spend more than you budgeted (measured overshoot is 0%).
-2. Every claim carries a source
-3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)Works with most LLMs, including coding agents, subscriptions, local models, etc.It's free and open source, would appreciate all feedback!
-
-Comments URL: https://news.ycombinator.com/item?id=49303046
-Points: 25
-# Comments: 6<br>
+    <b>Concept Overview:</b> JetBrains has described how it began centralising AI usage after development-related spending increased roughly tenfold in six months. Rather than restricting engineers to a small set of approved tools, the company built a shared access and accounting layer intended to preserve tool choice while giving teams greater visibility and control over consumption. By Matt Foster<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://github.com/lajosdeme/mole" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Buildpacks Move the Container Hardening Control Point Away from the Dockerfile</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: Leveraging Adversary Emulation for GenAI Red Teaming</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Buildpacks Move the Container Hardening Control Point Away from the Dockerfile: Cloud Native Buildpacks, which graduated within the CNCF in July 2026, move base image choice out of per-service Dockerfiles into a single builder owned by platform engineering, enabling fleet-wide patching. BellSoft's hardened Paketo builder is the latest sign that vendors now treat the builder, not the Dockerfile, as the container security control point. By Mark Silvester<br>
+    <b>Concept Overview:</b> Presentation: Leveraging Adversary Emulation for GenAI Red Teaming: Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS. He explains how engineering leaders and architects can bridge traditional cloud security with MITRE ATLAS frameworks to proactively identify vulnerabilities, implement guardrails, and secure production AI applications. By Kennedy Torkura<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/buildpacks-dockerfile-patching/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/emulation-genai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Beyond Consensus: the Fragmentation of AI Policy across the Linux Ecosystem</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond Consensus: the Fragmentation of AI Policy across the Linux Ecosystem: The AI policies across the Linux ecosystem are very heterogeneous, ranging from the GCC’s restrictiveness, the Linux kernel’s pragmatism, to the more open disclosure-based utility model of Kubernetes' landscape. From core infrastructure to high-level orchestration, these distinct approaches highlight a shared commitment: ensuring the human maintainer remains the indispensable guardian of the code. By Olimpiu Pop<br>
+    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -529,7 +523,7 @@ Points: 25
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-14 21:25 UTC_
+_Last updated: 2026-08-14 22:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
