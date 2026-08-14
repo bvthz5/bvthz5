@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">IBM and Red Hat Expand Lightwell to Strengthen</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Trust and Governance for AI-Era Open Source</text>
+    <text x="50" y="85" class="title-text">Why Go is an Ideal Language for AI-Assisted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings</text>
-    <text x="50" y="187" class="body-text">designed to help organizations establish trusted, verifiable software supply chains for the ...</text>
+    <text x="50" y="170" class="body-text">Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Agentic orchestration: Enterprise AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">organizations know how to govern agents but sti...</text>
+    <text x="50" y="85" class="title-text">Buildpacks Move the Container Hardening Control</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Point Away from the Dockerfile</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Agentic orchestration: Enterprise AI organizations know how to govern agents but still can&apos;t</text>
-    <text x="50" y="187" class="body-text">meter what they cost  RamaOnHealthcare</text>
+    <text x="50" y="170" class="body-text">Buildpacks Move the Container Hardening Control Point Away from the Dockerfile: Cloud Native</text>
+    <text x="50" y="187" class="body-text">Buildpacks, which graduated within the CNCF in July 2026, move base image choice out of per-...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AI Reshapes Software Engineering as Autonomous</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Tools Raise New Security Concerns</text>
+    <text x="50" y="85" class="title-text">IBM and Red Hat Expand Lightwell to Strengthen</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Trust and Governance for AI-Era Open Source</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI Reshapes Software Engineering as Autonomous Coding Tools Raise New Security Concerns  Press</text>
-    <text x="50" y="187" class="body-text">Trust of India</text>
+    <text x="50" y="170" class="body-text">IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings</text>
+    <text x="50" y="187" class="body-text">designed to help organizations establish trusted, verifiable software supply chains for the ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
