@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AI Reshapes Software Engineering as Autonomous Coding Tools Raise New Security Concerns</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Reshapes Software Engineering as Autonomous Coding Tools Raise New Security Concerns  Press Trust of India<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNS3BEdHpST0ZZa2ZfTHdSUDExajZCT1FMWWFhd0RxUllobDFyWGFQODl1bk9OQVJrT0djYVBiZTBLTDNGZWRFZ3JpSE1CckV4ZzQyZWprOEI1UEVqSWZ4SGhwcVFTNV82MjFpWUNnd29GbkhzVmNOdkxMVzg3Z1IyMUlKSjhYYl9ZOFJqY0lOSm02b1B1T1NLWWlTWlJxalRtOGxJNEMtXzRNUEsxakRhUi1pMWpsQmNjVDhzVjNnX0xzYlk1WXhJOGFueTFwenc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare has migrated cdnjs, its open source CDN for JavaScript and CSS libraries, to its Developer Platform. The new architecture uses Workers, R2, KV, Workflows, Queues, Durable Objects and Containers, consolidating publishing and delivery infrastructure while preserving package contents, URLs and SRI hashes at a scale of 9 billion requests per day. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real "computer" instead of just ephemeral containers. It leverages Cloudflare isolates for fast serverless execution, making agents cheaper, faster, and more scalable, according to the company. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  RamaOnHealthcare<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREpOV0lpVDJpY1ctbkxNVjJTRWc1WlhndGZhNkw4c0NFWmNVYnNPd2JCVDdadUJtd0gtWUJVaVp3dklsWTZhQXhrNUtwY3dEeFFJRVNCTzJYRkpHZWRBaDI3bDJ3eEpEZkk2eXRjdC1JMEtLSy00UFNJTmRxZ3BBRjVXZ0N2b1EyZUJxc1FCTmRKcGZZdHh6c3c4Y3J1RG5DdWo4aVBxQ0F4YkVTUVBHbkFwaFFCZFYzd2UtbUk5Sll3NkxtSUIwZ0lFeGJtVkZ0MjVVX2lSQjk?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy: This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JDK 28; point releases of A2A Java SDK, Apache Camel and Gradle; a maintenance release of GlassFish; the fifth milestone release of Groovy 8.0; and a follow-up of the JetBrains TeamCity CVE. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-14 14:52 UTC_
+_Last updated: 2026-08-14 15:52 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
