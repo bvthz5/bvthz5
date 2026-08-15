@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.33%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.34%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Presentation: Producing the World's Cheapest Tokens: A How-to Guide</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
+    <b>Concept Overview:</b> Presentation: Producing the World's Cheapest Tokens: A How-to Guide: Meryem Arik discusses strategies for designing low-cost LLM inference architectures for high-volume, non-real-time workloads. She explains how software architects and engineering leaders can achieve order-of-magnitude cost reductions by making critical trade-offs across hardware, inference runtimes, speculative decoding, and smart queue reordering. By Meryem Arik<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/ai-token-price/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ CloudFlare Previews Automatic WebMCP Support for Web Pages</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare announced a developer preview that lets any website enable a WebMCP (Web Model Context Protocol) interface with a single dashboard switch. This allows browser-based AI agents to interact with unmodified web pages through structured tools instead of scraping or guessing, keeping human traffic and control on the original site. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One  Towards Data Science<br>
     <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Remcom updates XFdtd electromagnetic simulation software</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Remcom updates XFdtd electromagnetic simulation software  Engineering.com<br>
-    <b>Implementation Use Case:</b> Applying Remcom tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0NucThYVzVqTTlrN0JZak4xX05DQ1kyUTd3aHdJdTFoVExNTkdEZ09oVVF1d0xVOVB5ODV5NVJOV1hKSmxSUklTalI2YW1CUXB1eVRhQTVsMjRKT2M4YjljRlZoQmpReklfYm5tT2VOYzZkLXF4dEVEam9FeXgtb3NscFhPY3V3MmJ1cDZ3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXJCOGpPMmtvVW4yMzlNR09Kd3lvdHZETHhtdFZ4bl9rTUZUM1ZHYXQtZEFnaFpCNUFOTHRKV0dqT2w5bTZPSWtFZkZLRXBWUFlQN0hEY3VEVE9GcnlKZXpYZ2RwZERYaExWUHRta0thUzBJcWJ5N0N2djhMdldYeUpZSTJkekRGVHFucmVjX1B1M0FFM1VMZ2J1UUZYMm8zbnV6ZmF0eHNFaEdFMXV0NGdGcnkxcTZ3d0ZR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **359** | **308** | **4** |
+| **360** | **308** | **4** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-15 07:31 UTC_
+_Last updated: 2026-08-15 08:29 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
