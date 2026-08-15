@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  RamaOnHealthcare<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREpOV0lpVDJpY1ctbkxNVjJTRWc1WlhndGZhNkw4c0NFWmNVYnNPd2JCVDdadUJtd0gtWUJVaVp3dklsWTZhQXhrNUtwY3dEeFFJRVNCTzJYRkpHZWRBaDI3bDJ3eEpEZkk2eXRjdC1JMEtLSy00UFNJTmRxZ3BBRjVXZ0N2b1EyZUJxc1FCTmRKcGZZdHh6c3c4Y3J1RG5DdWo4aVBxQ0F4YkVTUVBHbkFwaFFCZFYzd2UtbUk5Sll3NkxtSUIwZ0lFeGJtVkZ0MjVVX2lSQjk?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare has migrated cdnjs, its open source CDN for JavaScript and CSS libraries, to its Developer Platform. The new architecture uses Workers, R2, KV, Workflows, Queues, Durable Objects and Containers, consolidating publishing and delivery infrastructure while preserving package contents, URLs and SRI hashes at a scale of 9 billion requests per day. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ MCP Goes Stateless, and Developers Ask Whether That Just Makes it an API Again</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ MCP Goes Stateless, and Developers Ask Whether That Just Makes it an API Again</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> MCP Goes Stateless, and Developers Ask Whether That Just Makes it an API Again: The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent traffic without parsing JSON. Reaction split between developers calling it a rediscovery of REST and those arguing the standard itself was always the point. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering: Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts. They explain practical context engineering fixes, including lazy-loaded skills, versioned context artifacts, externalized memory banks, and LLM-as-a-judge evals. Software architects & engineering leaders will learn how to turn raw markdown files into reliable agentic workflows. By Patrick Debois, Baruch Sadogursky<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-15 04:32 UTC_
+_Last updated: 2026-08-15 05:25 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
