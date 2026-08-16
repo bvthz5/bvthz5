@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.52%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.06%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls: AWS has open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules can reason about an agent's prior tool calls rather than one request in isolation. It covers approvals, rate limits and running totals, ships under Apache 2.0, and is supported in AgentCore Policy, though the reference interpreter is not production-ready. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake: Spotify introduced  external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  RamaOnHealthcare<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREpOV0lpVDJpY1ctbkxNVjJTRWc1WlhndGZhNkw4c0NFWmNVYnNPd2JCVDdadUJtd0gtWUJVaVp3dklsWTZhQXhrNUtwY3dEeFFJRVNCTzJYRkpHZWRBaDI3bDJ3eEpEZkk2eXRjdC1JMEtLSy00UFNJTmRxZ3BBRjVXZ0N2b1EyZUJxc1FCTmRKcGZZdHh6c3c4Y3J1RG5DdWo4aVBxQ0F4YkVTUVBHbkFwaFFCZFYzd2UtbUk5Sll3NkxtSUIwZ0lFeGJtVkZ0MjVVX2lSQjk?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  VentureBeat<br>
+    <b>Concept Overview:</b> IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings designed to help organizations establish trusted, verifiable software supply chains for the age of AI-assisted software development. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjZkQ28xQlVGbnV5TUl0MnZBZG85dDhueUlqbU9Nb3dscGpzdUJ2S2dlM1JFRHhYUUJxdGhWSG5uQWdYU2o0X2E3OUZJckVHbU1oREJycjNaazNsNGxHbG9xSXctWW1YTHJ4dkpHQlhYc2JHSUNhWVd6RTBGWWpiXy1odXlvTWpkSjlpaHFKU1BRN1gtOE1hb1JqX3FCX1d3T290WVZ4T2tobXlhWG45MzJFVWdyS053Tlpzamw2UGZpRTd3WnRqSTJBTXMyY1FpU1ZuME1LNVQ4X1FzVVE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-16 13:32 UTC_
+_Last updated: 2026-08-16 14:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
