@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.10%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.11%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost  ramaonhealthcare.com<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREpOV0lpVDJpY1ctbkxNVjJTRWc1WlhndGZhNkw4c0NFWmNVYnNPd2JCVDdadUJtd0gtWUJVaVp3dklsWTZhQXhrNUtwY3dEeFFJRVNCTzJYRkpHZWRBaDI3bDJ3eEpEZkk2eXRjdC1JMEtLSy00UFNJTmRxZ3BBRjVXZ0N2b1EyZUJxc1FCTmRKcGZZdHh6c3c4Y3J1RG5DdWo4aVBxQ0F4YkVTUVBHbkFwaFFCZFYzd2UtbUk5Sll3NkxtSUIwZ0lFeGJtVkZ0MjVVX2lSQjk?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake: Spotify introduced  external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ MCP Goes Stateless, and Developers Ask Whether That Just Makes it an API Again</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> MCP Goes Stateless, and Developers Ask Whether That Just Makes it an API Again: The MCP 2026-07-28 specification removes the initialize handshake and session header, and adds required method and tool-name headers so gateways can route agent traffic without parsing JSON. Reaction split between developers calling it a rediscovery of REST and those arguing the standard itself was always the point. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy: This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JDK 28; point releases of A2A Java SDK, Apache Camel and Gradle; a maintenance release of GlassFish; the fifth milestone release of Groovy 8.0; and a follow-up of the JetBrains TeamCity CVE. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags behind</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  community.nasscom.in<br>
+    <b>Concept Overview:</b> LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags behind: Expedia Group has open-sourced mockql-rs, a Rust CLI that fills @mock-annotated GraphQL fields with LLM-generated data at request time. It follows Airbnb's @generateMock in April and a GraphQL Foundation RFC opened in February. All three solve the same problem with different architectures, and two use the same directive name with incompatible semantics. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-16 21:20 UTC_
+_Last updated: 2026-08-16 22:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
