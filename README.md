@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.46%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.48%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop  Towards Data Science<br>
+    <b>Implementation Use Case:</b> Applying RAG tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWhJVHZqNUtCR19fWVAwR25lZGE4ZzFZWS1jeHhoRVFTVHlHM3cwd0hfS2w2WHRwcG52c2Zub011YzBJQS11SEFRZE1nZzFsZ19mdXBhQ2RmWHJpQ3pPZm5NWDVHM3VQelVSUE1scVluZmRNRDJwTW1oQ21UMmpyYkctdkVkLXdVSGg0R0xnNDFhbV9PM0t4bTBDU2YxeG54Y3V6elM4Q3c4MGNhdEFiblNqRzYweXdHNE9XNnpfcmM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Stripe Uses Graph Search and State Machines to Automate Database Remediation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>2️⃣ How Netflix Scaled its Real-Time Service Map</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Stripe Uses Graph Search and State Machines to Automate Database Remediation: The engineering team at Stripe recently described how they automated database incident recovery by modeling their global infrastructure as a graph. Using graph search algorithms together with state machines, the team computes and executes remediation plans automatically. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> How Netflix Scaled its Real-Time Service Map: Netflix has described how it redesigned the streaming pipeline behind Service Topology, its real-time service dependencies map, to support production scale. The system uses three stages to separate intermediary resolution from enrichment and persistence, propagates backpressure to Kafka rather than dropping records, and uses server-sent events instead of gRPC for high-volume internal transfers. By Eran Stiller<br>
+    <b>Implementation Use Case:</b> Applying How tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ IBM and Red Hat Expand Lightwell to Strengthen Trust and Governance for AI-Era Open Source</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> IBM and Red Hat have announced an expansion of Lightwell, introducing new commercial offerings designed to help organizations establish trusted, verifiable software supply chains for the age of AI-assisted software development. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy: This week's Java roundup for August 3rd, 2026, features news highlighting: JEP 535, Shenandoah GC: Generational Mode by Default, targeted for JDK 28; point releases of A2A Java SDK, Apache Camel and Gradle; a maintenance release of GlassFish; the fifth milestone release of Groovy 8.0; and a follow-up of the JetBrains TeamCity CVE. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-16 05:28 UTC_
+_Last updated: 2026-08-16 06:40 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
