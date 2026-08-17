@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">AWS Open-Sources Dogwood, Extending Cedar to</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Govern Sequences of Agent Tool Calls</text>
+    <text x="50" y="85" class="title-text">Why Go is an Ideal Language for AI-Assisted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls: AWS has</text>
-    <text x="50" y="187" class="body-text">open-sourced Dogwood, a policy language extending Cedar with temporal conditions so rules ca...</text>
+    <text x="50" y="170" class="body-text">Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Meta’s Muse Code Pushes AI Deeper into Software</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering</text>
+    <text x="50" y="85" class="title-text">Java News Roundup: Simple JSON API, GlassFish,</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Jakarta EE, JNoSQL, Open Liberty, LangChain4j</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j:</text>
+    <text x="50" y="187" class="body-text">This week&apos;s Java roundup for August 10th, 2026, features news highlighting: Simple JSON API ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Why Go is an Ideal Language for AI-Assisted</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
+    <text x="50" y="85" class="title-text">Grab Cuts Mechanical Analytics Work From 44% to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">30% with AI Agents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents: Grab is using AI agents to</text>
+    <text x="50" y="187" class="body-text">automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
