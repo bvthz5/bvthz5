@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.68%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.70%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSi1mZXpEZ2NlZWVvbThkNEt4T2o5VFprZnF4WE5KUnFyLTBCcmY2ZGNYTzdzOEJ6UFRDcWI4NENsWTNFZ2p6bEJiR1RrTmNvVGhRSWdLMkV0cWZTMC1manBjNkw5S3NwQWU3cWVDcUFzNVR5c0UzYm12VDRmU0xJN3BVVmM4X1Z1dGlYMGE3a0dQY1hBeEF2OXlrSkZER1dXUm1DTjNpNXBud1BKOXo0dGZNWlllOGNrRlhMWENhY00?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch  O'Reilly Media<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0hUR3BGQzJqWVRpSXZJQUVHVkFxRWxacmxvWWdIZlVRT3ZORTNXcm11VVFzYXI5MkxoMUFLc3Q4LWV0Q3A1S3ZaSTllUG5Va010dzJnZlE4WGR1YXpSUWxWeUhiTGl1bFc4eXFaNWtWbjA0RURCMGt2SHIwcVdXbnhOcWswMkVIbHRIR0xBVjlZaXdNdF9PQ09NYmEtS09ONlU2bGM2MnBuMWpqdFFxM0F2aEJmOTA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ DEV3LOP, a Custom Software Engineering Firm, Announces the Launch of Its Colorful New 'Texas Vibes' Company Logo</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> DEV3LOP, a Custom Software Engineering Firm, Announces the Launch of Its Colorful New 'Texas Vibes' Company Logo  ACCESS Newswire<br>
+    <b>Implementation Use Case:</b> Applying DEV3LOP, tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa2RWYmFDQjVWclBUYVd6U0FnWFRoZDVUZ3ROQ1BRcURVcTRGN2NSZ2NyaklIVHdmRWYzamJvQmZMVUVCd1VNUVB4a0tMRXVXMzY4RHM3T1ptdEV5aTV6Q25jX2pXTlJtWlhkcTJZcGg5WXEwLTZKNHNWdWJaUHJhZUdkOURtNzFHMGtFTko0aDV5U1g0aG1aMzRTVHM4NVd0NW9BSWFUUXNLWlVDeGNMV0FCcV9MLWhCNEd2NjBKU1JMZTJDeUZDNlpZRDc3TFkyclJnSlVqQjBiVDNQcmhtUnRzbw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents: Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June. Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-18 22:24 UTC_
+_Last updated: 2026-08-18 23:22 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
