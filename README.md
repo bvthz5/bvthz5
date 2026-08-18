@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Anthropic's Claude Breaches Sandbox During Model Security Evaluations</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution: Netflix migrated most of its batch workloads onto Kueue, an open-source cloud-native batch job execution system that has outgrown its homegrown solution over the years. The company mapped the capabilities previously created in-house to Kueue’s functionality and also benefited from new features that would have been costly to incorporate into its homegrown solution. By Rafał Gancarz<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Anthropic's Claude Breaches Sandbox During Model Security Evaluations: Anthropic conducted an audit of 141006 evaluation runs after OpenAI's sandbox escape disclosure. The review identified three incidents where Claude models accessed the internet due to misconfigurations. These incidents involved unauthorised attacks on live targets. Anthropic has suspended offensive evaluations and plans to enhance security measures and collaborate with external auditors. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/claude-sandox-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently introduced Cache Response Rules, a rules engine that operates after an origin server responds but before content is written to Cloudflare's cache. Previously, Cache Rules operated only on request attributes. Cache Response Rules add a response phase that evaluates origin responses before they are cached. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-cache-rules/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents: Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June. Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Cloudflare Turns CI Pipelines into TypeScript Workflows</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>3️⃣ Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has released cloudflare/ci, a CI SDK that defines pipelines in TypeScript on top of Cloudflare Workflows, giving each step durable retries and replay, concurrent steps by default and Sandbox snapshot caching. It targets the Workers runtime and depends on Artifacts, still in private beta, so the transferable lesson is the durable-step model rather than a drop-in CI replacement. By Mark Silvester<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ci-code-workflows/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spotify Builds External Index to Enable Low Latency Point Queries on its Data Lake: Spotify introduced  external indexing architecture for Apache Parquet data lakes that enables low-latency point queries without replicating datasets into operational databases. The approach maps lookup keys to Parquet files and row locations, allowing targeted reads from cloud object storage while supporting analytics, machine learning, AI applications, and online services from the same datasets. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **363** | **308** | **5** |
+| **361** | **308** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-18 08:38 UTC_
+_Last updated: 2026-08-18 09:34 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
