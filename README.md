@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation: Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser. It assists backend developers and site reliability engineers in understanding SQL and the dynamics of kernel execution. The project is available on GitHub and aims to enhance understanding of database architecture through interactive elements. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics: WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts. Meta's architecture keeps message content on the device while using confidential computing, Oblivious HTTP, differential privacy, and model transparency to measure performance and protect model delivery. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Whatsapp tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs, and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn traces are not lossless and payloads may be truncated. Payload recording defaults differ by framework, and from October 1, 2026 every span counts as a billable event. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare has migrated cdnjs, its open source CDN for JavaScript and CSS libraries, to its Developer Platform. The new architecture uses Workers, R2, KV, Workflows, Queues, Durable Objects and Containers, consolidating publishing and delivery infrastructure while preserving package contents, URLs and SRI hashes at a scale of 9 billion requests per day. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-19 22:26 UTC_
+_Last updated: 2026-08-19 23:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
