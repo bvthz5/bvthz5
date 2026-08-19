@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.76%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.78%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,38 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Show HN: Interactive, animated architecture of any HuggingFace models</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Netflix Open-Sources Agentic Workflow for Causal Inference</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Show HN: Interactive, animated architecture of any HuggingFace models: Article URL: https://modelmap.cc
-Comments URL: https://news.ycombinator.com/item?id=49354664
-Points: 87
-# Comments: 9<br>
+    <b>Concept Overview:</b> Netflix open-sourced an agentic workflow for Observational Causal Inference (OCI) that reduces toil in causal analysis. Given observational data and the human user's analysis plan, the agent uses an actor-critic loop to estimate causality, write a report, and suggest next steps. By Anthony Alford<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://modelmap.cc" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ SpaceXAI Launches Grok Bot for Autonomous AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> SpaceXAI Launches Grok Bot for Autonomous AI Agents: SpaceXAI has introduced Grok Bot, a system of persistent AI agents that operate on dedicated cloud computers and can interact with websites, applications, inboxes, and other tools. By Daniel Dominguez<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
+    <b>Concept Overview:</b> Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents: Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June. Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -526,7 +523,7 @@ Points: 87
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-19 11:26 UTC_
+_Last updated: 2026-08-19 12:49 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
