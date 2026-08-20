@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon: In this podcast, Michael Stiefel spoke to Tracy Bannon about the role of artificial intelligence in software and the attendant risks in the areas of security, software development, and society at large. While it might be reasonable to assume a certain amount of trust within a software ecosystem, the risks escalate when the boundary between two software ecosystems is crossed. By Tracy Bannon<br>
+    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/agentic-ai-sorcerers-apprentice/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Grab Cuts Mechanical Analytics Work from 44% to 30% with AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG  Towards Data Science<br>
-    <b>Implementation Use Case:</b> Applying Building tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3B0a0RCRWFjN05PWnhBUzNfMV85MGJxNndtSzZQcklCaGZQaXk4MDEtN2JBM0ZtRF85M3UxSzdNREpJejY1bG1YYXpsaWZ0bG1aMEJ5LUNPd0tUMnNUbzFVSzJ1VHlnVGo4NzliVmlZMEFmRVZYSmVWZzBwel9MMDBMZnBmbUlVem9URmNqTEw4cm0wc0ZmcHZEYXI4N1J3bXdBaVJ3MzloS1BFNWp6Um45WlAzY2dlUU02UVlsU1c2N0VmOXJINFktNU1qUmpPcUE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Grab Cuts Mechanical Analytics Work from 44% to 30% with AI Agents: Grab is using AI agents to automate analytics workflows, cutting mechanical analyst work from 44% in February to 30% in June. Its approach combines agent autonomy, certified data, context management and human oversight, with self service analytics increasingly handling metric, data and SQL requests without analyst intervention. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grab-ai-analytics-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch  O'Reilly Media<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0hUR3BGQzJqWVRpSXZJQUVHVkFxRWxacmxvWWdIZlVRT3ZORTNXcm11VVFzYXI5MkxoMUFLc3Q4LWV0Q3A1S3ZaSTllUG5Va010dzJnZlE4WGR1YXpSUWxWeUhiTGl1bFc4eXFaNWtWbjA0RURCMGt2SHIwcVdXbnhOcWswMkVIbHRIR0xBVjlZaXdNdF9PQ09NYmEtS09ONlU2bGM2MnBuMWpqdFFxM0F2aEJmOTA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-20 20:29 UTC_
+_Last updated: 2026-08-20 21:28 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
