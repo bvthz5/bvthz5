@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.54%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.55%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure: DeepSeek has released a developer preview of DeepSeek Harness (dsh), an open-source execution runtime for building autonomous AI agents. The software features a micro-kernel architecture with modular plugins for various functional units. The release includes an append-only event logging system for tracking execution activities. Adoption may depend on plugin ecosystem stability and API maintenance. By Olimpiu Pop<br>
+    <b>Concept Overview:</b> Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules: Deterministic rules safeguard hard metrics, but what about architectural intent? Discover how agentic fitness functions combine AI agents and versioned rubrics to evaluate complex, judgment-heavy concerns—such as boundary fidelity, semantic contract drift, and stale ADR assumptions. Elevate evolutionary architecture governance with continuous, calibrated feedback loops. By Hemant Kumar Mahato, Łukasz Sieczkowski, Vijayasenthilkumar Kuppusamy<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/agentic-fitness-functions-evolutionary-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare Turns CI Pipelines into TypeScript Workflows</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has released cloudflare/ci, a CI SDK that defines pipelines in TypeScript on top of Cloudflare Workflows, giving each step durable retries and replay, concurrent steps by default and Sandbox snapshot caching. It targets the Workers runtime and depends on Artifacts, still in private beta, so the transferable lesson is the durable-step model rather than a drop-in CI replacement. By Mark Silvester<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ci-code-workflows/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ SpaceXAI Launches Grok Bot for Autonomous AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> SpaceXAI Launches Grok Bot for Autonomous AI Agents: SpaceXAI has introduced Grok Bot, a system of persistent AI agents that operate on dedicated cloud computers and can interact with websites, applications, inboxes, and other tools. By Daniel Dominguez<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
+    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-20 17:29 UTC_
+_Last updated: 2026-08-20 18:40 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
