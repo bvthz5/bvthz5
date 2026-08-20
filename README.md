@@ -478,13 +478,13 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Introduces Native Vector Search for DynamoDB</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ Harper Argues Against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Introduces Native Vector Search for DynamoDB: Amazon DynamoDB recently introduced native vector search, allowing developers to store embeddings alongside application data and run approximate nearest-neighbor queries directly from DynamoDB without using a separate vector database. The feature supports filtered similarity searches and configurable vector indexes for semantic search workloads. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Harper Argues Against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -500,13 +500,13 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Harper Argues Against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Harper Argues Against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation: Nikolay Samokhvalov has developed PGSimCity, an open-source educational tool that visualises PostgreSQL mechanics as a 3D spatial simulation in the browser. It assists backend developers and site reliability engineers in understanding SQL and the dynamics of kernel execution. The project is available on GitHub and aims to enhance understanding of database architecture through interactive elements. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-20 08:39 UTC_
+_Last updated: 2026-08-20 09:35 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
