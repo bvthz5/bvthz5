@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Cloudflare Adds Agent Tracing, with Truncation</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Limits and Uneven Payload Defaults</text>
+    <text x="50" y="85" class="title-text">SpaceXAI Launches Grok Bot for Autonomous AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Agents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Cloudflare launched agent tracing, adding spans for agent invocations, model calls, tool runs,</text>
-    <text x="50" y="187" class="body-text">and approvals to existing Workers traces. Sessions replay turn by turn, though the docs warn...</text>
+    <text x="50" y="170" class="body-text">SpaceXAI Launches Grok Bot for Autonomous AI Agents: SpaceXAI has introduced Grok Bot, a system</text>
+    <text x="50" y="187" class="body-text">of persistent AI agents that operate on dedicated cloud computers and can interact with webs...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">From Requirement to Release: Building an AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering Platform for Event-Driven ...</text>
+    <text x="50" y="85" class="title-text">Cloudflare WriteGuard Brings Fine-Grained</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Security Controls for MCP Servers</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">From Requirement to Release: Building an AI Software Engineering Platform for Event-Driven</text>
-    <text x="50" y="187" class="body-text">Systems  HackerNoon</text>
+    <text x="50" y="170" class="body-text">Cloudflare is introducing WriteGuard, now in private beta, to provide fine-grained security</text>
+    <text x="50" y="187" class="body-text">controls for MCP (Model Context Protocol) servers. It aims to make AI agents safer by contro...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,17 +113,17 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">UVA CS Faculty Recognized Among Inaugural</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Members of ACM SIGSOFT Software Engineering Aca...</text>
+    <text x="50" y="85" class="title-text">Prompt Engineering vs Loop Engineering vs Graph</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering: What Changes at Each Layer</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">UVA CS Faculty Recognized Among Inaugural Members of ACM SIGSOFT Software Engineering Academy</text>
-    <text x="50" y="187" class="body-text">University of Virginia Engineering</text>
+    <text x="50" y="170" class="body-text">Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</text>
+    <text x="50" y="187" class="body-text">MarkTechPost</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying UVA tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Applying Prompt tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
