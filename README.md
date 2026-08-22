@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.78%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.79%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ S3 Compatibility Doesn't Guarantee S3-Level Security</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>1️⃣ SIMATIC AX: Industrial Automation Meets Modern Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> S3 Compatibility Doesn't Guarantee S3-Level Security: Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> SIMATIC AX: Industrial Automation Meets Modern Software Engineering  ARC Advisory Group<br>
+    <b>Implementation Use Case:</b> Applying SIMATIC tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPR01wUUV0X3JuNlpNTUwtZFFTQzhqLXUwQUVuVnRoZzZXNVFqNUo3eTNKQzhqT0pDZ2JWTmpKazY2dDBiSkZmUGxzVndkNVJFNWM0akJtSHp0eWFrNVZ5X2x6R3VCMWdlQWkxQk5LY0F5X0ljUE9ramlQbmdMTFpwUHBhSmdGdmhfQ1k2SERvclNoblF1Qzk5RFByQktxU0Y5UFNXMmRQTGJYcExHYm5LdlhySQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation: As of August 2, 2026, the EU AI Act Article 50 requires AI systems to mark synthetic outputs in a machine-detectable manner. Major vendors are implementing statistical watermarking methods, which influence natural language generation without affecting performance. This has prompted a swift reaction from the open-source community, raising compliance and vulnerability concerns. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AI Code Review at Scale: LinkedIn's Multi-Agent Approach</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Code Review at Scale: LinkedIn's Multi-Agent Approach: At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organizationâ€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics: WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts. Meta's architecture keeps message content on the device while using confidential computing, Oblivious HTTP, differential privacy, and model transparency to measure performance and protect model delivery. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Whatsapp tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-22 09:27 UTC_
+_Last updated: 2026-08-22 10:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
