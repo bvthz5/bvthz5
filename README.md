@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ SIMATIC AX: Industrial Automation Meets Modern Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> SIMATIC AX: Industrial Automation Meets Modern Software Engineering  ARC Advisory Group<br>
-    <b>Implementation Use Case:</b> Applying SIMATIC tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPR01wUUV0X3JuNlpNTUwtZFFTQzhqLXUwQUVuVnRoZzZXNVFqNUo3eTNKQzhqT0pDZ2JWTmpKazY2dDBiSkZmUGxzVndkNVJFNWM0akJtSHp0eWFrNVZ5X2x6R3VCMWdlQWkxQk5LY0F5X0ljUE9ramlQbmdMTFpwUHBhSmdGdmhfQ1k2SERvclNoblF1Qzk5RFByQktxU0Y5UFNXMmRQTGJYcExHYm5LdlhySQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace: Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages. By Bruna Pereira<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Artificial Intelligence for Software Engineering: From Probable to Provable</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Artificial Intelligence for Software Engineering: From Probable to Provable  Communications of the ACM<br>
+    <b>Concept Overview:</b> Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor: Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install. Claude Desktop, Claude Code, ChatGPT, and Cursor cannot connect yet because Entra lacks support for dynamic client registration and Client ID Metadata Documents. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOalV0MkcxcWg2M0V5cDV4N2l0LWNsLWpSeFdSTjRCd01HenZLWk5GWmNyeVNadHpPVk9IdUJ5ancxUWZCYXhDaGtqbnR6ZXI5WHlzTXk2b1JHUEYyWWdLcEtoTEtjNFJjUm01anJVaDBGUzl6dnktQjlEemRoaGR3S0JQR2hqOEtUU0MtVi1fRF9TTGdjQXJ6aTlOSE5SWkZjUjdHVnpyOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;: Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes. He explains how kernel-level socket hooks enable transparent prompt filtering, model swapping, token limits, and syscall restrictions to secure AI agents without modifying application source code or restarting containers. By Dan Finneran<br>
+    <b>Concept Overview:</b> Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch  O'Reilly Media<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0hUR3BGQzJqWVRpSXZJQUVHVkFxRWxacmxvWWdIZlVRT3ZORTNXcm11VVFzYXI5MkxoMUFLc3Q4LWV0Q3A1S3ZaSTllUG5Va010dzJnZlE4WGR1YXpSUWxWeUhiTGl1bFc4eXFaNWtWbjA0RURCMGt2SHIwcVdXbnhOcWswMkVIbHRIR0xBVjlZaXdNdF9PQ09NYmEtS09ONlU2bGM2MnBuMWpqdFFxM0F2aEJmOTA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-22 18:31 UTC_
+_Last updated: 2026-08-22 19:22 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
