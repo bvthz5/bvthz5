@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: SafeChat: Building AI-Powered</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Safety Systems at Scale in a Real-Time Marketplace</text>
+    <text x="50" y="85" class="title-text">Meta’s Muse Code Pushes AI Deeper into Software</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace:</text>
-    <text x="50" y="187" class="body-text">Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She cov...</text>
+    <text x="50" y="170" class="body-text">Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,36 +91,39 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Azure DevOps Remote MCP Server Reaches GA,</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Without Support for Claude, ChatGPT, or Cursor</text>
+    <text x="50" y="85" class="title-text">Mythic&apos;s analog compute-in-memory architecture</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8"></text>
     
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    <rect x="50" y="106" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="121" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor:</text>
-    <text x="50" y="187" class="body-text">Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted...</text>
+    <text x="50" y="146" class="body-text">Mythic&apos;s analog compute-in-memory architecture: Article URL: https://www.mythic.ai
+Comments</text>
+    <text x="50" y="163" class="body-text">URL: https://news.ycombinator.com/item?id=49352470
+Points: 30
+# Comments: 4</text>
     
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
-    <text x="50" y="250" class="body-text"></text>
+    <text x="50" y="192" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="209" class="body-text">Applying Mythic&apos;s tools to modern development pipelines.</text>
+    <text x="50" y="226" class="body-text"></text>
     
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
-    <text x="50" y="314" class="body-text"></text>
+    <text x="50" y="256" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="273" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="290" class="body-text"></text>
   </g>
 
   <!-- Slide 3 -->
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Zero to Agent in 30 Minutes: From Prompting to</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Loop Engineering with Ofer Mendelevitch</text>
+    <text x="50" y="85" class="title-text">Harper Argues Against the Multi-System Stack and</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Releases 5.2</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch</text>
-    <text x="50" y="187" class="body-text">O&apos;Reilly Media</text>
+    <text x="50" y="170" class="body-text">Harper Argues Against the Multi-System Stack and Releases 5.2: The database platform Harper</text>
+    <text x="50" y="187" class="body-text">advocates for a single-runtime architecture that keeps application code and data together, w...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
