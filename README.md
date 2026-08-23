@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.65%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.66%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Presentation: Enchant Your AI and APIs with eBPF Magic &#x1fa84;: Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes. He explains how kernel-level socket hooks enable transparent prompt filtering, model swapping, token limits, and syscall restrictions to secure AI agents without modifying application source code or restarting containers. By Dan Finneran<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Demystifying loop engineering: Get more from AI agents, avoid loopmaxxing  TechTalks<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRzNsdFhWU1doNk11bkVGakdBck9tVzFCY21semdiY2VZMGdWX1FyMmZlUVREM0ZJYUdRNUN2RHZLcWY5Tm9uY0JpRTFidDQwMXMtQ2Zpb2xvN1JFbTNqamlwWlVpUdIBa0FVX3lxTE9Ld005eXVtbUhRc2I5SkJGOEtuZWhXZjM1SE0zT2w0Q1g5Zmg1eDlZd0ZvaUtQNmVUWDJQcUpaQlN0N3BOYVNuOGtDSW1nTXQ5NWkydFJOQ1c1ZjdxNDZ5YkpqLWhJbG5IRUdn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics: WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts. Meta's architecture keeps message content on the device while using confidential computing, Oblivious HTTP, differential privacy, and model transparency to measure performance and protect model delivery. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Whatsapp tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Harper Argues against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Harper Argues against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Azure DevOps Remote MCP Server Reaches GA, Without Support for Claude, ChatGPT, or Cursor: Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install. Claude Desktop, Claude Code, ChatGPT, and Cursor cannot connect yet because Entra lacks support for dynamic client registration and Client ID Metadata Documents. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-23 13:33 UTC_
+_Last updated: 2026-08-23 14:24 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
