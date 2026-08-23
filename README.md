@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace: Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages. By Bruna Pereira<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Cloudflare Announces Kitesurf, a Browser Engine for Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads. Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudflare Workers and supports the Chrome DevTools Protocol, allowing tools such as Playwright and Puppeteer to drive it with lower resource overhead than a full Chromium browser. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ S3 Compatibility Doesn't Guarantee S3-Level Security</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>1️⃣ S3 Compatibility Doesn't Guarantee S3-Level Security</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> S3 Compatibility Doesn't Guarantee S3-Level Security: Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections. By Renato Losio<br>
     <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
     <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Harper Argues against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Harper Argues against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare is introducing WriteGuard, now in private beta, to provide fine-grained security controls for MCP (Model Context Protocol) servers. It aims to make AI agents safer by controlling their access to tools that can modify data or perform actions, rather than simply read information. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **354** | **308** | **7** |
+| **353** | **308** | **7** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-23 10:24 UTC_
+_Last updated: 2026-08-23 11:21 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
