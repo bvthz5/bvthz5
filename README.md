@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.73%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.74%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Zero to Agent in 30 Minutes: From Prompting to Loop Engineering with Ofer Mendelevitch  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0hUR3BGQzJqWVRpSXZJQUVHVkFxRWxacmxvWWdIZlVRT3ZORTNXcm11VVFzYXI5MkxoMUFLc3Q4LWV0Q3A1S3ZaSTllUG5Va010dzJnZlE4WGR1YXpSUWxWeUhiTGl1bFc4eXFaNWtWbjA0RURCMGt2SHIwcVdXbnhOcWswMkVIbHRIR0xBVjlZaXdNdF9PQ09NYmEtS09ONlU2bGM2MnBuMWpqdFFxM0F2aEJmOTA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics: WhatsApp is testing Scam Alert in limited beta, using on device machine learning to detect potential scam messages from non contacts. Meta's architecture keeps message content on the device while using confidential computing, Oblivious HTTP, differential privacy, and model transparency to measure performance and protect model delivery. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Whatsapp tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability: Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to deploy. In particular, HEIR can compile pre-trained AI models built for conventional, unencrypted inputs so they can instead operate on encrypted data. By Sergio De Simone<br>
+    <b>Concept Overview:</b> AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks: AWS has released aws-bench, an open-source benchmark for evaluating AI agents on real AWS tasks such as misconfigurations and infrastructure provisioning. Unlike traditional benchmarks, it uses real resources in disposable AWS accounts, scoring agent performance through automated verifiers. By Gianmarco Nalin<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Cloudflare Turns Engineering Standards into an AI-Enforced Control System</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> Cloudflare has recently detailed how it is using AI to transform internal engineering standards from passive documentation into an actively enforced control system across the software development lifecycle. By Craig Risi<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-24 03:03 UTC_
+_Last updated: 2026-08-24 04:45 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
