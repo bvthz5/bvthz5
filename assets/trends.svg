@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: Enchant Your AI and APIs with eBPF</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Magic &amp;#x1fa84;</text>
+    <text x="50" y="85" class="title-text">Microsoft Moves AI Governance From Policy to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Runtime Enforcement</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: Enchant Your AI and APIs with eBPF Magic &amp;#x1fa84;: Dan Finneran discusses the</text>
-    <text x="50" y="187" class="body-text">risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and...</text>
+    <text x="50" y="170" class="body-text">Microsoft has outlined an AI governance architecture spanning nine governance domains and four</text>
+    <text x="50" y="187" class="body-text">functions: policy, control, visibility, and proof. The approach connects policies with runti...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Podcast: The Human Edge: Why Brownfield</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Codebases Need Mob Programming, Not Just AI Vibes</text>
+    <text x="50" y="85" class="title-text">Mini book: Architecture as a Socio-Technical</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Craft</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes:</text>
-    <text x="50" y="187" class="body-text">Asgaut Mjølne Söderbom and Ola Hast discuss the evolution of their software engineering prac...</text>
+    <text x="50" y="170" class="body-text">Mini book: Architecture as a Socio-Technical Craft: Architecture is not a fixed choice made</text>
+    <text x="50" y="187" class="body-text">once; fitness is a moving target driven by changing regulations, tech, and markets. Even a s...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Mini tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">The Next AI Breakthrough Will Not Be in Models —</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">It Will Be in Software Architecture</text>
+    <text x="50" y="85" class="title-text">Cloudflare Announces Kitesurf, a Browser Engine</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">for Agents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">The Next AI Breakthrough Will Not Be in Models — It Will Be in Software Architecture  The Ritz</text>
-    <text x="50" y="187" class="body-text">Herald</text>
+    <text x="50" y="170" class="body-text">Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads.</text>
+    <text x="50" y="187" class="body-text">Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudflare Wor...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
