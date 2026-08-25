@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare Announces Kitesurf, a Browser Engine for Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Concept Overview:</b> Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads. Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudflare Workers and supports the Chrome DevTools Protocol, allowing tools such as Playwright and Puppeteer to drive it with lower resource overhead than a full Chromium browser. By Renato Losio<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Harper Argues against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Harper Argues against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Mini book: Architecture as a Socio-Technical Craft</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Mini book: Architecture as a Socio-Technical Craft: Architecture is not a fixed choice made once; fitness is a moving target driven by changing regulations, tech, and markets. Even a sound design can silently stop fitting over time without bad calls. Spanning seven articles on context stores, gateways, and topologies, this collection treats architecture as an evolving sociotechnical craft where teams deliberately shape friction, fitness, and flow. By InfoQ<br>
+    <b>Implementation Use Case:</b> Applying Mini tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare Turns Engineering Standards into an AI-Enforced Control System</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has recently detailed how it is using AI to transform internal engineering standards from passive documentation into an actively enforced control system across the software development lifecycle. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-25 02:59 UTC_
+_Last updated: 2026-08-25 03:54 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
