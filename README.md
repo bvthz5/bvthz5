@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cursor Releases Origin as an Agent-Native Alternative to GitHub</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Microsoft Moves AI Governance from Policy to Runtime Enforcement</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cursor Releases Origin as an Agent-Native Alternative to GitHub: AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that already work in Cursor. Origin is rolling out in early beta on Pro, Teams and Enterprise plans, and lives inside a new Codebase tab within the Cursor application. By Matt Saunders<br>
+    <b>Concept Overview:</b> Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Artificial Intelligence for Software Engineering: From Probable to Provable</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> Artificial Intelligence for Software Engineering: From Probable to Provable  Communications of the ACM<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOalV0MkcxcWg2M0V5cDV4N2l0LWNsLWpSeFdSTjRCd01HenZLWk5GWmNyeVNadHpPVk9IdUJ5ancxUWZCYXhDaGtqbnR6ZXI5WHlzTXk2b1JHUEYyWWdLcEtoTEtjNFJjUm01anJVaDBGUzl6dnktQjlEemRoaGR3S0JQR2hqOEtUU0MtVi1fRF9TTGdjQXJ6aTlOSE5SWkZjUjdHVnpyOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace: Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages. By Bruna Pereira<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities: DuckDB Labs has previewed DuckDB v2.0, codenamed "Cyanoptera." This release includes over 10000 commits and introduces a client/server mode, enabling network connections. Improvements also encompass extension portability, advanced data types, and a new parser. Performance enhancements include asynchronous I/O and storage optimisations. General availability is expected in fall 2026. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **354** | **308** | **8** |
+| **353** | **308** | **8** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-26 08:43 UTC_
+_Last updated: 2026-08-26 09:41 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
