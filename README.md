@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.57%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.58%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Mini book: Architecture as a Socio-Technical Craft</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability: Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to deploy. In particular, HEIR can compile pre-trained AI models built for conventional, unencrypted inputs so they can instead operate on encrypted data. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Mini book: Architecture as a Socio-Technical Craft: Architecture is not a fixed choice made once; fitness is a moving target driven by changing regulations, tech, and markets. Even a sound design can silently stop fitting over time without bad calls. Spanning seven articles on context stores, gateways, and topologies, this collection treats architecture as an evolving sociotechnical craft where teams deliberately shape friction, fitness, and flow. By InfoQ<br>
+    <b>Implementation Use Case:</b> Applying Mini tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Azure DevOps Remote MCP Server Reaches GA, without Support for Claude, ChatGPT, or Cursor</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Azure DevOps Remote MCP Server Reaches GA, without Support for Claude, ChatGPT, or Cursor: Microsoft has made the Azure DevOps Remote MCP Server generally available, offering a hosted endpoint into work items, repos, and pipelines with nothing to install. Claude Desktop, Claude Code, ChatGPT, and Cursor cannot connect yet because Entra lacks support for dynamic client registration and Client ID Metadata Documents. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/azure-devops-remote-mcp-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ S3 Compatibility Doesn't Guarantee S3-Level Security</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>3️⃣ Harper Argues against the Multi-System Stack and Releases 5.2</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> S3 Compatibility Doesn't Guarantee S3-Level Security: Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ JDK 27 and JDK 28: What We Know So Far</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> JDK 27 and JDK 28: What We Know So Far: JDK 27, the second non-LTS release since JDK 25, has reached its first release candidate phase featuring a final set of nine new features, in the form of JEPs, that can be separated into four categories: Core Java Library, HotSpot, Security Library and Java Language Specification. We examine JDK 27 and predict what features have, or could be, targeted for JDK 28. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying JDK tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Harper Argues against the Multi-System Stack and Releases 5.2: The database platform Harper advocates for a single-runtime architecture that keeps application code and data together, with its benchmark against a Vercel-based stack reporting significantly better performance on live, personalized-data workloads. Harper recently released version 5.2, with a new record cache and more throughput per node. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-26 03:05 UTC_
+_Last updated: 2026-08-26 04:40 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
