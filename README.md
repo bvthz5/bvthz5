@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.60%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.61%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Cursor Releases Origin as an Agent-Native Alternative to GitHub</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
-    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare Announces Kitesurf, a Browser Engine for Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads. Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudflare Workers and supports the Chrome DevTools Protocol, allowing tools such as Playwright and Puppeteer to drive it with lower resource overhead than a full Chromium browser. By Renato Losio<br>
+    <b>Concept Overview:</b> Cursor Releases Origin as an Agent-Native Alternative to GitHub: AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that already work in Cursor. Origin is rolling out in early beta on Pro, Teams and Enterprise plans, and lives inside a new Codebase tab within the Cursor application. By Matt Saunders<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace: Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages. By Bruna Pereira<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **355** | **308** | **8** |
+| **354** | **308** | **8** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-26 07:47 UTC_
+_Last updated: 2026-08-26 08:43 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
