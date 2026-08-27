@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Software architecture patterns: Full catalog & how to choose</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Samuel Schroeder: Outstanding senior in software engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Software architecture patterns: Full catalog & how to choose  Netguru<br>
-    <b>Implementation Use Case:</b> Applying Software tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Samuel Schroeder: Outstanding senior in software engineering  Iowa State University<br>
+    <b>Implementation Use Case:</b> Applying Samuel tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5sUXp2Mk9RZXdfcnMzdzRDaFdsRFNtNF83NFRLbm43TFNMdnE2d1VUX3lNU0kzZndBSXhGTkJ6c1lFTUVkTUtMZWoyN1c5TzBqX0NDeWtER25QbVoyTnJUZkozUnk4QnF5U2dScy00RU03Nk0?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFFZdkJQV3FYSmF2THdMV3J4eURDLWU4VVA2TGFVODhiakc5ZUNENU1RbkpzMFJPaXhWdjRxLUZzbG1QbU9MU3M0dW4tVWMyR1VmYWRfN1VRRzdWRnlmX1VFTWtjLVdVQmUzZ1VsejVGUHI1Y0RSa2tiS0UxcXJxWXZzaF9kNklJdGFYS2w1X0JfMjYteDhiUG5HQlNQak9WWTJJRnJXUkF2X2ZX?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ S3 Compatibility Doesn't Guarantee S3-Level Security</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>2️⃣ Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> S3 Compatibility Doesn't Guarantee S3-Level Security: Security researchers at Wiz recently examined S3-compatible object storage services across six popular neoclouds, revealing significant security gaps compared to Amazon S3. While S3 has become the de facto standard for object storage, most services lack several of AWS's security protections. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/s3-clone-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale: In this article, author Srikanth Mamidala discusses the data lake architecture used for analytics, reporting, and machine learning and shows how to manage the consumer lag metrics when using Kafka and Apache Hudi. By Srikanth Mamidala<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ The Next AI Breakthrough Will Not Be in Models — It Will Be in Software Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> The Next AI Breakthrough Will Not Be in Models — It Will Be in Software Architecture  The Ritz Herald<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcl91ZURVZVBmWEV1b0RJM1hZR3ozT18tMXpoVXZTVnJJMDNMdGRvYzZFd3FMU04wMlBjN1QzYXM0R2J6WGJuXzEyaHhkNUlTQXZxQnNidVk4Wko0Zk5kQ3d0emh0WUUyel9rUHlURldCbmpPRjJDNmgzZXNPUEdNY0ptM2ZpRkxYVUhrRzFXLV9UenlsYVZNVDdwdXpZNnBhZXYwR3FFMWwyQQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Beyond Embedded: How DuckDB v2.0 Shifts Architecture toward Distributed Network Capabilities: DuckDB Labs has previewed DuckDB v2.0, codenamed "Cyanoptera." This release includes over 10000 commits and introduces a client/server mode, enabling network connections. Improvements also encompass extension portability, advanced data types, and a new parser. Performance enhancements include asynchronous I/O and storage optimisations. General availability is expected in fall 2026. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/duckdb-v2-distributed/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,18 +519,18 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **357** | **308** | **9** |
+| **356** | **307** | **8** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-27 04:20 UTC_
+_Last updated: 2026-08-27 16:09 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/149141354?v=4" width="50" style="border-radius: 50%;" alt="AneeshVRao"/><br><sub>**AneeshVRao**</sub>](https://github.com/AneeshVRao) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/208812309?v=4" width="50" style="border-radius: 50%;" alt="armin-panahi"/><br><sub>**armin-panahi**</sub>](https://github.com/armin-panahi) | [<img src="https://avatars.githubusercontent.com/u/206853218?v=4" width="50" style="border-radius: 50%;" alt="DHIVAKAR-AI"/><br><sub>**DHIVAKAR-AI**</sub>](https://github.com/DHIVAKAR-AI) | [<img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50" style="border-radius: 50%;" alt="giladfuchs"/><br><sub>**giladfuchs**</sub>](https://github.com/giladfuchs) |
-| [<img src="https://avatars.githubusercontent.com/u/181909908?v=4" width="50" style="border-radius: 50%;" alt="Senthil455"/><br><sub>**Senthil455**</sub>](https://github.com/Senthil455) | [<img src="https://avatars.githubusercontent.com/u/220458075?v=4" width="50" style="border-radius: 50%;" alt="shakil1815"/><br><sub>**shakil1815**</sub>](https://github.com/shakil1815) | [<img src="https://avatars.githubusercontent.com/u/78582861?v=4" width="50" style="border-radius: 50%;" alt="weifuwan"/><br><sub>**weifuwan**</sub>](https://github.com/weifuwan) | [<img src="https://avatars.githubusercontent.com/u/101379148?v=4" width="50" style="border-radius: 50%;" alt="whoisdjam"/><br><sub>**whoisdjam**</sub>](https://github.com/whoisdjam) |   |
+| [<img src="https://avatars.githubusercontent.com/u/220458075?v=4" width="50" style="border-radius: 50%;" alt="shakil1815"/><br><sub>**shakil1815**</sub>](https://github.com/shakil1815) | [<img src="https://avatars.githubusercontent.com/u/78582861?v=4" width="50" style="border-radius: 50%;" alt="weifuwan"/><br><sub>**weifuwan**</sub>](https://github.com/weifuwan) | [<img src="https://avatars.githubusercontent.com/u/101379148?v=4" width="50" style="border-radius: 50%;" alt="whoisdjam"/><br><sub>**whoisdjam**</sub>](https://github.com/whoisdjam) |   |   |
 
-**Total: 9**
+**Total: 8**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
