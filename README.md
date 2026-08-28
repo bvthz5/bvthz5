@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Microsoft Moves AI Governance from Policy to Runtime Enforcement</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ AWS Introduces Specification Driven Composition for Flexible Data Workflows</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Introduces Specification Driven Composition for Flexible Data Workflows: AWS describes a specification-driven approach for composing flexible data workflows by separating intent from processing logic. Architecture uses declarative specifications, reusable processing capabilities, and validation before execution. AWS reports that the approach can reduce dataset onboarding from weeks to days while supporting traceability, versioning, data classification, and governance. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Cloudflare recently open-sourced Cloudflare OS. It allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate repetitive workflows with optimized token cost (with AI assistance only where needed), and build personal, shareable, customizable work software that caters to specific, complex use cases within a secure sandboxed model By Bruno Couriol<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Cloudflare Wallets Arrives Late to x402, and the Spending Controls Stop at the Payment</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare announced Wallets, giving agents a stablecoin balance and spending controls, though only handle claiming is live and squatting complaints have already surfaced. Payments run on x402, now hosted by the Linux Foundation. The controls bound single payments, not sequences, leaving composition to the application above. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/agent-payment-rails-x402/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Reinventing software engineering for the AI-first enterprise</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Reinventing software engineering for the AI-first enterprise  ET CIO<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2l0WFl0eERwVXFZQ1c0VjRZT0JkZWoteVRGS2dpZjIxTWJGOW92RzJ3RzZxNWp3eDdEYmRrRmhpVFFydnVjcUplZFlIcjVGMjVZNEVkNjc2X0ZUeXdsYTdndHhSOGdSWWFCM3Y3MWFxSWY1a1E0ekx1dXhNTHdMdXF1MlVfZ2c1R01TTVVfYmFqcFBuNm45Mk12dmx6NXRJSXBZY0FnMTJQV0g0RzAzdUxXWVF6ZVZtMm5qN0lTSTZzcWJHbkJtY1dzQjFtMVJCTDQxWnBCRdIB3AFBVV95cUxQbzZIdFBvSDY4alQwOFBoUnp1SG12Zk9vYWJ2cnZrelZfSERwRmxJTE1sd2JIQjNUZG81LVMxYzNSbi1OMFMyeHpGbWFSaG9vN2xLQnlYU0ViSWxwUEdkalRBRlN2bUxaVGdmcU9RRGVhZ09sWUFGemdPZUJlenRVd0xmRDN1VmNSNlM3b2M0QUVXc2JZSFhvVV9qa0RoVlM0THpjYVVMZHlRN0IyeFFfN0lzdk8zdFRMM3lfYWRZR3BuVjdYZ3R0NkZ5U3pFVWpsYk9mcUxZZWRlVnpS?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-28 01:19 UTC_
+_Last updated: 2026-08-28 13:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
