@@ -69,39 +69,39 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">JDK 27 and JDK 28: What We Know So Far</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8"></text>
+    <text x="50" y="85" class="title-text">Google&apos;s HEIR Aims to Make Homomorphic-Encrypted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Inference a One-Click Capability</text>
     
-    <rect x="50" y="106" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="121" class="badge-text" text-anchor="middle"></text>
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="146" class="body-text">JDK 27 and JDK 28: What We Know So Far: JDK 27, the second non-LTS release since JDK 25, has</text>
-    <text x="50" y="163" class="body-text">reached its first release candidate phase featuring a final set of nine new features, in the...</text>
+    <text x="50" y="170" class="body-text">Google&apos;s HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability: Google is</text>
+    <text x="50" y="187" class="body-text">introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compil...</text>
     
-    <text x="50" y="192" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="209" class="body-text">Applying JDK tools to modern development pipelines.</text>
-    <text x="50" y="226" class="body-text"></text>
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="250" class="body-text"></text>
     
-    <text x="50" y="256" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="273" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
-    <text x="50" y="290" class="body-text"></text>
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="314" class="body-text"></text>
   </g>
 
   <!-- Slide 2 -->
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: From DVDs to Global Streaming: How</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Netflix’s Commerce Architecture Actually Evolved</text>
+    <text x="50" y="85" class="title-text">6 Trends Shaping Technology Adoption ROI for</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually</text>
-    <text x="50" y="187" class="body-text">Evolved: Kasia Trapszo discusses how Netflix evolved its commerce platform from a U.S. DVD s...</text>
+    <text x="50" y="170" class="body-text">6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Presentation: tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Applying 6 tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AWS Open Sources Kiro Crew for Asynchronous</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Agents</text>
+    <text x="50" y="85" class="title-text">Cloudflare Wallets Arrives Late to x402, and the</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Spending Controls Stop at the Payment</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AWS Open Sources Kiro Crew for Asynchronous Coding Agents: Amazon recently announced Kiro Crew,</text>
-    <text x="50" y="187" class="body-text">an open-source system for running multiple Kiro coding agents across sessions, tools, and ta...</text>
+    <text x="50" y="170" class="body-text">Cloudflare announced Wallets, giving agents a stablecoin balance and spending controls, though</text>
+    <text x="50" y="187" class="body-text">only handle claiming is live and squatting complaints have already surfaced. Payments run on...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
