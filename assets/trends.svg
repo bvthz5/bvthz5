@@ -69,14 +69,36 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Google&apos;s HEIR Aims to Make Homomorphic-Encrypted</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Inference a One-Click Capability</text>
+    <text x="50" y="85" class="title-text">Meta Expands its Custom Silicon Strategy from</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Compute into Networking</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Google&apos;s HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability: Google is</text>
-    <text x="50" y="187" class="body-text">introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compil...</text>
+    <text x="50" y="170" class="body-text">Meta Expands its Custom Silicon Strategy from Compute into Networking: Meta has detailed MTIA</text>
+    <text x="50" y="187" class="body-text">300, its first in-house accelerator optimized for training ranking and recommendation models...</text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Applying Meta tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 2 -->
+  <g class="slide-group slide-2" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
+    <text x="50" y="85" class="title-text">Meta’s Muse Code Pushes AI Deeper into Software</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -87,47 +109,25 @@
     <text x="50" y="314" class="body-text"></text>
   </g>
 
-  <!-- Slide 2 -->
-  <g class="slide-group slide-2" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Cloudflare Wallets Arrives Late to x402, and the</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Spending Controls Stop at the Payment</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">Cloudflare announced Wallets, giving agents a stablecoin balance and spending controls, though</text>
-    <text x="50" y="187" class="body-text">only handle claiming is live and squatting complaints have already surfaced. Payments run on...</text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces operational overhead and ensures automatic scalability under traffic.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
   <!-- Slide 3 -->
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Uber Builds GitFarm to Run Git Operations as a</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Service for Large-Scale Monorepos</text>
+    <text x="50" y="85" class="title-text">Foundry Model Router Expands from Two Regions to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">28, Refreshing Its Model Pool</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos: Uber’s</text>
-    <text x="50" y="187" class="body-text">GitFarm provides Git operations as a centralized service, eliminating local repository clone...</text>
+    <text x="50" y="170" class="body-text">Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool: Microsoft</text>
+    <text x="50" y="187" class="body-text">expanded Foundry&apos;s model router from two regions to 28 for global standard and 21 for data z...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Uber tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
