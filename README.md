@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.77%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.78%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,24 +478,24 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ AI-Assisted Software Engineering: A Special Topics Course That Could Become Mainstream</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability: Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to deploy. In particular, HEIR can compile pre-trained AI models built for conventional, unencrypted inputs so they can instead operate on encrypted data. By Sergio De Simone<br>
+    <b>Concept Overview:</b> AI-Assisted Software Engineering: A Special Topics Course That Could Become Mainstream  NJIT News<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0NMbFBwNm8wSG1uODVoRHRBMU8wTnIyaTdUY0VXaVVwd2MzazB0X1ItSkhHTmliTFNUb2JJMzY1LWt5UEpUd2hieE5ndHVuVnZ3TFE5MUo2ZVA2eEdranVmZXk4Q3ppWUNmblU0YWJtZDVrWW5COHRBeHFqZ09hZkc1TUJPZnJ3MXo2R3RuTElPRGQyOTRUSHBNVHphVjdIRmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ 6 Trends Shaping Technology Adoption ROI for Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> 6 Trends Shaping Technology Adoption ROI for Software Engineering  Gartner<br>
-    <b>Implementation Use Case:</b> Applying 6 tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTFp3MHlNMERQRFAzY0J4bDgxUVdkU3c5dkRDdTY4YjNSNnY2cHZwdk4zRlluNGRHck53MkhNS1gtYldiaFlHTEkyTmpqR0txTUVmNEQtMzF2RmF0YzlRVU1vc3F0d0JlclpJ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint: There are four patterns that bring PQC into a Spring Boot fleet: encrypting payloads between services, locking down database fields, signing documents that need to hold up for decades, and moving service tokens off RS256. Along the way, we discuss why Harvest Now, Decrypt Later is already happening, and why none of this is production-safe until KMS or Vault is in place. By Pankaj Sharma<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-08-30 22:27 UTC_
+_Last updated: 2026-08-31 01:07 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
