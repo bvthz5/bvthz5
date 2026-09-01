@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.82%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.83%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
+    <b>Concept Overview:</b> Diagrid Catalyst 2.0 applies Dapr-based recovery, signed workflow history and execution attestation across several agent frameworks. Architects should compare it with framework-native durability and established workflow engines, while evaluating benchmark evidence and operational trade-offs. By Mark Silvester<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Honda, Nissan plan joint software architecture for next-gen cars from 2029</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Honda, Nissan plan joint software architecture for next-gen cars from 2029  Firstpost<br>
-    <b>Implementation Use Case:</b> Applying Honda, tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUVfQlVJUFE2cjBnY2NZbk9rdVFMd2VvV3Z3X2xINXVhRzZJekY4QXRETzQ3QXZwYU5pTzROWldTU2xRSlhVVi13QXhCRWRwV1Zyd0dQaThYOUN1Z1dSVEJicFEycm9vR29sbGtldnZQRjZ3MDE5MFloWTF1NUd3aXY0T3lUMEhIYU5hd3o2SHdfaGFGaGVwc2FGV21WWXBXQjRZdWNTdnpXdU9DbE1OSklpN0xTMUVGdFHSAb8BQVVfeXFMTXJTSEVaN3JCXzBoMTRyNENKZkxIOGVQcWtLLU8zUnpKQ3BHQ2diZndtNHFzUW1DY2p6Q05YaW4tNVBMUldpTnh0cUJJa3pVRURPTGRTWnR4OWwzdnZWNExXV0RnMnd6eXg0VHQ4OXlwSGxMdnFUXzk0ZXdoOUhJd2g4QjI4WjViQlJLRkkya1VQVDRSZDRsQWZVOTRvREZWbkd1eDB5S2kyTGFfVFdnanI0Y21FRm1VelpveUIyMG8?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint: There are four patterns that bring PQC into a Spring Boot fleet: encrypting payloads between services, locking down database fields, signing documents that need to hold up for decades, and moving service tokens off RS256. Along the way, we discuss why Harvest Now, Decrypt Later is already happening, and why none of this is production-safe until KMS or Vault is in place. By Pankaj Sharma<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Cursor Releases Origin as an Agent-Native Alternative to GitHub</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cursor Releases Origin as an Agent-Native Alternative to GitHub: AI coding agent Cursor has launched Origin, a git based code hosting platform embedded inside its AI-powered editor, positioning it as an alternative to GitHub for teams that already work in Cursor. Origin is rolling out in early beta on Pro, Teams and Enterprise plans, and lives inside a new Codebase tab within the Cursor application. By Matt Saunders<br>
+    <b>Concept Overview:</b> DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents: DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly. Flux uses isolated Firecracker microVMs, an MCP gateway, reusable playbooks, and multiple invocation surfaces to run agent workflows with scoped access and centralized auditing. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **363** | **341** | **2** |
+| **365** | **341** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-01 13:10 UTC_
+_Last updated: 2026-09-01 17:39 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
