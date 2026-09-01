@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.80%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.81%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents: DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly. Flux uses isolated Firecracker microVMs, an MCP gateway, reusable playbooks, and multiple invocation surfaces to run agent workflows with scoped access and centralized auditing. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch: After a 10-week hiatus since the last batch of Spring ecosystem releases, there was a flurry of activity during the week of August 17th, 2026, highlighting first milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring HATEOAS, Spring Modulith, Spring Batch, Spring AMQP and Spring for Apache Kafka. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
+    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation: Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak. Scaling Workload Identity Federation to 120+ production projects shows why it changes how machine identity is approached entirely: keys are secrets to manage, federated identities are trust relationships configured once, gated by attribute conditions. By Shijin Nair<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool: Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Microsoft Moves AI Governance from Policy to Runtime Enforcement</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Microsoft has outlined an AI governance architecture spanning nine governance domains and four functions: policy, control, visibility, and proof. The approach connects policies with runtime enforcement, continuous evaluation, observability, identity, security, and audit evidence to help organizations verify governance requirements as AI applications and agents operate in production. By Leela Kumili<br>
+    <b>Concept Overview:</b> CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise  Carnegie Mellon University<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbERTek1JVGdsY3NqQlYzRUZlNkN5WTFKdUNsamRUT2RHYXI3NTZhazRJWjV5M1hEUUhIWkFkQldqbDBKVEZOLVcxN3c3dWZKck1SYjNVeDVBY0ROa0x4VjR6TS1tbDdfWmhxVVJjUjJvYzFGT2FuczBhTVhKSk9ZbFUtczhDWWE1ekcxOWRWZEhrTE84ZXJqNHBkVmRaNng1bEViUDg1bm5xWlpaTV9QQ2tiLWRhMkdOd2t1TFgxQ192RXFSWU9NV3NDMTRaZ25JNmFkWjhyeTBfdTFEV1E?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,18 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **363** | **307** | **9** |
+| **363** | **341** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-01 01:01 UTC_
+_Last updated: 2026-09-01 07:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/149141354?v=4" width="50" style="border-radius: 50%;" alt="AneeshVRao"/><br><sub>**AneeshVRao**</sub>](https://github.com/AneeshVRao) | [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/208812309?v=4" width="50" style="border-radius: 50%;" alt="armin-panahi"/><br><sub>**armin-panahi**</sub>](https://github.com/armin-panahi) | [<img src="https://avatars.githubusercontent.com/u/206853218?v=4" width="50" style="border-radius: 50%;" alt="DHIVAKAR-AI"/><br><sub>**DHIVAKAR-AI**</sub>](https://github.com/DHIVAKAR-AI) | [<img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50" style="border-radius: 50%;" alt="giladfuchs"/><br><sub>**giladfuchs**</sub>](https://github.com/giladfuchs) |
-| [<img src="https://avatars.githubusercontent.com/u/220458075?v=4" width="50" style="border-radius: 50%;" alt="shakil1815"/><br><sub>**shakil1815**</sub>](https://github.com/shakil1815) | [<img src="https://avatars.githubusercontent.com/u/218207092?v=4" width="50" style="border-radius: 50%;" alt="sharfuddin18"/><br><sub>**sharfuddin18**</sub>](https://github.com/sharfuddin18) | [<img src="https://avatars.githubusercontent.com/u/78582861?v=4" width="50" style="border-radius: 50%;" alt="weifuwan"/><br><sub>**weifuwan**</sub>](https://github.com/weifuwan) | [<img src="https://avatars.githubusercontent.com/u/101379148?v=4" width="50" style="border-radius: 50%;" alt="whoisdjam"/><br><sub>**whoisdjam**</sub>](https://github.com/whoisdjam) |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
 
-**Total: 9**
+**Total: 1**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
