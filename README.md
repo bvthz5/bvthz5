@@ -478,24 +478,24 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Nissan and Honda Agree to Share Core Vehicle Software Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Nissan and Honda Agree to Share Core Vehicle Software Architecture  Motor Illustrated<br>
+    <b>Implementation Use Case:</b> Applying Nissan tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQREk3bllsSFdidXlTSUFQcXFSV2JyRmh5UzNleEFzNV9lbWZnaWJoZHhYNDVlQ1hRbTFaRkNaQkZQcTdKWldSM0JrX0JuMWVKUWpnbHppOU9NT2NzQlhXeUtMQk5oQ3FFM2FYMlBuazJMdmpWUGlSYk9NNHVEeGtJRlhiSWxZWmVIckZUT0oyRzVBa3Y20gGUAUFVX3lxTFBESTduWWxIV2J1eVNJQVBxcVJXYnJGaHlTM2V4QXM1X2VtZmdpYmhkeFg0NWVDWFFtMVpGQ1pCRlBxN0paV1IzQmtfQm4xZUpRamdsemk5T01PY3NCWFd5S0xCTmhDcUUzYVgyUG5rMkx2alZQaVJiT000dUR4a0lGWGJJbFlaZUhyRlRPSjJHNUFrdjY?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Reinventing software engineering for the AI-first enterprise</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Reinventing software engineering for the AI-first enterprise  ET CIO<br>
+    <b>Concept Overview:</b> Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2l0WFl0eERwVXFZQ1c0VjRZT0JkZWoteVRGS2dpZjIxTWJGOW92RzJ3RzZxNWp3eDdEYmRrRmhpVFFydnVjcUplZFlIcjVGMjVZNEVkNjc2X0ZUeXdsYTdndHhSOGdSWWFCM3Y3MWFxSWY1a1E0ekx1dXhNTHdMdXF1MlVfZ2c1R01TTVVfYmFqcFBuNm45Mk12dmx6NXRJSXBZY0FnMTJQV0g0RzAzdUxXWVF6ZVZtMm5qN0lTSTZzcWJHbkJtY1dzQjFtMVJCTDQxWnBCRdIB3AFBVV95cUxQbzZIdFBvSDY4alQwOFBoUnp1SG12Zk9vYWJ2cnZrelZfSERwRmxJTE1sd2JIQjNUZG81LVMxYzNSbi1OMFMyeHpGbWFSaG9vN2xLQnlYU0ViSWxwUEdkalRBRlN2bUxaVGdmcU9RRGVhZ09sWUFGemdPZUJlenRVd0xmRDN1VmNSNlM3b2M0QUVXc2JZSFhvVV9qa0RoVlM0THpjYVVMZHlRN0IyeFFfN0lzdk8zdFRMM3lfYWRZR3BuVjdYZ3R0NkZ5U3pFVWpsYk9mcUxZZWRlVnpS?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-02 17:40 UTC_
+_Last updated: 2026-09-02 20:38 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
