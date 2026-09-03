@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.88%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.89%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction: OpenAI recently published an engineering account of GPT-Live. It described how they designed the system to maintain continuous voice interaction while separating latency-sensitive media processing from broader application work. The live path contains the media pipeline and inference loop, while delegation, tool use, persistence, and other application logic run behind an asynchronous RPC boundary. By Eran Stiller<br>
+    <b>Concept Overview:</b> Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience  Business Wire<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/openai-gpt-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQTC1IMzZFWk0wUExOVF9PX3RCNTlldXczYlZDNFNaRzJPRUxkQmM1NGhjMXIzY1dYS3Rzc2RBcms5TGJFenZCamlDZDBaR1RVbEJDNUM5bXdHa1ozOWlvdkxESnB0X1R1R0VEdjd2MWFTU2JQZHhLazBtS0x5TkFTUEsxVVk1Nm4yNXJySWZUeW5XdzRRWEdfbWhpRjRfYjRQRWlZNHJhVW9RVHVWbGprbllsT0t1dnJCTi1NUGRWd2JfSFZZVF9LclA3bFZOVm5MZmdqRk9lRS0wM002Um9hQlB1TG5wdzZldXd5WWpmclAzQVpBbndzUmhJQndqakM3dHhxRUxQMWQtQQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution</b> &nbsp;|&nbsp; 🏷️ <i>Hardware & GPU Tech</i></summary>
+  <summary><b>2️⃣ Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution: Researchers from UC Berkeley and MIT have developed FreeToken, an open-source inference engine that enhances the utility of Mixture-of-Experts models on consumer hardware. By implementing a dynamic scheduling policy and optimising weight management, FreeToken improves decoding speeds and execution efficiency in edge AI applications, fostering self-hosted reasoning systems. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Optimizing parallel workloads, distributed model training, and GPU virtualization.<br>
-    <b>Strategic Value:</b> Dramatically improves model throughput and optimizes operational costs.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integration, multimodal search, and seamless integration with other Cloudflare tools. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Meta’s Muse Code Pushes AI Deeper into Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ “Boring” software engineer wins big</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEdGQ2t5Y1B6U0REbnVoa1FiNTJ2NEZYeWtSMlB3c3ZoRFo5Y0ZDMkxwc3JYbHBxLVZWdnUyS0tid1hqU1pNMmRCckp5QzVKLUFWd29OdUZIYUFVbFVxTjBKekJJY2o1ZGhhbTZxTjhvZnQ1eklYSVBxbTlITGZfRl9VZkYta1poQnR6WlNnY0w1TU5PSFlsMDBfMldidWJRWERSanZEZVlkSGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> “Boring” software engineer wins big  EurekAlert!<br>
+    <b>Implementation Use Case:</b> Applying “Boring” tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rTTBwMEljcHhfYU9tMmRudWlKTU9rMlY3bGhtN3c5MTBoS2RfczZCdGZmRXJZbmhHckpxVmh1Zk16TzFtTWh3Y1dTZC1MUjhkdWZBQjN4b3BtUmhq?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-03 03:21 UTC_
+_Last updated: 2026-09-03 08:37 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
