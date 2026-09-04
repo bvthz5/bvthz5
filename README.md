@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.67%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.69%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Beyond code: Why modern software engineering is about building resilient, scalable systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool: Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Beyond code: Why modern software engineering is about building resilient, scalable systems  Business News Nigeria<br>
+    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ0ZKZGhHTUQxYld3Q3VaVVplR0xlRHpGdUJHU3BEQ0hVQjJsR0JHRTRMeFljLXQyNlFCRWR1czBhN2tNU25EMElMc2hUZ2RkY21RdHlnWkZDdTZqSzZldDB6U21ZYmJxZlItam5BOThTZTRhZVJXM1N5cmNxWmVxcXh3YWZ2VXhaV0Jkdmd6Slp5bm9iTFZwclUxMnlubTNpMjJlRmpoTlhfWDQybkQySE8zV1kySGJCUWVpdjJoN2hQTHl6bDBhVWwtM2hoWGdldGFGNzBfMHNOLTFWYVJZdExFRUcxTDE1MFN6YmtTWUNuQjZ0QnYyYWgtemVCZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Honda and Nissan will build shared vehicle software architecture as Chinese EV competition intensifies</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale  01net<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0pLUzZFSFp3LTFNT2U3TGQzYlZhdXRTdXJ5RmNqaF82cFlXTTJpNmIyT1B4TE51Uy03dE5wNVctaEZlODh2SG5BS0F0aXJGY3B5S1dzb1pySTdoRUdtN0ktam5QSEtJeVlmVFFvMnVZNDY3U1dHMlQyQlV1R3RoUFFpVUlBeW56dmxZeVprWWZvcHhOeTVZdlRoRURrR2JUd2Z5OGdxLXlINUtBcXVxS1M1WUwxeTlwaXAtNjIyV01zdDVhR0RucmRPYWc4aDNmY19teE8tOFNxYTRVR3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Honda and Nissan will build shared vehicle software architecture as Chinese EV competition intensifies  Межа. Новини України.<br>
+    <b>Implementation Use Case:</b> Applying Honda tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RTTh2dWhSSnZlVm5FWHhvdzZJeWJHa0pzS05jZFMxcTltczFsUGN0bWJWbF85WmhBTmJvc2hWTXFqTl9jTGM0VXpvVkx1T085VTk2MHZOYVR6TzRmalRhUVJvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>3️⃣ Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026  CX Today<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjhTTllIMlgxT093MlloeXBCVjZ1R2lDOVFBblpkd0NlZjB5cnFZSTZSdUNuREpSM2NNcUhTamphQ3lmbEY1X1ZBTWwyMk1zeXRtRlg1M041eDJnOG1QeklKbFowX1NjbC13aVo5UjFhZGh1UlFmaWo5UVVyUTFTcFNNQVpDak9OTnl0bg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **381** | **341** | **2** |
+| **382** | **341** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-04 13:12 UTC_
+_Last updated: 2026-09-04 17:24 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
