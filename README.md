@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Beyond code: Why modern software engineering is about building resilient, scalable systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude  Yahoo Finance<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRllWU3FqLTl2Nmptb0tsUms2Tjd2d3BBRXFxQThKbmxrNHlTWWVJdjZfeHlBRVlPVXk3THRONjgxRm55Y0JuQW16SXJSenV4bXdFQV9SN1M5QXRQYnBMRTF6bmdkd3NoWmd3d29HMkEzUUNKWjBPdjI1TEJudFdaU1lvUFJSSU5YZ0hteFdQb3pUeUIyY2ZvQklwVWE0TWVXbEdNNmp1LVZhbmthMkE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Beyond code: Why modern software engineering is about building resilient, scalable systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Beyond code: Why modern software engineering is about building resilient, scalable systems  Business News Nigeria<br>
     <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
     <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ0ZKZGhHTUQxYld3Q3VaVVplR0xlRHpGdUJHU3BEQ0hVQjJsR0JHRTRMeFljLXQyNlFCRWR1czBhN2tNU25EMElMc2hUZ2RkY21RdHlnWkZDdTZqSzZldDB6U21ZYmJxZlItam5BOThTZTRhZVJXM1N5cmNxWmVxcXh3YWZ2VXhaV0Jkdmd6Slp5bm9iTFZwclUxMnlubTNpMjJlRmpoTlhfWDQybkQySE8zV1kySGJCUWVpdjJoN2hQTHl6bDBhVWwtM2hoWGdldGFGNzBfMHNOLTFWYVJZdExFRUcxTDE1MFN6YmtTWUNuQjZ0QnYyYWgtemVCZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Honda and Nissan will build shared vehicle software architecture as Chinese EV competition intensifies</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Honda and Nissan will build shared vehicle software architecture as Chinese EV competition intensifies  Межа. Новини України.<br>
-    <b>Implementation Use Case:</b> Applying Honda tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RTTh2dWhSSnZlVm5FWHhvdzZJeWJHa0pzS05jZFMxcTltczFsUGN0bWJWbF85WmhBTmJvc2hWTXFqTl9jTGM0VXpvVkx1T085VTk2MHZOYVR6TzRmalRhUVJvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026  CX Today<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjhTTllIMlgxT093MlloeXBCVjZ1R2lDOVFBblpkd0NlZjB5cnFZSTZSdUNuREpSM2NNcUhTamphQ3lmbEY1X1ZBTWwyMk1zeXRtRlg1M041eDJnOG1QeklKbFowX1NjbC13aVo5UjFhZGh1UlFmaWo5UVVyUTFTcFNNQVpDak9OTnl0bg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-04 17:24 UTC_
+_Last updated: 2026-09-04 20:23 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
