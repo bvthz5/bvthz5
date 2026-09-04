@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.69%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.70%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind: Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Applying Copilot tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude  Yahoo Finance<br>
+    <b>Concept Overview:</b> Foundry Model Router Expands from Two Regions to 28, Refreshing Its Model Pool: Microsoft expanded Foundry's model router from two regions to 28 for global standard and 21 for data zone deployments, while adding Claude Opus 4.8 and GPT-5.6 and removing four deprecated models. Default deployments receive pool changes automatically; configured subsets exclude new models until added. The effective context window equals the smallest model in the pool. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRllWU3FqLTl2Nmptb0tsUms2Tjd2d3BBRXFxQThKbmxrNHlTWWVJdjZfeHlBRVlPVXk3THRONjgxRm55Y0JuQW16SXJSenV4bXdFQV9SN1M5QXRQYnBMRTF6bmdkd3NoWmd3d29HMkEzUUNKWjBPdjI1TEJudFdaU1lvUFJSSU5YZ0hteFdQb3pUeUIyY2ZvQklwVWE0TWVXbEdNNmp1LVZhbmthMkE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/08/foundry-model-router-regions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Beyond code: Why modern software engineering is about building resilient, scalable systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Time for a new operating model? Genesys revamps agentic orchestration layer</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond code: Why modern software engineering is about building resilient, scalable systems  Business News Nigeria<br>
-    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ0ZKZGhHTUQxYld3Q3VaVVplR0xlRHpGdUJHU3BEQ0hVQjJsR0JHRTRMeFljLXQyNlFCRWR1czBhN2tNU25EMElMc2hUZ2RkY21RdHlnWkZDdTZqSzZldDB6U21ZYmJxZlItam5BOThTZTRhZVJXM1N5cmNxWmVxcXh3YWZ2VXhaV0Jkdmd6Slp5bm9iTFZwclUxMnlubTNpMjJlRmpoTlhfWDQybkQySE8zV1kySGJCUWVpdjJoN2hQTHl6bDBhVWwtM2hoWGdldGFGNzBfMHNOLTFWYVJZdExFRUcxTDE1MFN6YmtTWUNuQjZ0QnYyYWgtemVCZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Time for a new operating model? Genesys revamps agentic orchestration layer  Techzine Global<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYV85TnBZMnVPMmdpYUZfTEk3N3hJbFhGbThYbU1xZHNmLVFuakdTYnlzS0poZ1FuZEhhWWRDV0NVemhxbHNlckJ2eUJnTXR0cVBmM0gwUlA5NXhtNjdfWGR6ZTIzdEtLeHNramlNbjdoTnhrUDRDUjd5OU5MUkxMdzdRZE04SnB3Ynpsb2p3cU9lbGd0UWZFQVA4SWRhZE1DUVV2c2k1S25qMHd4Qkt0YUk4d2dmLWtUSzdySmF1OFJka28?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-04 20:23 UTC_
+_Last updated: 2026-09-04 22:49 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
