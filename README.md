@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience  Business Wire<br>
+    <b>Concept Overview:</b> Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training: Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQTC1IMzZFWk0wUExOVF9PX3RCNTlldXczYlZDNFNaRzJPRUxkQmM1NGhjMXIzY1dYS3Rzc2RBcms5TGJFenZCamlDZDBaR1RVbEJDNUM5bXdHa1ozOWlvdkxESnB0X1R1R0VEdjd2MWFTU2JQZHhLazBtS0x5TkFTUEsxVVk1Nm4yNXJySWZUeW5XdzRRWEdfbWhpRjRfYjRQRWlZNHJhVW9RVHVWbGprbllsT0t1dnJCTi1NUGRWd2JfSFZZVF9LclA3bFZOVm5MZmdqRk9lRS0wM002Um9hQlB1TG5wdzZldXd5WWpmclAzQVpBbndzUmhJQndqakM3dHhxRUxQMWQtQQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Airbnb Cuts Authentication Code by 60% with Server Driven Architecture: Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection. The new Flexible Authentication system reduced authentication related code by 60%, cut the web client bundle by 100 KB, improved successful authentication by 2.6%, reduced duplicate account creation by 27%, and lowered OTP costs by 11%. By Leela Kumili<br>
+    <b>Concept Overview:</b> Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens: Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned "gist" tokens, improving throughput and reducing inference cost. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
+    <b>Concept Overview:</b> OpenAI Details GPT-Live’s Architecture for Continuous Stateful Voice Interaction: OpenAI recently published an engineering account of GPT-Live. It described how they designed the system to maintain continuous voice interaction while separating latency-sensitive media processing from broader application work. The live path contains the media pipeline and inference loop, while delegation, tool use, persistence, and other application logic run behind an asynchronous RPC boundary. By Eran Stiller<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/openai-gpt-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-05 05:19 UTC_
+_Last updated: 2026-09-05 10:04 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
