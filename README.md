@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.70%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.71%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind: Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Copilot tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> PlayTiger Brings Agentic Orchestration to Roblox Through ChatGPT and Claude  Yahoo Finance<br>
+    <b>Concept Overview:</b> Genesys Launches New Innovations that Advance Genesys Cloud as the Agentic Orchestration Platform for Customer Experience  Business Wire<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRllWU3FqLTl2Nmptb0tsUms2Tjd2d3BBRXFxQThKbmxrNHlTWWVJdjZfeHlBRVlPVXk3THRONjgxRm55Y0JuQW16SXJSenV4bXdFQV9SN1M5QXRQYnBMRTF6bmdkd3NoWmd3d29HMkEzUUNKWjBPdjI1TEJudFdaU1lvUFJSSU5YZ0hteFdQb3pUeUIyY2ZvQklwVWE0TWVXbEdNNmp1LVZhbmthMkE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQTC1IMzZFWk0wUExOVF9PX3RCNTlldXczYlZDNFNaRzJPRUxkQmM1NGhjMXIzY1dYS3Rzc2RBcms5TGJFenZCamlDZDBaR1RVbEJDNUM5bXdHa1ozOWlvdkxESnB0X1R1R0VEdjd2MWFTU2JQZHhLazBtS0x5TkFTUEsxVVk1Nm4yNXJySWZUeW5XdzRRWEdfbWhpRjRfYjRQRWlZNHJhVW9RVHVWbGprbllsT0t1dnJCTi1NUGRWd2JfSFZZVF9LclA3bFZOVm5MZmdqRk9lRS0wM002Um9hQlB1TG5wdzZldXd5WWpmclAzQVpBbndzUmhJQndqakM3dHhxRUxQMWQtQQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Airbnb Cuts Authentication Code by 60% with Server Driven Architecture: Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection. The new Flexible Authentication system reduced authentication related code by 60%, cut the web client bundle by 100 KB, improved successful authentication by 2.6%, reduced duplicate account creation by 27%, and lowered OTP costs by 11%. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-05 00:39 UTC_
+_Last updated: 2026-09-05 05:19 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
