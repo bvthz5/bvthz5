@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.73%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.74%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>1️⃣ Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere: This week's Java roundup for August 24th, 2026, features news highlighting: the GA release of Atmosphere 4.0; point releases of GraalVM, Azul Payara and Quarkus; a maintenance release of WildFly 41; milestone releases of Jakarta Data and Eclipse JNoSQL; a beta release of the September 2026 edition of Open Liberty; and the release of Docker images for GlassFish 8.0.4. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Eliminating Long-Lived Credentials in GCP with Workload Identity Federation: Long-lived GCP service account keys are secrets that must be managed forever, are hard to rotate, and are easy to leak. Scaling Workload Identity Federation to 120+ production projects shows why it changes how machine identity is approached entirely: keys are secrets to manage, federated identities are trust relationships configured once, gated by attribute conditions. By Shijin Nair<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/gcp-wif-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Airbnb Cuts Authentication Code by 60% with Server Driven Architecture: Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection. The new Flexible Authentication system reduced authentication related code by 60%, cut the web client bundle by 100 KB, improved successful authentication by 2.6%, reduced duplicate account creation by 27%, and lowered OTP costs by 11%. By Leela Kumili<br>
+    <b>Concept Overview:</b> Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind: Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Applying Copilot tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training: Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **382** | **341** | **3** |
+| **383** | **341** | **3** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-05 16:34 UTC_
+_Last updated: 2026-09-05 18:49 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
