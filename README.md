@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ News</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026  PR Newswire<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzFMc3lYV29yNWpnS0dHLVlhRk5wVHNUUi1GVm1UakxsUGxORFhqOHJkQ19FYTZzaEVRdmFwc3NHVnl2OGp5WTJPbzBNRGROdzhFSnNybFB0VjhzTW9HdHB0SDlHY2czaUVaU2xjMkFEMU1IelRhNHlWMWRLVVBkS3ZfZnhzU1JHNWQ5SFJuUS1qR1Z3TjBEQXJWcFV4RjZZR2xUWkxWRVlKSDg1Q0xMY2g0YV9BOTNwTHR5S0VkUkdLSEI2MWJCUktwREN5MFVSeURRWkQyd0J6V0RfV2pXQ0czMDg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> News - 580th SWES secures second landmark software milestone for combat rescue helicopter  DVIDS<br>
+    <b>Implementation Use Case:</b> Applying News tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlM4SGFaa0ZDTGczSWdRNkkzam42NHhxOEZyUEpyMU5rZk11REE1LWt5bUVMeHp4RzFwYlhLRjY1aEh2ZEJQWTVQNDFNMjdFSDg5dFlZeEZaMUM5R2UyZ09DSU94RzcwZlNkX0NwZkd2VFdsYTZPOHBpWllscFpkTEJIZGZjOU1oZEpJbmhfTTkzVlk5cURzNkJWYTQ2bklmSUhvX1F4VnJtSS14b2Z3VG5lVjVodw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale  01net<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0pLUzZFSFp3LTFNT2U3TGQzYlZhdXRTdXJ5RmNqaF82cFlXTTJpNmIyT1B4TE51Uy03dE5wNVctaEZlODh2SG5BS0F0aXJGY3B5S1dzb1pySTdoRUdtN0ktam5QSEtJeVlmVFFvMnVZNDY3U1dHMlQyQlV1R3RoUFFpVUlBeW56dmxZeVprWWZvcHhOeTVZdlRoRURrR2JUd2Z5OGdxLXlINUtBcXVxS1M1WUwxeTlwaXAtNjIyV01zdDVhR0RucmRPYWc4aDNmY19teE8tOFNxYTRVR3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days Behind: Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers<br>
+    <b>Implementation Use Case:</b> Applying Copilot tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/copilot-code-review-azure-repos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Concept Overview:</b> Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives: Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Mantis to address the high rate of false positives and hallucinated vulnerabilities produced by conventional AI-powered code scanning. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **381** | **341** | **4** |
+| **382** | **341** | **4** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-06 10:25 UTC_
+_Last updated: 2026-09-06 13:58 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
