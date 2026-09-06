@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.77%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.78%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has added optional OAuth scopes, letting client owners mark which permissions users may deselect at consent. The company names MCP servers as the motivating case, since agents request the union of everything they might do. Partial consent exists elsewhere, but developer control over which scopes are droppable does not. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Beyond code: Why modern software engineering is about building resilient, scalable systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond code: Why modern software engineering is about building resilient, scalable systems  Business News Nigeria<br>
-    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxObm1zRGp0UGdyQjFzOXFtdVk2TFE1ZVF1ZkNqSlp3LWdZTDRtcUl2STJsc2VaZms0anpoQ29VQXRQdUdPS3M3OHFhdHlJbG5YMng1OUlhdV9zTVhZTHA2SGgwYmNDWThaR1MyRUppdkNqZkNqby1qeldlOTV0cElLX2FPSWRmQWJpdDlJU1ViWnkzTGpXSGFDckduRzhLZFNQV21nMHZQR2d2bllYaWdOeF9WQ0kwdTUweGJEdkRKb0FhdUkwSDBTa0hNaDI?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ DoorDash’s Flux Runs 130,000 Engineering Tasks through Cloud-Based Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> DoorDash’s Flux Runs 130,000 Engineering Tasks through Cloud-Based Agents: DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly. Flux uses isolated Firecracker microVMs, an MCP gateway, reusable playbooks, and multiple invocation surfaces to run agent workflows with scoped access and centralized auditing. By Leela Kumili<br>
+    <b>Concept Overview:</b> Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026  PR Newswire<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzFMc3lYV29yNWpnS0dHLVlhRk5wVHNUUi1GVm1UakxsUGxORFhqOHJkQ19FYTZzaEVRdmFwc3NHVnl2OGp5WTJPbzBNRGROdzhFSnNybFB0VjhzTW9HdHB0SDlHY2czaUVaU2xjMkFEMU1IelRhNHlWMWRLVVBkS3ZfZnhzU1JHNWQ5SFJuUS1qR1Z3TjBEQXJWcFV4RjZZR2xUWkxWRVlKSDg1Q0xMY2g0YV9BOTNwTHR5S0VkUkdLSEI2MWJCUktwREN5MFVSeURRWkQyd0J6V0RfV2pXQ0czMDg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Genesys Announces Strong Second Quarter Fiscal Year 2027 Momentum and Accelerates Agentic Orchestration at Enterprise Scale  01net<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0pLUzZFSFp3LTFNT2U3TGQzYlZhdXRTdXJ5RmNqaF82cFlXTTJpNmIyT1B4TE51Uy03dE5wNVctaEZlODh2SG5BS0F0aXJGY3B5S1dzb1pySTdoRUdtN0ktam5QSEtJeVlmVFFvMnVZNDY3U1dHMlQyQlV1R3RoUFFpVUlBeW56dmxZeVprWWZvcHhOeTVZdlRoRURrR2JUd2Z5OGdxLXlINUtBcXVxS1M1WUwxeTlwaXAtNjIyV01zdDVhR0RucmRPYWc4aDNmY19teE8tOFNxYTRVR3c?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **382** | **341** | **4** |
+| **381** | **341** | **4** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-06 05:35 UTC_
+_Last updated: 2026-09-06 10:25 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
