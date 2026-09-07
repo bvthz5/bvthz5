@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Shopify Introduces Gisting: Compressing LLM</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">System Prompts into Learned Tokens</text>
+    <text x="50" y="85" class="title-text">Cohere’s Parse 5 Promises Efficient Multi-Modal</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Information Extraction from Complex Documents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens: Shopify&apos;s</text>
-    <text x="50" y="187" class="body-text">engineering introduced gisting, a novel technique for compressing long LLM prompts into a sm...</text>
+    <text x="50" y="170" class="body-text">Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents:</text>
+    <text x="50" y="187" class="body-text">Cohere has launched Parse 5, a multimodal foundation model designed to extract structured da...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Cohere’s tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Meta’s Muse Code Pushes AI Deeper into Software</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering</text>
+    <text x="50" y="85" class="title-text">&quot;The best model for software engineering today.&quot;</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">OpenAI has released Astra, the company&apos;s most p...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Meta’s Muse Code Pushes AI Deeper into Software Engineering  ADTmag</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">&quot;The best model for software engineering today.&quot; OpenAI has released Astra, the company&apos;s most</text>
+    <text x="50" y="187" class="body-text">powerful model yet its most controversial  dev.ua</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Java News Roundup: GraalVM, Jakarta Data,</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere</text>
+    <text x="50" y="85" class="title-text">Beyond Zero: Google Publishes Successor to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">BeyondCorp</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere:</text>
-    <text x="50" y="187" class="body-text">This week&apos;s Java roundup for August 24th, 2026, features news highlighting: the GA release o...</text>
+    <text x="50" y="170" class="body-text">Beyond Zero: Google Publishes Successor to BeyondCorp: In a recent research paper, Google</text>
+    <text x="50" y="187" class="body-text">introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonom...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
+    <text x="50" y="233" class="body-text">Applying Beyond tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
