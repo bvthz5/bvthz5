@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.88%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.89%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026  PR Newswire<br>
+    <b>Concept Overview:</b> Genesys Unveils AI Control Plane and Agentic Orchestration Stack at Xperience 2026  CX Today<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzFMc3lYV29yNWpnS0dHLVlhRk5wVHNUUi1GVm1UakxsUGxORFhqOHJkQ19FYTZzaEVRdmFwc3NHVnl2OGp5WTJPbzBNRGROdzhFSnNybFB0VjhzTW9HdHB0SDlHY2czaUVaU2xjMkFEMU1IelRhNHlWMWRLVVBkS3ZfZnhzU1JHNWQ5SFJuUS1qR1Z3TjBEQXJWcFV4RjZZR2xUWkxWRVlKSDg1Q0xMY2g0YV9BOTNwTHR5S0VkUkdLSEI2MWJCUktwREN5MFVSeURRWkQyd0J6V0RfV2pXQ0czMDg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjhTTllIMlgxT093MlloeXBCVjZ1R2lDOVFBblpkd0NlZjB5cnFZSTZSdUNuREpSM2NNcUhTamphQ3lmbEY1X1ZBTWwyMk1zeXRtRlg1M041eDJnOG1QeklKbFowX1NjbC13aVo5UjFhZGh1UlFmaWo5UVVyUTFTcFNNQVpDak9OTnl0bg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Beyond Zero: Google Publishes Successor to BeyondCorp</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond Zero: Google Publishes Successor to BeyondCorp: In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training: Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents: Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents. The 2.3-billion-parameter system converts visually rich PDFs into Markdown while providing bounding box coordinates for visual grounding. It has been evaluated against over 2,000 enterprise pages, achieving an average score of 79.2 in key performance areas. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Applying Cohere’s tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  adtmag.com<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-08 21:37 UTC_
+_Last updated: 2026-09-08 23:53 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
