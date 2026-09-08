@@ -478,18 +478,7 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training: Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days behind</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Copilot Code Review Reaches Azure Repos, Billed Per Review with Reporting Two Days behind: Microsoft opened GitHub Copilot code review for Azure Repos to all Azure DevOps customers, after acknowledging that many are not ready to migrate to GitHub. Reviews bill per use through the linked Azure subscription and appear in Cost Management 48 hours later. Budgets notify but do not stop reviews, and concurrency caps at five per organization. By Steef-Jan Wiggers<br>
@@ -500,13 +489,24 @@
 </details>
 
 <details>
-  <summary><b>3️⃣ Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026  PR Newswire<br>
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzFMc3lYV29yNWpnS0dHLVlhRk5wVHNUUi1GVm1UakxsUGxORFhqOHJkQ19FYTZzaEVRdmFwc3NHVnl2OGp5WTJPbzBNRGROdzhFSnNybFB0VjhzTW9HdHB0SDlHY2czaUVaU2xjMkFEMU1IelRhNHlWMWRLVVBkS3ZfZnhzU1JHNWQ5SFJuUS1qR1Z3TjBEQXJWcFV4RjZZR2xUWkxWRVlKSDg1Q0xMY2g0YV9BOTNwTHR5S0VkUkdLSEI2MWJCUktwREN5MFVSeURRWkQyd0J6V0RfV2pXQ0czMDg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Time for a new operating model? Genesys revamps agentic orchestration layer</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Time for a new operating model? Genesys revamps agentic orchestration layer  Techzine Global<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYV85TnBZMnVPMmdpYUZfTEk3N3hJbFhGbThYbU1xZHNmLVFuakdTYnlzS0poZ1FuZEhhWWRDV0NVemhxbHNlckJ2eUJnTXR0cVBmM0gwUlA5NXhtNjdfWGR6ZTIzdEtLeHNramlNbjdoTnhrUDRDUjd5OU5MUkxMdzdRZE04SnB3Ynpsb2p3cU9lbGd0UWZFQVA4SWRhZE1DUVV2c2k1S25qMHd4Qkt0YUk4d2dmLWtUSzdySmF1OFJka28?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-08 05:48 UTC_
+_Last updated: 2026-09-08 10:46 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
