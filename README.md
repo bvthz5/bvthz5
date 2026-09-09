@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Time for a new operating model? Genesys revamps agentic orchestration layer</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026  PR Newswire<br>
+    <b>Concept Overview:</b> Time for a new operating model? Genesys revamps agentic orchestration layer  Techzine Global<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMzFMc3lYV29yNWpnS0dHLVlhRk5wVHNUUi1GVm1UakxsUGxORFhqOHJkQ19FYTZzaEVRdmFwc3NHVnl2OGp5WTJPbzBNRGROdzhFSnNybFB0VjhzTW9HdHB0SDlHY2czaUVaU2xjMkFEMU1IelRhNHlWMWRLVVBkS3ZfZnhzU1JHNWQ5SFJuUS1qR1Z3TjBEQXJWcFV4RjZZR2xUWkxWRVlKSDg1Q0xMY2g0YV9BOTNwTHR5S0VkUkdLSEI2MWJCUktwREN5MFVSeURRWkQyd0J6V0RfV2pXQ0czMDg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYV85TnBZMnVPMmdpYUZfTEk3N3hJbFhGbThYbU1xZHNmLVFuakdTYnlzS0poZ1FuZEhhWWRDV0NVemhxbHNlckJ2eUJnTXR0cVBmM0gwUlA5NXhtNjdfWGR6ZTIzdEtLeHNramlNbjdoTnhrUDRDUjd5OU5MUkxMdzdRZE04SnB3Ynpsb2p3cU9lbGd0UWZFQVA4SWRhZE1DUVV2c2k1S25qMHd4Qkt0YUk4d2dmLWtUSzdySmF1OFJka28?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: From S3 to GPU in One Copy: Rethinking Data Loading for ML Training: Onur Satici explains how Vortex, an open-source columnar file format under the Linux Foundation, revolutionizes high-throughput data loading. He details how cascading lightweight encodings, layout-based segment pruning, and zero-copy memory pipelines eliminate CPU/NVMe bottlenecks to stream S3 data straight to GPUs at speeds up to 60 Gbps without requiring upfront data reprocessing. By Onur Satici<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/vortex-columnar-file-format-gpu-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Beyond Zero: Google Publishes Successor to BeyondCorp</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond Zero: Google Publishes Successor to BeyondCorp: In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
+    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-09 03:31 UTC_
+_Last updated: 2026-09-09 08:44 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
