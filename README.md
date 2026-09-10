@@ -478,18 +478,7 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era: This eMag examines how architects can lead with clarity in a rapidly evolving engineering world, distilling industry insights into field-tested practices for teams. Together, these stories reveal a core theme: the technology leader’s role is expanding from building systems to guiding how tech behaves and learns, while enabling engineers and organizations to bring out their best. By InfoQ<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Netflix Moves toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Netflix Moves toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Netflix Moves toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs: Netflix is moving toward the open-source Apache Flink Autoscaler for more than 30,000 streaming jobs across multiple AWS regions. The operator-level approach addresses limitations of Netflix’s cluster level autoscaler for complex, stateful pipelines. Netflix reports a 58% reduction in annualized Flink compute expenditure for one team, saving approximately $1.1 million annually. By Leela Kumili<br>
@@ -500,10 +489,21 @@
 </details>
 
 <details>
+  <summary><b>2️⃣ How Much Impact Will AI Have on IoT Software Engineering?</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> How Much Impact Will AI Have on IoT Software Engineering?  EE Times<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFhoZTdWOXNMempUaVBRTWdYOEdsS3BNRVVOUkRDckVfVWJHM3AzZHBrZzlYSkwyYmRoZ2xCa2J0dHhVN3FkVUdrWEl1aDU4MUFDLXV3VzFxQ05aT202Vm1fUzRPLTdmUjFEV0pTdDU0WE1SZHNaVkpCeFIwVGJJenNDRlVWSE5X?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>3️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
+    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  infoworld.com<br>
     <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
     <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-10 18:11 UTC_
+_Last updated: 2026-09-10 21:27 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
