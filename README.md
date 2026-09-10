@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.92%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.94%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cohere’s Parse 5 Promises Efficient Multi-Modal Information Extraction from Complex Documents: Cohere has launched Parse 5, a multimodal foundation model designed to extract structured data from complex enterprise documents. The 2.3-billion-parameter system converts visually rich PDFs into Markdown while providing bounding box coordinates for visual grounding. It has been evaluated against over 2,000 enterprise pages, achieving an average score of 79.2 in key performance areas. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Applying Cohere’s tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  MarkTechPost<br>
+    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cohere-multimodal-parse/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens: Shopify's engineering introduced gisting, a novel technique for compressing long LLM prompts into a smaller set of learned "gist" tokens, improving throughput and reducing inference cost. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Airbnb Cuts Authentication Code by 60% with Server Driven Architecture: Airbnb redesigned its authentication architecture around server driven flows and policy based challenge selection. The new Flexible Authentication system reduced authentication related code by 60%, cut the web client bundle by 100 KB, improved successful authentication by 2.6%, reduced duplicate account creation by 27%, and lowered OTP costs by 11%. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ What it took to triple software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Beyond Zero: Google Publishes Successor to BeyondCorp</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What it took to triple software engineering output in 18 months  Adafruit<br>
-    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Beyond Zero: Google Publishes Successor to BeyondCorp: In a recent research paper, Google introduced Beyond Zero, a “security model for the AI era” that extends Zero Trust to autonomous AI agents. The new approach moves access decisions from the application level to individual resources and actions, combining static authorization controls with dynamic AI-driven decisions to enable machine-speed enforcement for humans and agents. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Applying Beyond tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDB0QWxXTnN5MEx6U0twSEx5dExpdUtKQ0Y4RVM2NjZ5Yi1sVjNBY2UyQUFuLWJyT2NXQkVKMTYyaXRqVGpNbmZ6dC1rdUpUcEE2ZlJ1YnNzWjRib0xwR3JiSUxHNk5JNVRLdkFGUDlfZ0hod0ZuaXJXeUJHTGQtMzZid3pKMFZBRmhYclNURnlqdURRTjVpY3J4ZWFTZGtwMWVR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-09 22:59 UTC_
+_Last updated: 2026-09-10 00:59 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
