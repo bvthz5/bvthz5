@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-505.73%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-505.74%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Meta's Recipe for Building Agents as "Organizational Second Brains"</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta's Recipe for Building Agents as "Organizational Second Brains": Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an "organizational second brain", was built for a specialized compliance domain, but Meta argues the architecture generalizes to areas like security, finance, engineering, and procurement. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Google Mantis: an Agentic Vulnerability Scanning Harness for Reducing False Positives</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ How Much Impact Will AI Have on IoT Software Engineering?</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google Mantis: an Agentic Vulnerability Scanning Harness for Reducing False Positives: Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Mantis to address the high rate of false positives and hallucinated vulnerabilities produced by conventional AI-powered code scanning. By Sergio De Simone<br>
+    <b>Concept Overview:</b> How Much Impact Will AI Have on IoT Software Engineering?  EE Times<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFhoZTdWOXNMempUaVBRTWdYOEdsS3BNRVVOUkRDckVfVWJHM3AzZHBrZzlYSkwyYmRoZ2xCa2J0dHhVN3FkVUdrWEl1aDU4MUFDLXV3VzFxQ05aT202Vm1fUzRPLTdmUjFEV0pTdDU0WE1SZHNaVkpCeFIwVGJJenNDRlVWSE5X?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Netflix Moves toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Netflix Moves toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs: Netflix is moving toward the open-source Apache Flink Autoscaler for more than 30,000 streaming jobs across multiple AWS regions. The operator-level approach addresses limitations of Netflix’s cluster level autoscaler for complex, stateful pipelines. Netflix reports a 58% reduction in annualized Flink compute expenditure for one team, saving approximately $1.1 million annually. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Netflix tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise  Carnegie Mellon University<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbERTek1JVGdsY3NqQlYzRUZlNkN5WTFKdUNsamRUT2RHYXI3NTZhazRJWjV5M1hEUUhIWkFkQldqbDBKVEZOLVcxN3c3dWZKck1SYjNVeDVBY0ROa0x4VjR6TS1tbDdfWmhxVVJjUjJvYzFGT2FuczBhTVhKSk9ZbFUtczhDWWE1ekcxOWRWZEhrTE84ZXJqNHBkVmRaNng1bEViUDg1bm5xWlpaTV9QQ2tiLWRhMkdOd2t1TFgxQ192RXFSWU9NV3NDMTRaZ25JNmFkWjhyeTBfdTFEV1E?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-11 20:36 UTC_
+_Last updated: 2026-09-11 23:01 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
