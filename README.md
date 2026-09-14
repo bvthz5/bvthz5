@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.49%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.50%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Session Traces and Cost Controls Help Diagnose AI Agent Failures</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Session traces and cost controls are emerging as key observability techniques for diagnosing AI agent failures, helping teams spot tool-call loops and runaway spend while preserving enough execution context for post-incident debugging. By Mark Silvester<br>
+    <b>Concept Overview:</b> Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server: Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting tricks, demonstrating how to maintain sub-10ms performance at scale while integrating seamlessly into Kubernetes environments with hardware-level security. By Felipe Huici<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/observability-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ LLMs at the Edge: Software Engineering for the Edge–Cloud Continuum</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments: Standard chaos engineering assumes experiments stop cleanly, blast radius is knowable in advance, and production is fair game. Payment systems violate all three. Salim Adedeji describes ECS-specific failure modes from enterprise deployments: a 60-second DNS TTL that produced 93-second failover, retry logic amplifying database load 2.4x, and AZ rebalancing loops that generic tooling misses. By Salim Adedeji<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/chaos-engineering-ecs-payments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> LLMs at the Edge: Software Engineering for the Edge–Cloud Continuum  Wiley Online Library<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNU25OUWthN2hEaXNFLWo4aXZWNTFMbklLZVMzVjk3d2J4MWJfSVpBSThiQThHckU1S2FYNllYdHUyaUV5S2VYOHJkNWU1R3Mta05iX2Z1YXZxZnIzczVHSlJjYnFWYmhYOTBJQ1RqTklKRzlnbHRPZ1BtMmp5eTNnbEFaaEFaZzZJTWhBQg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Meta's Recipe for Building Agents as "Organizational Second Brains"</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Google Mantis: an Agentic Vulnerability Scanning Harness for Reducing False Positives</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Meta's Recipe for Building Agents as "Organizational Second Brains": Meta describes how an AI agent can be designed to capture the logic and expertise of domain experts, rather than simply storing documents or retrieving relevant information. The system, dubbed an "organizational second brain", was built for a specialized compliance domain, but Meta argues the architecture generalizes to areas like security, finance, engineering, and procurement. By Sergio De Simone<br>
+    <b>Concept Overview:</b> Google Mantis: an Agentic Vulnerability Scanning Harness for Reducing False Positives: Google has open-sourced Mantis, an AI-agent framework designed to automate the software vulnerability lifecycle, from identifying and validating vulnerabilities to reproducing and fixing them. Google says it developed Mantis to address the high rate of false positives and hallucinated vulnerabilities produced by conventional AI-powered code scanning. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-13 22:56 UTC_
+_Last updated: 2026-09-14 00:50 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
