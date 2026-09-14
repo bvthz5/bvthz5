@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.54%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.60%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ How Figma Uses AI Agents for Security</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> How Figma Uses AI Agents for Security: The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigations, reducing repetitive work and helping engineers resolve complex alerts about 70% faster. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments: Standard chaos engineering assumes experiments stop cleanly, blast radius is knowable in advance, and production is fair game. Payment systems violate all three. Salim Adedeji describes ECS-specific failure modes from enterprise deployments: a 60-second DNS TTL that produced 93-second failover, retry logic amplifying database load 2.4x, and AZ rebalancing loops that generic tooling misses. By Salim Adedeji<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/chaos-engineering-ecs-payments/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ The world of software engineering and AI meets in the Bay Area this September</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> The world of software engineering and AI meets in the Bay Area this September  The Next Web<br>
+    <b>Concept Overview:</b> Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server: Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting tricks, demonstrating how to maintain sub-10ms performance at scale while integrating seamlessly into Kubernetes environments with hardware-level security. By Felipe Huici<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE50Sl9PMHNlUEZCV29tM00tcXBPQkZVYWdNc3FzY3ZXb1BHdkpnc1N3M2JhZmVYaEczN3VnbEpUNWRvZGNSY1k1MXA4RHpBRkVQUnVHZHVFT0VhSGMtM1dRR2pvWlFCMVZMR1F2NzJEWldYQ3hSTmM0?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Tata Elxsi Invests in KAVIA AI to Expand AI-Driven Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Tata Elxsi Invests in KAVIA AI to Expand AI-Driven Software Engineering  Machine Maker<br>
+    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3Nma01WSEM4OE9GSFZ6bW1CSFZjaHNzeXlQaFZFTURVeXZFZTE1WW05b0lzc0FTZ1d1dm8yeE5ZOUdkX0tMbFhkeVNobFkxeW5hbExUQlBDUjlSMFFmYWw1d1BXYTVESUVzRzUyMDlKeGM4NDBrTkItOC1qZUN4RlhwVmY0dmpXaVJTZGFvNzd0b052SFk5djRaODdzN0NZR3dlWG1CWEo?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **392** | **361** | **2** |
+| **393** | **361** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-14 05:53 UTC_
+_Last updated: 2026-09-14 12:02 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
