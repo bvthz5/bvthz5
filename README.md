@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.62%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.65%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: When Spec-Driven Development Pays off</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff: AWS has extended Lambda SnapStart to container image functions, which hold up to 10 GB against 250 MB for zip archives. Teams previously chose between dependency headroom and sub-second startup. A Reddit thread from a month earlier shows what that cost: stripping whitespace and docstrings from installed packages to stay under the limit. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows: Netflix has reworked its Conductor workflow orchestration engine to handle larger workloads, increasing supported workflow size from about 2,500 to 30,000 tasks and reducing p99 workflow evaluation latency by about 40%. Conductor 4.0 separates workflow metadata from task data, moves evaluation to asynchronous processing, and introduces dynamic worker allocation and concurrency controls. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Netflix tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Article: When Spec-Driven Development Pays off: AI coding assistants have become a core part of software development. AI-generated code has shown productivity gains, but it's also contributing to security weaknesses and familiar bug patterns. In this article, author Nitin Garg highlights the bottleneck has moved from code generation to code verification, and how to detect & mitigate it when the AI-generated behavior diverges from the intent. By Nitin Garg<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/netflix-conductor-4-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/when-spec-driven-development-pays-off/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: How to Run on Three Clouds at Once, and When Not to</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs: Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility. She demonstrates an engineering harness built on a knowledge graph to streamline feedback loops, optimize token usage, and maintain system reliability. By Cassie Shum<br>
+    <b>Concept Overview:</b> Presentation: How to Run on Three Clouds at Once, and When Not to: Ross McFarlane and Kevin Holditch discuss Form3's evolution from a single-cloud setup to a triple active multi-cloud architecture. They share key engineering strategies for cross-cloud networking, distributed databases with CockroachDB and NATS, custom Kubernetes operators, and navigating distinct regional disaster recovery expectations across the UK, Europe, and US financial markets. By Ross McFarlane, Kevin Holditch<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-15 01:13 UTC_
+_Last updated: 2026-09-15 07:18 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
