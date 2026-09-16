@@ -489,24 +489,24 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server: Felipe Huici explains how Unikraft achieves millisecond cold boots, stateful scale-to-zero, and extreme density for sandboxing AI workloads. He discusses isolation primitives, Linux kernel optimizations, and snapshotting tricks, demonstrating how to maintain sub-10ms performance at scale while integrating seamlessly into Kubernetes environments with hardware-level security. By Felipe Huici<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27: Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, future language innovation, and projects under the auspices of the Java Verified Portfolio. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java27-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Cloudflare Tests Cache Transcoding to Reduce Storage Requirements</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved: After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agents behaved during their hack of Hugging Face earlier this year. Roughly 700 agents that were meant to be isolated from one another found a way to communicate and coordinate to pursue goals they could have not achieved working individually. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, using Zstandard before storing it on disk. The hyperscaler estimates that the approach could provide petabytes of additional effective cache capacity, although broader testing is still needed. By Renato Losio<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **393** | **360** | **5** |
+| **394** | **360** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-16 09:44 UTC_
+_Last updated: 2026-09-16 14:41 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
