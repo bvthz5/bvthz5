@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.74%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.75%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default: AWS has released Amazon Linux 2027 in public preview, built on the AL2023 baseline with kernel 7.1 and SELinux in enforcing mode by default. Applications that pass on AL2023's permissive mode may fail under enforcing. The announcement gives no AL2023 end-of-support date, no GA date, and no in-place migration path. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Amazon tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27: Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, future language innovation, and projects under the auspices of the Java Verified Portfolio. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
-    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java27-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Cloudflare Tests Cache Transcoding to Reduce Storage Requirements</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, using Zstandard before storing it on disk. The hyperscaler estimates that the approach could provide petabytes of additional effective cache capacity, although broader testing is still needed. By Renato Losio<br>
+    <b>Concept Overview:</b> Lyft Moves Streaming Fleet to Apache Flink Kubernetes Operator: Lyft has moved hundreds of production Flink jobs from a 2020 in-house Kubernetes operator to the Apache Flink Kubernetes Operator, unlocking last-state upgrades, in-place autoscaling and resource autotuning across the fleet. By Mark Silvester<br>
     <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
     <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/lyft-flink-k8s-operator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Article: Your Next DSL Author Is a Language Model</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Article: Your Next DSL Author Is a Language Model: In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compile-repair loops can make model-generated DSL output more reliable. By Irakli Betchvaia<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Article: Implementing Durable Workflows on Postgres Without an External Orchestrator</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Article: Implementing Durable Workflows on Postgres Without an External Orchestrator: Postgres can serve as the durable state store and coordination layer for workflows, eliminating the need for an external orchestrator. SKIP LOCKED enables concurrent work processing, primary-key checkpoints enforce idempotency, and leases support crash recovery. Workflow sleeps and human approvals can also be persisted as database state and survive restarts. By Raman Varma<br>
+    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
+    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/durable-workflows-postgres/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **394** | **360** | **5** |
+| **393** | **360** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-16 14:41 UTC_
+_Last updated: 2026-09-16 18:43 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
