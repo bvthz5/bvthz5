@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-507.00%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-507.04%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ What it took to triple software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs: Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility. She demonstrates an engineering harness built on a knowledge graph to streamline feedback loops, optimize token usage, and maintain system reliability. By Cassie Shum<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> What it took to triple software engineering output in 18 months  blog.adafruit.com<br>
+    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDB0QWxXTnN5MEx6U0twSEx5dExpdUtKQ0Y4RVM2NjZ5Yi1sVjNBY2UyQUFuLWJyT2NXQkVKMTYyaXRqVGpNbmZ6dC1rdUpUcEE2ZlJ1YnNzWjRib0xwR3JiSUxHNk5JNVRLdkFGUDlfZ0hod0ZuaXJXeUJHTGQtMzZid3pKMFZBRmhYclNURnlqdURRTjVpY3J4ZWFTZGtwMWVR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman: In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents are doing most of the work on which junior developers were trained. Hanselman suggests the software industry should adopt a preceptorship model similar to the nursing profession. By Scott Hanselman<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
+    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB</b> &nbsp;|&nbsp; 🏷️ <i>Data Engineering</i></summary>
+  <summary><b>3️⃣ Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB: Agoda migrated its 1.5 TB hotel Price Cache from 72 SQL Server shards to DragonflyDB to handle growing read and write volumes. The migration used staged dual reads, parity validation, gradual traffic shifting, and decentralized failover detection. Agoda reports an approximately eightfold reduction in P99 read latency, with two DragonflyDB clusters providing high availability. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.<br>
-    <b>Strategic Value:</b> Ensures high throughput and ultra-low latency for analytical queries.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved: After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agents behaved during their hack of Hugging Face earlier this year. Roughly 700 agents that were meant to be isolated from one another found a way to communicate and coordinate to pursue goals they could have not achieved working individually. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-17 20:03 UTC_
+_Last updated: 2026-09-17 23:25 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
