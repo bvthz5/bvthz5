@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.77%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.78%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cloudflare Tests Cache Transcoding to Reduce Storage Requirements</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Tieto And GN Expand Collaboration Into Global Software Engineering Partnership</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare recently described a prototype called Cache Transcoding that compresses eligible cache content, mainly uncompressed text such as HTML, JSON, CSS, and JavaScript, using Zstandard before storing it on disk. The hyperscaler estimates that the approach could provide petabytes of additional effective cache capacity, although broader testing is still needed. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Tieto And GN Expand Collaboration Into Global Software Engineering Partnership  TradingView<br>
+    <b>Implementation Use Case:</b> Applying Tieto tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNnhVbFI5V0lSRWROcW9mRjJQNkpEYXhUMTBTR0JWSGZMZmRENDN0MlRxQTNGd2Q0ZE1MZlEwTlM5ZkN3UFg5TEhWMnhCRFNaemJaWXF1ck1jWFp4a0E0SWFvdmc2QnoyWUNUVU5VZU1xMDdPMXVybHdoMUx5dEhhMEozUXhKZVFYdU1zeHd3bGJuZTJoamh4T0s1Mlk0andkTHNfUDVMZ1Y3X2pza1FMU0pCaFNJd1FJZnd4anNscUNxOHVZNTdIbk9OdDY0UXZrWmh1ajlYd25Tc1hFUmdRMmV3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Agentic orchestration is the next big AI hurdle for telcos</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agentic orchestration is the next big AI hurdle for telcos  Fierce Network<br>
+    <b>Concept Overview:</b> Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs: Cassie Shum discusses why knowledge graphs serve as a critical foundation for agentic systems. Moving beyond basic RAG, she explains 4 practical architectural patterns: context bundling, decision provenance, code as truth, and agent visibility. She demonstrates an engineering harness built on a knowledge graph to streamline feedback loops, optimize token usage, and maintain system reliability. By Cassie Shum<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXlCMWJ1bTVTa2s5MUY0Ujd2bGVHWi16c3hqcHRfMmxLUVNYNk9mOGlUMFV4Z05QS1hCeGlzcFZ3OE9UWjRsdktBVFYtRGctMXFFUGVwcmNZOG1Bekw1a2pycWJsZ21CR1hDemJHTnZza0xaOEdKUUxPWXVHR0RsYlFGVldIM1hqUEtyaA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ SeQent acquires Open Automation Software</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ What it took to triple software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> SeQent acquires Open Automation Software  Engineering.com<br>
-    <b>Implementation Use Case:</b> Applying SeQent tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> What it took to triple software engineering output in 18 months  Adafruit<br>
+    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBiNV9TUEJHX01sVEltM05yVTBRWVhmQTlPR1lablVhdGhIU0tUZmduYlhudDJ5UVotMnkyX0hlVE9JMTdlNXh1SnpXWERKUS1SaF81cEgxQzRucFRHbFJSWXRMT1lyd1ctWVZ6YXNtYldyMDR6THZoWQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDB0QWxXTnN5MEx6U0twSEx5dExpdUtKQ0Y4RVM2NjZ5Yi1sVjNBY2UyQUFuLWJyT2NXQkVKMTYyaXRqVGpNbmZ6dC1rdUpUcEE2ZlJ1YnNzWjRib0xwR3JiSUxHNk5JNVRLdkFGUDlfZ0hod0ZuaXJXeUJHTGQtMzZid3pKMFZBRmhYclNURnlqdURRTjVpY3J4ZWFTZGtwMWVR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **394** | **360** | **5** |
+| **396** | **360** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-17 05:50 UTC_
+_Last updated: 2026-09-17 11:09 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
