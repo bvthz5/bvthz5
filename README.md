@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-507.04%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-507.06%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ What it took to triple software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What it took to triple software engineering output in 18 months  blog.adafruit.com<br>
-    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDB0QWxXTnN5MEx6U0twSEx5dExpdUtKQ0Y4RVM2NjZ5Yi1sVjNBY2UyQUFuLWJyT2NXQkVKMTYyaXRqVGpNbmZ6dC1rdUpUcEE2ZlJ1YnNzWjRib0xwR3JiSUxHNk5JNVRLdkFGUDlfZ0hod0ZuaXJXeUJHTGQtMzZid3pKMFZBRmhYclNURnlqdURRTjVpY3J4ZWFTZGtwMWVR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
-    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Independent Investigation of Hugging Face Incident Reveals How Agents Collaborated and Behaved: After six days of on-site investigation at OpenAI, a small team of METR and Redwood Research researchers provided an account of how OpenAI agents behaved during their hack of Hugging Face earlier this year. Roughly 700 agents that were meant to be isolated from one another found a way to communicate and coordinate to pursue goals they could have not achieved working individually. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/news/2026/09/metr-hugging-face-hack-report/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman: In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents are doing most of the work on which junior developers were trained. Hanselman suggests the software industry should adopt a preceptorship model similar to the nursing profession. By Scott Hanselman<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **396** | **360** | **5** |
+| **395** | **360** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-17 23:25 UTC_
+_Last updated: 2026-09-18 03:37 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
