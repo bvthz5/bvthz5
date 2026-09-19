@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Agoda Replaces 72-Shard SQL Server Price Cache</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">with DragonflyDB</text>
+    <text x="50" y="85" class="title-text">Tieto and GN expand collaboration into global</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">software engineering partnership</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB: Agoda migrated its 1.5 TB</text>
-    <text x="50" y="187" class="body-text">hotel Price Cache from 72 SQL Server shards to DragonflyDB to handle growing read and write ...</text>
+    <text x="50" y="170" class="body-text">Tieto and GN expand collaboration into global software engineering partnership  WebWire</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Refactoring large-scale data lakehouse pipelines, indexing, and vector similarity search.</text>
+    <text x="50" y="233" class="body-text">Applying Tieto tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Ensures high throughput and ultra-low latency for analytical queries.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,13 +91,35 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Agentic orchestration is the next big AI hurdle</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">for telcos</text>
+    <text x="50" y="85" class="title-text">Article: Architecting Secure and Scalable Facial</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Verification Systems</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Agentic orchestration is the next big AI hurdle for telcos  Fierce Network</text>
+    <text x="50" y="170" class="body-text">Article: Architecting Secure and Scalable Facial Verification Systems: When three thousand</text>
+    <text x="50" y="187" class="body-text">employees verify at once, synchronous API calls collapse. This article presents a four-layer...</text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Applying Article: tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 3 -->
+  <g class="slide-group slide-3" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
+    <text x="50" y="85" class="title-text">BU Welcomes First Cohort to Its Online MS in</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering for AI</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University</text>
     <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
@@ -106,28 +128,6 @@
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
-  <!-- Slide 3 -->
-  <g class="slide-group slide-3" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">What it took to triple software engineering</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">output in 18 months</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">What it took to triple software engineering output in 18 months  Adafruit</text>
-    <text x="50" y="187" class="body-text"></text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying What tools to modern development pipelines.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
