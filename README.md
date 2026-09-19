@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-507.10%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-507.11%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Tieto and GN expand collaboration into global software engineering partnership</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ From Memory-Hungry HNSW to Quantized SPANN: the Technical Evolution of Pinterest's Manas Platform</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Tieto and GN expand collaboration into global software engineering partnership  WebWire<br>
-    <b>Implementation Use Case:</b> Applying Tieto tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> From Memory-Hungry HNSW to Quantized SPANN: the Technical Evolution of Pinterest's Manas Platform: Pinterest Engineering has enhanced its Manas search platform to manage vast data, improving efficiency in search and discovery functions. By applying Scalar and Product Quantization, memory usage decreased significantly while maintaining high recall rates. The platform utilizes SSDs for optimized performance, and is transitioning to multi-vector models for refined relevance matching. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Applying From tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBIYUZVLUx1RXB1OVZhTHo5dzRQZnBkVzc2UGpiVVVDU3dnRzZXMk9YRkpBV2FDc2tVOFlFdlFDek1GVHlCVnlLY0RKY1Q1RFlLdU9aR1EyT2EwUnRFS2h0SXltRHBzbGprVkxYYUdYRQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/pinterest-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
+  <summary><b>2️⃣ DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27: Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, future language innovation, and projects under the auspices of the Java Verified Portfolio. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
-    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java27-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman: In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents are doing most of the work on which junior developers were trained. Hanselman suggests the software industry should adopt a preceptorship model similar to the nursing profession. By Scott Hanselman<br>
+    <b>Concept Overview:</b> DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags: DoorDash built a multi-agent LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repositories. The workflow combines live experimentation data through MCP, engineer approval, isolated Git worktrees, parallel agents, and automated validation. In an evaluation of 50 flags, 45 produced usable pull requests at an average of 13.8 minutes and $4.79 per cleanup. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment: Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two weeks to one hour. It centralizes infrastructure management, allowing runtime tool discovery and flexible model integration, while maintaining operational control. By Hien Luu<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **395** | **359** | **5** |
+| **397** | **359** | **5** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-19 08:37 UTC_
+_Last updated: 2026-09-19 12:56 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
