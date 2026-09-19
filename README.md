@@ -489,24 +489,24 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: Architecting Secure and Scalable Facial Verification Systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Architecting Secure and Scalable Facial Verification Systems: When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled detection and verification enabling 10x scaling, risk-based dynamic thresholds, and zero-trust privacy with consent gates and automated data purging for GDPR and HIPAA. By Praveen Kumar Gopalakrishnan<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27: Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, future language innovation, and projects under the auspices of the Java Verified Portfolio. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java27-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ BU Welcomes First Cohort to Its Online MS in Software Engineering for AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University<br>
+    <b>Concept Overview:</b> Podcast: How Will We Train Developers If AI Does the Routine Work: A Conversation with Scott Hanselman: In this podcast, Michael Stiefel spoke to Scott Hanselman about developing new software engineers when artificial intelligence agents are doing most of the work on which junior developers were trained. Hanselman suggests the software industry should adopt a preceptorship model similar to the nursing profession. By Scott Hanselman<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTRMY1dldkNLaDhFTU1kRkp0QUJtNkRzcWpWYlBjalhoNEgwUWg3VFZzOUJfUmxKQlllM0VnSkktNkJBWXZwZFpNdTllQnI2LXJ0R3FIWWN4UUtKcjBxTmlXNU1uRWJuSElaa2lVYXNLSGhBaDRXb040Qm5QdjdOWWFhS243WE1fcjNfZnU1cVBfZVlDS2Z0TGZLaGJua3dWUEZQdTU3SnZlLUxpTlcw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/podcasts/train-developers-ai-routine-work/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-19 03:34 UTC_
+_Last updated: 2026-09-19 08:37 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
