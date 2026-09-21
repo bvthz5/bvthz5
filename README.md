@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Kubernetes 1.37 Released: Stable Metrics API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  community.nasscom.in<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has replaced its static X25519 guess for origin TLS handshakes with per-origin measurement. HelloRetryRequests on scanned origins fell from roughly 52% to 3.7%, removing over 150 ms from p90 latency. Post-quantum connections completing in one round trip rose from 0% to 99.2%, though only 12.8% of origins support it. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Kubernetes 1.37 Released: Stable Metrics API: The Cloud Native Computing Foundation (CNCF) announced the release of Kubernetes 1.37, named "Garhwal", emphasizing its focus on stability, security,   and AI/ML workload optimization. By Mostafa Radwan<br>
     <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
     <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Article: Architecting Secure and Scalable Facial Verification Systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl: WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents running across different models, frameworks, and deployment environments. By Craig Risi<br>
+    <b>Concept Overview:</b> Article: Architecting Secure and Scalable Facial Verification Systems: When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled detection and verification enabling 10x scaling, risk-based dynamic thresholds, and zero-trust privacy with consent gates and automated data purging for GDPR and HIPAA. By Praveen Kumar Gopalakrishnan<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ How Much Impact Will AI Have on IoT Software Engineering?</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> How Much Impact Will AI Have on IoT Software Engineering?  EE Times<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFhoZTdWOXNMempUaVBRTWdYOEdsS3BNRVVOUkRDckVfVWJHM3AzZHBrZzlYSkwyYmRoZ2xCa2J0dHhVN3FkVUdrWEl1aDU4MUFDLXV3VzFxQ05aT202Vm1fUzRPLTdmUjFEV0pTdDU0WE1SZHNaVkpCeFIwVGJJenNDRlVWSE5X?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-21 20:49 UTC_
+_Last updated: 2026-09-21 23:52 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
