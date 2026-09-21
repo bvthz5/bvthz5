@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ AWS Lambda Pushes Serverless toward Long-Running Workloads</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AWS Lambda now allows functions running on Lambda Managed Instances to run for up to 90 minutes, six times longer than the previous 15-minute limit, further blurring the line between a Lambda invocation and a traditional server. The limit remains unchanged for traditional synchronous requests. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Amazon Linux 2027 Enters Public Preview with SELinux Enforcing by Default: AWS has released Amazon Linux 2027 in public preview, built on the AL2023 baseline with kernel 7.1 and SELinux in enforcing mode by default. Applications that pass on AL2023's permissive mode may fail under enforcing. The announcement gives no AL2023 end-of-support date, no GA date, and no in-place migration path. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Amazon tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Saudi software engineering student selected for training in US</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Saudi software engineering student selected for training in US  Arab News<br>
+    <b>Concept Overview:</b> Grab's Agent Framework LLM-Kit Accelerates AI Agent Production Deployment: Grab has implemented LLM-Kit, a framework that standardizes over 500 internal agent services. This system enhances service integration, evaluation, and secret handling, reducing the time to deploy new AI agents from two weeks to one hour. It centralizes infrastructure management, allowing runtime tool discovery and flexible model integration, while maintaining operational control. By Hien Luu<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGJMU2hxZG02RmtOY0tqNHB4MEdTUkVlRUlCeDZXLXhtaVcycmxlLURFN2dFVzkta3h5RUt3ekotYTJJSzBaM0FSc2czZU9WVldtVV94YkhHX0M4YzFhcjg3cHd2aUlOenZ2TTRjakpVV2F1NFVVQmhfb296VFp4bFBiVThnaWtzcEhjMkxZZHRMRGdBd0dCd3BGSEZWbkZZNlVZalpEVUpLVWM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ From Memory-Hungry HNSW to Quantized SPANN: the Technical Evolution of Pinterest's Manas Platform</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> From Memory-Hungry HNSW to Quantized SPANN: the Technical Evolution of Pinterest's Manas Platform: Pinterest Engineering has enhanced its Manas search platform to manage vast data, improving efficiency in search and discovery functions. By applying Scalar and Product Quantization, memory usage decreased significantly while maintaining high recall rates. The platform utilizes SSDs for optimized performance, and is transitioning to multi-vector models for refined relevance matching. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Applying From tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/pinterest-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Tieto And GN Expand Collaboration Into Global Software Engineering Partnership</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Tieto And GN Expand Collaboration Into Global Software Engineering Partnership  TradingView<br>
+    <b>Implementation Use Case:</b> Applying Tieto tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNnhVbFI5V0lSRWROcW9mRjJQNkpEYXhUMTBTR0JWSGZMZmRENDN0MlRxQTNGd2Q0ZE1MZlEwTlM5ZkN3UFg5TEhWMnhCRFNaemJaWXF1ck1jWFp4a0E0SWFvdmc2QnoyWUNUVU5VZU1xMDdPMXVybHdoMUx5dEhhMEozUXhKZVFYdU1zeHd3bGJuZTJoamh4T0s1Mlk0andkTHNfUDVMZ1Y3X2pza1FMU0pCaFNJd1FJZnd4anNscUNxOHVZNTdIbk9OdDY0UXZrWmh1ajlYd25Tc1hFUmdRMmV3?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-20 23:54 UTC_
+_Last updated: 2026-09-21 03:46 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
