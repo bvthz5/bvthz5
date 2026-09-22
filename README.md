@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ KAVIA AI Secures Strategic Investment From Tata Elxsi To Expand Enterprise AI Software Engineering Platform</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
+    <b>Concept Overview:</b> KAVIA AI Secures Strategic Investment From Tata Elxsi To Expand Enterprise AI Software Engineering Platform  Pulse 2.0<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTZOdzlCWDBMcjJja2l6eWxVTkJlUnZWeWxEZ2JqTWFMM3JJT1BITzdxdWJwaGpLdjlJOTRBd2lrZVgyYkFneG93ODVFM0JWOVJ3ZmFiM3hpbGNkQ3pSZjVSX3M3dE9ZeUU5TG42MDl4VS1TYV9tdFNMeVpNSWxGYU9KNkRVS3hNX2dkaDZzX3hmZXktcWtfRXdXX3g2WEJ0TlNDeG1Nejc3b3RmZUxfdmozeERMTkRHTnBZQ2Ezbmpyc1hRNVHSAcsBQVVfeXFMTXE1T3BsZEt6RnQ0ZEJjREIwdW81OWtPejI5WWdwR1VUQVgzbWctLTViTDl1ZDB1RE44dDRkSXBQY3NlbnBQSC02RHVqWkpkSm5QbWhOWWctb2x5NzVnUmJVMkJGZDhZVUgwOHl4ZFExNWVCOW1ObThabC02aXhPRTMxNGxpSHVVaHBXME0xLVFuVmRRZ2RCRjNZX3BjaTk2OGNUaEhYSlIzNVRCOWszVU4xQzZNR2Fnd1c1VmJTQThvMzhUY3prajBZdU0?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ The world of software engineering and AI meets in the Bay Area this September</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare has replaced its static X25519 guess for origin TLS handshakes with per-origin measurement. HelloRetryRequests on scanned origins fell from roughly 52% to 3.7%, removing over 150 ms from p90 latency. Post-quantum connections completing in one round trip rose from 0% to 99.2%, though only 12.8% of origins support it. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> The world of software engineering and AI meets in the Bay Area this September  The Next Web<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE50Sl9PMHNlUEZCV29tM00tcXBPQkZVYWdNc3FzY3ZXb1BHdkpnc1N3M2JhZmVYaEczN3VnbEpUNWRvZGNSY1k1MXA4RHpBRkVQUnVHZHVFT0VhSGMtM1dRR2pvWlFCMVZMR1F2NzJEWldYQ3hSTmM0?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Tieto and GN expand collaboration into global software engineering partnership</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl: WSO2 has announced the general availability of WSO2 Agent Manager, an open-source platform designed to provide centralized governance, identity management, security controls, and operational oversight for AI agents running across different models, frameworks, and deployment environments. By Craig Risi<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Tieto and GN expand collaboration into global software engineering partnership  WebWire<br>
+    <b>Implementation Use Case:</b> Applying Tieto tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZUZ4OHVnbGxoU09WUmZVVl9CWFVkaGpIR3czWEktN0JZWGFUVjRTRTFIRzd0dElfSDNkb1pXc1lFYWJmVmRUSG1acEdOclhxclMyWm9uWUpVVms0bjFqOA?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-22 03:44 UTC_
+_Last updated: 2026-09-22 09:06 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
