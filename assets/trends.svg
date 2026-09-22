@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">KAVIA AI Secures Strategic Investment From Tata</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Elxsi To Expand Enterprise AI Software Engineer...</text>
+    <text x="50" y="85" class="title-text">Google Agent Development Kit for Kotlin Reaches</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Feature Parity with Python, Supports On-Device AI</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">KAVIA AI Secures Strategic Investment From Tata Elxsi To Expand Enterprise AI Software</text>
-    <text x="50" y="187" class="body-text">Engineering Platform  Pulse 2.0</text>
+    <text x="50" y="170" class="body-text">Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device</text>
+    <text x="50" y="187" class="body-text">AI: Google has released the Agent Development Kit (ADK) for Kotlin 1.0, a production-ready f...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">GitLab Duo Expands Self-Hosted AI Options</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Through Microsoft Foundry</text>
+    <text x="50" y="85" class="title-text">Uber Redesigns M3DB Sharding with Subclusters to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Limit Failure Impact</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry: GitLab has expanded GitLab</text>
-    <text x="50" y="187" class="body-text">Duo Self-Hosted to support models deployed through Microsoft Foundry, letting organizations ...</text>
+    <text x="50" y="170" class="body-text">Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact: Uber has redesigned</text>
+    <text x="50" y="187" class="body-text">shard placement in M3DB with fixed size subclusters to limit the impact of node failures, ma...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">DoorDash Uses Multi Agent LLMs to Clean up</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">60,000 Feature Flags</text>
+    <text x="50" y="85" class="title-text">Podcast: Securing AI Agents: Identity,</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Authorization, and the DPACT Framework</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags: DoorDash built a multi-agent</text>
-    <text x="50" y="187" class="body-text">LLM system to automate stale feature flag cleanup across more than 60,000 flags and 623 repo...</text>
+    <text x="50" y="170" class="body-text">Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework: In this episode,</text>
+    <text x="50" y="187" class="body-text">Sahil Agarwal talks about the critical challenges of identity, authorisation, and security i...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
