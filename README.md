@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: Architecting Secure and Scalable Facial Verification Systems</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents: Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads. AX operates on a runtime, Agent Substrate, treating agents as stateful actors. It provides resource-efficient task suspension and resumption to optimise performance and reduce latency in idle phases. It features a control plane with Kubernetes-style primitives for managing agent tasks and resources. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy  usi.ch<br>
-    <b>Implementation Use Case:</b> Applying Mauro tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Article: Architecting Secure and Scalable Facial Verification Systems: When three thousand employees verify at once, synchronous API calls collapse. This article presents a four-layer architecture for high-volume face verification: client-side filtering that cut cloud costs 30%, decoupled detection and verification enabling 10x scaling, risk-based dynamic thresholds, and zero-trust privacy with consent gates and automated data purging for GDPR and HIPAA. By Praveen Kumar Gopalakrishnan<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pU0JBZndJd2RJNnRHd0o3TWg4ZHBkbDdpX1dQaHhvNUxOMWs4bGpMYzRyLW0xa2FqNVBJY2xFTThKZ2d0Snd2Uw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering: Graphify is an open-source tool designed to convert codebases and unstructured data into queryable knowledge graphs. Launched in April 2026, it addresses challenges of multi-file reasoning for AI coding assistants. Recent updates have enhanced parser features and cross-file resolutions. Community feedback indicates a promising architecture but notes integration challenges in daily workflows. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
+    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-23 15:22 UTC_
+_Last updated: 2026-09-23 19:30 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
