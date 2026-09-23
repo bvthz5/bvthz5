@@ -489,24 +489,24 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact: Uber has redesigned shard placement in M3DB with fixed size subclusters to limit the impact of node failures, maintenance, and cluster scaling. The approach bounds shard dependencies, preserves replica isolation, and uses a greedy algorithm to select shard migrations while avoiding a separate rebalancing pass and unnecessary data movement. By Leela Kumili<br>
+    <b>Concept Overview:</b> Google Open-Sources AX a Kubernetes Style Orchestrator for Autonomous AI Agents: Google has open-sourced AX, an orchestrator designed for managing autonomous AI agent workloads. AX operates on a runtime, Agent Substrate, treating agents as stateful actors. It provides resource-efficient task suspension and resumption to optimise performance and reduce latency in idle phases. It features a control plane with Kubernetes-style primitives for managing agent tasks and resources. By Olimpiu Pop<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/uber-m3db-subcluster-sharding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/google-ax-orchestrator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Kubernetes 1.37 Released: Stable Metrics API</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: Securing AI Agents: Identity, Authorization, and the DPACT Framework: In this episode, Sahil Agarwal talks about the critical challenges of identity, authorisation, and security in the age of AI agents. Sahil introduces the DPACT framework (Delegation, Policy, Auditability, Context, and Time) as a blueprint for building responsible, guardrailed agentic systems, moving away from simple token-based access toward bounded, delegated authority. By Sahil Agarwal<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/securing-ai-agents-identity-authorization/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Kubernetes 1.37 Released: Stable Metrics API: The Cloud Native Computing Foundation (CNCF) announced the release of Kubernetes 1.37, named "Garhwal", emphasizing its focus on stability, security,   and AI/ML workload optimization. By Mostafa Radwan<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-22 21:49 UTC_
+_Last updated: 2026-09-23 00:04 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
