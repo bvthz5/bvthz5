@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: APIs for Agents: Rethinking API</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Programs in the MCP Era</text>
+    <text x="50" y="85" class="title-text">From Agent Authorization to AI Production</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Evaluation: QCon AI New York 2026</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: APIs for Agents: Rethinking API Programs in the MCP Era: Jim Gough and Andreea</text>
-    <text x="50" y="187" class="body-text">Niculcea explain how Morgan Stanley uses Architecture as Code with CALM to modernize its API...</text>
+    <text x="50" y="170" class="body-text">From Agent Authorization to AI Production Evaluation: QCon AI New York 2026: QCon AI New York</text>
+    <text x="50" y="187" class="body-text">has confirmed 23 sessions covering agent authorization, production guardrails, shared infere...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,17 +91,17 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Java News Roundup: JDK 27, Open J Proxy, A2A</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Jakarta, Azul Payara, BoxLang, Netflix ja</text>
+    <text x="50" y="85" class="title-text">Mauro Pezzè and Mehdi Jazayeri inducted in the</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">ACM SIGSOFT&apos;s new Software Engineering Academy</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja: This</text>
-    <text x="50" y="187" class="body-text">week&apos;s Java roundup for September 14th, 2026, features news highlighting: the GA release of ...</text>
+    <text x="50" y="170" class="body-text">Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT&apos;s new Software Engineering Academy</text>
+    <text x="50" y="187" class="body-text">Università della Svizzera italiana | USI</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Java tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Applying Mauro tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Article: The Agent Harness: What It Is and Two</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Ways to Build One</text>
+    <text x="50" y="85" class="title-text">Graphify: Unifying Codebase Context to</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Streamline Agentic Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: The Agent Harness: What It Is and Two Ways to Build One: This article explains the</text>
-    <text x="50" y="187" class="body-text">development and operational layers of an agent harness through two implementations of a fina...</text>
+    <text x="50" y="170" class="body-text">Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering: Graphify is an</text>
+    <text x="50" y="187" class="body-text">open-source tool designed to convert codebases and unstructured data into queryable knowledg...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
