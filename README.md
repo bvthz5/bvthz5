@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.91%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.92%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough  IT Pro<br>
+    <b>Concept Overview:</b> Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering: Graphify is an open-source tool designed to convert codebases and unstructured data into queryable knowledge graphs. Launched in April 2026, it addresses challenges of multi-file reasoning for AI coding assistants. Recent updates have enhanced parser features and cross-file resolutions. Community feedback indicates a promising architecture but notes integration challenges in daily workflows. By Olimpiu Pop<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYkd1czdqM2JVUVpXMEZHT0Z6MmE1TXpmdGM2eGpPbzFfRVZTMkZmNGtsRVJoV3luMUZLWGtqS2hPYm1ZVlBCWUVIcERyVDctaTZiMGdvOEFBUUMwc2NMVk4zaFVaTEZBRENydDZYM0ZKd1JDX3JBYnpDaFNxd0lXb0NJTi1raGZ4QzUyeEtpa252Sm1hNTE4SEhlSzdDS2hmcjg5eHZDakRmVVVpQ3lqODJtamVWMFdFZWVtWENpSnI1VTFzdjE1WVRxVFJSaFc2aGxFUEY2Vm5taGFCOUd6QV9CT2tlanlTSUEtem5CcldhbVdu?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust Away from C2PA</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust Away from C2PA: Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit challenged what it proves, raising photographing a screen, the anonymity guarantee's dependence on Apple's cloud, and whether identity verification is the right use case. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Apple tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy  Università della Svizzera italiana | USI<br>
+    <b>Implementation Use Case:</b> Applying Mauro tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pU0JBZndJd2RJNnRHd0o3TWg4ZHBkbDdpX1dQaHhvNUxOMWs4bGpMYzRyLW0xa2FqNVBJY2xFTThKZ2d0Snd2Uw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Neural Coding as Software Engineering Augmentation, Not Abdication</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM<br>
-    <b>Implementation Use Case:</b> Applying Neural tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZveFBtLXM1b0d2ZVdVakxfaGVJbGZjVzBCbXFiRzRhYi14SDhqNk9qaDVpTHE1S29WZHVwbENhc1NRU3FpbU9IaXFqbDJBTC1PTEFWdXhXaTdDNG5XeTh6LXQ0aW12YVJ1c21KeVY2cFF3dkdoWVBlM0hyajIwU2o3eEh0Nk0xdHZKRHNLYVhvcFNqVkYtdFRqTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents: OpenAI’s Vinoth Govindarajan discusses why production AI agents fail beyond model hallucination. Using real-world case studies like OpenClaw, he explains the key principles of reliable agent harnesses: establishing explicit state ownership, serializing concurrent state mutations, scoping execution authority, and validating actions at the user-visible edge. By Vinoth Govindarajan<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-24 22:02 UTC_
+_Last updated: 2026-09-25 01:11 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
