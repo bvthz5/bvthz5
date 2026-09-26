@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ From Agent Authorization to AI Production Evaluation: QCon AI New York 2026</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> From Agent Authorization to AI Production Evaluation: QCon AI New York 2026: QCon AI New York has confirmed 23 sessions covering agent authorization, production guardrails, shared inference infrastructure, and the evaluation of AI systems after deployment. By Artenisa Chatziou<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/qcon-ai-newyork-2026-sessions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Mauro Pezzè and Mehdi Jazayeri inducted in the ACM SIGSOFT's new Software Engineering Academy  Università della Svizzera italiana | USI<br>
-    <b>Implementation Use Case:</b> Applying Mauro tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pU0JBZndJd2RJNnRHd0o3TWg4ZHBkbDdpX1dQaHhvNUxOMWs4bGpMYzRyLW0xa2FqNVBJY2xFTThKZ2d0Snd2Uw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering: Graphify is an open-source tool designed to convert codebases and unstructured data into queryable knowledge graphs. Launched in April 2026, it addresses challenges of multi-file reasoning for AI coding assistants. Recent updates have enhanced parser features and cross-file resolutions. Community feedback indicates a promising architecture but notes integration challenges in daily workflows. By Olimpiu Pop<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough  IT Pro<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYkd1czdqM2JVUVpXMEZHT0Z6MmE1TXpmdGM2eGpPbzFfRVZTMkZmNGtsRVJoV3luMUZLWGtqS2hPYm1ZVlBCWUVIcERyVDctaTZiMGdvOEFBUUMwc2NMVk4zaFVaTEZBRENydDZYM0ZKd1JDX3JBYnpDaFNxd0lXb0NJTi1raGZ4QzUyeEtpa252Sm1hNTE4SEhlSzdDS2hmcjg5eHZDakRmVVVpQ3lqODJtamVWMFdFZWVtWENpSnI1VTFzdjE1WVRxVFJSaFc2aGxFUEY2Vm5taGFCOUd6QV9CT2tlanlTSUEtem5CcldhbVdu?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder  finance.yahoo.com<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalNsY3NRa1NEbGd3UHpUanVrYUhxUlVibW81YnRGU0hxUG5fRXkycXdLQTV5aHYtdjFCM1dScVlEa3ROZGZJMHdjd1ZHazdTSk5vcGVJbmw2VHJ0Y3V5RnF3a0Z6QWFuVzQwRWIxeWdHMTJkZk9CbDR0MlZ2M3AxSVNQOHRmLUFqUGN2OWlXNUg1dTZCejMwQVp4Nmw0WVFHUkM0VmFiOHkxZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-25 22:02 UTC_
+_Last updated: 2026-09-26 01:13 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
