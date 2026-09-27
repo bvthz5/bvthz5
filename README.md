@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.99%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-507.00%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: Modular Edge Computing at Multi-Tenant SaaS Scale on Cloudflare Workers</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
+  <summary><b>1️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Modular Edge Computing at Multi-Tenant SaaS Scale on Cloudflare Workers: At multi-tenant SaaS scale, a monolithic edge worker creates deployment coupling and broad blast radius. The article presents a modular Cloudflare Workers architecture using service bindings, with image optimization as a worked example of per-tenant format negotiation and device-aware sizing. It covers multi-CDN differences, staged releases, configuration, and testing. By Chintan Tank<br>
-    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
-    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/modular-edge-computing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: Spritely: Infrastructure for the Future of the Internet</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends: Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, optimize prompts for UI selection, and integrate low-latency, privacy-first on-device AI for mobile applications. By Balakrishnan Ramdoss<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Spritely: Infrastructure for the Future of the Internet: Christine Lemmer-Webber and David Thompson explain how Spritely's architecture solves core decentralization challenges. They share insights on capability-based access control with Goblins, actor-model communication via OCapN, and petname systems. Discover how Spritely leverages Scheme, WebAssembly (Hoot), and local-first CRDTs to build secure, peer-to-peer applications without central servers. By Christine Lemmer-Webber, David Thompson<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder  Yahoo Finance<br>
+    <b>Concept Overview:</b> GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management: Google has published benchmarks for GKE Pod snapshots, reporting up to 89% lower startup latency and a 70B model loading in 37 seconds. The feature checkpoints CPU and GPU memory through gVisor into Cloud Storage. Practitioners have asked whether invalidation is the harder problem, since snapshots match on a spec hash, machine series, and kernel and driver versions. By Steef-Jan Wiggers<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalNsY3NRa1NEbGd3UHpUanVrYUhxUlVibW81YnRGU0hxUG5fRXkycXdLQTV5aHYtdjFCM1dScVlEa3ROZGZJMHdjd1ZHazdTSk5vcGVJbmw2VHJ0Y3V5RnF3a0Z6QWFuVzQwRWIxeWdHMTJkZk9CbDR0MlZ2M3AxSVNQOHRmLUFqUGN2OWlXNUg1dTZCejMwQVp4Nmw0WVFHUkM0VmFiOHkxZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-27 01:07 UTC_
+_Last updated: 2026-09-27 07:41 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
