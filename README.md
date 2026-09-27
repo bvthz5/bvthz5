@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Article: Modular Edge Computing at Multi-Tenant SaaS Scale on Cloudflare Workers</b> &nbsp;|&nbsp; 🏷️ <i>Quantum Computing</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer  marktechpost.com<br>
-    <b>Implementation Use Case:</b> Applying Prompt tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZFODZaekxYeE9RbWF4X1NZSUNuXzhsVHNsYmNwa3o1ODBqUnBfWVFKVUhCb2hwaF91YXJoSnM2MWpvcWV6M1VTWUZacDZHXzFZM05xa1dWclM4Yy1FLWM5VFA5dWhmNk5qZlNLdUJ5ekUtNWpjQnhOMmRGaWdxQnVpTVFzZ2hwYzQ4UHBSZ2Y0NDRVdmFNaGJQSk43SHRralHSAacBQVVfeXFMT29fdGU4LUlDVFQyT2h2QVRnR3ozc1BGeWJ2SmszZF9DNE9vQnlkQWt5SFItM0c1SkF0ZjIyLUIwd3VrWXlIeTlHX05BM29GMFZpekJXWUZlUDJuaVoxdi0yRTFSdlNhd0R6N3Q1NmdGaURDMTc0RlJDeUg4bWQ4WnRZdTVSQnQ3S0NHdXhiM09qT3lqdjRWNjl5Wi1fTkNrWnZpT0Q0UGM?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Modular Edge Computing at Multi-Tenant SaaS Scale on Cloudflare Workers: At multi-tenant SaaS scale, a monolithic edge worker creates deployment coupling and broad blast radius. The article presents a modular Cloudflare Workers architecture using service bindings, with image optimization as a worked example of per-tenant format negotiation and device-aware sizing. It covers multi-CDN differences, staged releases, configuration, and testing. By Chintan Tank<br>
+    <b>Implementation Use Case:</b> Experimenting with quantum circuit models and post-quantum encryption.<br>
+    <b>Strategic Value:</b> Prepares data architectures for high-speed secure cryptography.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/modular-edge-computing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Cloudflare Cuts 100 TB of Memory from 1.1.1.1 DNS Cache</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare redesigned the in-memory representation of its Big Pineapple DNS cache, reducing the per-entry footprint by 56% and freeing roughly 100 TB of working-set memory across its fleet. The Rust-based changes also increased cache insertion throughput by 43% and reduced lookup latency by 19%, while enabling Cloudflare to increase cache capacity without additional memory. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cloudflare-dns-cache/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends: Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, optimize prompts for UI selection, and integrate low-latency, privacy-first on-device AI for mobile applications. By Balakrishnan Ramdoss<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
-    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Pave Advances Agentic Orchestration Across 350+ Business Systems, Introducing the Market’s Most Comprehensive AI App Builder  Yahoo Finance<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalNsY3NRa1NEbGd3UHpUanVrYUhxUlVibW81YnRGU0hxUG5fRXkycXdLQTV5aHYtdjFCM1dScVlEa3ROZGZJMHdjd1ZHazdTSk5vcGVJbmw2VHJ0Y3V5RnF3a0Z6QWFuVzQwRWIxeWdHMTJkZk9CbDR0MlZ2M3AxSVNQOHRmLUFqUGN2OWlXNUg1dTZCejMwQVp4Nmw0WVFHUkM0VmFiOHkxZw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-26 22:26 UTC_
+_Last updated: 2026-09-27 01:07 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
