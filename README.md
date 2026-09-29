@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: The Agent Harness: What it is and Two Ways to Build One</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Podcast: The Future of AI: from Enterprise Adoption to Open Source Sovereignty</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: The Agent Harness: What it is and Two Ways to Build One: This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles tools, memory, model access, cost control, and observability, and examines the trade-offs in operational ownership, portability, and engineering effort. By Trista Pan<br>
+    <b>Concept Overview:</b> Podcast: The Future of AI: from Enterprise Adoption to Open Source Sovereignty: In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith demystify the current state of AI in the enterprise. The discussion navigates the "industrial revolution" moment in AI adoption, exploring why companies are rushing toward these technologies to maintain competitive advantages while grappling with reliability, ethical considerations, and the evolving role of software engineering. By Meryem Arik, Clara Higuera Cabañes, Jeff Smith<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design: Mallika Rao explains that the true complexity of adaptive recommendation systems lies outside model architecture. She discusses how real-time feedback loops, retrieval freshness, multi-stage orchestration, and end-to-end latency budgeting enable systems to continuously learn and evolve in production under real-world operational constraints like latency, cost, and observability. By Mallika Rao<br>
-    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments: AWS details how the latest Model Context Protocol specification removes protocol-level sessions, sticky-session requirements, and session storage for remote MCP servers. The change enables independent request routing and simpler horizontal scaling while shifting application state, retries, observability, and idempotency concerns to other layers. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
+    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Autoheal Raises $7.9M to Advance Self-Improving Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven: This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM and Gradle; maintenance releases of Quarkus and GDK for Micronaut; the seventh release candidate of Maven 4.0; milestone releases of Micrometer Metrics and Tracing; and beta releases of Open Liberty and Hibernate ORM. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Autoheal Raises $7.9M to Advance Self-Improving Software Engineering  citybiz<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0xfWDBYUlo4aWdqb0w1b3JSem95NTFIZ3AtSy1CUF82bFgzcUtWdG1oUUJIS2lQN1FPMmxnbEg1R3F2QThWUXI2ZlFqc0xBNUZhWWJmRVBaVWQyUU5YWTJwM2tkVkh0R3RUdkxhY2IybEZ0dXREZkw2dTVfREU4cFU5bWFPMXI4YXVPWl9CWU80T1lxOTBxdmstM0ZSeldrWE1GVVRCeE1vdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **397** | **352** | **4** |
+| **397** | **349** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-29 07:58 UTC_
+_Last updated: 2026-09-29 14:48 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/187415267?v=4" width="50" style="border-radius: 50%;" alt="harishsehlangia"/><br><sub>**harishsehlangia**</sub>](https://github.com/harishsehlangia) | [<img src="https://avatars.githubusercontent.com/u/150589141?v=4" width="50" style="border-radius: 50%;" alt="martian56"/><br><sub>**martian56**</sub>](https://github.com/martian56) | [<img src="https://avatars.githubusercontent.com/u/183625090?v=4" width="50" style="border-radius: 50%;" alt="newsfriend"/><br><sub>**newsfriend**</sub>](https://github.com/newsfriend) |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
 
-**Total: 4**
+**Total: 1**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 
