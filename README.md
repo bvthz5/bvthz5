@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-507.06%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.74%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>1️⃣ Article: The Agent Harness: What it is and Two Ways to Build One</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage: Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB, an internally developed key-value store in Rust. This change reduced latency and costs associated with handling large document batches. The new architecture supports high query volumes more efficiently, achieving improved latency and reduced storage expenses while managing significant production traffic. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Autoheal raises $7.9 mn led by Innovation Endeavours</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Autoheal raises $7.9 mn led by Innovation Endeavours  ET Entrepreneur<br>
+    <b>Concept Overview:</b> Article: The Agent Harness: What it is and Two Ways to Build One: This article explains the development and operational layers of an agent harness through two implementations of a finance assistant: AWS AgentCore Harness and LangChain with Envoy AI Gateway. It compares how each handles tools, memory, model access, cost control, and observability, and examines the trade-offs in operational ownership, portability, and engineering effort. By Trista Pan<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnNCNTdNNXliUzZHMjQ2c09BcjFyOHhvRDY0aWg0VVZBY1NnX21sYnlDbm44elFlbWtYUml5RDN5QnlnRGNYWHZSb1k3Ynd3bmgwRjhUZFFYaXVRcHlZN2xRYkY2YjlETTNHOENNT3ZqeF9STXQzWlZOMlladXFqSGdZVUZoVkxHeXNIN2d6SU9JMVl5dGNiMVBlZnBDbkdpZ1BwLWs4U0cwUkY5TTQ1UklCSmFIOFktbFJpbDZzMTNQZ9IBxwFBVV95cUxNQXE4cmhQbnlmQVFrX3diczcwXzNWZ1gwbmZIVVo4OTBVQ1RlbllyYTR4S2dmUTBxZlJsZXNFOTBoU3RQSXM1V191OWR6VW9MQl9ZbE9uMksyTGFmRjdLUzYtM2x1MXItNmZIRUxqR1lveVVDcWVRY1piOE4wUmRTMVktVVNqdGxCUEh5U3pYbWNYRUQ4Q1A2UUdlUlVJejZPLW9UVWRGYlBQdnRnbnFKVnpReDdFa05NYlYtU2o4cmZuSXQtOTNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
-    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
+    <b>Concept Overview:</b> Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design: Mallika Rao explains that the true complexity of adaptive recommendation systems lies outside model architecture. She discusses how real-time feedback loops, retrieval freshness, multi-stage orchestration, and end-to-end latency budgeting enable systems to continuously learn and evolve in production under real-world operational constraints like latency, cost, and observability. By Mallika Rao<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
     <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven: This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM and Gradle; maintenance releases of Quarkus and GDK for Micronaut; the seventh release candidate of Maven 4.0; milestone releases of Micrometer Metrics and Tracing; and beta releases of Open Liberty and Hibernate ORM. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-29 01:31 UTC_
+_Last updated: 2026-09-29 07:58 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
