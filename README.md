@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-506.75%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-506.76%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Designing Fast, Delightful UX with LLMs for Mobile Frontends</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client: Security researcher Patrick Wardle revealed an unpatched zero-day vulnerability in Meta's Muse desktop client for macOS. This flaw lets unprivileged software manipulate the assistant's extensive permissions, compromising input confidentiality and account security. Despite a hotfix from Meta, the vulnerability raises significant concerns about platform trust and security boundaries. By Olimpiu Pop<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/meta-muse-zeroday/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Loop Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Loop Engineering  O'Reilly Media<br>
+    <b>Implementation Use Case:</b> Applying Loop tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PLXZOMVJlVkt3Uy16V0U1a1JoSDM4RHIzODM0dVVrOW5rYVdhNGVuZXNmRTNha0lUTnJXSks5U3pxRGhSdlVkRGo2V19DUTNoaEJOOGJ3Q1pqSzg?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>3️⃣ Presentation: Designing Fast, Delightful UX with LLMs for Mobile Frontends</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Presentation: Designing Fast, Delightful UX with LLMs for Mobile Frontends: Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, optimize prompts for UI selection, and integrate low-latency, privacy-first on-device AI for mobile applications. By Balakrishnan Ramdoss<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
     <br>🔗 <a href="https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>2️⃣ Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust away from C2PA</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust away from C2PA: Apple has published the design of Reference Image, an iPhone 18 Pro camera mode that signs pixel data at the sensor and develops it in Private Cloud Compute under an Apple signature. Developers on Hacker News and Reddit challenged what it proves, raising photographing a screen, the anonymity guarantee's dependence on Apple's cloud, and whether identity verification is the right use case. By Steef-Jan Wiggers<br>
-    <b>Implementation Use Case:</b> Applying Apple tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration: There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, Spring Security, Spring AMQP, Spring Integration, Spring Data, Spring Framework, Spring for GraphQL and Spring for Apache Kafka. There were also first milestone releases of Spring AI, Spring Cloud, Spring Web Services and Spring LDAP. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **398** | **349** | **1** |
+| **399** | **349** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-09-29 23:30 UTC_
+_Last updated: 2026-09-30 04:25 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
