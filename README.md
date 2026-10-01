@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ What it took to triple our software engineering output in 18 months</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Podcast: The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle: In this podcast, Michael Stiefel spoke to Erin Doyle about how artificial intelligence tools are transforming the software development process, and how they are affecting software engineers. Architecture skills are now critical because engineers need to understand how to build systems and handle the constraints and associated ambiguity in the requirements. By Erin Doyle<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/podcasts/ai-revolution-psychological-safety/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> What it took to triple our software engineering output in 18 months  InfoWorld<br>
+    <b>Implementation Use Case:</b> Applying What tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2FjbTNPZjh6TXNJbU9CSVBqcXY4ZV9aREpYV1ZSU2h5cU9FTWN3Mm10ZmtGSlI5aU9oTl9OeU9pRmFVRDBaekhPMG5CUEIyVUh5Z0JwWWpUSmM4dnM3X0hkV0lYMUVIV3lKMl9MbVc0VF9nTE0zMEYybGxQZlJ2bUE3ZkpJQlpYeHdjb21PQ2tSRzhEVWdFci1BTjlaWllKQzRTVF9ycXE4eGQ3Z1g0b21hdmc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Agents have hit the mainstream in software engineering, but security and governance practices aren’t evolving fast enough  IT Pro<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYkd1czdqM2JVUVpXMEZHT0Z6MmE1TXpmdGM2eGpPbzFfRVZTMkZmNGtsRVJoV3luMUZLWGtqS2hPYm1ZVlBCWUVIcERyVDctaTZiMGdvOEFBUUMwc2NMVk4zaFVaTEZBRENydDZYM0ZKd1JDX3JBYnpDaFNxd0lXb0NJTi1raGZ4QzUyeEtpa252Sm1hNTE4SEhlSzdDS2hmcjg5eHZDakRmVVVpQ3lqODJtamVWMFdFZWVtWENpSnI1VTFzdjE1WVRxVFJSaFc2aGxFUEY2Vm5taGFCOUd6QV9CT2tlanlTSUEtem5CcldhbVdu?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration: There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, Spring Security, Spring AMQP, Spring Integration, Spring Data, Spring Framework, Spring for GraphQL and Spring for Apache Kafka. There were also first milestone releases of Spring AI, Spring Cloud, Spring Web Services and Spring LDAP. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
+    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ TypeSafe AI Releases Jev: A Decision-Only Model That Returns Typed Probabilities Instead of Text</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
+    <b>Concept Overview:</b> TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-01 08:26 UTC_
+_Last updated: 2026-10-01 16:03 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
