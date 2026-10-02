@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Article: Five Ways To Use AI Coding Agents to</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Improve Your Software Architecture</text>
+    <text x="50" y="85" class="title-text">Cursor Uses S3 WAL to Scale Git Storage to More</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">than 300 Pushes per Second</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: Five Ways To Use AI Coding Agents to Improve Your Software Architecture: Modern</text>
-    <text x="50" y="187" class="body-text">architectures often use legacy services for specific tasks, but these services may lack accu...</text>
+    <text x="50" y="170" class="body-text">Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second: Cursor has</text>
+    <text x="50" y="187" class="body-text">introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Cursor tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Stateless MCP Removes Session Affinity</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Requirements for AWS Server Deployments</text>
+    <text x="50" y="85" class="title-text">Home Made CobbleDB Replaces DynamoDB at</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Perplexity to Cut Query Latency 5x and Reduce C...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments: AWS details how</text>
-    <text x="50" y="187" class="body-text">the latest Model Context Protocol specification removes protocol-level sessions, sticky-sess...</text>
+    <text x="50" y="170" class="body-text">Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud</text>
+    <text x="50" y="187" class="body-text">Storage: Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB,...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.</text>
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">BU Welcomes First Cohort to Its Online MS in</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering for AI</text>
+    <text x="50" y="85" class="title-text">Java News Roundup: TornadoVM 7.0, Groovy 6.0,</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">GraalVM, Hibernate, Quarkus, Gradle, Maven</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven: This</text>
+    <text x="50" y="187" class="body-text">week&apos;s Java roundup for September 21st, 2026, features news highlighting: GA releases of Tor...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Java tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
