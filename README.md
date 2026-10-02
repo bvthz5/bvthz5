@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-507.23%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-509.51%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second: Cursor has introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as the source of truth. The design turns local NVMe repositories into warm caches and separates replica coordination from consistency. Cursor reports linear read scaling with up to 100 replicas and more than 300 pushes per second with S3 Express One Zone in synthetic tests. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Cursor tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cursor-continuity-git-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> DigitalOcean recently launched DigitalOcean Managed Agents in public preview, offering a managed cloud infrastructure layer for AI agents with isolated microVM runtimes, governed tool access, and serverless AI inference. By Sergio De Simone<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage</b> &nbsp;|&nbsp; 🏷️ <i>Cloud & DevOps</i></summary>
+  <summary><b>2️⃣ Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage: Perplexity has migrated its search infrastructure from Amazon DynamoDB to CobbleDB, an internally developed key-value store in Rust. This change reduced latency and costs associated with handling large document batches. The new architecture supports high query volumes more efficiently, achieving improved latency and reduced storage expenses while managing significant production traffic. By Olimpiu Pop<br>
-    <b>Implementation Use Case:</b> Configuring container clusters, multi-stage CI/CD pipelines, and serverless architectures.<br>
-    <b>Strategic Value:</b> Reduces operational overhead and ensures automatic scalability under traffic.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration: There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, Spring Security, Spring AMQP, Spring Integration, Spring Data, Spring Framework, Spring for GraphQL and Spring for Apache Kafka. There were also first milestone releases of Spring AI, Spring Cloud, Spring Web Services and Spring LDAP. By Michael Redlich<br>
+    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
+    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ Autoheal raises $7.9 mn led by Innovation Endeavours</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven: This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM and Gradle; maintenance releases of Quarkus and GDK for Micronaut; the seventh release candidate of Maven 4.0; milestone releases of Micrometer Metrics and Tracing; and beta releases of Open Liberty and Hibernate ORM. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Applying Java tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Autoheal raises $7.9 mn led by Innovation Endeavours  ET Entrepreneur<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnNCNTdNNXliUzZHMjQ2c09BcjFyOHhvRDY0aWg0VVZBY1NnX21sYnlDbm44elFlbWtYUml5RDN5QnlnRGNYWHZSb1k3Ynd3bmgwRjhUZFFYaXVRcHlZN2xRYkY2YjlETTNHOENNT3ZqeF9STXQzWlZOMlladXFqSGdZVUZoVkxHeXNIN2d6SU9JMVl5dGNiMVBlZnBDbkdpZ1BwLWs4U0cwUkY5TTQ1UklCSmFIOFktbFJpbDZzMTNQZ9IBxwFBVV95cUxNQXE4cmhQbnlmQVFrX3diczcwXzNWZ1gwbmZIVVo4OTBVQ1RlbllyYTR4S2dmUTBxZlJsZXNFOTBoU3RQSXM1V191OWR6VW9MQl9ZbE9uMksyTGFmRjdLUzYtM2x1MXItNmZIRUxqR1lveVVDcWVRY1piOE4wUmRTMVktVVNqdGxCUEh5U3pYbWNYRUQ4Q1A2UUdlUlVJejZPLW9UVWRGYlBQdnRnbnFKVnpReDdFa05NYlYtU2o4cmZuSXQtOTNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-02 08:01 UTC_
+_Last updated: 2026-10-02 15:28 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
