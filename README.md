@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-509.51%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-510.76%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> DigitalOcean recently launched DigitalOcean Managed Agents in public preview, offering a managed cloud infrastructure layer for AI agents with isolated microVM runtimes, governed tool access, and serverless AI inference. By Sergio De Simone<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Meta’s ZGateway Cuts ZippyDB Connections 19x While Handling 1B+ Operations per Second: Meta has introduced ZGateway, a stateless proxy for ZippyDB that centralizes connection management, traffic routing, caching, load balancing, and admission control. The gateway handles more than 1 billion operations per second and about 40% of ZippyDB traffic, while Meta’s model estimates a 19x reduction in persistent connections. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Meta’s tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/09/meta-zgateway-zippydb-proxy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration</b> &nbsp;|&nbsp; 🏷️ <i>Cybersecurity</i></summary>
+  <summary><b>2️⃣ Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Spring News Roundup: Second Milestone Releases of Boot, Framework, Data, Security, Integration: There was a flurry of activity during the week of September 21st, 2026, highlighting: second milestone releases of: Spring Boot, Spring Batch, Spring Security, Spring AMQP, Spring Integration, Spring Data, Spring Framework, Spring for GraphQL and Spring for Apache Kafka. There were also first milestone releases of Spring AI, Spring Cloud, Spring Web Services and Spring LDAP. By Michael Redlich<br>
-    <b>Implementation Use Case:</b> Auditing vulnerability vectors, threat mapping, and zero-trust standards.<br>
-    <b>Strategic Value:</b> Hardens platform interfaces and shields user assets from edge vulnerabilities.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/09/spring-news-roundup-sep21-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%: Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data redesign, infrastructure optimizations, and an agentic coding workflow. Uber is also exploring microbatching, product-based retrieval, and HTTP multipart streaming. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Uber tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Autoheal raises $7.9 mn led by Innovation Endeavours</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Autoheal raises $7.9 mn led by Innovation Endeavours  ET Entrepreneur<br>
+    <b>Concept Overview:</b> Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most: A routine TLS 1.3 upgrade silently broke Route 53 health checks, causing a CDN to stop routing traffic to a healthy region while internal dashboards showed nothing wrong. This article examines why HA and resilience are different problems, how control-plane dependencies create invisible failure modes, and why recovery capability erodes without explicit ownership. By Alexey Golev<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnNCNTdNNXliUzZHMjQ2c09BcjFyOHhvRDY0aWg0VVZBY1NnX21sYnlDbm44elFlbWtYUml5RDN5QnlnRGNYWHZSb1k3Ynd3bmgwRjhUZFFYaXVRcHlZN2xRYkY2YjlETTNHOENNT3ZqeF9STXQzWlZOMlladXFqSGdZVUZoVkxHeXNIN2d6SU9JMVl5dGNiMVBlZnBDbkdpZ1BwLWs4U0cwUkY5TTQ1UklCSmFIOFktbFJpbDZzMTNQZ9IBxwFBVV95cUxNQXE4cmhQbnlmQVFrX3diczcwXzNWZ1gwbmZIVVo4OTBVQ1RlbllyYTR4S2dmUTBxZlJsZXNFOTBoU3RQSXM1V191OWR6VW9MQl9ZbE9uMksyTGFmRjdLUzYtM2x1MXItNmZIRUxqR1lveVVDcWVRY1piOE4wUmRTMVktVVNqdGxCUEh5U3pYbWNYRUQ4Q1A2UUdlUlVJejZPLW9UVWRGYlBQdnRnbnFKVnpReDdFa05NYlYtU2o4cmZuSXQtOTNR?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **398** | **348** | **1** |
+| **397** | **348** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-02 15:28 UTC_
+_Last updated: 2026-10-02 20:25 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
