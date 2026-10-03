@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">TypeSafe AI Releases Jev: a Decision-Only Model</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">That Returns Typed Probabilities Instead of Text</text>
+    <text x="50" y="85" class="title-text">Cursor Uses S3 WAL to Scale Git Storage to More</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">than 300 Pushes per Second</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a</text>
-    <text x="50" y="187" class="body-text">decision-making model that generates typed outputs rather than text. It evaluates inputs in ...</text>
+    <text x="50" y="170" class="body-text">Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second: Cursor has</text>
+    <text x="50" y="187" class="body-text">introduced Continuity, a Git storage architecture that uses an S3 backed write ahead log as ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Cursor tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Engineering Production Systems for an Agentic</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Era: QCon San Francisco 2026</text>
+    <text x="50" y="85" class="title-text">AWS Introduces Foreign Key Constraints in Aurora</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">DSQL</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Engineering Production Systems for an Agentic Era: QCon San Francisco 2026: QCon San Francisco</text>
-    <text x="50" y="187" class="body-text">2026 will bring together practitioners from Airbnb, OpenAI, Netflix, Honeycomb, and other en...</text>
+    <text x="50" y="170" class="body-text">AWS Introduces Foreign Key Constraints in Aurora DSQL: AWS recently announced that Aurora DSQL</text>
+    <text x="50" y="187" class="body-text">now supports foreign key constraints, allowing applications to enforce referential integrity...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Neural Coding as Software Engineering</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Augmentation, Not Abdication</text>
+    <text x="50" y="85" class="title-text">Why Go is an Ideal Language for AI-Assisted</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Neural Coding as Software Engineering Augmentation, Not Abdication  Communications of the ACM</text>
+    <text x="50" y="170" class="body-text">Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google</text>
     <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Applying Neural tools to modern development pipelines.</text>
+    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
+    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
