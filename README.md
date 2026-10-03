@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-510.84%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-510.85%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Beyond AI: When software engineering workflow becomes an automaker’s edge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag<br>
+    <b>Concept Overview:</b> Beyond AI: When software engineering workflow becomes an automaker’s edge  WardsAuto<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZZdWdmRXg3MDFTQll2RlVURVNNcTVKMkFsWUUtSzFhcFJIWjd0R1lSYUp0czJMdGhQSHhUNDJuT0dmamwzTUVhanNBNmJITmtueTFJWDRjdHN2aWpESXhONk9PRGdJUFFfQmZoOUFRUUgwSjdmUHFoRHNKUjNOWlc3VV9OZzJsUHJiR1NkTkxmR0lrcTJ3c1RZUmxYXzlFbjlZZjMtSUZUUFVRMFh2UlZvYw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNZk1IcjZtd1htTnlCcmFNNTdLWElxWHVMWFI1VmFTRUNtbmlPSzYxSUN6Qi1vMWdJX0E0RFVEczFMd3FKUU1UWC1SWExGUlAtdGFFRE1GY1RaWFIxNUVzVHRrdWJPaUZoMzdSWWRVUDBPQWpJZmxOZWxFYzNuVGJVOW9FWThaWjBtNmxWVkVGcHJxMTYxVWx5WV9pY3UxZWFFbDNMdFJ1VHRqUEQ0cERlNw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ DevOpsDays Cairo 2026: Egypt bets on software engineering talent to lead in the Agentic AI era</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ How to Develop Software Engineering Skills in the Age of AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> DevOpsDays Cairo 2026: Egypt bets on software engineering talent to lead in the Agentic AI era  FOCUS ON Business<br>
+    <b>Concept Overview:</b> How to Develop Software Engineering Skills in the Age of AI  infoq.com<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWxoLVdCUmcySEMzazU2eUpIWnlOT3dBZm1sajBZMVVpaWVsS0gwTDFpdXZoUGpkbGdGZ2dJUmtkdDRNRnh5OENhUTJubERtMG8tWm9pTWZhOWxvOWVlR0UwajJvLUlRN0pYRkdkWVlGaURUeG5ra2hILWYzTWlXbUFNUGE1LTAwUm55dFFiRmQ0d2lEbER0VVhnR2NydXRaUGs2SU9OYjhfVGkwN00tQUdIWXFUWnVKaFFPT25RN0VhV0Voa0RYNFdCdXMwQQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9YckU5MndTT0Rxb3ZzbHJNRkxKZGcycTBkM0FMVDF1SEI0SDVaQ2k3Qk5ZU2tpOXh3M1lDNWVXcmsydklRV29LSW14R0Fpbk1UbHFnRFo5ZFlmVG4yN09OSGNQNzUyM0lpWlU5WUZ4MGE?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Loop Engineering Explained: How It Differs from Prompt Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer: Microsoft has made Azure Container Apps Express generally available alongside Container Apps Sandboxes, the microVM compute layer it runs on. Express skips environment provisioning and scales to zero, with subsecond startup from prewarmed pools. Custom domains, zone redundancy, Key Vault references, OpenTelemetry and Dapr are not supported. By Steef-Jan Wiggers<br>
+    <b>Concept Overview:</b> Loop Engineering Explained: How It Differs from Prompt Engineering  Nasscom<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEtuVVkwWGcwOVBPbGxoaDJwXzRickRlNTNab3RBRUFMMUtyN2pYTXJONjdTbzlLZ0h3eEU2YlBtckF1Skx2dFEtM0VrYXY5Ni1kc2UxbkVJR2d1bGNkOVdNSGF0anI4cTlnb0Z6M3pvc2ZEZWkwemxIa1Bjdy04VjFLWlNIaURxUTJCMnpOcVFDWmktcmZfcl9oTzkwYlB3ejlrMEpYTQ?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **396** | **347** | **2** |
+| **398** | **347** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-03 20:41 UTC_
+_Last updated: 2026-10-03 23:33 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
