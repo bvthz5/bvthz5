@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-510.88%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-510.89%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Presentation: Building GenAI Platform at DoorDash</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Building GenAI Platform at DoorDash: Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets, transitioning from vendor-first setups to open-weights models, navigating LLM and agent gateways, and balancing accuracy, latency, and cost for over 5,000 internal users. By Siddharth Kodwani, Swaroop Chitlur<br>
+    <b>Concept Overview:</b> Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most: A routine TLS 1.3 upgrade silently broke Route 53 health checks, causing a CDN to stop routing traffic to a healthy region while internal dashboards showed nothing wrong. This article examines why HA and resilience are different problems, how control-plane dependencies create invisible failure modes, and why recovery capability erodes without explicit ownership. By Alexey Golev<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Autoheal Raises $7.9M to Advance Self-Improving Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Autoheal Raises $7.9M to Advance Self-Improving Software Engineering  citybiz.co<br>
+    <b>Concept Overview:</b> DigitalOcean recently launched DigitalOcean Managed Agents in public preview, offering a managed cloud infrastructure layer for AI agents with isolated microVM runtimes, governed tool access, and serverless AI inference. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0xfWDBYUlo4aWdqb0w1b3JSem95NTFIZ3AtSy1CUF82bFgzcUtWdG1oUUJIS2lQN1FPMmxnbEg1R3F2QThWUXI2ZlFqc0xBNUZhWWJmRVBaVWQyUU5YWTJwM2tkVkh0R3RUdkxhY2IybEZ0dXREZkw2dTVfREU4cFU5bWFPMXI4YXVPWl9CWU80T1lxOTBxdmstM0ZSeldrWE1GVVRCeE1vdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ BU Welcomes First Cohort to Its Online MS in Software Engineering for AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%: Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data redesign, infrastructure optimizations, and an agentic coding workflow. Uber is also exploring microbatching, product-based retrieval, and HTTP multipart streaming. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Uber tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTRMY1dldkNLaDhFTU1kRkp0QUJtNkRzcWpWYlBjalhoNEgwUWg3VFZzOUJfUmxKQlllM0VnSkktNkJBWXZwZFpNdTllQnI2LXJ0R3FIWWN4UUtKcjBxTmlXNU1uRWJuSElaa2lVYXNLSGhBaDRXb040Qm5QdjdOWWFhS243WE1fcjNfZnU1cVBfZVlDS2Z0TGZLaGJua3dWUEZQdTU3SnZlLUxpTlcw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-04 19:16 UTC_
+_Last updated: 2026-10-04 22:49 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
