@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">BU Welcomes First Cohort to Its Online MS in</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering for AI</text>
+    <text x="50" y="85" class="title-text">Presentation: Building GenAI Platform at</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">DoorDash</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Presentation: Building GenAI Platform at DoorDash: Swaroop Chitlur and Sidd Kodwani share</text>
+    <text x="50" y="187" class="body-text">DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,36 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">New Archestra&apos;s OpenAPPA Saturates Two Major</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Security Benchmarks with a 0% Attack Success Rate</text>
+    <text x="50" y="85" class="title-text">Autoheal Raises $7.9M to Advance Self-Improving</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">New Archestra&apos;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate:</text>
-    <text x="50" y="187" class="body-text">Archestra released OpenAPPA, an open-source security engine designed to stop data exfiltrati...</text>
-    
-    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Auditing vulnerability vectors, threat mapping, and zero-trust standards.</text>
-    <text x="50" y="250" class="body-text"></text>
-    
-    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Hardens platform interfaces and shields user assets from edge vulnerabilities.</text>
-    <text x="50" y="314" class="body-text"></text>
-  </g>
-
-  <!-- Slide 3 -->
-  <g class="slide-group slide-3" pointer-events="all">
-    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
-    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">DevOpsDays Cairo 2026: Egypt bets on software</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">engineering talent to lead in the Agentic AI era</text>
-    
-    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
-    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
-    
-    <text x="50" y="170" class="body-text">DevOpsDays Cairo 2026: Egypt bets on software engineering talent to lead in the Agentic AI era</text>
-    <text x="50" y="187" class="body-text">focusonbusiness.eu</text>
+    <text x="50" y="170" class="body-text">Autoheal Raises $7.9M to Advance Self-Improving Software Engineering  citybiz.co</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -128,6 +106,28 @@
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
     <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="314" class="body-text"></text>
+  </g>
+
+  <!-- Slide 3 -->
+  <g class="slide-group slide-3" pointer-events="all">
+    <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
+    <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
+    <text x="50" y="85" class="title-text">Uber Eats Rebuilds Search Pipeline to Cut</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">End-to-End Latency by 50%</text>
+    
+    <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
+    <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
+    
+    <text x="50" y="170" class="body-text">Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%: Uber has rebuilt major</text>
+    <text x="50" y="187" class="body-text">parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Cha...</text>
+    
+    <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
+    <text x="50" y="233" class="body-text">Applying Uber tools to modern development pipelines.</text>
+    <text x="50" y="250" class="body-text"></text>
+    
+    <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
