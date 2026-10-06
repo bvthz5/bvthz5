@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-510.95%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-510.96%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Why Go is an Ideal Language for AI-Assisted Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Why Go is an Ideal Language for AI-Assisted Software Engineering  blog.google<br>
+    <b>Concept Overview:</b> TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2NGSHI4U3JJb1MtSkVneWx5NVdGN1psOWxsZFlqOGZySW9rYVc0TkhLWFVVME4zQzVaWWczUzF5VkgwR1RxNWx1SzRWdUdjcHdZVGttaHprcS1HRE1LXzVFUTJ4M0RLa0g4b2RTQ1J2T19uNDJrQ3lFN3VUaEVpN1JWNWpqM0p5TnpWdWdwUlU4Zk0wTzhkaWFTdGhZQVRz?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Menlo Ventures Invests In Factory To Advance Autonomous Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products: Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Menlo Ventures Invests In Factory To Advance Autonomous Software Engineering  Pulse 2.0<br>
+    <b>Implementation Use Case:</b> Applying Menlo tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNWW5zdFNwYm5YVF94aEo0eVh1Y3RYcjVENThPQS0yVlZmOEQ3NEdnTklrSUJkVFdXRTRyWDR4MWJUTmxGUEtwNzhXWXpaSU0xNGlIRUpMT3c1cDNQQU44eUQtZ0xCakJWQ2ItNmlQQ2NPcGVOak41V3BQZWhLT2xGOXlLWnFxeEp6NFI1MmRjZE1oTXRpMkYwYTZ1QXjSAaIBQVVfeXFMUEcycnBwbWFQYWk1NWpCSWtkOWVlWWVwWDdjZTVuV1Y2a1BpLWxJbzkxcEl0RzlzTWJNSk5XREZoV1R3MVV4SUlHWnZBcnF6RkVZSDR0YjhKc3dCUzJrYWw1cGZ4eWY2Vm1WY3hXMkVLY0tyREJVY3hDbXpoSEVMenJjcTU3TWM3UFFSbFVteHlLa0ZYcEM2S3ozWEYzMUNmT0Rn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Beyond Observability: Evolving Production Operations in the Age of AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Autoheal Raises $7.9M to Advance Self-Improving Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Beyond Observability: Evolving Production Operations in the Age of AI: The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering teams build more understandable systems, while exploring how AI reshapes software delivery and changes the historically deterministic nature of production applications. By Michael Hausenblas, Sujana Sooreddy, Noam Levi, Renato Losio<br>
+    <b>Concept Overview:</b> Autoheal Raises $7.9M to Advance Self-Improving Software Engineering  citybiz.co<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0xfWDBYUlo4aWdqb0w1b3JSem95NTFIZ3AtSy1CUF82bFgzcUtWdG1oUUJIS2lQN1FPMmxnbEg1R3F2QThWUXI2ZlFqc0xBNUZhWWJmRVBaVWQyUU5YWTJwM2tkVkh0R3RUdkxhY2IybEZ0dXREZkw2dTVfREU4cFU5bWFPMXI4YXVPWl9CWU80T1lxOTBxdmstM0ZSeldrWE1GVVRCeE1vdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **398** | **346** | **1** |
+| **397** | **346** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-06 00:37 UTC_
+_Last updated: 2026-10-06 07:15 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
