@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-511.05%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-511.06%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,7 +478,18 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ Beyond AI: When software engineering workflow becomes an automaker’s edge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <br>
+  <blockquote style="text-align: justify;">
+    <b>Concept Overview:</b> Beyond AI: When software engineering workflow becomes an automaker’s edge  WardsAuto<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNZk1IcjZtd1htTnlCcmFNNTdLWElxWHVMWFI1VmFTRUNtbmlPSzYxSUN6Qi1vMWdJX0E0RFVEczFMd3FKUU1UWC1SWExGUlAtdGFFRE1GY1RaWFIxNUVzVHRrdWJPaUZoMzdSWWRVUDBPQWpJZmxOZWxFYzNuVGJVOW9FWThaWjBtNmxWVkVGcHJxMTYxVWx5WV9pY3UxZWFFbDNMdFJ1VHRqUEQ0cERlNw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>2️⃣ Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
     <b>Concept Overview:</b> Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library: Regeneration has changed reuse economics. A model pointed at a solid design system can produce most standard UI on demand, so paying to keep a canonical component package alive is much harder to justify than it used to be. Keep the design system, tokens, guidelines and tests central. They are what actually buy you consistency. By Daniel Curtis<br>
@@ -489,24 +500,13 @@
 </details>
 
 <details>
-  <summary><b>2️⃣ Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>3️⃣ AI Agents Are Disrupting Open Source Security Disclosure</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%: Uber has rebuilt major parts of the Uber Eats search pipeline, reporting a 50% reduction in end-to-end latency. Changes include Above-the-Fold measurement, reduced retrieval work, parallel hydration, advertising data redesign, infrastructure optimizations, and an agentic coding workflow. Uber is also exploring microbatching, product-based retrieval, and HTTP multipart streaming. By Leela Kumili<br>
-    <b>Implementation Use Case:</b> Applying Uber tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>3️⃣ BU Welcomes First Cohort to Its Online MS in Software Engineering for AI</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
-  <br>
-  <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> BU Welcomes First Cohort to Its Online MS in Software Engineering for AI  Boston University<br>
+    <b>Concept Overview:</b> AI Agents Are Disrupting Open Source Security Disclosure: A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of traditional disclosure embargoes in open source projects. The author highlights the need for faster patching and release processes as the time between vulnerability disclosure and exploitation shrinks. By Renato Losio<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTRMY1dldkNLaDhFTU1kRkp0QUJtNkRzcWpWYlBjalhoNEgwUWg3VFZzOUJfUmxKQlllM0VnSkktNkJBWXZwZFpNdTllQnI2LXJ0R3FIWWN4UUtKcjBxTmlXNU1uRWJuSElaa2lVYXNLSGhBaDRXb040Qm5QdjdOWWFhS243WE1fcjNfZnU1cVBfZVlDS2Z0TGZLaGJua3dWUEZQdTU3SnZlLUxpTlcw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/open-source-ai-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-06 20:02 UTC_
+_Last updated: 2026-10-06 23:44 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
