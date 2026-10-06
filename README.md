@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-510.96%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-511.02%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, has introduced Jev, a decision-making model that generates typed outputs rather than text. It evaluates inputs in parallel, providing results with probabilistic scores and confidence values. Jev's adoption has been swift, with integrations into platforms like Vercel and Netlify, highlighting its efficiency over traditional models. By Daniel Curtis<br>
+    <b>Concept Overview:</b> DigitalOcean recently launched DigitalOcean Managed Agents in public preview, offering a managed cloud infrastructure layer for AI agents with isolated microVM runtimes, governed tool access, and serverless AI inference. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Menlo Ventures Invests In Factory To Advance Autonomous Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ OpenAI DevDay 2026 Recap for Developers</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Menlo Ventures Invests In Factory To Advance Autonomous Software Engineering  Pulse 2.0<br>
-    <b>Implementation Use Case:</b> Applying Menlo tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNWW5zdFNwYm5YVF94aEo0eVh1Y3RYcjVENThPQS0yVlZmOEQ3NEdnTklrSUJkVFdXRTRyWDR4MWJUTmxGUEtwNzhXWXpaSU0xNGlIRUpMT3c1cDNQQU44eUQtZ0xCakJWQ2ItNmlQQ2NPcGVOak41V3BQZWhLT2xGOXlLWnFxeEp6NFI1MmRjZE1oTXRpMkYwYTZ1QXjSAaIBQVVfeXFMUEcycnBwbWFQYWk1NWpCSWtkOWVlWWVwWDdjZTVuV1Y2a1BpLWxJbzkxcEl0RzlzTWJNSk5XREZoV1R3MVV4SUlHWnZBcnF6RkVZSDR0YjhKc3dCUzJrYWw1cGZ4eWY2Vm1WY3hXMkVLY0tyREJVY3hDbXpoSEVMenJjcTU3TWM3UFFSbFVteHlLa0ZYcEM2S3ozWEYzMUNmT0Rn?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> OpenAI DevDay 2026 Recap for Developers: OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/openai-devday-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Autoheal Raises $7.9M to Advance Self-Improving Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Autoheal Raises $7.9M to Advance Self-Improving Software Engineering  citybiz.co<br>
+    <b>Concept Overview:</b> Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps  Gartner<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0xfWDBYUlo4aWdqb0w1b3JSem95NTFIZ3AtSy1CUF82bFgzcUtWdG1oUUJIS2lQN1FPMmxnbEg1R3F2QThWUXI2ZlFqc0xBNUZhWWJmRVBaVWQyUU5YWTJwM2tkVkh0R3RUdkxhY2IybEZ0dXREZkw2dTVfREU4cFU5bWFPMXI4YXVPWl9CWU80T1lxOTBxdmstM0ZSeldrWE1GVVRCeE1vdw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWFiTTRfbGlUWjZnU3ZEbkZ1UklScHZ1LUF5ZXg1NGszTGh3V1I1amNDLXZpYVNBa0hhQkdlcEVhdTg5VndXUm54Y0ZGYlY2eHNNNFpuYWtvZXBTXzV3ZzZJNm82WEFxQVQtZUZHQWxXRjFUdFJqNVljSzlwRHFFZlRNUFZVTmhWYVFpWnpuX3hoUGZQaWJrRGdwNnd2eTVPT3A5MFpqeloyNG01QzR2MVJ6YnFjcWtpZHBVNlUzSG16WDNCYjQ2NXNSY3pldw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **397** | **346** | **1** |
+| **398** | **346** | **1** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-06 07:15 UTC_
+_Last updated: 2026-10-06 14:48 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
