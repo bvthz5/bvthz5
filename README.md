@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-511.07%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-511.08%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Article: Building a Session-Ordered Kafka Pipeline in Go</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>1️⃣ QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: Building a Session-Ordered Kafka Pipeline in Go: The article describes a custom implementation that provides a session-level ordering on top of Apache Kafka partitions, supporting strict message ordering across 1000s of independent channels. The solution required application-level routing, consistent hashing, retries, and contiguous watermark commits. Engineers conducted operational hardening supported by extensive performance testing. By Joshua Oluikpe<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/apache-kafka-golang-session-ordered-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale: A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, modern data platforms, high-performance engineering, and Staff+ leadership. By Artenisa Chatziou<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Presentation: Building GenAI Platform at DoorDash</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects: Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software porting. The experiment measured time, token use, code size, test parity, and performance, finding substantial variation across models, effort levels, and project types. By Leela Kumili<br>
+    <b>Concept Overview:</b> Presentation: Building GenAI Platform at DoorDash: Swaroop Chitlur and Sidd Kodwani share DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets, transitioning from vendor-first setups to open-weights models, navigating LLM and agent gateways, and balancing accuracy, latency, and cost for over 5,000 internal users. By Siddharth Kodwani, Swaroop Chitlur<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products: Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang<br>
+    <b>Concept Overview:</b> Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a Comprehension Gap: A survey conducted by independent research firm Coleman Parkes on behalf of Undo, a company focused on scaling AI-powered root-cause analysis, found that while AI coding agents have accelerated code generation, they have shifted the primary bottleneck to debugging, code comprehension, and maintenance. By Sergio De Simone<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/survey-complex-codebases-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-07 18:33 UTC_
+_Last updated: 2026-10-07 23:29 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
