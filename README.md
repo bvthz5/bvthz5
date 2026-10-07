@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Beyond AI: When software engineering workflow becomes an automaker’s edge</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Beyond AI: When software engineering workflow becomes an automaker’s edge  WardsAuto<br>
+    <b>Concept Overview:</b> Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps  Gartner<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNZk1IcjZtd1htTnlCcmFNNTdLWElxWHVMWFI1VmFTRUNtbmlPSzYxSUN6Qi1vMWdJX0E0RFVEczFMd3FKUU1UWC1SWExGUlAtdGFFRE1GY1RaWFIxNUVzVHRrdWJPaUZoMzdSWWRVUDBPQWpJZmxOZWxFYzNuVGJVOW9FWThaWjBtNmxWVkVGcHJxMTYxVWx5WV9pY3UxZWFFbDNMdFJ1VHRqUEQ0cERlNw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWFiTTRfbGlUWjZnU3ZEbkZ1UklScHZ1LUF5ZXg1NGszTGh3V1I1amNDLXZpYVNBa0hhQkdlcEVhdTg5VndXUm54Y0ZGYlY2eHNNNFpuYWtvZXBTXzV3ZzZJNm82WEFxQVQtZUZHQWxXRjFUdFJqNVljSzlwRHFFZlRNUFZVTmhWYVFpWnpuX3hoUGZQaWJrRGdwNnd2eTVPT3A5MFpqeloyNG01QzR2MVJ6YnFjcWtpZHBVNlUzSG16WDNCYjQ2NXNSY3pldw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
+  <summary><b>2️⃣ QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: From Reusable to Regeneratable: Rethinking the Shared UI Component Library: Regeneration has changed reuse economics. A model pointed at a solid design system can produce most standard UI on demand, so paying to keep a canonical component package alive is much harder to justify than it used to be. Keep the design system, tokens, guidelines and tests central. They are what actually buy you consistency. By Daniel Curtis<br>
-    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
-    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/regeneratable-ui-component-library/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale: A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, modern data platforms, high-performance engineering, and Staff+ leadership. By Artenisa Chatziou<br>
+    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
+    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ AI Agents Are Disrupting Open Source Security Disclosure</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI Agents Are Disrupting Open Source Security Disclosure: A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of traditional disclosure embargoes in open source projects. The author highlights the need for faster patching and release processes as the time between vulnerability disclosure and exploitation shrinks. By Renato Losio<br>
+    <b>Concept Overview:</b> Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe: This week's Java roundup for September 28th, 2026, features news highlighting: the GA releases of JobRunr 9.0 and OpenXava 8.0; point releases for Quarkus, Micronaut, LangChain4j, Eclipse JNoSQL; ADK for Java and ADK for Kotlin; and introducing Lathe, a new Java language server. By Michael Redlich<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/open-source-ai-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -523,7 +523,7 @@
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-06 23:44 UTC_
+_Last updated: 2026-10-07 04:46 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
