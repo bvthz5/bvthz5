@@ -171,7 +171,7 @@
             <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-511.06%20MB-green?style=plastic" alt="Storage Used Badge">
+            <img src="https://img.shields.io/badge/Storage%20Used-511.07%20MB-green?style=plastic" alt="Storage Used Badge">
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Cloudflare Uses an AI Harness to Probe and Harden Its WAF</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps  Gartner<br>
+    <b>Concept Overview:</b> Cloudflare placed frontier AI models inside a controlled testing harness to probe its Web Application Firewall (WAF), using blocked attacks as starting points for models to generate and refine new variations. By Matt Foster<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWFiTTRfbGlUWjZnU3ZEbkZ1UklScHZ1LUF5ZXg1NGszTGh3V1I1amNDLXZpYVNBa0hhQkdlcEVhdTg5VndXUm54Y0ZGYlY2eHNNNFpuYWtvZXBTXzV3ZzZJNm82WEFxQVQtZUZHQWxXRjFUdFJqNVljSzlwRHFFZlRNUFZVTmhWYVFpWnpuX3hoUGZQaWJrRGdwNnd2eTVPT3A5MFpqeloyNG01QzR2MVJ6YnFjcWtpZHBVNlUzSG16WDNCYjQ2NXNSY3pldw?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/cloudflare-sec-harness/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale: A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, modern data platforms, high-performance engineering, and Staff+ leadership. By Artenisa Chatziou<br>
+    <b>Concept Overview:</b> AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering  Konsulteer<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3FKR0h3S1l2N1NHbWNCY0hyWnBjR2FfWlJlSHJsNlFuY3gzOVpmZ08zN0JHdmdPS1o2WkRiM3dMSktKUkRqdjNSQWNwNUlkQVhUY2RLekhQdXY2d1hfdXZGa0pGZGRQc2xqanVnZVNBWU5qZDZ2QksxWTFYRl8yME9zdUlvN2NQZGxucVI5MXMyNlA1Y2ZmSHl4QlV2d0xtaU01R1ZOZGpNZ203djFjandCUVVDak5wVXc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Article: The Platform Engineering Playbook for Production LLMs</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe: This week's Java roundup for September 28th, 2026, features news highlighting: the GA releases of JobRunr 9.0 and OpenXava 8.0; point releases for Quarkus, Micronaut, LangChain4j, Eclipse JNoSQL; ADK for Java and ADK for Kotlin; and introducing Lathe, a new Java language server. By Michael Redlich<br>
+    <b>Concept Overview:</b> Article: The Platform Engineering Playbook for Production LLMs: In this article, author discusses his experience with AI agent hallucinations in an inventory recommendation system and how this problem was solved by treating the LLM stack as a platform infrastructure concern instead of as an application one. He makes a case for a shared LLM platform with common services like prompt registry & versioning, schema enforcement and token cost attribution by request. By Aditya Mulik<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,17 +519,17 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **397** | **345** | **1** |
+| **396** | **345** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-07 04:46 UTC_
+_Last updated: 2026-10-07 11:34 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) |   |   |   |   |
+| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/127842873?v=4" width="50" style="border-radius: 50%;" alt="centxyz"/><br><sub>**centxyz**</sub>](https://github.com/centxyz) |   |   |   |
 
-**Total: 1**
+**Total: 2**
 
 <!-- END:NOT_FOLLOWING_BACK -->
 

@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Gemini Enterprise Pricing Changes Push Software</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Engineering Leaders to Co-Own AI FinOps</text>
+    <text x="50" y="85" class="title-text">Cloudflare Uses an AI Harness to Probe and</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Harden Its WAF</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Gemini Enterprise Pricing Changes Push Software Engineering Leaders to Co-Own AI FinOps</text>
-    <text x="50" y="187" class="body-text">Gartner</text>
+    <text x="50" y="170" class="body-text">Cloudflare placed frontier AI models inside a controlled testing harness to probe its Web</text>
+    <text x="50" y="187" class="body-text">Application Firewall (WAF), using blocked attacks as starting points for models to generate ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">QCon London 2027 Announces 15 Tracks on</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production AI, Architecture, and Engineering at...</text>
+    <text x="50" y="85" class="title-text">AMD Launches Ross Agentic AI to Automate</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Embedded Hardware and Software Engineering</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale:</text>
-    <text x="50" y="187" class="body-text">A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails...</text>
+    <text x="50" y="170" class="body-text">AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering  Konsulteer</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Java News Roundup: JobRunr 9, OpenXava 8,</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Quarkus, LangChain4j, JNoSQL, Introducing Lathe</text>
+    <text x="50" y="85" class="title-text">Article: The Platform Engineering Playbook for</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production LLMs</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe: This</text>
-    <text x="50" y="187" class="body-text">week&apos;s Java roundup for September 28th, 2026, features news highlighting: the GA releases of...</text>
+    <text x="50" y="170" class="body-text">Article: The Platform Engineering Playbook for Production LLMs: In this article, author</text>
+    <text x="50" y="187" class="body-text">discusses his experience with AI agent hallucinations in an inventory recommendation system ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
