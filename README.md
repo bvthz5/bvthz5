@@ -478,35 +478,35 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ Cloudflare Uses an AI Harness to Probe and Harden Its WAF</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Article: Building a Session-Ordered Kafka Pipeline in Go</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Cloudflare placed frontier AI models inside a controlled testing harness to probe its Web Application Firewall (WAF), using blocked attacks as starting points for models to generate and refine new variations. By Matt Foster<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/cloudflare-sec-harness/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Article: Building a Session-Ordered Kafka Pipeline in Go: The article describes a custom implementation that provides a session-level ordering on top of Apache Kafka partitions, supporting strict message ordering across 1000s of independent channels. The solution required application-level routing, consistent hashing, retries, and contiguous watermark commits. Engineers conducted operational hardening supported by extensive performance testing. By Joshua Oluikpe<br>
+    <b>Implementation Use Case:</b> Applying Article: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/articles/apache-kafka-golang-session-ordered-pipeline/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering  Konsulteer<br>
+    <b>Concept Overview:</b> Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects: Akka used 65 open-source projects to examine how specification structure, context, model selection, automated validation, and delivery guardrails affect AI assisted software porting. The experiment measured time, token use, code size, test parity, and performance, finding substantial variation across models, effort levels, and project types. By Leela Kumili<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3FKR0h3S1l2N1NHbWNCY0hyWnBjR2FfWlJlSHJsNlFuY3gzOVpmZ08zN0JHdmdPS1o2WkRiM3dMSktKUkRqdjNSQWNwNUlkQVhUY2RLekhQdXY2d1hfdXZGa0pGZGRQc2xqanVnZVNBWU5qZDZ2QksxWTFYRl8yME9zdUlvN2NQZGxucVI5MXMyNlA1Y2ZmSHl4QlV2d0xtaU01R1ZOZGpNZ203djFjandCUVVDak5wVXc?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Article: The Platform Engineering Playbook for Production LLMs</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Article: The Platform Engineering Playbook for Production LLMs: In this article, author discusses his experience with AI agent hallucinations in an inventory recommendation system and how this problem was solved by treating the LLM stack as a platform infrastructure concern instead of as an application one. He makes a case for a shared LLM platform with common services like prompt registry & versioning, schema enforcement and token cost attribution by request. By Aditya Mulik<br>
+    <b>Concept Overview:</b> Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products: Susan Chang explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, production-grade framework. She discusses balancing LLM-as-a-judge with deterministic rules, bridging Python data science evals with TypeScript production code, and implementing deep tracing to catch regressions across complex RAG and cybersecurity workloads while preserving domain context. By Susan Chang<br>
     <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
     <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <br>🔗 <a href="https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
@@ -519,11 +519,11 @@
 
 | 👥 Followers | 👤 Following | 🚫 Not Following Back |
 |:---:|:---:|:---:|
-| **396** | **345** | **2** |
+| **398** | **345** | **2** |
 
 ## 👀 People I Follow Who Don't Follow Me Back
 
-_Last updated: 2026-10-07 11:34 UTC_
+_Last updated: 2026-10-07 18:33 UTC_
 
 |   |   |   |   |   |
 | :---: | :---: | :---: | :---: | :---: |

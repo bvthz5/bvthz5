@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Cloudflare Uses an AI Harness to Probe and</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Harden Its WAF</text>
+    <text x="50" y="85" class="title-text">Article: Building a Session-Ordered Kafka</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Pipeline in Go</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Cloudflare placed frontier AI models inside a controlled testing harness to probe its Web</text>
-    <text x="50" y="187" class="body-text">Application Firewall (WAF), using blocked attacks as starting points for models to generate ...</text>
+    <text x="50" y="170" class="body-text">Article: Building a Session-Ordered Kafka Pipeline in Go: The article describes a custom</text>
+    <text x="50" y="187" class="body-text">implementation that provides a session-level ordering on top of Apache Kafka partitions, sup...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Article: tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">AMD Launches Ross Agentic AI to Automate</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Embedded Hardware and Software Engineering</text>
+    <text x="50" y="85" class="title-text">Akka Tests Spec-Driven AI Delivery across 65</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Open Source Projects</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AMD Launches Ross Agentic AI to Automate Embedded Hardware and Software Engineering  Konsulteer</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects: Akka used 65 open-source</text>
+    <text x="50" y="187" class="body-text">projects to examine how specification structure, context, model selection, automated validat...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Article: The Platform Engineering Playbook for</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production LLMs</text>
+    <text x="50" y="85" class="title-text">Presentation: Building Reusable Evaluation</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Frameworks for Agentic AI Products</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Article: The Platform Engineering Playbook for Production LLMs: In this article, author</text>
-    <text x="50" y="187" class="body-text">discusses his experience with AI agent hallucinations in an inventory recommendation system ...</text>
+    <text x="50" y="170" class="body-text">Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products: Susan Chang</text>
+    <text x="50" y="187" class="body-text">explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, pro...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
