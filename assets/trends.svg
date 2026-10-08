@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">QCon London 2027 Announces 15 Tracks on</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production AI, Architecture, and Engineering at...</text>
+    <text x="50" y="85" class="title-text">Istio 1.31 Adds Agentgateway Waypoints and Moves</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Release Artifacts off Google Cloud</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale:</text>
-    <text x="50" y="187" class="body-text">A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails...</text>
+    <text x="50" y="170" class="body-text">Istio 1.31 adds agentgateway waypoints in ambient mode, with a canary configuration fix</text>
+    <text x="50" y="187" class="body-text">included in 1.31.1. It also ends the publication of images and Helm charts to Google Cloud, ...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: Building GenAI Platform at</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">DoorDash</text>
+    <text x="50" y="85" class="title-text">Akka Tests Spec-Driven AI Delivery across 65</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Open Source Projects</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: Building GenAI Platform at DoorDash: Swaroop Chitlur and Sidd Kodwani share</text>
-    <text x="50" y="187" class="body-text">DoorDash’s journey building an internal GenAI platform. They discuss core architectural bets...</text>
+    <text x="50" y="170" class="body-text">Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects: Akka used 65 open-source</text>
+    <text x="50" y="187" class="body-text">projects to examine how specification structure, context, model selection, automated validat...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Survey Finds AI-Generated Code Increases</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Debugging and Failure Rates and Creates a Compr...</text>
+    <text x="50" y="85" class="title-text">Java News Roundup: JobRunr 9, OpenXava 8,</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Quarkus, LangChain4j, JNoSQL, Introducing Lathe</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Survey Finds AI-Generated Code Increases Debugging and Failure Rates and Creates a</text>
-    <text x="50" y="187" class="body-text">Comprehension Gap: A survey conducted by independent research firm Coleman Parkes on behalf ...</text>
+    <text x="50" y="170" class="body-text">Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe: This</text>
+    <text x="50" y="187" class="body-text">week&apos;s Java roundup for September 28th, 2026, features news highlighting: the GA releases of...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
