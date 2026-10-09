@@ -69,14 +69,14 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">Presentation: Building Reusable Evaluation</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Frameworks for Agentic AI Products</text>
+    <text x="50" y="85" class="title-text">QCon London 2027 Announces 15 Tracks on</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production AI, Architecture, and Engineering at...</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products: Susan Chang</text>
-    <text x="50" y="187" class="body-text">explains how Elastic transitioned from siloed, ad-hoc AI agent evaluations to a unified, pro...</text>
+    <text x="50" y="170" class="body-text">QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale:</text>
+    <text x="50" y="187" class="body-text">A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -91,14 +91,14 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">Loop Engineering Emerges as Developers Put AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Coding Agents on Repeat</text>
+    <text x="50" y="85" class="title-text">AI in Production: What Breaks, What Works, and</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Who Approves It?</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Loop Engineering Emerges as Developers Put AI Coding Agents on Repeat  ADTmag</text>
-    <text x="50" y="187" class="body-text"></text>
+    <text x="50" y="170" class="body-text">AI in Production: What Breaks, What Works, and Who Approves It?: On October 14, InfoQ hosts a</text>
+    <text x="50" y="187" class="body-text">free 60-minute panel with five practitioners on running AI in production. They&apos;ll discuss ag...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
@@ -113,14 +113,14 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">AI in Production: What Breaks, What Works, and</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Who Approves It?</text>
+    <text x="50" y="85" class="title-text">Pizza Bot: Open-Source Inbox for Background AI</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Agents</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI in Production: What Breaks, What Works, and Who Approves It?: On October 14, InfoQ hosts a</text>
-    <text x="50" y="187" class="body-text">free 60-minute panel with five practitioners on running AI in production. They&apos;ll discuss ag...</text>
+    <text x="50" y="170" class="body-text">Pizza Bot: Open-Source Inbox for Background AI Agents: A team of developers working at AWS</text>
+    <text x="50" y="187" class="body-text">recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tas...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
     <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
