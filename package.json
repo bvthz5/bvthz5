@@ -1,4 +1,11 @@
 {
+  "name": "bvthz5-profile",
+  "version": "1.0.0",
+  "description": "Professional GitHub Profile Readme & Dynamic Assets for Binil Vincent",
+  "scripts": {
+    "build:banner": "node build_banner.js",
+    "process:image": "node process_image.js"
+  },
   "dependencies": {
     "jimp": "^1.6.1"
   }

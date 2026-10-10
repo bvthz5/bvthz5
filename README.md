@@ -1,291 +1,73 @@
-## 👋 Welcome to My GitHub Profile
-
 <p align="center">
-  <img alt="GitHub Profile Banner" src="./dark.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Binil Vincent - DevOps & Software Engineer" src="./dark.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <!-- Profile Views -->
- <img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-
-  <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/bvthz5?label=Followers&style=flat&color=green" alt="GitHub Followers">
-
-  <!-- GitHub Contributions -->
-  <img src="https://badgen.net/github/contributors/bvthz5/bvthz5?color=red&label=Contributors" alt="GitHub Contributors">
-
-  <!-- GitHub Watchers -->
-  <img src="https://badgen.net/github/watchers/bvthz5/bvthz5?color=purple&label=Watchers" alt="GitHub Watchers">
-
-  <!-- GitHub Issues -->
-  <img src="https://badgen.net/github/open-issues/bvthz5/bvthz5?color=blueviolet&label=Issues" alt="GitHub Issues">
-
-  <!-- GitHub Pull Requests -->
-  <img src="https://badgen.net/github/prs/bvthz5/bvthz5?color=grey&label=Pull%20Requests" alt="GitHub Pull Requests">
-
-  <!-- GitHub Stars -->
-  <img src="https://badgen.net/github/stars/bvthz5/bvthz5?color=gold&label=Total%20Stars" alt="Total GitHub Stars">
-
-  <!-- GitHub Forks -->
-  <img src="https://badgen.net/github/forks/bvthz5/bvthz5?color=orange&label=Forks" alt="GitHub Forks">
-
-</p>
-
-<!-- Portfolio Badge -->
-<p align="center">
-  <a href="https://bvthz5.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8A2BE2" alt="Portfolio Badge">
-  </a>
-</p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=26&center=true&vCenter=true&width=900&lines=🚀+Intergalactic+Neural+Networks+Online...;🛸+Decoding+Alien+Signals+from+Deep+Space...;🌊+Harnessing+Bioluminescent+Tech+from+Oceanic+Depths...;⚛️+Quantum+Linking+with+Future+Civilizations...;🔮+Rewriting+Reality+at+Lightspeed...;">
+  <a href="https://github.com/bvthz5"><img src="https://img.shields.io/github/followers/bvthz5?label=Followers&style=flat-square&color=22D3EE&logo=github&logoColor=white" alt="Followers" /></a>&nbsp;
+  <a href="https://github.com/bvthz5"><img src="https://img.shields.io/github/stars/bvthz5?label=Stars&style=flat-square&color=818CF8&logo=apachespark&logoColor=white" alt="Stars" /></a>&nbsp;
+  <a href="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=10B981&style=flat-square" target="_blank"><img src="https://komarev.com/ghpvc/?username=bvthz5&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" /></a>&nbsp;
+  <a href="https://bvthz5.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-<p align="center">
- <img src="./gif/intro.gif" width="500" height="300">
-</p>
+### 👨‍💻 Profile Overview
+
+I am a **DevOps Engineer & Software Engineer** specializing in automated cloud infrastructure, container orchestration, robust CI/CD automation, and high-performance backend systems. I design resilient production architectures across AWS and Azure and develop scalable services with .NET Core, Python, and Node.js.
+
+- 🎓 **Education**: **Master of Computer Applications (MCA)** & **Bachelor of Computer Applications (BCA)**.
+- ⚙️ **Core Specification**: Cloud Infrastructure, Kubernetes Orchestration, CI/CD Automation & Full-Stack Engineering.
+- 📍 **Location**: Kerala, India.
+- 💼 **Primary Focus**: Automating cloud environments, streamlining continuous delivery, and full-stack system architecture.
 
 ---
 
+### 🛠️ Technical Expertise & Tooling
 
-## 🚀 About Me
+<div align="left">
 
-<p align="center">
-  <img src="./gif/name.gif" width="500" height="300">
+#### ☁️ DevOps, Cloud & Observability *(Primary Specialization)*
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-22D3EE?style=flat-square&logo=githubactions&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netdata-00AB44?style=flat-square&logo=netdata&logoColor=white" />
 </p>
 
-<table style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: white; text-align: left; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 10px; vertical-align: middle; color: white;">
-      <p style="margin: 5px 0;">🎓 <span style="color: white;">I’m currently a</span> <span style="color: #FFD700;">Developer &amp; Lifelong Student of Technology</span>, <span style="color: white;">always eager to learn and grow!</span></p>
-      <p style="margin: 5px 0;">🌱 <span style="color: white;">I’m currently learning</span> <span style="color: #00FF7F;">Blockchain, DevOps, and AI</span>.</p>
-      <p style="margin: 5px 0;">💡 <span style="color: white;">I enjoy</span> <span style="color: #1E90FF;">solving real-world problems</span> <span style="color: white;">through technology.</span></p>
-      <p style="margin: 5px 0;">⚡ <span style="color: white;">Fun fact: I love designing</span> <span style="color: #FF4500;">futuristic worlds</span> <span style="color: white;">and storytelling through animation.</span></p>
-    </td>
-    <td style="padding: 10px; text-align: center; vertical-align: middle;">
-      <img height="150" width="250" alt="image" src="./gif/coder.gif" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);" />
-    </td>
-  </tr>
-</table>
+#### 💻 Software Engineering & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+#### 💾 Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bvthz5&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvthz5&theme=radical" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bvthz5&theme=radical" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bvthz5&bg_color=141414&color=7C3AED&line=22D3EE&point=10B981&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
-</p>
-
----
-
-### 📊 Languages Used
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bvthz5&layout=compact&theme=radical">
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="assets/snake.svg" width="700" height="300">
-</p>
-
----
-
-## 🦖 Contribution Dino Grid
-
-<p align="center">
-  <img src="assets/dino.svg" width="700" height="300">
-</p>
-
----
-
-## 📅 Commit Breakdown
-
-<table>
-  <tr>
-    <th>Time of Day</th>
-    <th>Commits</th>
-    <th>Percentage</th>
-    <th>Progress</th>
-  </tr>
-  <tr>
-    <td>🌞 <b>Morning</b></td>
-    <td><b>766</b></td>
-    <td><b>16.51%</b></td>
-    <td>█████░░░░░░░░ (16%)</td>
-  </tr>
-  <tr>
-    <td>🌤 <b>Daytime</b></td>
-    <td><b>1,865</b></td>
-    <td><b>40.19%</b></td>
-    <td>███████████░░░░ (40%)</td>
-  </tr>
-  <tr>
-    <td>🌙 <b>Evening</b></td>
-    <td><b>1,375</b></td>
-    <td><b>29.63%</b></td>
-    <td>█████████░░░░░░ (30%)</td>
-  </tr>
-  <tr>
-    <td>🌑 <b>Night</b></td>
-    <td><b>634</b></td>
-    <td><b>13.66%</b></td>
-    <td>███░░░░░░░░░░░ (14%)</td>
-  </tr>
-</table>
-
-<h3>🔥 Total Commits: <b>4,640</b> 🚀</h3>
-
----
-
-<!-- START:MY_GITHUB_DATA -->
-## 📦 My GitHub Data
-
-<table align="center" border="1" cellspacing="0" cellpadding="10">
-    <tr>
-        <th>🏆 GitHub Achievements</th>
-        <th>📂 Storage Used</th>
-        <th>🔓 Public Repositories</th>
-        <th>🔒 Private Repositories</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Achievements-06-orange?style=plastic" alt="GitHub Achievements Badge">
-        </td>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Storage%20Used-511.12%20MB-green?style=plastic" alt="Storage Used Badge">
-        </td>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=plastic" alt="Public Repos Badge">
-        </td>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Private%20Repos-05-red?style=plastic" alt="Private Repos Badge">
-        </td>
-    </tr>
-</table>
-<!-- END:MY_GITHUB_DATA -->
-
----
-
-## 🚀 WakaTime Stats  
-
-<p align="center">
-  <a href="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc"
-     style="
-     display: inline-block;
-     padding: 12px 24px;
-     background: rgba(0, 255, 255, 0.15);
-     border: 2px solid cyan;
-     border-radius: 12px;
-     box-shadow: 0px 0px 20px cyan;
-     text-align: center;
-     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-     animation: glow 1.5s infinite alternate;">
-    <img src="https://wakatime.com/badge/user/5342ea2a-28f3-46e3-8079-a17bc98580d4/project/9f9877d6-8b05-4a57-8095-18c21e10bdcc.svg"
-         style="filter: drop-shadow(0px 0px 10px cyan);" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=bvthaz&theme=radical"
-       alt="WakaTime Stats"
-       style="border-radius: 12px; box-shadow: 0px 0px 15px cyan;">
-</p>
-
----
-
-## 🌐 Developer Profiles
-
-<h4 align="center">🏆 Competitive Programming & Coding Challenges</h4>
-
-<p align="center">
-  <a href="https://leetcode.com/u/thothaz/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/binilvincent80"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a>&nbsp;
-  <a href="https://www.hackerearth.com/@Bvtom/"><img src="https://img.shields.io/badge/-HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/Bvthz"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/bvthz5"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codewars.com/users/bvthz5"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" /></a>&nbsp;
-  <a href="https://www.spoj.com/users/bvthz"><img src="https://img.shields.io/badge/-SPOJ-1E90FF?style=flat-square&logo=sphere-online-judge&logoColor=white" /></a>&nbsp;
-  <a href="https://www.codingame.com/profile/524762e26f3860fb7fdd40741fa651617910196"><img src="https://img.shields.io/badge/-CodinGame-F2BB13?style=flat-square&logo=codingame&logoColor=white" /></a>&nbsp;
-  <a href="https://www.naukri.com/code360/profile/9821d669-c852-43b1-8b7d-ab9b111f1b70"><img src="https://img.shields.io/badge/-Code360-F28D1A?style=flat-square&logo=codingninjas&logoColor=white" /></a>&nbsp;
-  <a href="https://open.kattis.com/users/bvthz"><img src="https://img.shields.io/badge/-Kattis-000000?style=flat-square&logo=kattis&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🛡️ Cybersecurity & CTF</h4>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/BV05"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>&nbsp;
-  <a href="https://app.hackthebox.com/profile/bvthz"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=white" /></a>&nbsp;
-  <a href="https://www.root-me.org/Binil-Vincent?lang=en"><img src="https://img.shields.io/badge/-Root%20Me-000000?style=flat-square&logo=rootme&logoColor=white" /></a>&nbsp;
-  <a href="https://learn.cylabacademy.org/users/Bvthazzzzzzzzzzzzzzzzz"><img src="https://img.shields.io/badge/-CyLab%20Academy-C41E3A?style=flat-square&logo=shield&logoColor=white" /></a>
-</p>
-
-<h4 align="center">☁️ Cloud & Enterprise</h4>
-
-<p align="center">
-  <a href="https://me.developers.google.com/u/108841439837843973335"><img src="https://img.shields.io/badge/-Google%20Dev%20Program-4285F4?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles"><img src="https://img.shields.io/badge/-Google%20Skills%20Boost-FBBC04?style=flat-square&logo=googlecloud&logoColor=white" /></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/binilvincent-9244/"><img src="https://img.shields.io/badge/-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></a>&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/profile/zhvao1zemekwbhsyx8"><img src="https://img.shields.io/badge/-Salesforce%20Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🎨 Frontend & Design</h4>
-
-<p align="center">
-  <a href="https://www.frontendmentor.io/profile/bvthz5"><img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white" /></a>&nbsp;
-  <a href="https://cssbattle.dev/player/bvthz"><img src="https://img.shields.io/badge/-CSSBattle-FFDF00?style=flat-square&logo=css3&logoColor=white" /></a>
-</p>
-
-<h4 align="center">📊 Data Science & ML</h4>
-
-<p align="center">
-  <a href="https://kaggle.com/binilvincent"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🔗 Web3 & Blockchain</h4>
-
-<p align="center">
-  <a href="https://learnweb3.io/u/TenuousFisherman/"><img src="https://img.shields.io/badge/-LearnWeb3-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" /></a>&nbsp;
-  <a href="https://speedrunethereum.com/builders/0x9Ea388a07B25dc2E8618a8413346A4962C75d2c8"><img src="https://img.shields.io/badge/-SpeedRun%20Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white" /></a>
-</p>
-
-<h4 align="center">📚 Learning Platforms</h4>
-
-<p align="center">
-  <a href="https://freecodecamp.org/bvthz5"><img src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /></a>&nbsp;
-  <a href="https://www.w3profile.com/bvthaz"><img src="https://img.shields.io/badge/-W3Schools-04AA6D?style=flat-square&logo=w3schools&logoColor=white" /></a>&nbsp;
-  <a href="https://exercism.org/profiles/bvthz5"><img src="https://img.shields.io/badge/-Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white" /></a>&nbsp;
-  <a href="https://codedex.io/@binilvincent801772"><img src="https://img.shields.io/badge/-Codédex-6366F1?style=flat-square&logo=codio&logoColor=white" /></a>&nbsp;
-  <a href="https://coddy.tech/user/bvthz"><img src="https://img.shields.io/badge/-Coddy-FF6B6B?style=flat-square&logo=codecademy&logoColor=white" /></a>&nbsp;
-  <a href="https://edabit.com/user/nEJ6x8FovsKAp366v"><img src="https://img.shields.io/badge/-Edabit-38B000?style=flat-square&logo=edx&logoColor=white" /></a>
-</p>
-
-<h4 align="center">🧩 Coding Practice</h4>
-
-<p align="center">
-  <a href="https://www.interviewbit.com/"><img src="https://img.shields.io/badge/-InterviewBit-87CEEB?style=flat-square&logo=interviewbit&logoColor=white" /></a>
-</p>
-
----
-## 📚 Publications & Research
+### 📚 Research & Publication
 
 <table width="100%">
   <tr>
@@ -294,10 +76,11 @@
         <h3>🧠 EEG-based Brain-Computer Interface (BCI) for Unmanned Aerial Vehicle (UAV) Control</h3>
         <p><strong>Published in:</strong> <i>Global Perspectives on AI and Sustainable Development 2.0 (GPAISD 2.0)</i></p>
         <p>
-          <img src="https://img.shields.io/badge/Publication-Research%20Paper-blueviolet?style=flat-square" alt="Research Paper Badge">
-          <img src="https://img.shields.io/badge/Topic-EEG--based%20BCI%20for%20UAV%20Control-blue?style=flat-square" alt="Topic Badge">
-          <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-success?style=flat-square" alt="Domain Badge">
+          <img src="https://img.shields.io/badge/Publication-Research%20Paper-818CF8?style=flat-square" alt="Research Paper Badge">
+          <img src="https://img.shields.io/badge/Domain-Neurotechnology%20%26%20AI-22D3EE?style=flat-square" alt="Domain Badge">
+          <img src="https://img.shields.io/badge/Application-Autonomous%20Systems-10B981?style=flat-square" alt="Application Badge">
         </p>
+        <p>Investigation of direct neural telemetry and real-time EEG signal processing algorithms for navigational command of autonomous drone systems.</p>
       </div>
     </td>
   </tr>
@@ -305,167 +88,54 @@
 
 ---
 
-## 📜 Certifications & Hackathons
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=bvthz5&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvthz5&theme=radical&hide_border=true&background=030712&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" height="155" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bvthz5&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="assets/snake.svg" width="85%" alt="Contribution Snake Animation" />
+</p>
+
+<!-- START:MY_GITHUB_DATA -->
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+    <tr align="center">
+        <td><img src="https://img.shields.io/badge/Achievements-06-818CF8?style=flat-square&logo=github" alt="Achievements" /></td>
+        <td><img src="https://img.shields.io/badge/Storage%20Used-511.12%20MB-10B981?style=flat-square" alt="Storage Used" /></td>
+        <td><img src="https://img.shields.io/badge/Public%20Repos-22-38BDF8?style=flat-square" alt="Public Repos" /></td>
+        <td><img src="https://img.shields.io/badge/Private%20Repos-05-64748B?style=flat-square" alt="Private Repos" /></td>
+    </tr>
+</table>
+<!-- END:MY_GITHUB_DATA -->
+
+---
+
+### 📜 Certifications & Credentials
 
 <table width="100%">
   <tr align="center">
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/n8n-Certified%20Automation-FF6F59?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Claude%20Code-In%20Action-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/NASA%20Space%20Apps-Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Badge" />
-    </td>
+    <td width="25%"><img src="https://img.shields.io/badge/Red%20Hat-Academy%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/n8n-Certified%20Automation-FF6F59?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/Anthropic-Claude%20Certified-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Badge" /></td>
   </tr>
   <tr align="center">
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Build%20With%20India-Hackathon-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Build With India Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/HashItUp-24--Hr%20National%20Hackathon-121212?style=for-the-badge&logo=probot&logoColor=white" alt="HashItUp Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Red%20Hat-Academy%20%26%20IPSR-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Badge" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/NPTEL-Industry%204.0%20%26%20IIoT-005A9C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="NPTEL Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Tableau-Intro%20Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Claude%20101-Anthropic%20Certified-E8DCC4?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=333333" alt="Claude 101 Badge" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Claude%20Code%20101-Anthropic%20Certified-7A8A66?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=333333" alt="Claude Code 101 Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Claude%20Cowork-Intro%20Certified-CACDDA?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=333333" alt="Claude Cowork Badge" />
-    </td>
-    <td width="33.3%">
-      <img src="https://img.shields.io/badge/Status-Active%20Learning%20Mode-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" alt="Active Status Badge" />
-    </td>
+    <td width="25%"><img src="https://img.shields.io/badge/Build%20With%20India-Hackathon-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Build With India Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/NPTEL-IIoT%20%26%20Industry%204.0-005A9C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="NPTEL Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/Tableau-Analytics%20Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge" /></td>
+    <td width="25%"><img src="https://img.shields.io/badge/HashItUp-National%20Hackathon-121212?style=for-the-badge&logo=probot&logoColor=white" alt="HashItUp Badge" /></td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Skills & Tools
-
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
-
-### 🧠 AI / ML & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-### 💾 Databases & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6F59?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUnit-22B573?style=for-the-badge&logo=nunit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-</p>
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" class="holo-badge" />
-  </a>
-  <a href="https://www.instagram.com/b__nil___thaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" class="holo-badge" />
-  </a>
-  <a href="https://youtube.com/@treasuretoons-5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" class="holo-badge" />
-  </a>
-  <a href="https://discord.gg/rVdFFxfG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" class="holo-badge" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-![](https://github-trophies.devomb.com/?username=bvthz5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/binilvincent5" target="_blank">
-    <img src="https://spotify-now-playing-widget.vercel.app/api/now-playing?theme=dark&scan=true&rainbow=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 🎭 Fun Animation
-
-<p align="center">
-  <img src="./gif/bird.gif" width="500" height="300">
-</p>
-
----
-
-## 🎯 Current Focus & Learning Path
+### 🎯 Tech Trends & Industry Watch
 
 <!-- START_TRENDS -->
 <p align="center">
@@ -478,81 +148,63 @@
 </p>
 
 <details>
-  <summary><b>1️⃣ QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>1️⃣ Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale: A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails, AI-era architecture, distributed-system debugging, modern data platforms, high-performance engineering, and Staff+ leadership. By Artenisa Chatziou<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale: Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across 38M events/sec. They discuss replacing reactive monitoring with an AI-driven operational ontology and agentic workflows using Claude and graph databases. They explain how unifying MELT telemetry into queryable knowledge graphs enables automated triaging, root-cause analysis, and self-healing systems. By Prasanna Vijayanathan, Renzo Sanchez-Silva<br>
+    <b>Implementation Use Case:</b> Applying Presentation: tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>2️⃣ AI in Production: What Breaks, What Works, and Who Approves It?</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>2️⃣ Grab Redesigns Counter Service Storage for 50% Lower P99 Latency</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> AI in Production: What Breaks, What Works, and Who Approves It?: On October 14, InfoQ hosts a free 60-minute panel with five practitioners on running AI in production. They'll discuss agent autonomy and human approval, how to verify AI-generated changes, sensitive-data exposure, and production RAG. Registrants can submit questions and will receive the recording. By Artenisa Chatziou<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/infoq-ai-webinar/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Grab Redesigns Counter Service Storage for 50% Lower P99 Latency: Grab migrated its high-volume Counter Service from a wide column database to Aerospike using storage abstraction, shadow traffic, data parity validation, and gradual traffic migration. The redesigned data model consolidated time buckets into map-based records. Grab reports about 50% lower production p99 read latency, 1 TB versus 3 TB of disk usage, and 45% to 50% lower cost per node. By Leela Kumili<br>
+    <b>Implementation Use Case:</b> Applying Grab tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://www.infoq.com/news/2026/10/grab-counter-aerospike-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Architecture+%26+Design" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>3️⃣ Pizza Bot: Open-Source Inbox for Background AI Agents</b> &nbsp;|&nbsp; 🏷️ <i>Artificial Intelligence</i></summary>
+  <summary><b>3️⃣ Margaret Hamilton, the woman who invented software engineering, has died</b> &nbsp;|&nbsp; 🏷️ <i>Emerging Tech</i></summary>
   <br>
   <blockquote style="text-align: justify;">
-    <b>Concept Overview:</b> Pizza Bot: Open-Source Inbox for Background AI Agents: A team of developers working at AWS recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tasks in the background and return results through an inbox-style interface. Agents can perform scheduled or webhook-triggered work, delegate tasks to specialized workers, and pause for human approval when needed. By Renato Losio<br>
-    <b>Implementation Use Case:</b> Coordinating autonomous agent frameworks and context-aware systems.<br>
-    <b>Strategic Value:</b> Reduces manual process complexity and automates multi-step pipelines.<br>
-    <br>🔗 <a href="https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering" target="_blank"><b>Read the full article on the market trends page</b></a>
+    <b>Concept Overview:</b> Margaret Hamilton, the woman who invented software engineering, has died  WQAD<br>
+    <b>Implementation Use Case:</b> Applying Margaret tools to modern development pipelines.<br>
+    <b>Strategic Value:</b> Boosts system efficiency using new engineering frameworks.<br>
+    <br>🔗 <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmNiMlAyWEhfV1JZWHgxOXNWNUxHNHpLcGZBQ2hqN1dPak1oLV9qRFZCUklTZEotOTBHSzlOMFBZRktsbV9jaEttUHBab2cxNldDNDJheEdmb3hUdXBJOEpib1RBdkNKMHVCWWhDX05icE0wanNUNnA0dGUycjN6aVVMaWhqa2daeHZYZ2RqRWgtLWVDYVltYlMzYy1kTEp4QUJsRVRHZXZWY0N5MDgzNVlpdGtoUWhRRWkyZGt3MFBSdVgteWRMYWQxOEV3TzVUOWg0QlpaZG1kZnBfY3kzbzhPaGVuVm8?oc=5" target="_blank"><b>Read the full article on the market trends page</b></a>
   </blockquote>
 </details>
 <!-- END_TRENDS -->
 
----
-
 <!-- START:NOT_FOLLOWING_BACK -->
-
-## 📊 GitHub Follow Stats
-
-| 👥 Followers | 👤 Following | 🚫 Not Following Back |
-|:---:|:---:|:---:|
-| **400** | **345** | **2** |
-
-## 👀 People I Follow Who Don't Follow Me Back
-
-_Last updated: 2026-10-09 11:48 UTC_
-
-|   |   |   |   |   |
-| :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/184467107?v=4" width="50" style="border-radius: 50%;" alt="Antony-Raju"/><br><sub>**Antony-Raju**</sub>](https://github.com/Antony-Raju) | [<img src="https://avatars.githubusercontent.com/u/127842873?v=4" width="50" style="border-radius: 50%;" alt="centxyz"/><br><sub>**centxyz**</sub>](https://github.com/centxyz) |   |   |   |
-
-**Total: 2**
-
 <!-- END:NOT_FOLLOWING_BACK -->
 
 ---
 
-### 🚀 Extras
+### 📬 Connect & Collaborate
 
 <p align="center">
-  <strong>🔹 Interests : </strong> AI | Blockchain | Cybersecurity | Animation | Storytelling <br>
-  <strong>🎯 Hobbies : </strong> Coding | Writing | Exploring New Tech Trends | Gaming
+  <a href="https://www.linkedin.com/in/binil-vincent-b150aa187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://bvthz5.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/bvthz5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://discord.gg/rVdFFxfG" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-FFD700?style=for-the-badge&logo=smile&logoColor=black" />
-  <img src="https://img.shields.io/badge/Happy%20Coding!-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀%20Keep%20Exploring!-0077B5?style=for-the-badge&logo=rocket&logoColor=white" />
+  <a href="https://www.buymeacoffee.com/binilvincent5" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 </p>
-
----
-
-### ☕- Support 💸✨
-
-[![Buy Me a Dino](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+Dino&emoji=🦖&slug=binilvincent5&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/binilvincent5)
-
-
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>

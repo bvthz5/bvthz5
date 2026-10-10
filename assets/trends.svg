@@ -69,21 +69,21 @@
   <g class="slide-group slide-1" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">01 / 03</text>
-    <text x="50" y="85" class="title-text">QCon London 2027 Announces 15 Tracks on</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Production AI, Architecture, and Engineering at...</text>
+    <text x="50" y="85" class="title-text">Presentation: Ontology‐Driven Observability:</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Building the E2E Knowledge Graph at Netflix Scale</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">QCon London 2027 Announces 15 Tracks on Production AI, Architecture, and Engineering at Scale:</text>
-    <text x="50" y="187" class="body-text">A preview of the 15-track QCon London 2027 program, covering agent evaluation and guardrails...</text>
+    <text x="50" y="170" class="body-text">Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale:</text>
+    <text x="50" y="187" class="body-text">Prasanna Vijayanathan and Renzo Sanchez-Silva share how Netflix tackles observability across...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Presentation: tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -91,21 +91,21 @@
   <g class="slide-group slide-2" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">02 / 03</text>
-    <text x="50" y="85" class="title-text">AI in Production: What Breaks, What Works, and</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Who Approves It?</text>
+    <text x="50" y="85" class="title-text">Grab Redesigns Counter Service Storage for 50%</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Lower P99 Latency</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">AI in Production: What Breaks, What Works, and Who Approves It?: On October 14, InfoQ hosts a</text>
-    <text x="50" y="187" class="body-text">free 60-minute panel with five practitioners on running AI in production. They&apos;ll discuss ag...</text>
+    <text x="50" y="170" class="body-text">Grab Redesigns Counter Service Storage for 50% Lower P99 Latency: Grab migrated its high-volume</text>
+    <text x="50" y="187" class="body-text">Counter Service from a wide column database to Aerospike using storage abstraction, shadow t...</text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Grab tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
@@ -113,21 +113,21 @@
   <g class="slide-group slide-3" pointer-events="all">
     <text x="50" y="55" class="heading-label">Market Focus &amp; Trends</text>
     <text x="750" y="55" class="heading-label" text-anchor="end">03 / 03</text>
-    <text x="50" y="85" class="title-text">Pizza Bot: Open-Source Inbox for Background AI</text>
-    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">Agents</text>
+    <text x="50" y="85" class="title-text">Margaret Hamilton, the woman who invented</text>
+    <text x="50" y="108" class="title-text" font-size="18" opacity="0.8">software engineering, has died</text>
     
     <rect x="50" y="130" width="220" height="20" rx="10" fill="#312e81" stroke="#4f46e5" stroke-width="1" />
     <text x="160" y="145" class="badge-text" text-anchor="middle"></text>
     
-    <text x="50" y="170" class="body-text">Pizza Bot: Open-Source Inbox for Background AI Agents: A team of developers working at AWS</text>
-    <text x="50" y="187" class="body-text">recently open-sourced Pizza Bot, a self-hosted application designed to let AI agents run tas...</text>
+    <text x="50" y="170" class="body-text">Margaret Hamilton, the woman who invented software engineering, has died  WQAD</text>
+    <text x="50" y="187" class="body-text"></text>
     
     <text x="50" y="216" class="label-text">🛠️ Implementation Use Case:</text>
-    <text x="50" y="233" class="body-text">Coordinating autonomous agent frameworks and context-aware systems.</text>
+    <text x="50" y="233" class="body-text">Applying Margaret tools to modern development pipelines.</text>
     <text x="50" y="250" class="body-text"></text>
     
     <text x="50" y="280" class="label-text">📈 Strategic Value:</text>
-    <text x="50" y="297" class="body-text">Reduces manual process complexity and automates multi-step pipelines.</text>
+    <text x="50" y="297" class="body-text">Boosts system efficiency using new engineering frameworks.</text>
     <text x="50" y="314" class="body-text"></text>
   </g>
 
